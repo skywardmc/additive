@@ -2,7 +2,7 @@
   "main_menu": {
     "top_left": [],
     "top_right": [],
-    "bottom_left": [{"text":"Additive 1.0.2","clickEvent":{"action":"open_url","value":"https://modrinth.com/modpack/additive"}}],
+    "bottom_left": [{"text":"Additive 1.0.3","clickEvent":{"action":"open_url","value":"https://modrinth.com/modpack/additive"}}],
     "bottom_right": [],
     "mod_blacklist": []
   },

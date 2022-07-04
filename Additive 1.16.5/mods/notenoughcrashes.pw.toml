@@ -6,7 +6,6 @@ side = "both"
 url = "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.4+1.16.5-fabric/notenoughcrashes-4.1.4+1.16.5-fabric.jar"
 hash-format = "sha1"
 hash = "0884351e646459b887ccf745b2dc04bfb0541553"
-mode = ""
 
 [update]
 [update.modrinth]

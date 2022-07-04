@@ -1,8 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/cem.conf"
+hash = "c869b1e1cf73b7b0d5ca03e4657fdbed845d85ab5aca0449248fd144545ecfb7"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1a7c6924c35c983a9daeb1c154d3a1d3e60a8ac068fd64bd9ec66590f9c70ee3"
+hash = "3bed15516d0395f4552247b7b7562970a85b58be84811b3f31f49c6265810a9a"
 
 [[files]]
 file = "config/modmenu.json"

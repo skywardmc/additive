@@ -6,7 +6,6 @@ side = "both"
 url = "https://cdn.modrinth.com/data/hvFnDODi/versions/0.1.2/lazydfu-0.1.2.jar"
 hash-format = "sha1"
 hash = "2efec5781f1271bdcdae462eee402ccb97bff6fe"
-mode = ""
 
 [update]
 [update.modrinth]

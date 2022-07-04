@@ -6,7 +6,6 @@ side = "client"
 url = "https://cdn.modrinth.com/data/OVuFYfre/versions/0.7.1+1.18.2/enhancedblockentities-0.7.1%2B1.18.2.jar"
 hash-format = "sha1"
 hash = "e09988fed9394ec5858b81400ba96d2b8b8cab1a"
-mode = ""
 
 [update]
 [update.modrinth]

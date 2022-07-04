@@ -6,7 +6,6 @@ side = "client"
 url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/1.0.6+mc1.18.2/indium-1.0.6%2Bmc1.18.2.jar"
 hash-format = "sha1"
 hash = "057cdacd2d538c01594c5b4c140f452f5fac6ab2"
-mode = ""
 
 [update]
 [update.modrinth]

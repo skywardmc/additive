@@ -6,7 +6,6 @@ side = "both"
 url = "https://cdn.modrinth.com/data/uXXizFIs/versions/3.1.0/ferritecore-3.1.0-fabric.jar"
 hash-format = "sha1"
 hash = "33459a6f05597428405c398a9acf3f278e1d8806"
-mode = ""
 
 [update]
 [update.modrinth]

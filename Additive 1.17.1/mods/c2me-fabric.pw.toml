@@ -6,7 +6,6 @@ side = "both"
 url = "https://cdn.modrinth.com/data/VSNURh3q/versions/0/c2me-fabric-mc1.17.1-0.2.0+alpha.5.0-all.jar"
 hash-format = "sha1"
 hash = "394bcaa6abf6cf06b169279fa8d2e65ff3f3aa60"
-mode = ""
 
 [update]
 [update.modrinth]

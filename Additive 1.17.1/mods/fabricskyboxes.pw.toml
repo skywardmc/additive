@@ -6,7 +6,6 @@ side = "client"
 url = "https://cdn.modrinth.com/data/YBz7DOs8/versions/0.5.3/fabricskyboxes-1.17.1-0.5.3.jar"
 hash-format = "sha1"
 hash = "6d49d2e41cd8eb3ef7dec21e4c22655901fce7b7"
-mode = ""
 
 [update]
 [update.modrinth]

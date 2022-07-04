@@ -6,7 +6,6 @@ side = "both"
 url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/v0.3.5/memoryleakfix-1.18.2-0.3.5.jar"
 hash-format = "sha1"
 hash = "2c1cf24ceb8484277a832a4d547ae0f3359a9e09"
-mode = ""
 
 [update]
 [update.modrinth]

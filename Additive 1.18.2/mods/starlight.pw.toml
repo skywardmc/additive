@@ -6,7 +6,6 @@ side = "both"
 url = "https://cdn.modrinth.com/data/H8CaAYZC/versions/1.0.2+1.18.2/starlight-1.0.2+fabric.89b8d9f.jar"
 hash-format = "sha1"
 hash = "a436b72ee514bd2b59900159bcc4d461f96ef340"
-mode = ""
 
 [update]
 [update.modrinth]

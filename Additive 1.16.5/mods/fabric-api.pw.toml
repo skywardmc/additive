@@ -6,7 +6,6 @@ side = "both"
 url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/0.42.0+1.16/fabric-api-0.42.0+1.16.jar"
 hash-format = "sha1"
 hash = "54970c87bc1cf0bb93df57ec3a0b3bbb67c7ab0c"
-mode = ""
 
 [update]
 [update.modrinth]

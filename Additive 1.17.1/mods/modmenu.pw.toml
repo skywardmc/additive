@@ -6,7 +6,6 @@ side = "client"
 url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/2.0.15/modmenu-2.0.15.jar"
 hash-format = "sha1"
 hash = "fbd99bdf47b4b7936b155b341e5f5a13c943509e"
-mode = ""
 
 [update]
 [update.modrinth]

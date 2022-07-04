@@ -6,7 +6,6 @@ side = "client"
 url = "https://cdn.modrinth.com/data/yBW8D80W/versions/1.3.4+1.16/lambdynamiclights-fabric-1.3.4+1.16.jar"
 hash-format = "sha1"
 hash = "3fff986f77f6a9d8243e55048090b7cad4377de7"
-mode = ""
 
 [update]
 [update.modrinth]

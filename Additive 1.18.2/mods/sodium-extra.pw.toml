@@ -6,7 +6,6 @@ side = "client"
 url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18.2-0.4.5/sodium-extra-0.4.5%2Bmc1.18.2-build.42.jar"
 hash-format = "sha1"
 hash = "79b569df32a953362b9006de60a84c857692e364"
-mode = ""
 
 [update]
 [update.modrinth]

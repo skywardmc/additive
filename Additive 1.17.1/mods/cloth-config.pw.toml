@@ -6,7 +6,6 @@ side = "both"
 url = "https://cdn.modrinth.com/data/9s6osm5g/versions/5.3.63/cloth-config-fabric-5.3.63.jar"
 hash-format = "sha1"
 hash = "f58166f0b54a1692ad8a78fba807bfe3964aeef5"
-mode = ""
 
 [update]
 [update.modrinth]

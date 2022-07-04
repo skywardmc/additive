@@ -6,7 +6,6 @@ side = "client"
 url = "https://cdn.modrinth.com/data/HFlxNpln/versions/v1.17.1-3.0.4-fabric/moremcmeta-1.17.1-3.0.4-fabric.jar"
 hash-format = "sha1"
 hash = "1efde7b57f5ff7287dde510b79dcba4f17e2ced6"
-mode = ""
 
 [update]
 [update.modrinth]

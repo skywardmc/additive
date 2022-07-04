@@ -6,7 +6,6 @@ side = "client"
 url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/mc1.16.5-1.4.3/reeses_sodium_options-1.4.3%2Bmc1.16.5-build.40.jar"
 hash-format = "sha1"
 hash = "6906aaa778ee07b899b19218ef2d6363c1030f3e"
-mode = ""
 
 [update]
 [update.modrinth]
