@@ -1,5 +1,5 @@
 # Additive
-An optifine alternative, built atop of Adrenaline.
+Additive is an Optifine alternative modpack for Minecraft, built on my performance modpack [Adrenaline](https://github.com/intergrav/Adrenaline).
 
 This project was made using [Packwiz](https://github.com/packwiz/packwiz).
 
