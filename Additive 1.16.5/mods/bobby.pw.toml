@@ -1,0 +1,14 @@
+name = "Bobby"
+filename = "bobby-1.2.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/M08ruV16/versions/1.2.0/bobby-1.2.0.jar"
+hash-format = "sha1"
+hash = "9a802e19f93caa0c3e89f9a265c2745fa4ce2646"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "M08ruV16"
+version = "KPGN6ias"

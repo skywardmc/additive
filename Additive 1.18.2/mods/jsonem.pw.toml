@@ -1,0 +1,14 @@
+name = "JsonEM"
+filename = "jsonem-0.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/fumdX4iT/versions/0.1.2/jsonem-0.1.2.jar"
+hash-format = "sha1"
+hash = "cb1f9112c9c70d3ac00905d9abe0ec98f734545c"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "fumdX4iT"
+version = "8yfjiRtc"

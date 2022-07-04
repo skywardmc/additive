@@ -1,0 +1,123 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "1a7c6924c35c983a9daeb1c154d3a1d3e60a8ac068fd64bd9ec66590f9c70ee3"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "16e48fe05ad1fb0c4d363d2d35f9d2c23c6895d60ee29f9f6eaca81e4e4ba9e8"
+
+[[files]]
+file = "config/puzzle.json"
+hash = "6d9d65b9e92519e09931488219a9cb618e67bde4faf06c192e6243f3dcbc09fd"
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "a0bab27b23700e786c8e008c3d744b7cc68652eb5efa19119befda779430520f"
+metafile = true
+
+[[files]]
+file = "mods/chime.pw.toml"
+hash = "7f3af4e2529a17ee9be632ceb7ef7ca9c8c83ef601b21c68d9930149c7ea2bf4"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "3a5212c931495fe81f5690a9a3c7379c68432057dbd3ac41f4109527a8b2b10e"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "ba918a71b359539f326e29095f1a9d770e5dc7e37604237f65118b5405c3c62d"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "c60bb92d80a5e4327c69ef4f3fb0537753916e73c60819e4a196f488546380eb"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "2fa2af1dc925f206b987c7e92d4ac4182453febf286544aa7c64029d1dff4551"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "26884802edcf28b4893478797fb2a703bd51816a8d239fe8ca66982a2a27392b"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "e4e649f7b021a22a647ad1af4fde57918863437f487501c9ef0d3b5dd11fcdce"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "0abe0481b3f45b4d59e556bf106534a733f1aec5060187dccf1ca61dd8970999"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "12c03d1a4b67ba5f857eab749a9510fe997df899d7baeaedd21d4a7381fb8ae4"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "89b2a2d726bc85a3a0a0bac2db0b79c1c0e59854c973e0aaa45017a570aa7525"
+metafile = true
+
+[[files]]
+file = "mods/ksyxis.pw.toml"
+hash = "bf2421783628014944ba0dd680e689eabc1008fb2cdfa5b0b8773c8e99cdccf5"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "012085b9f93128b7fc3eb4a5c6ef69dc5947f9aa0e13b00685b6904291286199"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "614cafc891695bd222178e0676f743a0889ab361f5d96d7f8953c51e8354680d"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "79abdb9bafc3793dd8c51e633667c20cb85f9dbfdad0d008bbca8be26f22cbf3"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "09cf109c20bb76b04db3016f0682d5b7ac112f93ad9790a9d43cfa3229171516"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "db760271a07fb817d771099b848f76cec06f2a657659cf75796d7ff3731951e4"
+metafile = true
+
+[[files]]
+file = "mods/moremcmeta.pw.toml"
+hash = "365d93d3a9ea723011ed84517bb7582c0fc06cf961a6ec07b82a6cc4245203f2"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "17353399478d352bbee8623f3fa8087fc96506c647a9eeda066ef80af27c69c4"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "c69348cf8bb5f0afc7e573a48d0d382694dbadbad5c2da271ff1101cf01b2c85"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "6220b8163102fd743a83112ae51be18f078a06cd9f49a6438efc9febe8a282b4"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "a63bf998df259adebbfca4e1f2947b909108c3babf29cf93936b60b71621c97b"
+metafile = true

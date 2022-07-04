@@ -1,0 +1,14 @@
+name = "Not Enough Crashes"
+filename = "notenoughcrashes-4.1.6+1.19-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yM94ont6/versions/4.1.6+1.19-fabric/notenoughcrashes-4.1.6%2B1.19-fabric.jar"
+hash-format = "sha1"
+hash = "3e45edbb8dc4aed296ad4997c1cf1c4c1066292d"
+mode = ""
+
+[update]
+[update.modrinth]
+mod-id = "yM94ont6"
+version = "SdZEoBEj"
