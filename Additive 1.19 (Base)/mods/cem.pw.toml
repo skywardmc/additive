@@ -6,7 +6,6 @@ side = "client"
 url = "https://cdn.modrinth.com/data/YOQCucah/versions/0.7.1-1.19/cem-0.7.1.jar"
 hash-format = "sha1"
 hash = "96c943ee9282945877fe85e7c474ccddbaca0401"
-mode = ""
 
 [update]
 [update.modrinth]

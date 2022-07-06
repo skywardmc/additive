@@ -6,7 +6,6 @@ side = "client"
 url = "https://cdn.modrinth.com/data/ubxU84eR/versions/1.3.0/chime-1.3.0.jar"
 hash-format = "sha1"
 hash = "c8ce49ca56494ceeadfd37216d09730d86aae3d3"
-mode = ""
 
 [update]
 [update.modrinth]

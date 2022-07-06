@@ -6,7 +6,7 @@ hash = "1f6c406790c04431adfa22c1e10e4c6bff0bdae50b6716566a10e87057a918d0"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c84d67c518c58ee9e34ab8e149e5fb927d30ae9ac889413c018fffe48769e97d"
+hash = "35bdafbfa56dcc091d7b2b8e39954b6d594fc5ba30d62f99b6b8ef5cd4b28447"
 
 [[files]]
 file = "config/modmenu.json"
@@ -27,28 +27,13 @@ hash = "bf93c5e4de2e8b6eaba6a41d7bd1fc9d11009fc5946698c86b0deec015a372db"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "f18a588fe5989cc12dbcc42817ed86a555f1b25f122a7a5d498a39321d2126d0"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "686f0456d171ee699c5b646f3978a5aadfed52da5d70b52fc665c2003b2fe222"
 metafile = true
 
 [[files]]
-file = "mods/capes.pw.toml"
-hash = "698ac84855dc3f88ff87e202d5da31a0b78a4ecba73f40c76a5111035e58dc69"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "3f0192019774a90d6513d8ed9633c132e56ff71949b54f29401c536218a441d4"
-metafile = true
-
-[[files]]
-file = "mods/clear-skies.pw.toml"
-hash = "93beb4c2df2e81efaf9e202fcb5bcbbc6e8c478181d95a4c6eff5c132f327c74"
 metafile = true
 
 [[files]]
@@ -64,6 +49,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "56f0eb136a9ef412ffeb7f0ea6a22593c7a5014affe2a0e9f9dcf3a0d44397ef"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.pw.toml"
+hash = "6810e0e906eccfed0ff73b2d6e7044620aaa0273a98308cdb17ddb6d75125af4"
 metafile = true
 
 [[files]]
@@ -87,13 +77,13 @@ hash = "28e28c16f67ed6f4120fb75f365ff0452cc178114a978f38e5a9f24e466108ed"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b8e2fdd8f074570e918c4f93cb08da904194f42d7ecec928e482a97524820234"
+file = "mods/fabricskyboxes.pw.toml"
+hash = "2e61118a4e7ae51d85d42ffa8827f407662b760c60a33aa9417af13da6556272"
 metafile = true
 
 [[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "2e61118a4e7ae51d85d42ffa8827f407662b760c60a33aa9417af13da6556272"
+file = "mods/fabrishot.pw.toml"
+hash = "167af1d61428c198df444f5a7b45c4b1b27d3ff9f40eeae6c7a2144cfebcf9b4"
 metafile = true
 
 [[files]]
@@ -149,11 +139,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "3529bfc10bf2849f7c551d0ea45597d5c9bb692f55f5f0616872d4c64f0862b2"
-metafile = true
-
-[[files]]
-file = "mods/moremcmeta.pw.toml"
-hash = "e5475dc7f7b94c131640f6569409f8d2a9497695eb190cd789352f5c6f13aee5"
 metafile = true
 
 [[files]]

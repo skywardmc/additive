@@ -6,7 +6,7 @@ hash = "1f6c406790c04431adfa22c1e10e4c6bff0bdae50b6716566a10e87057a918d0"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c84d67c518c58ee9e34ab8e149e5fb927d30ae9ac889413c018fffe48769e97d"
+hash = "35bdafbfa56dcc091d7b2b8e39954b6d594fc5ba30d62f99b6b8ef5cd4b28447"
 
 [[files]]
 file = "config/modmenu.json"
@@ -27,18 +27,8 @@ hash = "bf93c5e4de2e8b6eaba6a41d7bd1fc9d11009fc5946698c86b0deec015a372db"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "4491272cf1fb2adb67386c5432b4358197dc1516981460d8e0dcae972b9fe437"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "e72273cbc32fb9fb946ec244e707a315ae91a7b816ac47444e5bd1cc664d29fa"
-metafile = true
-
-[[files]]
-file = "mods/capes.pw.toml"
-hash = "f726e4e0b1481c9fcebabb78da8c50382ee7add661b38f820fb5b6ab6f5c0d0b"
 metafile = true
 
 [[files]]
@@ -57,8 +47,8 @@ hash = "8a3b58552083779e461ff3ac406f81bb1b7057974f161cba2a090a5b2f73a205"
 metafile = true
 
 [[files]]
-file = "mods/clear-skies.pw.toml"
-hash = "f017a0ff2c17072d79326247d3ba4bfb62ce49dbe445ffdcafb474f6818bf223"
+file = "mods/cloth-config.pw.toml"
+hash = "c7db587d0799043490a1cdc144bbcc7a3ddaaff13e2f5ebbb145b796c1ce7115"
 metafile = true
 
 [[files]]
@@ -69,6 +59,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "3476857955abc3053155ef32f1479594d3a7b61e522d570d66f1d0d327b4ecf8"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.pw.toml"
+hash = "ba99850c71a06482ef88cc18d8273c511e523c20fc96b1ce8cefd9adc98705fd"
 metafile = true
 
 [[files]]
@@ -97,13 +92,13 @@ hash = "3200ff29bb6bbf40094897959bf850a07852c8267fa67bbb80a6f0494012daf4"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b8e2fdd8f074570e918c4f93cb08da904194f42d7ecec928e482a97524820234"
+file = "mods/fabricskyboxes.pw.toml"
+hash = "80c10064a7bbee67ccf3833f6807590de392adb31749576e3689789c0cac9877"
 metafile = true
 
 [[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "80c10064a7bbee67ccf3833f6807590de392adb31749576e3689789c0cac9877"
+file = "mods/fabrishot.pw.toml"
+hash = "75d8979ac6cdc549e71d3ff2f6fee6f809c17e96d6c37692d9b06568ad1aae1f"
 metafile = true
 
 [[files]]
@@ -119,11 +114,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "955af3c751bf51e8a5ae1f396a48da1fa3a85be5698714599c05a8c5007de8de"
-metafile = true
-
-[[files]]
-file = "mods/jsonem.pw.toml"
-hash = "5ae58bcf1786773c32ab4e568b736d43acb1f8fa2f2d845e8573b50cc06dca78"
 metafile = true
 
 [[files]]
@@ -158,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
-hash = "a849c615a9ae95009ce4ac7d386882d8bfc33c6836444332d6a749fb5eb9b7e7"
+hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
 metafile = true
 
 [[files]]
@@ -174,11 +164,6 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "fc3e78eb9cb93282c6f62291d6390c950c4eb2ace7e25b83382b5f4b43cd969b"
-metafile = true
-
-[[files]]
-file = "mods/moremcmeta.pw.toml"
-hash = "23b012e76b2910b991fb0eda204b67a080a782beb3bfd276c72b1f5c097e1029"
 metafile = true
 
 [[files]]
@@ -214,9 +199,4 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "8c86d2e1c74be20993cdb4d82a46a16442231e30f0d9fb6a9b1e92f94628aeec"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-hash = "1e6a58053654dac19601133b5260550bd833d681f70598af203e4e0d4da3b3d6"
 metafile = true
