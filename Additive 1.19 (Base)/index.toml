@@ -92,6 +92,11 @@ hash = "0abfe9921def68fc3ac821f7eae5bc938377b7dde847dd16be192d4a0b2e777c"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "c57ab7e92b672af93416304950b083d0b20aabe41af61d0993292dfef80744bf"
+metafile = true
+
+[[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "89a1591ec6bdd02be3e2aa7a88ea4a3968f29dca33f6554cc524931461e7cdf2"
 metafile = true
@@ -199,4 +204,9 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "0a26ab1a3a0a11b45b92a27d90848fa38154e73ac435e93c463fa92c072af5e4"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "c6c963c8c9389d864664aabfd259e9b3909c274b56b2ff1477dac551216b3a28"
 metafile = true
