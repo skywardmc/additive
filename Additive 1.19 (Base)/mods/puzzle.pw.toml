@@ -1,13 +1,13 @@
 name = "Puzzle"
-filename = "puzzle-1.3.3.jar"
+filename = "puzzle-1.3.4-1.19.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3IuO68q1/versions/1.3.3/puzzle-1.3.3.jar"
+url = "https://cdn.modrinth.com/data/3IuO68q1/versions/1.3.4/puzzle-1.3.4-1.19.jar"
 hash-format = "sha1"
-hash = "24085e8f288967e41a964363c3297ffbdb0e6bcb"
+hash = "bd3c287a37cd86b7acc405634cf18b765118cff9"
 
 [update]
 [update.modrinth]
 mod-id = "3IuO68q1"
-version = "AdaUUZFO"
+version = "fHyQwCW4"

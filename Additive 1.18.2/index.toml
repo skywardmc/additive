@@ -6,7 +6,7 @@ hash = "1f6c406790c04431adfa22c1e10e4c6bff0bdae50b6716566a10e87057a918d0"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "35bdafbfa56dcc091d7b2b8e39954b6d594fc5ba30d62f99b6b8ef5cd4b28447"
+hash = "12b31f0e1cf8c08b9a269bf7b644338b8004637d3ae0a628c3f1349f6cf5c2e5"
 
 [[files]]
 file = "config/modmenu.json"
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "fc3e78eb9cb93282c6f62291d6390c950c4eb2ace7e25b83382b5f4b43cd969b"
+hash = "2afd51fd858412978fbb46ee4305783842d617f31d18b20588d71d2ee31b8cc0"
 metafile = true
 
 [[files]]
@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "8cc917a1ec48b6aa8074cfe16ba2bbd3b9c9fa9c4a4dde7214fe25d8a492ed3d"
+hash = "761170eaeece33f423619aefe9de989bac69c68deb29f7df8653eecabcb303e2"
 metafile = true
 
 [[files]]
