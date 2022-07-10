@@ -9,6 +9,10 @@ file = "config/cem.conf"
 hash = "c869b1e1cf73b7b0d5ca03e4657fdbed845d85ab5aca0449248fd144545ecfb7"
 
 [[files]]
+file = "config/iris.properties"
+hash = "a9a6c0ecd319c9417e35b3b17f91de37075001803296dc6fab2a52f888a342c8"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "16e48fe05ad1fb0c4d363d2d35f9d2c23c6895d60ee29f9f6eaca81e4e4ba9e8"
 
