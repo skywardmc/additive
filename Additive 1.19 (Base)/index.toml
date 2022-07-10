@@ -1,20 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/cem.conf"
-hash = "1f6c406790c04431adfa22c1e10e4c6bff0bdae50b6716566a10e87057a918d0"
+file = "config/capes.json5"
+hash = "26f7730b69277b55dc6346922a581b76375bb6166e0b132e4539f26cccf059aa"
 
 [[files]]
-file = "config/isxander-main-menu-credits.json"
-hash = "12b31f0e1cf8c08b9a269bf7b644338b8004637d3ae0a628c3f1349f6cf5c2e5"
+file = "config/cem.conf"
+hash = "c869b1e1cf73b7b0d5ca03e4657fdbed845d85ab5aca0449248fd144545ecfb7"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "77db5cb5f096563648498af8b682719bb1ca89ade622a149321bfe63ffaafca8"
+hash = "16e48fe05ad1fb0c4d363d2d35f9d2c23c6895d60ee29f9f6eaca81e4e4ba9e8"
 
 [[files]]
 file = "config/puzzle.json"
-hash = "9ff49a7a6de42c632dba610b4152ae5e056a2bef1daf0f05ec3cdab30a3b6baa"
+hash = "6d9d65b9e92519e09931488219a9cb618e67bde4faf06c192e6243f3dcbc09fd"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -32,23 +32,18 @@ hash = "5c303c0df9e4d7ffbfb18b79d1bd916eff424ed11cefe831c39169fbfcb690eb"
 metafile = true
 
 [[files]]
+file = "mods/capes.pw.toml"
+hash = "3b2c1ac53b3aed8e5d0a20ed50a663e8c24948216ab93acd4135c69b3c2fa1e1"
+metafile = true
+
+[[files]]
 file = "mods/cem.pw.toml"
 hash = "753859b58aa7a674785b3ec5a8080c2142209a50185cc3dd5ab90c7c6a38f5ee"
 metafile = true
 
 [[files]]
-file = "mods/chime.pw.toml"
-hash = "979d3cd0d08798db597cb306e134596f2acd3ff03bd2624cded8594de4bfb5bf"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "c47b4e6dea49ed224870b70e2101f7dfea59c63490cca1d5f5a1dd43b18c56ef"
-metafile = true
-
-[[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "955b5160e856fbc93b615ad021e78421383177db29a1b0bc451e2840ad659f79"
 metafile = true
 
 [[files]]
@@ -59,11 +54,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "749bf88d67ff9ddf272dc48d82402dd61ea2812238dfca4feb1fd78440675456"
-metafile = true
-
-[[files]]
-file = "mods/dashloader.pw.toml"
-hash = "e9ae0492006c9a6bc309bee3658dcc6ebb96d213f74f6285bac4ae26ffc67631"
 metafile = true
 
 [[files]]
@@ -99,11 +89,6 @@ metafile = true
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "89a1591ec6bdd02be3e2aa7a88ea4a3968f29dca33f6554cc524931461e7cdf2"
-metafile = true
-
-[[files]]
-file = "mods/fabrishot.pw.toml"
-hash = "0b0b7d2de5e46b9032ae84b25f554839e7fabfeab7bd8bcb48392b940e112f38"
 metafile = true
 
 [[files]]
@@ -148,12 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "6380402dd2dd2e9327733034e204bdc1d815c5b02e997c1660d3b34e91ca72fa"
-metafile = true
-
-[[files]]
-file = "mods/main-menu-credits.pw.toml"
-hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
+hash = "443104f3ae619456aefa8eaabf9dbfba4c0a227435fc7c6e2f4c89370bb6786d"
 metafile = true
 
 [[files]]

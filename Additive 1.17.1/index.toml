@@ -1,20 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/cem.conf"
-hash = "1f6c406790c04431adfa22c1e10e4c6bff0bdae50b6716566a10e87057a918d0"
+file = "config/capes.json5"
+hash = "26f7730b69277b55dc6346922a581b76375bb6166e0b132e4539f26cccf059aa"
 
 [[files]]
-file = "config/isxander-main-menu-credits.json"
-hash = "12b31f0e1cf8c08b9a269bf7b644338b8004637d3ae0a628c3f1349f6cf5c2e5"
+file = "config/cem.conf"
+hash = "c869b1e1cf73b7b0d5ca03e4657fdbed845d85ab5aca0449248fd144545ecfb7"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "77db5cb5f096563648498af8b682719bb1ca89ade622a149321bfe63ffaafca8"
+hash = "16e48fe05ad1fb0c4d363d2d35f9d2c23c6895d60ee29f9f6eaca81e4e4ba9e8"
 
 [[files]]
 file = "config/puzzle.json"
-hash = "9ff49a7a6de42c632dba610b4152ae5e056a2bef1daf0f05ec3cdab30a3b6baa"
+hash = "6d9d65b9e92519e09931488219a9cb618e67bde4faf06c192e6243f3dcbc09fd"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -29,6 +29,11 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "686f0456d171ee699c5b646f3978a5aadfed52da5d70b52fc665c2003b2fe222"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "698ac84855dc3f88ff87e202d5da31a0b78a4ecba73f40c76a5111035e58dc69"
 metafile = true
 
 [[files]]
@@ -49,11 +54,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "56f0eb136a9ef412ffeb7f0ea6a22593c7a5014affe2a0e9f9dcf3a0d44397ef"
-metafile = true
-
-[[files]]
-file = "mods/dashloader.pw.toml"
-hash = "6810e0e906eccfed0ff73b2d6e7044620aaa0273a98308cdb17ddb6d75125af4"
 metafile = true
 
 [[files]]
@@ -84,11 +84,6 @@ metafile = true
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "2e61118a4e7ae51d85d42ffa8827f407662b760c60a33aa9417af13da6556272"
-metafile = true
-
-[[files]]
-file = "mods/fabrishot.pw.toml"
-hash = "167af1d61428c198df444f5a7b45c4b1b27d3ff9f40eeae6c7a2144cfebcf9b4"
 metafile = true
 
 [[files]]
