@@ -142,17 +142,17 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "1871a1a01eb1ef7b347a8a870fd9e2bb84ab8f0e620716df5a26f49d290ea3a1"
+hash = "9d831580e7244af99d75d521fd3b36a4d6d0462b01839051e9f62667b3a14a2e"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "f0a7c49ae4417a753722da78046a7513e059e5964e21154f4aef50df6a1d6ed0"
+hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "666ebc5403d60bbaea03d0c82e83e3f1fa75756a77501dab3ec2a7b7bf2b24dd"
+hash = "a36c4ccbc2b3748f8a7e0818cc495b614a67f9b56ae977bd7d3b9974b36ee819"
 metafile = true
 
 [[files]]
@@ -187,7 +187,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "0a26ab1a3a0a11b45b92a27d90848fa38154e73ac435e93c463fa92c072af5e4"
+hash = "0516b1b0b70444fce8fe01656fc03f1e66b1f8b6e04a6b3b1845a57c80057b72"
 metafile = true
 
 [[files]]
