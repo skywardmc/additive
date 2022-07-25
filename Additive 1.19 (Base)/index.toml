@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "51949291a0f29beab1674ac3e5a6736946042b727ff7d911767f8e44fcd50a8a"
+hash = "305832c68a45cb38c596389b52a0e62edc5a8acbc4db7820152cb0a56d38711e"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e516d6d036f6d407a793c3b9a1fc5a8a817b05c9dc9d8677003fb0a512b2bf6f"
+hash = "a348ec1aec5a10f7235d6741e08aea583e042049eded3d6eafd97a0688a891c0"
 metafile = true
 
 [[files]]
