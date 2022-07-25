@@ -21,6 +21,14 @@ file = "config/puzzle.json"
 hash = "6d9d65b9e92519e09931488219a9cb618e67bde4faf06c192e6243f3dcbc09fd"
 
 [[files]]
+file = "config/sodium-options.json"
+hash = "d421eba4ccccc8268d83c11d675c5b08b20dd7cb63df5a408754832aa3fd0343"
+
+[[files]]
+file = "config/tr7zwDonorSettings.json"
+hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "61c72ce5be0869a31c41c078961e451b82724e09e617ea0fb85c91be9e09b892"
 metafile = true
@@ -71,11 +79,6 @@ hash = "8ec7c0606e7e063233161bd7018aecf6bdd12207278c3585d56694961d69ef92"
 metafile = true
 
 [[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "e4063fffeef1ed23907f551fad53b2da515e6aabdcb7accf53f828249a389496"
-metafile = true
-
-[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "3d1bbe92949b9653e77c8dc91861c4375ab17ffae08d0e270a6c5f0084e3571c"
 metafile = true
@@ -107,12 +110,17 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "e447acdfa50248fa4248aa6bdc1aa3c3e39fe29f6c2e2dbe283b3bd960dd5553"
+hash = "5819b5827ad0381f2dc60ad6520c2c6f9b23a3192e6c6764b10e8d21644ca325"
+metafile = true
+
+[[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "082d202257610559228e6bea1d1068fe25eba87c306dc4142e874f118ac8949f"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "32c437da7a4db69cfd438aa2f3827e50788b51adb20934d3e67902bb9290f923"
+hash = "030442b323bc08c52bcbbdfc7f9f1a4ad2a0b668d85cb86fa8084cbb5af93ece"
 metafile = true
 
 [[files]]
