@@ -5,4 +5,4 @@ This project was made using [Packwiz](https://github.com/packwiz/packwiz).
 
 To export into a pack, use `packwiz modrinth export` or `packwiz curseforge export` in one of the version folders.
 
-Honestly I don't know what else to put here, everything about the pack is already on the [Modrinth page](https://modrinth.com/modpack/additive).
+More information about the pack is on the [Modrinth page](https://modrinth.com/modpack/adrenaline).
