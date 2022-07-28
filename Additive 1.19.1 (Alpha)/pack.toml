@@ -1,0 +1,13 @@
+name = "Additive"
+author = "UltraStorm"
+version = "1.4.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9bc5e19e999f7a4bd7822bde8aec47b1e79544359bf04c6aca5830753d809692"
+
+[versions]
+fabric = "0.14.8"
+minecraft = "1.19.1"
