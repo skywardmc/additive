@@ -1,0 +1,41 @@
+---
+---
+
+// Headers
+$header-heading-color: #e06060;
+$header-bg-color: #400b0b;
+$header-bg-color-secondary: #402b0b;
+
+// Text
+$section-headings-color: #751212;
+$body-text-color: #6e5353;
+$body-link-color: #b87946;
+$blockquote-text-color: #917a7a;
+
+// Code
+$code-bg-color: #faf3f3;
+$code-text-color: #a37171;
+
+// Borders
+$border-color: #f0dcdc;
+$table-border-color: #ece9e9;
+$hr-border-color: #f1efef;
+
+@import "{{ site.theme }}";
+
+body {
+    font-family: "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.responsive {
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+    position: relative;
+}
+
+.responsive iframe {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
