@@ -1,9 +1,9 @@
-Additive is a simple, super fast Optifine alternative modpack. It has a ton of the features you know and love from Optifine, like shaders, resource pack features, capes, and great optimization. This pack is way faster than Optifine, and can even reach up to ten times the framerate.
+Additive is a simple, super-fast Optifine alternative modpack. It has a ton of the features you know and love from Optifine, like shaders, great optimization, resource pack features, zoom, capes. This pack is way faster than Optifine, and can even reach up to ten times the framerate.
 
 ### Extreme Optimization!
-This pack is built off my performance modpack [Adrenaline](https://intergrav.github.io/Adrenaline/). It can reach up to **ten times** the framerate, and has a few other performance fixes. Go check it out for more information.
+This pack is built off my performance modpack [Adrenaline](https://intergrav.github.io/Adrenaline/). It can reach up to **ten times** the framerate and has a few other performance fixes. Go check it out for more information.
 
-If you just want performance - no quality of like mods - check it out.
+If you just want performance - no quality-of-life mods - check that out.
 
 ### Optifine Features!
 This pack has most of Optifine's key features. Heres a few:
@@ -41,9 +41,9 @@ These instructions were made for Adrenaline, but both are installed the exact sa
 If you want to talk about the pack or have any questions, please use the [Discord server](https://discord.gg/36Tv44cYte)! However, if you are asking for a feature to be added or giving a bug report, use the [issue tracker](https://github.com/intergrav/Additive/issues) instead. Thanks!
 
 ## Enjoy!
-Enjoy the modpack! Comment about it below here, or join my [modpack Discord](https://discord.gg/36Tv44cYte)!
+Enjoy the modpack! Comment about it below here or join my [modpack Discord](https://discord.gg/36Tv44cYte).
 
-Also, I know this page looks very similar to Adrenaline. Work smarter not harder is all I am going to say haha
+Also, I know this page looks remarkably like Adrenaline. Work smarter not harder is all I am going to say, haha.
 
 <script src="https://giscus.app/client.js"
         data-repo="intergrav/additive"
