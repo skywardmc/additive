@@ -1,4 +1,4 @@
-# About ![Modrinth Downloads](https://img.shields.io/modrinth/dt/paoFU4Vl?color=%231bd96a&label=Downloads&logo=Modrinth&style=flat-square) ![GitHub Stars](https://img.shields.io/github/stars/intergrav/adrenaline?color=%23f5f5f5&label=Stars&logo=GitHub&style=flat-square) ![Discord Online](https://img.shields.io/discord/1002241722987855942?color=%235865F2&label=Discord&logo=discord&style=flat-square)
+![Modrinth Downloads](https://img.shields.io/modrinth/dt/paoFU4Vl?color=%231bd96a&label=Downloads&logo=Modrinth&style=flat-square) ![GitHub Stars](https://img.shields.io/github/stars/intergrav/adrenaline?color=%23f5f5f5&label=Stars&logo=GitHub&style=flat-square) ![Discord Online](https://img.shields.io/discord/1002241722987855942?color=%235865F2&label=Discord&logo=discord&style=flat-square)
 
 Additive is a simple, super-fast Optifine alternative modpack. It has a ton of the features you know and love from Optifine, like shaders, great optimization, resource pack features, zoom, capes. This pack is way faster than Optifine, and can even reach up to ten times the framerate.
 
