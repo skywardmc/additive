@@ -25,7 +25,7 @@ I try to update to newer Minecraft versions as **fast as possible**.
 
 ## ❓ Frequently Asked Questions
 ### 🔧 How do I install it?
-Here is a quick video that shows you how to install it. The process should be very similar on most launchers. **Make sure you have all the dependencies for it**! all are linked in the description of the video.
+Here is a quick video that shows you how to install it. The process should be very similar on most launchers. **Make sure you have all the dependencies for it**! All are linked in the description of the video.
 
 This tutorial was made for Adrenaline, but you install it the same way.
 
