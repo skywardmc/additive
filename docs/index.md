@@ -52,17 +52,7 @@ For simplicity, I attempt to follow Minecraft's version naming scheme: **1**.**X
 * **X** is the release. This means adding/removing mods. These won't be made too often.
 * **Y** is the patch for that release. This can be updating mods, changing config files, or any other small fix. These will be made often.
 
-<details>
-<summary>Actively Updated Versions</summary>
-
-Here are the actively updated versions. Versions that aren't listed here will still be updated, but only for **major** updates. *Latest stable* means it is the pack that all other versions are based off.
-
-* 1.19.1 (alpha)
-* 1.19 (latest stable)
-* 1.18.2
-* 1.17.1
-* 1.16.5
-</details>
+I stop support older versions over time, but it isn't mandatory to update as it should still be very stable.
 
 # 👍 Thank you!
 Thank you **[CaffeineMC team](https://github.com/CaffeineMC)** for the wonderful optimization mods like Sodium and Lithium - this pack wouldn't exist without you all.
