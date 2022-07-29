@@ -50,7 +50,7 @@ Also, I know this page looks very similar to Adrenaline. Work smarter not harder
         data-repo-id="R_kgDOHmlgdg"
         data-category="giscus"
         data-category-id="DIC_kwDOHmlgds4CQf66"
-        data-mapping="pathname"
+        data-mapping="url"
         data-strict="0"
         data-reactions-enabled="1"
         data-emit-metadata="0"
