@@ -32,6 +32,8 @@ body {
     height: 0;
     padding-bottom: 42.1875%;
     position: relative;
+    display: flex;
+    justify-content: center;
 }
 
 .responsive iframe {
