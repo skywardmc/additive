@@ -37,7 +37,7 @@ These instructions were made for Adrenaline, but both are installed the exact sa
   <iframe src="https://www.youtube.com/embed/9-hT8V_wCqw?start=8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-## Feedback
+## How can I provide feedback?
 If you want to talk about the pack or have any questions, please use the [Discord server](https://discord.gg/36Tv44cYte)! However, if you are asking for a feature to be added or giving a bug report, use the [issue tracker](https://github.com/intergrav/Additive/issues) instead. Thanks!
 
 ## Enjoy!
