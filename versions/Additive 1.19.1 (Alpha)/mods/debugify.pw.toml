@@ -1,0 +1,13 @@
+name = "Debugify"
+filename = "debugify-2.3.3-fabric-1.19.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QwxR6Gcd/versions/2.3.3-fabric/debugify-2.3.3-fabric-1.19.1.jar"
+hash-format = "sha1"
+hash = "e8e2ee2aa56ce0a118c463bf207db5d5361ec4f4"
+
+[update]
+[update.modrinth]
+mod-id = "QwxR6Gcd"
+version = "jl2bfULg"

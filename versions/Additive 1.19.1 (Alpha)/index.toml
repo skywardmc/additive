@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "5c303c0df9e4d7ffbfb18b79d1bd916eff424ed11cefe831c39169fbfcb690eb"
+hash = "e6ef433e20a2d85023ecc70ba2ff5ad2f0cf4565294c40dc108466c758ebb6f1"
 metafile = true
 
 [[files]]
@@ -66,6 +66,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "749bf88d67ff9ddf272dc48d82402dd61ea2812238dfca4feb1fd78440675456"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "5bd9719c412474bc8cadd6e188bcb1e912d0e1a69a208fbbfb183dbc2840a651"
 metafile = true
 
 [[files]]
@@ -129,11 +134,6 @@ hash = "8ea1740a6525c5435b2f76eb90f889aa99a77f447c5c0a1687f45ea8987b57c1"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "49f9b24d73adb01f1f1d1349af1549583d1f552a0e88f4885c2f456d6535c842"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "73bc2fb1fd275fd88efd075bc03153d6b2d6d34871f62a94208db5c28f17805b"
 metafile = true
@@ -176,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "f5bc2f876ea557c8fc89360e65a7d2a0ca678160dff3b9fdd5e73d9e7332d7a9"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "996a86c306d37a3cff546d36a652d907f3369b1f2c415b148f83969ac26cd8a8"
 metafile = true
 
 [[files]]
