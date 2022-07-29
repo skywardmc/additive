@@ -24,11 +24,6 @@ This pack has most of Optifine's key features. Heres a few:
 I try to update to newer Minecraft versions as **fast as possible**.
 
 ## ❓ Frequently Asked Questions
-### 💡 Why Switch?
-> OptiFine was originally a great mod offering many quality of life improvements for player in the beginning. However, over the years, its benefits have dwindled and has caused many issues for modders. This is due to Minecraft's codebase improving over the years and OptiFine's aggressiveness towards replacing entire swaths of code while being closed source making it very difficult to figure out why OptiFine has broken another modder's mod. Also worth noting that OptiFine natively doesn't support Fabric and it's hard to maintain OptiFabric.
-
-This was stated by [LambdAurora](https://github.com/LambdAurora/optifine_alternatives).
-
 ### 🔧 How do I install it?
 Here is a quick video that shows you how to install it. The process should be very similar on most launchers. **Make sure you have all the dependencies for it**! all are linked in the description of the video.
 
@@ -37,6 +32,11 @@ This tutorial was made for Adrenaline, but you install it the same way.
 <div class="responsive">
   <iframe src="https://www.youtube.com/embed/9-hT8V_wCqw?start=8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+### 💡 Why Switch?
+> OptiFine was originally a great mod offering many quality of life improvements for player in the beginning. However, over the years, its benefits have dwindled and has caused many issues for modders. This is due to Minecraft's codebase improving over the years and OptiFine's aggressiveness towards replacing entire swaths of code while being closed source making it very difficult to figure out why OptiFine has broken another modder's mod. Also worth noting that OptiFine natively doesn't support Fabric and it's hard to maintain OptiFabric.
+
+This was stated by [LambdAurora](https://github.com/LambdAurora/optifine_alternatives).
 
 ### 📦 Can I make a modpack with this?
 Yes, *you can*! Feel free to use this in any way you want! If you are making something public with this like a modpack, all I ask for is credit somewhere. You don't **have** to give credit - after all it's just a Minecraft modpack, but I spend lots of time maintaining this and it would help a ton. If you do want to give credit, just put this website in there.
