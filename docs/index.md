@@ -59,7 +59,7 @@ Thank you **[CaffeineMC team](https://github.com/CaffeineMC)** for the wonderful
 
 Thank you amazing **modders** for developing the other mods in this pack - it helps quite a lot.
 
-And thank **you** for choosing Additive - enjoy the modpack. Join my [modpack Discord](https://discord.gg/36Tv44cYte) for help and stuff.
+And thank **you** for choosing Additive - enjoy the modpack. Join my [modpack Discord](https://discord.gg/36Tv44cYte) for announcements, support, and chatting.
 
 <script src="https://giscus.app/client.js"
         data-repo="intergrav/additive"
