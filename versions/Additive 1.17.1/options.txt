@@ -1,0 +1,12 @@
+version:3105
+enableVsync:true
+entityShadows:false
+renderDistance:12
+simulationDistance:5
+graphicsMode:0
+ao:2
+biomeBlendRadius:2
+renderClouds:"true"
+mipmapLevels:2
+key_Switch Bedrodium work:key.keyboard.unknown
+key_key.entityculling.toggle:key.keyboard.unknown

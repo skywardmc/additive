@@ -9,6 +9,10 @@ file = "config/cem.conf"
 hash = "c869b1e1cf73b7b0d5ca03e4657fdbed845d85ab5aca0449248fd144545ecfb7"
 
 [[files]]
+file = "config/entityculling.json"
+hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
+
+[[files]]
 file = "config/iris.properties"
 hash = "a9a6c0ecd319c9417e35b3b17f91de37075001803296dc6fab2a52f888a342c8"
 
@@ -22,7 +26,7 @@ hash = "6d9d65b9e92519e09931488219a9cb618e67bde4faf06c192e6243f3dcbc09fd"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "d421eba4ccccc8268d83c11d675c5b08b20dd7cb63df5a408754832aa3fd0343"
+hash = "b41ffcbb5a3a65c822c3031ae1721ee445f64c46e4796298030342875d34038e"
 
 [[files]]
 file = "config/tr7zwDonorSettings.json"
@@ -119,6 +123,11 @@ hash = "a348ec1aec5a10f7235d6741e08aea583e042049eded3d6eafd97a0688a891c0"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "0ab0925b9d00ddcf75dc5077fba4eee2c825945a7590750e1821ba783fb26f37"
 metafile = true
@@ -134,13 +143,23 @@ hash = "8ea1740a6525c5435b2f76eb90f889aa99a77f447c5c0a1687f45ea8987b57c1"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "2169e44e13300b75bed771b83724278bc10d319270096cc8c3953271bf68a2ae"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "73bc2fb1fd275fd88efd075bc03153d6b2d6d34871f62a94208db5c28f17805b"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "70794068a407652022124d83b39e696d2c3194daeea0e4993afd50fb0351552c"
+hash = "8146180d1612a9ec226fb5981f0a95167c19a4a0e6a188eae93c94e5bcc8ea47"
 metafile = true
 
 [[files]]
@@ -180,10 +199,14 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "996a86c306d37a3cff546d36a652d907f3369b1f2c415b148f83969ac26cd8a8"
+hash = "4bee15eb173432a3406d78101e84bc56d35544caf0c405148ad5671201597c39"
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "c6c963c8c9389d864664aabfd259e9b3909c274b56b2ff1477dac551216b3a28"
+hash = "f0a3e27c9875b275e6bbc68b8e4d847e404fd4f647674b625716ff2a75b61fef"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "ee3866679cc972da85e7ea9e465363d37813a17862a24116507bdef8ac23c00f"
