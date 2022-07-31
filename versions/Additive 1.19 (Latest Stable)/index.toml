@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/capes.json5"
-hash = "26f7730b69277b55dc6346922a581b76375bb6166e0b132e4539f26cccf059aa"
+hash = "b0e11760190870b23a50e68018a3792e6ad3929302bb2917db21268a20f858af"
 
 [[files]]
 file = "config/cem.conf"
@@ -39,12 +39,12 @@ metafile = true
 
 [[files]]
 file = "mods/bedrodium.pw.toml"
-hash = "bf93c5e4de2e8b6eaba6a41d7bd1fc9d11009fc5946698c86b0deec015a372db"
+hash = "98e7a87ca292ed3df4a532819499a9bf9e6d1bada60a45db4d0da44e061c36e1"
 metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "5c303c0df9e4d7ffbfb18b79d1bd916eff424ed11cefe831c39169fbfcb690eb"
+hash = "ee23e2c15742421bd42726c87c1212571faf021af09ea1bc2974b63e5386fb90"
 metafile = true
 
 [[files]]
@@ -79,17 +79,17 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "89c30e7e42bba13f39caeff641f8a3f4c64f5d27212643b124f4886090423458"
+hash = "073bff49ec9e664b669794177329cfbeef3c3d91d5c0660cd01144a640e0338b"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "4f3cde0c82cf126ffe36ee035f993bc6d43ac11fbc0223b9c25644f932aa43aa"
+hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "305832c68a45cb38c596389b52a0e62edc5a8acbc4db7820152cb0a56d38711e"
+hash = "51949291a0f29beab1674ac3e5a6736946042b727ff7d911767f8e44fcd50a8a"
 metafile = true
 
 [[files]]
@@ -114,12 +114,12 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "30724bbe8098326d4df88136aab3926820768d3f4faface2843f30eb6adc7b0f"
+hash = "87f056062378f276e55d07a577ff6c734bb9af9ea2b5591c424f7c381f82a552"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "ba11b4c8694cb80ae86c8903caef7d0bf2cf4a604928a74b8218faef90ac7c96"
+hash = "5dc09aa39836e32c785297fd6e34c70e1ca9cb80264da8b088e0bc166b69d9e9"
 metafile = true
 
 [[files]]
@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/krypton.pw.toml"
-hash = "c63f5974b8ec0b09d0651bd4a25e7e5fb843ff66263ae691a3bf3fbb619d7ede"
+hash = "2bd6bb34cc34e9010c35d30ef21e71fa63386c6a7b2bbe16f7c1369db10c693f"
 metafile = true
 
 [[files]]
@@ -144,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/lazydfu.pw.toml"
-hash = "8ea1740a6525c5435b2f76eb90f889aa99a77f447c5c0a1687f45ea8987b57c1"
+hash = "3ffe2388740cc111a332082f56e37bb4b95764035dfe5d6dff81db8a35d4cc4d"
 metafile = true
 
 [[files]]
@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
-hash = "cf1f5080da42edb1d6a354bc66cd4514fb80c22a3a92d5fb330e46e835540018"
+hash = "9413d03007564d3eaaf8ec25eabe10d5e741ff0c68017c2d2c824a8ed9be18d3"
 metafile = true
 
 [[files]]
@@ -194,12 +194,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "5fb5975fccb703eaabc1094c3653bcfbfd33cda6a57653f53ab9e4832cb3f01e"
+hash = "c77f162c7072a9bb922faf3bd5f223ce4f57973d531cc32484a7dcf72d2e1f51"
 metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
-hash = "f5bc2f876ea557c8fc89360e65a7d2a0ca678160dff3b9fdd5e73d9e7332d7a9"
+hash = "fc45b583ec8ca686b666c2cdaaab32c2dc013ce491bfbffa4b5fc20b4c758a70"
 metafile = true
 
 [[files]]
