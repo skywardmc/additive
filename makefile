@@ -7,3 +7,5 @@ refresh:
 	pw -b -d versions refresh
 update:
 	pw -b -d versions update --all
+export:
+	pw -b -d versions mr export
