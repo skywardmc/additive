@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "b8e50e473a9a5f9d41dba92a20e6af19156a23d3f70cc87c4fe164ea83e0e238"
+hash = "f5751b1f49dfd5d0a78a4573b334651748e02e65dfe093774ab0d0c0886d950c"
 metafile = true
 
 [[files]]
@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "c245e4e6896f1702f29aaf0bfef3cbce1d82b4f0fb8d44a526690f4d965f75e0"
+hash = "f61810be98ef52436d3355ecfa4354bc47d142cbe9468fbd14415e5bc6d66125"
 metafile = true
 
 [[files]]
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "3d241fed9c27304828edec6231bc2c5cc1b58f9dcbab41874f561da8c0b459ab"
+hash = "a3d3bfc8f8bd71c48e528657bc0970d100b699e5dd01b224826ac56865931dc0"
 metafile = true
 
 [[files]]
