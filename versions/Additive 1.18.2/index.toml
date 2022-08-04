@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "761170eaeece33f423619aefe9de989bac69c68deb29f7df8653eecabcb303e2"
+hash = "1a831cbe617a09d168824fdc5e4492e18f051f74689b8dbd6be4d91edbcbd896"
 metafile = true
 
 [[files]]
@@ -199,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "a3d3bfc8f8bd71c48e528657bc0970d100b699e5dd01b224826ac56865931dc0"
+hash = "e97955bf7c983ad57602bbaa76c233cf04646b3706b7d28319e4d377872ff923"
 metafile = true
 
 [[files]]
