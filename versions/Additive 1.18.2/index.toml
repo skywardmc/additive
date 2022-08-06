@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/capes.json5"
-hash = "26f7730b69277b55dc6346922a581b76375bb6166e0b132e4539f26cccf059aa"
+hash = "b0e11760190870b23a50e68018a3792e6ad3929302bb2917db21268a20f858af"
 
 [[files]]
 file = "config/cem.conf"
@@ -33,13 +33,18 @@ file = "config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "d16ad5625096ed2f3953a5eb59c7fd54b78ced0fa7ebc91c29fb6886d1e0caff"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "0e0112e01df097b7f015ac0ad6a98e173c8e98a27719237ef21be06f8ad09fad"
 metafile = true
 
 [[files]]
 file = "mods/bedrodium.pw.toml"
-hash = "bf93c5e4de2e8b6eaba6a41d7bd1fc9d11009fc5946698c86b0deec015a372db"
+hash = "98e7a87ca292ed3df4a532819499a9bf9e6d1bada60a45db4d0da44e061c36e1"
 metafile = true
 
 [[files]]
@@ -199,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "e97955bf7c983ad57602bbaa76c233cf04646b3706b7d28319e4d377872ff923"
+hash = "10315f863d88a56a08bd973ce506c43d316ce8c60e799a1d6da8bdb304f03a03"
 metafile = true
 
 [[files]]

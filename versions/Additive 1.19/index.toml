@@ -33,6 +33,11 @@ file = "config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "73386e4a41baab1188f2c594ac9efad42ccbb3c02934d21cc86461b616121954"
 metafile = true
@@ -204,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "28650aba2520b63ed5168cc63a9b07dcd33479de35302bba6b9764407771a240"
+hash = "44ff9922b86d4c7f8cd74da120536f0670dfa0584da0b03b7d53cd5d82690f2e"
 metafile = true
 
 [[files]]

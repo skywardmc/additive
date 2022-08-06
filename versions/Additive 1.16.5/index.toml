@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/capes.json5"
-hash = "26f7730b69277b55dc6346922a581b76375bb6166e0b132e4539f26cccf059aa"
+hash = "b0e11760190870b23a50e68018a3792e6ad3929302bb2917db21268a20f858af"
 
 [[files]]
 file = "config/cem.conf"
@@ -31,6 +31,11 @@ hash = "b41ffcbb5a3a65c822c3031ae1721ee445f64c46e4796298030342875d34038e"
 [[files]]
 file = "config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "bb899d05b83089c2e1b4d5eed5f67796fd849b478f967019c660cfea67f22ca9"
+metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
