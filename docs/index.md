@@ -28,13 +28,11 @@ Here is a quick video that shows you how to install it. The process should be ve
 This tutorial was made for Adrenaline, but you install it the same way.
 
 <div class="responsive">
-  <iframe src="https://www.youtube.com/embed/9-hT8V_wCqw?start=8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/9-hT8V_wCqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 ### 💡 Why Switch?
-> OptiFine was originally a great mod offering many quality of life improvements for player in the beginning. However, over the years, its benefits have dwindled and has caused many issues for modders. This is due to Minecraft's codebase improving over the years and OptiFine's aggressiveness towards replacing entire swaths of code while being closed source making it very difficult to figure out why OptiFine has broken another modder's mod. Also worth noting that OptiFine natively doesn't support Fabric and it's hard to maintain OptiFabric.
-
-This was stated by [LambdAurora](https://github.com/LambdAurora/optifine_alternatives).
+> OptiFine was originally a great mod offering many quality of life improvements for player in the beginning. However, over the years, its benefits have dwindled and has caused many issues for modders. This is due to Minecraft's codebase improving over the years and OptiFine's aggressiveness towards replacing entire swaths of code while being closed source making it very difficult to figure out why OptiFine has broken another modder's mod. Also worth noting that OptiFine natively doesn't support Fabric and it's hard to maintain OptiFabric. - [LambdAurora](https://github.com/LambdAurora/optifine_alternatives)
 
 ### 📦 Can I make a modpack with this?
 Yes, *you can*! Feel free to use this in any way you want! If you are making something public with this like a modpack, all I ask for is credit somewhere. You don't **have** to give credit - after all it's just a Minecraft modpack, but I spend lots of time maintaining this and it would help a ton. If you do want to give credit, just put this website in there.
@@ -52,7 +50,9 @@ For simplicity, I attempt to follow Minecraft's version naming scheme: **1**.**X
 * **X** is the release. This means adding/removing mods. These won't be made too often.
 * **Y** is the patch for that release. This can be updating mods, changing config files, or any other small fix. These will be made often.
 
-I stop support for older versions over time, but it isn't mandatory to update as they should still be very stable.
+I stop supporting older versions over time, but it isn't mandatory to update as they should still be very stable.
+
+LTS (Long-term support) versions are the last minor release of that Minecraft version's major release. This means that 1.16.5 would be the LTS release, not 1.16-1.16.4. LTS versions will be maintained for roughly a year or two before ending support.
 
 # 👍 Thank you!
 Thank you **[CaffeineMC team](https://github.com/CaffeineMC)** for the wonderful optimization mods like Sodium and Lithium - this pack wouldn't exist without you all.
