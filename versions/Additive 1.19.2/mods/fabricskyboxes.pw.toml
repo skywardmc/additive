@@ -1,0 +1,13 @@
+name = "FabricSkyboxes"
+filename = "fabricskyboxes-1.19.2-0.5.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/YBz7DOs8/versions/0.5.8/fabricskyboxes-1.19.2-0.5.8.jar"
+hash-format = "sha1"
+hash = "f03e15c3a4c1344a518ec63b3feb9b2c277c5815"
+
+[update]
+[update.modrinth]
+mod-id = "YBz7DOs8"
+version = "Bz2WAyHU"

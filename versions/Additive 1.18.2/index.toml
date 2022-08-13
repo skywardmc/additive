@@ -33,18 +33,8 @@ file = "config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
 [[files]]
-file = "mods/alternate-current.pw.toml"
-hash = "d16ad5625096ed2f3953a5eb59c7fd54b78ced0fa7ebc91c29fb6886d1e0caff"
-metafile = true
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "0e0112e01df097b7f015ac0ad6a98e173c8e98a27719237ef21be06f8ad09fad"
-metafile = true
-
-[[files]]
-file = "mods/bedrodium.pw.toml"
-hash = "98e7a87ca292ed3df4a532819499a9bf9e6d1bada60a45db4d0da44e061c36e1"
 metafile = true
 
 [[files]]
@@ -74,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "3476857955abc3053155ef32f1479594d3a7b61e522d570d66f1d0d327b4ecf8"
+hash = "b508bb6b509b96b2e297e94ca2ce365623730b938f32c74d49c574a7ef1ecb24"
 metafile = true
 
 [[files]]
@@ -173,18 +163,13 @@ hash = "b99c1cae57386de36e5a6dc1d247057d0d5c0e9c5a5563b67d078ea7975919a9"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "22ead426c002828d3d2f4da9caf5454fabae689bbf4291020919da7909095794"
-metafile = true
-
-[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "1a831cbe617a09d168824fdc5e4492e18f051f74689b8dbd6be4d91edbcbd896"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "b17d25b273caec976c340d196d09482b908d8ae43e389132c787714100ea8186"
+hash = "e82e252278eb697ed7620218aeb99ce62ee68987414ee43cba500d8452c85120"
 metafile = true
 
 [[files]]
@@ -204,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "10315f863d88a56a08bd973ce506c43d316ce8c60e799a1d6da8bdb304f03a03"
+hash = "5f0149bf9a2432a49eb61cf788fce081234ce32d71813485c680b5e24adb875e"
 metafile = true
 
 [[files]]
@@ -214,4 +199,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ee3866679cc972da85e7ea9e465363d37813a17862a24116507bdef8ac23c00f"
+hash = "ce6a3313adc96eebc96bd69c3cbca32da6d042f9f7ca1b204d3f3adebf382f9f"

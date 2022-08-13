@@ -4,6 +4,7 @@ entityShadows:false
 renderDistance:12
 simulationDistance:5
 graphicsMode:0
+maxFps:260
 ao:2
 biomeBlendRadius:2
 renderClouds:"true"

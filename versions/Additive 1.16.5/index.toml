@@ -33,11 +33,6 @@ file = "config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
 [[files]]
-file = "mods/alternate-current.pw.toml"
-hash = "bb899d05b83089c2e1b4d5eed5f67796fd849b478f967019c660cfea67f22ca9"
-metafile = true
-
-[[files]]
 file = "mods/ebe.pw.toml"
 hash = "61c72ce5be0869a31c41c078961e451b82724e09e617ea0fb85c91be9e09b892"
 metafile = true
@@ -113,13 +108,8 @@ hash = "990ac06e16de11d0bfde772bf929d599404b7183fc922d67990fc3dff6c85682"
 metafile = true
 
 [[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "9086bcb0c3ac5b8316e693875b130c4829999c956b585605b5aed1422b62a2c4"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "5819b5827ad0381f2dc60ad6520c2c6f9b23a3192e6c6764b10e8d21644ca325"
+hash = "823295dd4c22039809498d21a1e6eca6a0e0dab032c629d24c38d840b8b78240"
 metafile = true
 
 [[files]]
@@ -139,4 +129,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ee3866679cc972da85e7ea9e465363d37813a17862a24116507bdef8ac23c00f"
+hash = "ce6a3313adc96eebc96bd69c3cbca32da6d042f9f7ca1b204d3f3adebf382f9f"

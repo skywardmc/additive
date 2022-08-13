@@ -33,18 +33,8 @@ file = "config/tr7zwDonorSettings.json"
 hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
 
 [[files]]
-file = "mods/alternate-current.pw.toml"
-hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
-metafile = true
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "73386e4a41baab1188f2c594ac9efad42ccbb3c02934d21cc86461b616121954"
-metafile = true
-
-[[files]]
-file = "mods/bedrodium.pw.toml"
-hash = "98e7a87ca292ed3df4a532819499a9bf9e6d1bada60a45db4d0da44e061c36e1"
 metafile = true
 
 [[files]]
@@ -74,7 +64,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "749bf88d67ff9ddf272dc48d82402dd61ea2812238dfca4feb1fd78440675456"
+hash = "3648ed55ffae5bc153c16b2d414925cc30165b5171aa0e2a146e5ba22366fcf1"
 metafile = true
 
 [[files]]
@@ -169,12 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "90cfb6a5fdd929c94421cd0674e2af68089e33a8e3965d7dec723ab00df2e94a"
-metafile = true
-
-[[files]]
-file = "mods/notenoughcrashes.pw.toml"
-hash = "9413d03007564d3eaaf8ec25eabe10d5e741ff0c68017c2d2c824a8ed9be18d3"
+hash = "9dbc20e8a4e9bd8c997c2af628640f8dcdd05fde6437afbacd630531735c1fcb"
 metafile = true
 
 [[files]]
@@ -209,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "44ff9922b86d4c7f8cd74da120536f0670dfa0584da0b03b7d53cd5d82690f2e"
+hash = "98636b823c117cc7fd28f3779b6de0c37141cfc753cf395bf08fe8ae67bb4b3c"
 metafile = true
 
 [[files]]
@@ -219,4 +204,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ee3866679cc972da85e7ea9e465363d37813a17862a24116507bdef8ac23c00f"
+hash = "ce6a3313adc96eebc96bd69c3cbca32da6d042f9f7ca1b204d3f3adebf382f9f"
