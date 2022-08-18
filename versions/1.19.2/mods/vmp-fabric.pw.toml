@@ -1,13 +1,13 @@
 name = "Very Many Players (Fabric)"
-filename = "vmp-fabric-mc1.19.2-0.2.0+beta.6.47-all.jar"
+filename = "vmp-fabric-mc1.19.2-0.2.0+beta.6.49-all.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/wnEe9KBa/versions/0.2.0+beta.6.47+1.19.2/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.6.47-all.jar"
+url = "https://cdn.modrinth.com/data/wnEe9KBa/versions/wvPISmOj/vmp-fabric-mc1.19.2-0.2.0%2Bbeta.6.49-all.jar"
 hash-format = "sha1"
-hash = "ad9a684655ba9fbce41d908e75078de2dffb3e3a"
+hash = "58f62227d9ec0edce53b4337023492e4be44c008"
 
 [update]
 [update.modrinth]
 mod-id = "wnEe9KBa"
-version = "7aEGuv0t"
+version = "wvPISmOj"

@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "f43c27518b62f2bd7644442f082b150b84db1dc3e83eb9f123cf5b3b7e4d9ebe"
+hash = "06302f0786b2eafa039a63acf71404cf1c44eb0af442486c0a2b5834a4d9a4f3"
 metafile = true
 
 [[files]]
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "823295dd4c22039809498d21a1e6eca6a0e0dab032c629d24c38d840b8b78240"
+hash = "f5d9d1a754f2bfd127f67246c4e3d1cdfbdf72555a1b33e54a9b121d92eaf266"
 metafile = true
 
 [[files]]

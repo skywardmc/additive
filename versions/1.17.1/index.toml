@@ -53,11 +53,6 @@ hash = "3f0192019774a90d6513d8ed9633c132e56ff71949b54f29401c536218a441d4"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "548cac19e11312dde406b85dc56da588e7a4a2799be9fbe53ccddd2e59e83332"
-metafile = true
-
-[[files]]
 file = "mods/colormatic.pw.toml"
 hash = "65f84c79f53212a3890c1d1c59650096d8980538fb59738782463156ac783873"
 metafile = true
@@ -79,7 +74,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "7e1fb41584ac85a61edb717e79b5e1733769f8713af3d5aa562f4cf5233bfc76"
+hash = "2b07736d6dd2208e395ba2cc8ddcf48cdb2696cda2162e3b9fdca33793f88fd8"
 metafile = true
 
 [[files]]
@@ -149,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "4c453dbbdf3a29e76a4aff446014907c74dd1361d179ccfebf60f14718e2f33b"
+hash = "a2eecc29a20e566595d9c6aab08708a3e1b27dc8f44f310c2586f988fc386511"
 metafile = true
 
 [[files]]
