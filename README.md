@@ -1,3 +1,5 @@
+<a name="readme-top"></a>
+<!-- PROJECT LOGO -->
 <div align="center">
   <a href="https://github.com/intergrav/Additive">
     <img src="docs/images/Additive Logo+Text.png" alt="Logo" height="75">
