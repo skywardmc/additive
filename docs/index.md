@@ -54,6 +54,11 @@ I stop supporting older versions over time, but it isn't mandatory to update as 
 
 LTS (Long-term support) versions are the last minor release of that Minecraft version's major release. This means that 1.16.5 would be the LTS release, not 1.16-1.16.4. LTS versions will be maintained for roughly a year or two before ending support.
 
+## 🍉 MelonCube
+Need a super-fast, reliable Minecraft server? MelonCube has your back! Use my code `devin` for 25% off your first month of any of their servers. Click this image for more information.
+
+[![MelonCube Image](https://www.meloncube.net/partners/custom-banners/fc383dd6-4bb3-424f-b4fb-f540acb27e8b.png)](https://meloncube.net/devin)
+
 # 👍 Thank you!
 Thank you **[CaffeineMC team](https://github.com/CaffeineMC)** for the wonderful optimization mods like Sodium and Lithium - this pack wouldn't exist without you all.
 
