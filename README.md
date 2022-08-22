@@ -7,8 +7,8 @@
   <p align="center">
     Simple, super-fast Optifine alternative modpack.
     <br />
-    <a href="https://github.com/intergrav/Additive/wiki"><strong>Explore the docs »</strong></a>
-    <br />
+    <!---<a href="https://github.com/intergrav/Additive/wiki"><strong>Explore the docs »</strong></a>
+    <br />-->
     <a href="https://github.com/intergrav/Additive/issues">Report Bugs</a>
     ·
     <a href="https://github.com/intergrav/Additive/issues">Request Features</a>
