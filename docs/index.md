@@ -28,7 +28,7 @@ There are two ways to install this pack.
 #### ⬇️ Basic
 This is a video that shows you how to install it through the basic way. Make sure you have all the dependencies (linked in the description of the video).
 
-This tutorial was made for Adrenaline, however you install it in the same way.
+This tutorial was made for Adrenaline, however you install it the same way.
 
 <div class="responsive">
   <iframe src="https://www.youtube.com/embed/9-hT8V_wCqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
