@@ -23,13 +23,19 @@ I try to update to newer Minecraft versions as **fast as possible**.
 
 ## ❓ Frequently Asked Questions
 ### 🔧 How do I install it?
-Here is a quick video that shows you how to install it. The process should be very similar on most launchers. **Make sure you have all the dependencies for it**! All are linked in the description of the video.
+There are two ways to install this pack.
 
-This tutorial was made for Adrenaline, but you install it the same way.
+#### ⬇️ Basic
+This is a video that shows you how to install it through the basic way. Make sure you have all the dependencies (linked in the description of the video).
+
+This tutorial was made for Adrenaline, however you install it in the same way.
 
 <div class="responsive">
   <iframe src="https://www.youtube.com/embed/9-hT8V_wCqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+#### 🔃 Auto-Updating
+Want to have your MultiMC instance automatically update on launch? Check out the [GitHub releases page](https://github.com/intergrav/Additive/releases) to learn more.
 
 ### 💡 Why Switch?
 > OptiFine was originally a great mod offering many quality of life improvements for player in the beginning. However, over the years, its benefits have dwindled and has caused many issues for modders. This is due to Minecraft's codebase improving over the years and OptiFine's aggressiveness towards replacing entire swaths of code while being closed source making it very difficult to figure out why OptiFine has broken another modder's mod. Also worth noting that OptiFine natively doesn't support Fabric and it's hard to maintain OptiFabric. - [LambdAurora](https://github.com/LambdAurora/optifine_alternatives)
