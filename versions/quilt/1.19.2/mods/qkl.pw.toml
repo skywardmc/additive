@@ -1,0 +1,13 @@
+name = "Quilt Kotlin Libraries"
+filename = "quilt-kotlin-libraries-0.1.2-MODFEST+kt.1.7.10+flk.1.8.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lwVhp9o5/versions/RFKK2wt2/quilt-kotlin-libraries-0.1.2-MODFEST%2Bkt.1.7.10%2Bflk.1.8.2.jar"
+hash-format = "sha1"
+hash = "2a8cb9c4cd42a5c0146df49c4a923b61a986a7c0"
+
+[update]
+[update.modrinth]
+mod-id = "lwVhp9o5"
+version = "RFKK2wt2"

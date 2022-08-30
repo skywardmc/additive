@@ -1,0 +1,13 @@
+name = "Mod Menu"
+filename = "modmenu-4.0.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/4.0.5/modmenu-4.0.5.jar"
+hash-format = "sha1"
+hash = "1acf6cadf20243d753705e2212d88f90670e49fd"
+
+[update]
+[update.modrinth]
+mod-id = "mOgUt4GM"
+version = "2Ys0a7JE"

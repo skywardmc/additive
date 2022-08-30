@@ -1,0 +1,13 @@
+name = "Puzzle"
+filename = "puzzle-1.4.0-1.18.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3IuO68q1/versions/1.4.0-1.18/puzzle-1.4.0-1.18.jar"
+hash-format = "sha1"
+hash = "979ad124b3e7030bb589eb7f3f72f65b7740e45f"
+
+[update]
+[update.modrinth]
+mod-id = "3IuO68q1"
+version = "R9FfGWqP"

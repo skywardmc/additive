@@ -1,0 +1,102 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/capes.json5"
+hash = "b0e11760190870b23a50e68018a3792e6ad3929302bb2917db21268a20f858af"
+
+[[files]]
+file = "config/cem.conf"
+hash = "c869b1e1cf73b7b0d5ca03e4657fdbed845d85ab5aca0449248fd144545ecfb7"
+
+[[files]]
+file = "config/entityculling.json"
+hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
+
+[[files]]
+file = "config/iris.properties"
+hash = "a9a6c0ecd319c9417e35b3b17f91de37075001803296dc6fab2a52f888a342c8"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "16e48fe05ad1fb0c4d363d2d35f9d2c23c6895d60ee29f9f6eaca81e4e4ba9e8"
+
+[[files]]
+file = "config/puzzle.json"
+hash = "6d9d65b9e92519e09931488219a9cb618e67bde4faf06c192e6243f3dcbc09fd"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "b41ffcbb5a3a65c822c3031ae1721ee445f64c46e4796298030342875d34038e"
+
+[[files]]
+file = "config/tr7zwDonorSettings.json"
+hash = "accf3ae12dbb30c807b81d59a5310784aef56bb992cbd287fd6117aaf144fcff"
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "686f0456d171ee699c5b646f3978a5aadfed52da5d70b52fc665c2003b2fe222"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "2b07736d6dd2208e395ba2cc8ddcf48cdb2696cda2162e3b9fdca33793f88fd8"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "c60a5d573f70afadc214395c106ad52456e507b8a873c16e6d0f5083fb0e8529"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "168508420b74de4e9620b16633385ab4ee2cba2825be47a3dc2887aef10cf9e0"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "3f216956fa906cfdfb32976d3a0b365d11c9c08294e50b0e413dfe6b96468bac"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "36f5d2c0ab96da2168fe913b79e368b9c0b4e2fcb212260d2f5f25cc6a94a1cc"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "85a872e9757226eb2a15bea121651b8ffc3eeff3de0d22504bbdf0fa0c9ce3c8"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "3529bfc10bf2849f7c551d0ea45597d5c9bb692f55f5f0616872d4c64f0862b2"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "dae4d7d589041714491346a8d29157674826455bb2fe40cebe1d8ad736dd0965"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "c638df7f3ffb0d22419665a504310c1b873868c9ddbaf6d8edd620dc842c9568"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "916d1c4125ab612768b50c1496aea1d9989d814064a5d89b78c8308c747697e4"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "677cc80d47b051565b0e7fe7b0c0b599fd30eb52df0951c8995da1720c2e3342"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "ce6a3313adc96eebc96bd69c3cbca32da6d042f9f7ca1b204d3f3adebf382f9f"
