@@ -1,3 +1,5 @@
+> Quilt versions may not contain as many mods as Fabric versions or can be buggy as Quilt is in beta. Keep this in mind when using those.
+
 Additive is a simple, super-fast Optifine alternative modpack. It has a ton of the features you know and love from Optifine, like shaders, great optimization, resource pack features, zoom, capes. This pack is way faster than Optifine, and can even reach up to ten times the framerate.
 
 ## ➕ Features
