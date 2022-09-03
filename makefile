@@ -8,7 +8,7 @@ refresh:
 	pw -b -d versions/quilt refresh
 update:
 	pw -b -d versions/fabric update --all
-	timeout 2
+	timeout 5
 	pw -b -d versions/quilt update --all
 export:
 	pw -b -d versions/fabric mr export
