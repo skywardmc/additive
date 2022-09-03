@@ -10,7 +10,6 @@ update:
 	pw -b -d versions/fabric update --all
 	timeout 2
 	pw -b -d versions/quilt update --all
-	timeout 2
 export:
 	pw -b -d versions/fabric mr export
 	pw -b -d versions/quilt mr export
