@@ -13,6 +13,10 @@ file = "config/entityculling.json"
 hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
 
 [[files]]
+file = "config/fastload.properties"
+hash = "d5d39233d392afb000aa2c6c4eba69a0cf65d0db28879fc90777a9bc90341693"
+
+[[files]]
 file = "config/iris.properties"
 hash = "a9a6c0ecd319c9417e35b3b17f91de37075001803296dc6fab2a52f888a342c8"
 
@@ -74,7 +78,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d96ccf7fd8c0bdebb83065907deaafd46b2ec9911cf91e4decd11932c871acd4"
+hash = "60975e510a1d1fb95b743c09e34415e263a1055cf1d2c99fcccecdb73ae73e9c"
 metafile = true
 
 [[files]]
@@ -119,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "fe9a2c05ccedaa54e58728e7ee1127305ca880076b668a426b50af3fbbff3ad3"
+hash = "0e0f192eea262fa968e1184534126fb06ef59e2a395aa3c81beae28fc009516d"
 metafile = true
 
 [[files]]
