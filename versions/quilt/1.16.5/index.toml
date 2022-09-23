@@ -44,7 +44,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "d96ccf7fd8c0bdebb83065907deaafd46b2ec9911cf91e4decd11932c871acd4"
+hash = "4ab8be3508f96a614cc4babd4541221e2a31709e437279865ba6be591240ffd3"
 metafile = true
 
 [[files]]
@@ -75,11 +75,6 @@ metafile = true
 [[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "082d202257610559228e6bea1d1068fe25eba87c306dc4142e874f118ac8949f"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "fe9a2c05ccedaa54e58728e7ee1127305ca880076b668a426b50af3fbbff3ad3"
 metafile = true
 
 [[files]]

@@ -58,7 +58,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "c47b4e6dea49ed224870b70e2101f7dfea59c63490cca1d5f5a1dd43b18c56ef"
+hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
 
 [[files]]
@@ -202,8 +202,13 @@ hash = "98636b823c117cc7fd28f3779b6de0c37141cfc753cf395bf08fe8ae67bb4b3c"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "f1b822298ccbb96ab43b054811b802080c3160db2168e7c795370779e8bc1b93"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.pw.toml"
-hash = "0558c653fc64ef54d493d0f20b20e2599ae70edcaf727af090ff098b9dd9fd64"
+hash = "2ef6bd2d5beb568877c9e9d379f59d7ce6fe0bff3bae958a1c65d17cce9a09fd"
 metafile = true
 
 [[files]]

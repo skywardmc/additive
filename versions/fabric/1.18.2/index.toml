@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7bc62af50be24f86bf8923bfa40797f58b9c2d2f4550dfa102cdc0952e160e2b"
+hash = "ff06ef14b5d3709b49635e5944a9383ade5294f50e70e628241d8c2332923bb3"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "1e6a58053654dac19601133b5260550bd833d681f70598af203e4e0d4da3b3d6"
+hash = "42653e0671bbbde6f2ac3fa3af3b7068b7c83f2d9f8091dbaa24c758464d7a19"
 metafile = true
 
 [[files]]

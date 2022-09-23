@@ -58,7 +58,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "c47b4e6dea49ed224870b70e2101f7dfea59c63490cca1d5f5a1dd43b18c56ef"
+hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
 
 [[files]]
@@ -88,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "82b6f9f3fb89cce2de6facd3fc6e5692bf1c4d2aa77d385ae0207bf84a71f871"
+hash = "af08de75e8df44bbfb72d18c628c7024db4f4020e7a5cf35a4730f9774b82905"
 metafile = true
 
 [[files]]
@@ -194,6 +194,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "d0b918869c86958f598461be71842ce350a36f09f54d9d467a27b65769220eec"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "f1b822298ccbb96ab43b054811b802080c3160db2168e7c795370779e8bc1b93"
 metafile = true
 
 [[files]]

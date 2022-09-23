@@ -58,7 +58,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "c47b4e6dea49ed224870b70e2101f7dfea59c63490cca1d5f5a1dd43b18c56ef"
+hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
 
 [[files]]
@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "7db65bc77910c1c7e2a9b195b61c7376d573940fd6c3c523c7ed48df1f8fe5b5"
+hash = "51eef241ebeb6d722ede502e5411027c327ea14b702c3db1612968bc572db66c"
 metafile = true
 
 [[files]]
@@ -88,12 +88,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "82b6f9f3fb89cce2de6facd3fc6e5692bf1c4d2aa77d385ae0207bf84a71f871"
+hash = "af08de75e8df44bbfb72d18c628c7024db4f4020e7a5cf35a4730f9774b82905"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "39cd67c3a2db03da10508144b40aa41310d2a81183b189bd8f7086f3f5b1d49d"
+hash = "049b71ecdbd76be84b4b2bd362aeb561e3d3c8b6415ec8726182631c3ef671e0"
 metafile = true
 
 [[files]]
@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "59c8274b76d6b09e5cb16939ed8adbe8e2d38eadc85682125d6a9ede6653bcd2"
+hash = "c3abf99ceae59c52190eff3132d949073ef39594ce38a0e90a98eca835a0efc4"
 metafile = true
 
 [[files]]
@@ -202,8 +202,13 @@ hash = "5290122207493b6350080792571bceb0038941ffe3a73779e4a78a60f5b9c113"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "f1b822298ccbb96ab43b054811b802080c3160db2168e7c795370779e8bc1b93"
+metafile = true
+
+[[files]]
 file = "mods/zoomify.pw.toml"
-hash = "0558c653fc64ef54d493d0f20b20e2599ae70edcaf727af090ff098b9dd9fd64"
+hash = "2ef6bd2d5beb568877c9e9d379f59d7ce6fe0bff3bae958a1c65d17cce9a09fd"
 metafile = true
 
 [[files]]
