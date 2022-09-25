@@ -92,6 +92,11 @@ hash = "af08de75e8df44bbfb72d18c628c7024db4f4020e7a5cf35a4730f9774b82905"
 metafile = true
 
 [[files]]
+file = "mods/exordium.pw.toml"
+hash = "5dc6f26eda0171997214c8557858b7f7e564a32d274931d8840e165c88d84729"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 hash = "90068106eae53049183a19b523d6b8cc4288b1868dcc94a76b1770064cdabf01"
 metafile = true

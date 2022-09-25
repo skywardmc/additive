@@ -87,6 +87,11 @@ hash = "d5d2668506ecae2f46db784d8e45dedf3591571949e911a235e689ac7bd6fd7b"
 metafile = true
 
 [[files]]
+file = "mods/exordium.pw.toml"
+hash = "c2c3da8949d36a6e371222471ad61c886a6ef309120c080bc492a62e6dd1526e"
+metafile = true
+
+[[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "80c10064a7bbee67ccf3833f6807590de392adb31749576e3689789c0cac9877"
 metafile = true
