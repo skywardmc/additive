@@ -13,6 +13,10 @@ file = "config/entityculling.json"
 hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
 
 [[files]]
+file = "config/exordium.json"
+hash = "b2caa9c1a2ff986d6f1816371c44989ffc7c0336f91475b9a6fcdc61fae9ef40"
+
+[[files]]
 file = "config/fastload.properties"
 hash = "d5d39233d392afb000aa2c6c4eba69a0cf65d0db28879fc90777a9bc90341693"
 

@@ -13,6 +13,10 @@ file = "config/entityculling.json"
 hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
 
 [[files]]
+file = "config/exordium.json"
+hash = "b2caa9c1a2ff986d6f1816371c44989ffc7c0336f91475b9a6fcdc61fae9ef40"
+
+[[files]]
 file = "config/fastload.properties"
 hash = "d5d39233d392afb000aa2c6c4eba69a0cf65d0db28879fc90777a9bc90341693"
 
@@ -58,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
+hash = "dfebd8072576c75a939f56cab83cabdf3c5828da7cdb814e97c272e6c0b8d006"
 metafile = true
 
 [[files]]
@@ -123,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "0e0f192eea262fa968e1184534126fb06ef59e2a395aa3c81beae28fc009516d"
+hash = "160f0ac828d362fb9bf522cbc50ab095f4d691c6723285416581b27945229284"
 metafile = true
 
 [[files]]

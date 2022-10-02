@@ -13,6 +13,10 @@ file = "config/entityculling.json"
 hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
 
 [[files]]
+file = "config/exordium.json"
+hash = "b2caa9c1a2ff986d6f1816371c44989ffc7c0336f91475b9a6fcdc61fae9ef40"
+
+[[files]]
 file = "config/iris.properties"
 hash = "a9a6c0ecd319c9417e35b3b17f91de37075001803296dc6fab2a52f888a342c8"
 

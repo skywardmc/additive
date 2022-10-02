@@ -13,6 +13,10 @@ file = "config/entityculling.json"
 hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
 
 [[files]]
+file = "config/exordium.json"
+hash = "b2caa9c1a2ff986d6f1816371c44989ffc7c0336f91475b9a6fcdc61fae9ef40"
+
+[[files]]
 file = "config/fastload.properties"
 hash = "d5d39233d392afb000aa2c6c4eba69a0cf65d0db28879fc90777a9bc90341693"
 
@@ -58,7 +62,7 @@ metafile = true
 
 [[files]]
 file = "mods/colormatic.pw.toml"
-hash = "0b9c8fa1e2dfa64f787a0562200f54bb5afc401196dac20a9886c0f92f575b5d"
+hash = "e1ae0274ae51f9ac63e47a7009ba183fa395e01a2b45be12cc9d53803bc20858"
 metafile = true
 
 [[files]]
@@ -88,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "c2c3da8949d36a6e371222471ad61c886a6ef309120c080bc492a62e6dd1526e"
+hash = "ef9ab1a9351ad20f6c5c061caa409d4024bcf8ad498dc4994d897ca1988c61ff"
 metafile = true
 
 [[files]]
@@ -158,12 +162,12 @@ metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "1a831cbe617a09d168824fdc5e4492e18f051f74689b8dbd6be4d91edbcbd896"
+hash = "54db897cb696867285ee42422e4e57ee9e30382541c5e7c85bdaa3324aae63fe"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "f0f4224d38fbb3f041412465e826ade26094914a20239cd597905cf9598704bd"
+hash = "07d75ca506fbe2c5e6a2077553b1f1873a90a9ef3316ea6bb88c5ed42435fdc1"
 metafile = true
 
 [[files]]
@@ -173,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "2ad443646863100af0f66138402e8cbfdf78ea565956d95d8e3e2b32c264d8a6"
+hash = "39269eb45ca79786c4eac3ede212feb85ccd90fe3e25ca0e4ab7e9fc1270d96e"
 metafile = true
 
 [[files]]
@@ -188,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "24c0cc93789e5168354d37f499b9a85d888fa227afbb8824944aa3b0a4d4cd9c"
+hash = "925527c4b8d5b1c218378deefa424cdf421004573865a1cfad1a7293647731cc"
 metafile = true
 
 [[files]]

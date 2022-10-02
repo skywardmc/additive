@@ -13,6 +13,10 @@ file = "config/entityculling.json"
 hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
 
 [[files]]
+file = "config/exordium.json"
+hash = "b2caa9c1a2ff986d6f1816371c44989ffc7c0336f91475b9a6fcdc61fae9ef40"
+
+[[files]]
 file = "config/fastload.properties"
 hash = "d5d39233d392afb000aa2c6c4eba69a0cf65d0db28879fc90777a9bc90341693"
 
@@ -93,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "5dc6f26eda0171997214c8557858b7f7e564a32d274931d8840e165c88d84729"
+hash = "2f20c0c59809a3072e764676ff2171e9d20494ed2255ea26a9af046f621154ef"
 metafile = true
 
 [[files]]
@@ -103,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
+hash = "dfebd8072576c75a939f56cab83cabdf3c5828da7cdb814e97c272e6c0b8d006"
 metafile = true
 
 [[files]]
@@ -119,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "87f056062378f276e55d07a577ff6c734bb9af9ea2b5591c424f7c381f82a552"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "b6c6a35ce75dccb711f68d382f29a4adc8e8e2b7f8f46529210382f17afa41b9"
 metafile = true
 
 [[files]]
@@ -188,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "82585384e2026e809e34368ac23e9a1e11918aa449529ce79903c03eb4cbbc2e"
+hash = "99c83e926faf4565a4a75f8666a9c68721c3effdeece027509e23c5d50395321"
 metafile = true
 
 [[files]]
@@ -203,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "5290122207493b6350080792571bceb0038941ffe3a73779e4a78a60f5b9c113"
+hash = "1c278c88ed5313785646982a6326a76fada2422db4b04cf82eeece59cdd89d4a"
 metafile = true
 
 [[files]]
