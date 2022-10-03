@@ -53,7 +53,7 @@ Yes, *you can*! Feel free to use this in any way you want! If you are making som
 If you want to talk about the pack or have any questions, please use the [Discord server](https://discord.gg/36Tv44cYte)! However, if you are asking for a feature to be added or giving a bug report, use the [issue tracker](https://github.com/intergrav/Additive/issues) instead. Thanks!
 
 ## ♻️ Versioning
-Adrenaline uses [Semantic Versioning 2.0.0](https://semver.org/).
+Additive uses [Semantic Versioning 2.0.0](https://semver.org/).
 
 Versions for older Minecraft releases will try to replicate the latest stable version. This makes it super simple, but older versions may have less features as many mods can be missing.
 
