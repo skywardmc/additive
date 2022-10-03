@@ -53,16 +53,13 @@ Yes, *you can*! Feel free to use this in any way you want! If you are making som
 If you want to talk about the pack or have any questions, please use the [Discord server](https://discord.gg/36Tv44cYte)! However, if you are asking for a feature to be added or giving a bug report, use the [issue tracker](https://github.com/intergrav/Additive/issues) instead. Thanks!
 
 ## ♻️ Versioning
-Modpack versions for older MC versions will try to replicate the latest stable version. This makes it super simple, but older versions may have **less features** as many mods can be missing.
+Adrenaline uses [Semantic Versioning 2.0.0](https://semver.org/).
 
-This goes for newer, alpha versions as well. However, they will continue to be updated with multiple alpha stages until it has the same mods as the previous version.
+Versions for older Minecraft releases will try to replicate the latest stable version. This makes it super simple, but older versions may have less features as many mods can be missing.
 
-For simplicity, I attempt to follow Minecraft's version naming scheme: **1**.**X**.**Y**.
-* **1** is just there. I don't know why, but it is.
-* **X** is the release. This means adding/removing mods. These won't be made too often.
-* **Y** is the patch for that release. This can be updating mods, changing config files, or any other small fix. These will be made often.
+This goes for newer, alpha versions as well. However, they will continue to be updated with multiple alpha stages until it has about the same mods as the previous version, which it will then be the stable version.
 
-I stop supporting older versions over time, but it isn't mandatory to update as they should still be very stable.
+I stop support for older versions over time, but it isn't mandatory to update as they should still be very stable.
 
 LTS (Long-term support) versions are the last minor release of that Minecraft version's major release. This means that 1.16.5 would be the LTS release, not 1.16-1.16.4. LTS versions will be maintained for roughly a year or two before ending support.
 
