@@ -117,7 +117,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "ff06ef14b5d3709b49635e5944a9383ade5294f50e70e628241d8c2332923bb3"
+hash = "689beb7c10f85f12f08d2b5198e02c8ef72bf3a5372e390d76c7412cbc807296"
 metafile = true
 
 [[files]]
@@ -192,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "925527c4b8d5b1c218378deefa424cdf421004573865a1cfad1a7293647731cc"
+hash = "cbb2bbd4aa11612d6715034bb030b0e1496e1c10c0cbf09de74dd5044cb8cb25"
 metafile = true
 
 [[files]]
