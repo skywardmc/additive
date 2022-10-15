@@ -1,5 +1,5 @@
 > **Warning**
-> 1.16.5 and 1.17.1 Quilt versions may be buggy or not work altogether. I recommend using a later Quilt version (≥1.18.2) or switching to Fabric for those. They are simply uploaded here for convenience.
+> 1.16.5 and 1.17.1 Quilt versions are not available as QFAPI isn't available for those versions. I recommend using a later Quilt version (≥1.18.2) or switching to Fabric for those. Extremely experimental versions for those are available the repository, however they are **not** tested and will likely break.
 
 > **Note**
 > Experiencing UI issues? Exordium may be the culprit. While it does have its great benefits, as it is beta software, it *may* cause issues, *especially* when using mods that modify UI. When trying to fix an issue, make sure to try disabling Exordium first.
