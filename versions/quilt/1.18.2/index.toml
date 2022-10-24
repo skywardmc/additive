@@ -51,6 +51,11 @@ hash = "0c76984563c7d1f4d08b94cd375d3507dec6e013ad7f7de1993718e50ce2b666"
 metafile = true
 
 [[files]]
+file = "mods/capes.pw.toml"
+hash = "f726e4e0b1481c9fcebabb78da8c50382ee7add661b38f820fb5b6ab6f5c0d0b"
+metafile = true
+
+[[files]]
 file = "mods/cem.pw.toml"
 hash = "727c319290b015a46f54f379fdb32b1a8eeb649c85bb7409fe3b9ffd3ebe5d22"
 metafile = true
@@ -96,13 +101,18 @@ hash = "ef9ab1a9351ad20f6c5c061caa409d4024bcf8ad498dc4994d897ca1988c61ff"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "6058946b7fb51a487cfdf61cba87562eda75ee38ebb16ae336c26fb24dd17c26"
+metafile = true
+
+[[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "80c10064a7bbee67ccf3833f6807590de392adb31749576e3689789c0cac9877"
 metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "90068106eae53049183a19b523d6b8cc4288b1868dcc94a76b1770064cdabf01"
+hash = "affd68e9c1f17994031a066f18788f63649099d8ebc0f131e5db49c89f1be8e6"
 metafile = true
 
 [[files]]
@@ -167,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "07d75ca506fbe2c5e6a2077553b1f1873a90a9ef3316ea6bb88c5ed42435fdc1"
+hash = "b8b8a60a1da87bb84af8236288d98b307f156551435bceceabbc61bb8fef0cd1"
 metafile = true
 
 [[files]]
@@ -192,7 +202,12 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "cbb2bbd4aa11612d6715034bb030b0e1496e1c10c0cbf09de74dd5044cb8cb25"
+hash = "54f57765ec22a3c0afc5b3071cc8868c4f62a8aa2a75afd987d138875cb49938"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "42653e0671bbbde6f2ac3fa3af3b7068b7c83f2d9f8091dbaa24c758464d7a19"
 metafile = true
 
 [[files]]
