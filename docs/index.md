@@ -6,6 +6,8 @@
 
 Additive is a simple, super-fast Optifine alternative modpack. It has a ton of the features you know and love from Optifine, like shaders, great optimization, resource pack features, zoom, capes. This pack is way faster than Optifine, and can even reach up to ten times the framerate.
 
+Here is [a video](https://www.youtube.com/watch?v=Zl7nzdbG1GI) by [BillyDaBongo](https://www.youtube.com/c/BillyDaBongo) that explains what Additive is, how to install it, and other modpacks like Simply Optimized. I highly recommend watching it!
+
 ## ➕ Features
 ### 🔥 Extreme Optimization!
 This pack is built off my performance modpack [Adrenaline](https://intergrav.github.io/Adrenaline/). It can reach up to **ten times** the framerate and has a few other performance fixes. Go check it out for more information.
