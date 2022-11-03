@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "80c10064a7bbee67ccf3833f6807590de392adb31749576e3689789c0cac9877"
+hash = "137880abf99255493a33f9e358b186334c025bc0dd66fd011303f5d0e0eebfaa"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "37b69a71c010cb7e4d10a84a7c0e44373566ddb19aaaf4428ff2bb9ade0692e1"
+hash = "e672a82c056e3aa8140bbdcdc82ccd7269133a830bcb880fa0b5fce9f42f2d3b"
 metafile = true
 
 [[files]]

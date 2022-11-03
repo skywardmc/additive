@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "59da146d66e2948dfbd203684937dfb822711a228bd505332b5a979678bedbbc"
+hash = "783c0415795fc4bea6d85315aac54d3a3f2770fcd02d66dad1f626b311f8bf4f"
 metafile = true
 
 [[files]]
@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "ae9db3e7b6c56961d1678cb5a56d53ccb4245d4e5e384ac36e3822c4922586e3"
+hash = "e406d8747258574f68ebb5b813b0086a0ad7d11786053c94a6692db044e3e28b"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "481ecdcaa4da3c8c13422e01c39a5c04666827fad40df86b95e0ca26e9d45706"
+hash = "b16ebfe8a98659a29b9102ee10530b16b9d635a9943e12d429fd967dd5584031"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7f4a8312d10e805cce174067450bb7045b55281cf8de37b0bedbf808a7ae6d31"
+hash = "ce0302a48e6287e497c3936f481287763509336fd5d4ce79b283fb51af710455"
 metafile = true
 
 [[files]]
