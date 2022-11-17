@@ -52,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "06302f0786b2eafa039a63acf71404cf1c44eb0af442486c0a2b5834a4d9a4f3"
+hash = "5d835694084133f2a925a8e73584dbb6059fbe7ed3b2fa8a9611169fff740acb"
 metafile = true
 
 [[files]]
@@ -62,17 +62,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "6058946b7fb51a487cfdf61cba87562eda75ee38ebb16ae336c26fb24dd17c26"
+hash = "2d6dd083a7b01b1035a52c09a088137b930ea6f0f8f28ae3e0ba23f05937e3ef"
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "48e442f44609898ca9df63e18f4c95f4af1532062d874fe5135d085ee0b69a30"
+hash = "16dea39efa9b01dbdf3eed9561f9d84daa33091af26f84242ea6cd5de533ec19"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "f1bb3ce4ca3619afcdcb8f69e7c63057c1f5f63c10b8f38579158bc01be9b396"
+hash = "51c317a3ab72589f7f7856a15421f6a52fe2fc73eb81a1b3dd3269dc92252262"
 metafile = true
 
 [[files]]
@@ -127,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "160f0ac828d362fb9bf522cbc50ab095f4d691c6723285416581b27945229284"
+hash = "d081b29136036489c8e50099564ce56ecf460bb9fd99a7f6e40800e8385da3e2"
 metafile = true
 
 [[files]]

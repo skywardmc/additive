@@ -61,6 +61,11 @@ hash = "3f0192019774a90d6513d8ed9633c132e56ff71949b54f29401c536218a441d4"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "548cac19e11312dde406b85dc56da588e7a4a2799be9fbe53ccddd2e59e83332"
+metafile = true
+
+[[files]]
 file = "mods/colormatic.pw.toml"
 hash = "65f84c79f53212a3890c1d1c59650096d8980538fb59738782463156ac783873"
 metafile = true
@@ -82,7 +87,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "2b07736d6dd2208e395ba2cc8ddcf48cdb2696cda2162e3b9fdca33793f88fd8"
+hash = "dfbfce9ccb8bbd40504678f3d0eb2eb59af882397a2e545c1049d0fbbefc5c2b"
 metafile = true
 
 [[files]]
@@ -92,12 +97,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "6058946b7fb51a487cfdf61cba87562eda75ee38ebb16ae336c26fb24dd17c26"
+hash = "2d6dd083a7b01b1035a52c09a088137b930ea6f0f8f28ae3e0ba23f05937e3ef"
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "e97a90568545fe8f2ca85b3de7a0ac499cb595ebe1236d0cc7f0af907a619403"
+hash = "0ab36c82447f30779acd2dd02110e58ced8e3b0cd7811c7864f6cb2363dd56bc"
 metafile = true
 
 [[files]]
@@ -157,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "7525fd8697bfc51ba46d57fcf79ad18bc09b4d4a6d50805dfb9b23525a18db35"
+hash = "1cb34f5dea9d14e6ce05358c6bceb566fd307ceaf7ecff5cddbd2d369ae1fa73"
 metafile = true
 
 [[files]]
