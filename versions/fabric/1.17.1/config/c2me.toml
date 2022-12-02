@@ -1,0 +1,77 @@
+
+# Configuration for no-tick view distance
+[noTickViewDistance]
+	# (Default: false) Whether to use compatibility mode to send chunks 
+	# This may fix some mod compatibility issues
+	compatibilityMode = false
+	# (Default: 6) No-tick view distance updates per tick 
+	# Lower this for a better latency and higher this for a faster loading
+	updatesPerTick = 6
+	# (Default: false) Weather to enable no-tick view distance
+	enabled = true
+	# (Default: 12) Minimum no-tick view distance value
+	viewDistance = 12
+
+# Configuration for vanilla worldgen optimizations
+[vanillaWorldGenOptimizations]
+	# (Default: true) Whether to enable End BiomeCache to accelerate The End worldgen 
+	# This is included in lithium-fabric 
+	# (may cause incompatibility with other mods)  
+	# INCOMPATIBILITY: Set to false forcefully by: lithium
+	useEndBiomeCache = "default"
+	# (Default: true) Whether to enable this feature 
+	# (may cause incompatibility with other mods)
+	enabled = true
+
+# Configuration for async io system
+[asyncIO]
+	# (Default: true) Whether to enable this feature
+	enabled = true
+	# (Default: 2) IO worker executor parallelism
+	serializerParallelism = 2
+
+# Configuration for threaded world generation
+[threadedWorldGen]
+	# (Default: true) Whether to enable this feature
+	enabled = true
+	# (Default: 4) World generation worker executor parallelism
+	parallelism = 4
+	# (Default: true) Whether to allow feature generation (world decorations like trees, ores and etc.) run in parallel 
+	# (may cause incompatibility with other mods)
+	allowThreadedFeatures = true
+	# (Default: false) Whether to allow reducing lock radius 
+	# (may cause incompatibility with other mods)
+	reduceLockRadius = false
+	# (Default: false) Whether to enable global BiomeCache to accelerate worldgen 
+	# This increases memory allocation 
+	useGlobalBiomeCache = false
+
+# Configuration for general optimizations
+[generalOptimizations]
+	# (Default: true) Whether to let async chunk request no longer block server thread 
+	# (may cause incompatibility with other mods) 
+	optimizeAsyncChunkRequest = true
+	# (Default: -1) Defines which chunk compression should be used 
+	# -1 for Vanilla default (also prevents mixin modifying vanilla default  
+	# from being applied) 
+	# 1  for GZip (RFC1952) (Vanilla compatible) 
+	# 2  for Zlib (RFC1950) (Vanilla default) (Vanilla compatible) 
+	# 3  for Uncompressed (Fastest, but higher disk usage) (Vanilla compatible) 
+	#  
+	# Original chunk data will still readable after modifying this option  
+	# as this option only affects newly stored chunks 
+	# Other values can result in crashes when starting minecraft  
+	# to prevent further damage
+	#
+	chunkStreamVersion = -1
+
+# Configuration for clientside functions
+[clientSide]
+
+	# Configuration for modifying clientside max view distance
+	[clientSide.modifyMaxVDConfig]
+		# (Default: true) Weather to enable c2me clientside features
+		enabled = true
+		# (Default: 64) Max render distance allowed in game options
+		maxViewDistance = 64
+
