@@ -59,7 +59,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "0c76984563c7d1f4d08b94cd375d3507dec6e013ad7f7de1993718e50ce2b666"
+hash = "226439a19abbd3b519203d0c127c6e8d76abc16725da12ecaf323bbb5eaa6afe"
 metafile = true
 
 [[files]]
@@ -119,12 +119,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "59f92984efb66cd01949e5e8c81437167333896f5abffcaeff26f4509cb4ccc3"
+hash = "6ccadd013b244e75b03e9b6cb81eecc50cbfe29d1afe3cd5af8cb0633b195555"
 metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "07c750ab2394a9eaa5af526def7bc131fa1de7481284eb976266cb55df61c74b"
+hash = "96716d4fb76311add70d40d7cceadd69c7bbde09b1b5db95ab8b0f3d5280b9d5"
 metafile = true
 
 [[files]]
@@ -139,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "9262ab42db74495bf72e4d1bfc983dfeb45f321e244ed5321d0fcb1f89136953"
+hash = "2f72a8e57365c062374228498371bcf51323553c317ebe14896c83c0e8408b62"
 metafile = true
 
 [[files]]
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "9009a697370bb3798834b690eda2c418799e4e7bd4f3439cf767bbf0cd345ab3"
+hash = "9480f9e11e91eb82ba616c5c622c218d7b7ceff6599a3348d557eb1a1ddd41f9"
 metafile = true
 
 [[files]]
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "8a0d9c1e08f27ed40e88333b3a36dd4af3df94b1848cb143e7f22d28f42077d1"
+hash = "636d283fb68d03418346df003b2b264b498856cc29869bbbff865df0620c8166"
 metafile = true
 
 [[files]]

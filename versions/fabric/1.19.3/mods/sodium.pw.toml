@@ -1,0 +1,13 @@
+name = "Sodium"
+filename = "sodium-fabric-mc1.19.3-0.4.5+build.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AANobbMI/versions/mnEhtGuH/sodium-fabric-mc1.19.3-0.4.5%2Bbuild.19.jar"
+hash-format = "sha1"
+hash = "6117b665ad2054c8495c925b50da409f15330bef"
+
+[update]
+[update.modrinth]
+mod-id = "AANobbMI"
+version = "mnEhtGuH"

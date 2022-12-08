@@ -1,0 +1,13 @@
+name = "FerriteCore"
+filename = "ferritecore-5.1.0-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uXXizFIs/versions/GHcKib6J/ferritecore-5.1.0-fabric.jar"
+hash-format = "sha1"
+hash = "4c45e0e8981374d6c98304c3de90e813eb930673"
+
+[update]
+[update.modrinth]
+mod-id = "uXXizFIs"
+version = "GHcKib6J"

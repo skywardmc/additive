@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "16dea39efa9b01dbdf3eed9561f9d84daa33091af26f84242ea6cd5de533ec19"
+hash = "fdf9c72308636ebeaab3ddf71214938ab091cfc97aec59a05903fafa3e3bdf5a"
 metafile = true
 
 [[files]]
@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e0a7e6d930e2a2184f8304ab87926b3c355d7ef73ab9c4d9e592a2334b659312"
+hash = "ac7ceb740419d62d6ef9c2f9af2cdae2f13476b0ad445d77a6e922feb5b40f33"
 metafile = true
 
 [[files]]

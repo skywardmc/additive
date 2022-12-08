@@ -1,0 +1,13 @@
+name = "Capes"
+filename = "Capes-1.4.5+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/89Wsn8GD/versions/ic9rDGCw/Capes-1.4.5%2B1.19.jar"
+hash-format = "sha1"
+hash = "ab6cc2bce19f9e4c9620afbe9b5916ff928e44d7"
+
+[update]
+[update.modrinth]
+mod-id = "89Wsn8GD"
+version = "ic9rDGCw"
