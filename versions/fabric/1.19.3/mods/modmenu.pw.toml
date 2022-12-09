@@ -1,0 +1,13 @@
+name = "Mod Menu"
+filename = "modmenu-5.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/IPLgxPn7/modmenu-5.0.1.jar"
+hash-format = "sha1"
+hash = "cb36d0c9c177b7b03bbfcf216bfa6489ddf0442b"
+
+[update]
+[update.modrinth]
+mod-id = "mOgUt4GM"
+version = "IPLgxPn7"

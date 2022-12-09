@@ -58,6 +58,11 @@ hash = "73386e4a41baab1188f2c594ac9efad42ccbb3c02934d21cc86461b616121954"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "0334d043294f3ca4f0bfec9d2124aed7ec0e62621f2bf9f17f83eecd43d5ab73"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "eaba2f41f04c306118190beb2a2bf4a44263e0196a106b9c8a9bfddff038afab"
 metafile = true
@@ -84,7 +89,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "a5c59c3e730a90d86c9fcc59a36eeed58235826cd6630d208dd1422b3d4f0727"
+hash = "e241e62d3b1cd5ca81da53645b6a1b98f8a5d5488a659f78967570e5810f103a"
 metafile = true
 
 [[files]]
@@ -99,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "bea1b0d18f65d7a0c588393f69750f04c12f37c0e62c393c16b2234f8faed4c7"
+hash = "35430da98294d5f94636277bf9705ada157eb6122d0e8272f5c3cb6ef76ebfd2"
 metafile = true
 
 [[files]]
@@ -114,12 +119,17 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "988b9008e9e4a565a41242add714af08e3cd726c64af452ce1cbec6b8b3e7381"
+hash = "feaedf6b6d73530c0289d9c7aa4149823343d2a7f9893f7b81e8c7c003763f31"
 metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "10991fca6df3f7d8d1d4898dae042adb5b4a365d4fd3f6b136f1456ab90bd6f8"
 metafile = true
 
 [[files]]
@@ -139,12 +149,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d6acef9e3fc0cacaa333d8e7a16eea4d5c08b5281cb4a765e8ac370b6a24210d"
+hash = "d9b027d73943feb339c24045c37a36a69198bbffb9511978578f76cfb96b3bd3"
 metafile = true
 
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "fc45b583ec8ca686b666c2cdaaab32c2dc013ce491bfbffa4b5fc20b4c758a70"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "0c6a9936a83bf29d848ad9eaef31e210e7ce9f9ab81d29707fe7c8f4659ba499"
 metafile = true
 
 [[files]]
