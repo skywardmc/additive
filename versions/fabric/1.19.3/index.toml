@@ -73,6 +73,11 @@ hash = "b4ac16e8e0113ff8be8ec0de146d94c104bed2cb27b9ffcf1567c460a575b27e"
 metafile = true
 
 [[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "49e3fdd3f75499cbc49911fa908f0bef1b4e67b7e7e570d76f5cb1be6ccc4e98"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "2e20eadd5eaff792d5e57e3e7c5a9df75de786c100f185d9434c08560588d389"
 metafile = true
@@ -89,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "e241e62d3b1cd5ca81da53645b6a1b98f8a5d5488a659f78967570e5810f103a"
+hash = "9e71edb43e4b22316125d47972c0853317c4eb54a6dd4a8e0bacc5a3e946f00c"
 metafile = true
 
 [[files]]
@@ -100,6 +105,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "3d3aeba8c78ad473c8064334c2b4d1c52cfc514640b3c03a00b66e0552f21967"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "77454bd9cdca6ffd16d96d445021360cbc669481d17abf06bbe1e672d431998a"
 metafile = true
 
 [[files]]
@@ -124,12 +134,17 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
+hash = "5b43c0fc6904ad4480c8ed596411c6e24172f8320ccd63de97b4ce2e7e0f90a5"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "10991fca6df3f7d8d1d4898dae042adb5b4a365d4fd3f6b136f1456ab90bd6f8"
+hash = "e776fe49fb7af0a6d9d719cb966195c13a818619156cc96c9397d3d48445fa4a"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "02ac800325ddb635da1bb655111c49eda3d03880d175cb72c99e84e412454105"
 metafile = true
 
 [[files]]
@@ -159,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "0c6a9936a83bf29d848ad9eaef31e210e7ce9f9ab81d29707fe7c8f4659ba499"
+hash = "65796e5c368fb3aca61cb7e1e3a74c9c8232ae03685c74c0b817af1c4a6f52ea"
 metafile = true
 
 [[files]]
