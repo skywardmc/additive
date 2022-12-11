@@ -78,6 +78,11 @@ hash = "49e3fdd3f75499cbc49911fa908f0bef1b4e67b7e7e570d76f5cb1be6ccc4e98"
 metafile = true
 
 [[files]]
+file = "mods/exordium.pw.toml"
+hash = "4e2a60e26cb6760c58dd2ed193f071c430b76cb542ebda0394cfacd220c12362"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
 metafile = true
@@ -89,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "9e71edb43e4b22316125d47972c0853317c4eb54a6dd4a8e0bacc5a3e946f00c"
+hash = "3242f1d8acfbedaade654c0046057872f986c4c38edd9358357ad1d2c6ad2766"
 metafile = true
 
 [[files]]
@@ -139,7 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "02ac800325ddb635da1bb655111c49eda3d03880d175cb72c99e84e412454105"
+hash = "65513ba49ecda39896881a71ebe2557c761a2a2d91d785ecd504df2b5f5e3d94"
 metafile = true
 
 [[files]]
@@ -179,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "b650438d209f299057f06e6ea1709139b010da9c1d264a40612e7ed203365760"
+hash = "453f661d4bc6418ba4ed533c944b9dc1036682a846aca05aeaa2d54e4d5b2805"
 metafile = true
 
 [[files]]
