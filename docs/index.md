@@ -34,13 +34,9 @@ I try to update to newer Minecraft versions as **fast as possible**.
 There are two ways to install this pack.
 
 #### ⬇️ Basic
-This is a video that shows you how to install it through the basic way. Make sure you have all the dependencies (linked in the description of the video).
+[This is a video that shows you how to install it through the basic way](https://youtu.be/9-hT8V_wCqw). Make sure you have all the dependencies (linked in the description of the video).
 
 This tutorial was made for Adrenaline, however you install it the same way.
-
-<div class="responsive">
-  <iframe src="https://www.youtube.com/embed/9-hT8V_wCqw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
 
 #### 🔃 Auto-Updating
 Want to have your MultiMC instance automatically update on launch? Check out the [GitHub releases page](https://github.com/intergrav/Additive/releases) to learn more.
