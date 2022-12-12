@@ -67,7 +67,7 @@ Need a super-fast, reliable Minecraft server? MelonCube has your back! Use my co
 [![MelonCube Image](https://www.meloncube.net/partners/custom-banners/fc383dd6-4bb3-424f-b4fb-f540acb27e8b.png)](https://meloncube.net/devin)
 
 # 👍 Thank you!
-Thank you **[CaffeineMC team](https://github.com/CaffeineMC)** for the wonderful optimization mods like Sodium and Lithium - this pack wouldn't exist without you all.
+Thank you **[CaffeineMC team](https://github.com/CaffeineMC)** and contributors for the wonderful optimization mods like Sodium and Lithium - this pack wouldn't exist without you all.
 
 Thank you amazing **modders** for developing the other mods in this pack - it helps quite a lot.
 
