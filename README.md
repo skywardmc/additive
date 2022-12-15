@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/intergrav/Additive">
-    <img src="docs/images/Additive Logo+Text.png" alt="Logo" height="75">
+    <img src="https://raw.githubusercontent.com/intergrav/Branding/main/additive/additive_textlogo_256h.png" alt="Logo" height="75">
   </a>
   <br />
   <br />
