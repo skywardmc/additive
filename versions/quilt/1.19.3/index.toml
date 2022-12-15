@@ -59,12 +59,17 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "0334d043294f3ca4f0bfec9d2124aed7ec0e62621f2bf9f17f83eecd43d5ab73"
+hash = "59c604518591548ffc26ec62678dc33eccddf6a9fc80237102ff22391f5b5dca"
 metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "eaba2f41f04c306118190beb2a2bf4a44263e0196a106b9c8a9bfddff038afab"
+hash = "102baae65f09499fe9881590b64e8f12cbbac22c4b069c437fd200478cd0da64"
+metafile = true
+
+[[files]]
+file = "mods/cem.pw.toml"
+hash = "dbcee008ecbc2c7727e46edb7650ad8cc789c602e365422f195c252b3af5e0c9"
 metafile = true
 
 [[files]]
@@ -88,13 +93,18 @@ hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
 metafile = true
 
 [[files]]
+file = "mods/fabricskyboxes-interop.pw.toml"
+hash = "5b528f7cf79d961b93a1efa0bddd033cef94e32575828031e47942ce27d6318f"
+metafile = true
+
+[[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "21696baf86e84daf3b3db06e3a9138dc72f41f6aa93cbb1a77ca71b5f859197f"
 metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "3242f1d8acfbedaade654c0046057872f986c4c38edd9358357ad1d2c6ad2766"
+hash = "d80621b973970e9d4832aba25af3d7e500111a74ca842fdd585dedd5ebc5c38a"
 metafile = true
 
 [[files]]
@@ -144,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "65513ba49ecda39896881a71ebe2557c761a2a2d91d785ecd504df2b5f5e3d94"
+hash = "2fa9122057807319cd0c9f4e6489566bb1fbc4934d4ba24b955ac06fa2101a53"
 metafile = true
 
 [[files]]
@@ -184,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "453f661d4bc6418ba4ed533c944b9dc1036682a846aca05aeaa2d54e4d5b2805"
+hash = "acf2076ba440f421f3447041d97169c09fd9abd99ec59250a5bfe75ea72d02f0"
 metafile = true
 
 [[files]]

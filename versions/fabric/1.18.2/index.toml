@@ -118,13 +118,18 @@ hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
 metafile = true
 
 [[files]]
+file = "mods/fabricskyboxes-interop.pw.toml"
+hash = "81c22652f13f419c12abaa24b3816d24c67b961aa5bee3cebbea0ccebf7edc8c"
+metafile = true
+
+[[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "6ccadd013b244e75b03e9b6cb81eecc50cbfe29d1afe3cd5af8cb0633b195555"
 metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "d44c64f40517c27c49c2b3abae436681149bcd7c0eb13cf94c60994616d20dcc"
+hash = "9058f802782399b8d0d1b9c6a2839f8fc0ea8da6718146b4678ff173e96c1c4c"
 metafile = true
 
 [[files]]
