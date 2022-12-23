@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "9058f802782399b8d0d1b9c6a2839f8fc0ea8da6718146b4678ff173e96c1c4c"
+hash = "fb8c68a28691ad8c54e45d4d5777e210d8efecf2075280bc3ee37ef0eaf92b0d"
 metafile = true
 
 [[files]]
@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "cb6971789015a99f42466ba514753d33eb887c602864b614936fc6d39e0e25be"
+hash = "eb43d1152713f0a0c568bb566d451a276e92cb86ec97918468ad0a62cb416658"
 metafile = true
 
 [[files]]
@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "636d283fb68d03418346df003b2b264b498856cc29869bbbff865df0620c8166"
+hash = "c111ea750b0dbd74bfc04f249c07fe7fec151c6e7de28c63e32713c7966d3cb5"
 metafile = true
 
 [[files]]

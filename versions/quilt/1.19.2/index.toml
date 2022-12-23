@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "3d3aeba8c78ad473c8064334c2b4d1c52cfc514640b3c03a00b66e0552f21967"
+hash = "a2b3438f74269aefff711834dc43cb7b8e4b28347fd1922a0e27465d231a7995"
 metafile = true
 
 [[files]]
@@ -184,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "db19edc58c7779aba173e9aae60a550f16535f9395046afc870982157aaedb5a"
+hash = "d7b75ebd1b86bc99af1c6e24857f98c697d9efc1998572f4d6a6f8aca679208b"
 metafile = true
 
 [[files]]
@@ -209,7 +209,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "09a2246cb32a1b13e94e264d53429e8fdf5bc1d6444bc4112f9f28b971f9dc54"
+hash = "13a974dccf1da0cc52326355ebea5004a6a5d1dd2098d157b418045c04a747c9"
 metafile = true
 
 [[files]]
@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "64a7d2034f46aa465709d7af2ff7771f632d03516d6f2897a942fd5fd8145fb2"
+hash = "1fa60ac650ff3c38048d95b97366fcbf2a42d5dd92f1dd93b55e0cf58d2248e7"
 metafile = true
 
 [[files]]
