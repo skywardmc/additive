@@ -1,13 +1,13 @@
 name = "Sodium Extra"
-filename = "sodium-extra-0.4.15+mc1.19.2-build.85.jar"
+filename = "sodium-extra-0.4.16+mc1.19.2-build.90.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/Bua36tz2/sodium-extra-0.4.15%2Bmc1.19.2-build.85.jar"
+url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/MTxUvPFz/sodium-extra-0.4.16%2Bmc1.19.2-build.90.jar"
 hash-format = "sha1"
-hash = "3fe4e5fde5deb39d4a5531ace18fa2ccc7d93fdb"
+hash = "39a06ef409c407304dd9581b3f2d6537ecd5b63d"
 
 [update]
 [update.modrinth]
 mod-id = "PtjYWJkn"
-version = "Bua36tz2"
+version = "MTxUvPFz"

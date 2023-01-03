@@ -104,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "c0e3ace43d5d8c571177b3efa7d6e77427e6a9c3bd50e59ab5dab9ba228e2b09"
+hash = "7a358aa4d36d3db8ae088ecd553836a4963278de118c2f469df93cf35e070661"
 metafile = true
 
 [[files]]
@@ -114,7 +114,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
+hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
 metafile = true
 
 [[files]]
@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "fb8c68a28691ad8c54e45d4d5777e210d8efecf2075280bc3ee37ef0eaf92b0d"
+hash = "a013b29b9971b0e7817280a84c0237d8d9a65a60708c5e894754ade7ced0c9a9"
 metafile = true
 
 [[files]]
@@ -144,12 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "2f72a8e57365c062374228498371bcf51323553c317ebe14896c83c0e8408b62"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
+hash = "3108487e76960f8e1cb70cccb973b88137f362cdf11a667bbc3208c44722fe8b"
 metafile = true
 
 [[files]]
@@ -204,7 +199,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "eb43d1152713f0a0c568bb566d451a276e92cb86ec97918468ad0a62cb416658"
+hash = "ee3aa9ab24522ccb8cbfcc4ceacab517416594c9ee93e68f82a00b56792e1c3e"
 metafile = true
 
 [[files]]
@@ -215,11 +210,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "722031c0ae5d2de71783d6c4bfbf1c5cd25c65e55cb42d8bb4f7cadf478c4368"
-metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "c111ea750b0dbd74bfc04f249c07fe7fec151c6e7de28c63e32713c7966d3cb5"
 metafile = true
 
 [[files]]

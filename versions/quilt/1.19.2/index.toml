@@ -99,7 +99,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "2516d3f962c3ba80990fd6db90adacbd764b6099dbfc0af4e233c6e685bf5448"
+hash = "2e6f4a9af301eaa3ee7124c59f711a70d5e38260704f30fc79be735e7b1024da"
 metafile = true
 
 [[files]]
@@ -109,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
+hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
 metafile = true
 
 [[files]]
@@ -124,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "a5c59c3e730a90d86c9fcc59a36eeed58235826cd6630d208dd1422b3d4f0727"
+hash = "00960cdd63d16c9a2ca9f1e3a9c3aa79d789c0284fb19091ba4b8841a7f5def5"
 metafile = true
 
 [[files]]
@@ -134,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a2b3438f74269aefff711834dc43cb7b8e4b28347fd1922a0e27465d231a7995"
+hash = "d5f2a025813192b3782e7fbeb1223fe28b71bd4120ffb3b0d1ec7df6bcf8c569"
 metafile = true
 
 [[files]]
@@ -144,12 +144,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b6567c077d73ed0956dcd849e5875ada50435322cddc1b7db9595a6884ef5a08"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
+hash = "b27773505b8fcfb4dd88dbc5b3cea9c5dfb3d9fac0cb4d91f4b8ccbde7a275ad"
 metafile = true
 
 [[files]]
@@ -159,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "8fb914c75a06a677721dd1fc880606d790886be9e0b392820dcecb9bb56e0786"
+hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
 metafile = true
 
 [[files]]
@@ -184,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "d7b75ebd1b86bc99af1c6e24857f98c697d9efc1998572f4d6a6f8aca679208b"
+hash = "133ec9cccfd238b4ce6bd5b95dcf70a9603c86d7c22a347c483925b34425fbb5"
 metafile = true
 
 [[files]]
@@ -194,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d6593b7ec2735cf3867d1d01d29b8adfb3a24e93932022ea299f977e7a81dedd"
+hash = "b39a29623977769f92afcebfdcfa95d71acb2d513b4611a9462c0964b2f30294"
 metafile = true
 
 [[files]]
@@ -209,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "13a974dccf1da0cc52326355ebea5004a6a5d1dd2098d157b418045c04a747c9"
+hash = "8da0d4c285e7e57aee3f08ab4e268d04518704ace4060744f042aef3a7f6bc50"
 metafile = true
 
 [[files]]
@@ -220,11 +215,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "fc45b583ec8ca686b666c2cdaaab32c2dc013ce491bfbffa4b5fc20b4c758a70"
-metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "1fa60ac650ff3c38048d95b97366fcbf2a42d5dd92f1dd93b55e0cf58d2248e7"
 metafile = true
 
 [[files]]

@@ -22,5 +22,8 @@
   },
   "notifications": {
     "hide_donation_button": true
+  },
+  "workarounds": {
+    "issue1486_hide_window_title_to_evade_nvidia_drivers": true
   }
 }

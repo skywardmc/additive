@@ -46,7 +46,7 @@ hash = "6d9d65b9e92519e09931488219a9cb618e67bde4faf06c192e6243f3dcbc09fd"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "f2491c17a592a456453a04c9d99ca53d5ad3dfd2dd797a18ad2bd210d24d5d87"
+hash = "9cd0cbba71602b24faac5efe6142eb3a7bb56eeb82fe02aa3764c1dd13e86181"
 
 [[files]]
 file = "config/tr7zwDonorSettings.json"
@@ -73,13 +73,18 @@ hash = "dbcee008ecbc2c7727e46edb7650ad8cc789c602e365422f195c252b3af5e0c9"
 metafile = true
 
 [[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "fd235eacb6d28aae0ebdfa0de95ac33e4f1a6ec67e16fe8074153665b3b0f55a"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "b4ac16e8e0113ff8be8ec0de146d94c104bed2cb27b9ffcf1567c460a575b27e"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "49e3fdd3f75499cbc49911fa908f0bef1b4e67b7e7e570d76f5cb1be6ccc4e98"
+hash = "d2a9294a04c3aecd0d7bc826dc22a02fcc8440d5efe688ab423cf62a85a79dbf"
 metafile = true
 
 [[files]]
@@ -89,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
+hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
 metafile = true
 
 [[files]]
@@ -104,7 +109,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "3a61caf19b77679122ea177d6497db2b44145e98be1394ece96956b2c0f34420"
+hash = "15b6b396301b255a6f7533af0ff4b14944c8c46980b6029775fc1d82600b942a"
 metafile = true
 
 [[files]]
@@ -114,22 +119,22 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a2b3438f74269aefff711834dc43cb7b8e4b28347fd1922a0e27465d231a7995"
+hash = "a10025e6b0dbc7cbed5f6d03c44fec87d8aea638cf321e78a9525dc87b6475e2"
 metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "77454bd9cdca6ffd16d96d445021360cbc669481d17abf06bbe1e672d431998a"
+hash = "c3381dfd35efab2db69a3e90c1e57eb51ce7503a48a18d9713a927d2c64e51a9"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "35430da98294d5f94636277bf9705ada157eb6122d0e8272f5c3cb6ef76ebfd2"
+hash = "469755d5634c20e7e809ff86066d37a3b867c8223d7c584d663aec1d2deea843"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
+file = "mods/lambdynamiclights.pw.toml"
+hash = "3bca5a31f4a469ca2c833cab5b87093ce809c2b599d6f93c19f78b69b78828a5"
 metafile = true
 
 [[files]]
@@ -158,8 +163,13 @@ hash = "0db264018c25e9c85d32e5b510ac12274616f44ee51841e0118c24b320e167b5"
 metafile = true
 
 [[files]]
+file = "mods/puzzle.pw.toml"
+hash = "9f099a192392ee51ed679dad76f74806cf1c2fa8c8a37ae015f22c208cfa8236"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
-hash = "08d0b0f3ef1c44bed3b3acca5d95960d3d71055c2c8f103c036d3823069f3187"
+hash = "9ecb7fc18ecb0a55843677d4ac0cc6886faeb3ded15a16368828e7aacdb6b166"
 metafile = true
 
 [[files]]
@@ -174,12 +184,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "a55efe201deb7eb0028776d3e219936f48084f9050703eff76da03926d1a850d"
+hash = "c253e367bc570cbdcad5cd5ee759a918548bb2e9c641b8a460a73bc637d79b74"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d9b027d73943feb339c24045c37a36a69198bbffb9511978578f76cfb96b3bd3"
+hash = "43b0863e9253f01fad40411c5f4f3bf873882bf3bc4a3c4bc9e83f8aa796a9bd"
 metafile = true
 
 [[files]]
@@ -188,13 +198,8 @@ hash = "fc45b583ec8ca686b666c2cdaaab32c2dc013ce491bfbffa4b5fc20b4c758a70"
 metafile = true
 
 [[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "930afd91b92eb34ec0706647028327674fa7ada4a4395e8b7dca1e4e1c4d839c"
-metafile = true
-
-[[files]]
 file = "mods/yacl.pw.toml"
-hash = "acf2076ba440f421f3447041d97169c09fd9abd99ec59250a5bfe75ea72d02f0"
+hash = "6150fd8b9eef240bac21d1f33781a439763aff00d620caa7c3a4345147ab3566"
 metafile = true
 
 [[files]]
