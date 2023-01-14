@@ -1,5 +1,5 @@
 version:3105
-enableVsync:true
+enableVsync:false
 entityShadows:false
 renderDistance:12
 simulationDistance:5
