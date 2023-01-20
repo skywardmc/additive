@@ -2,7 +2,7 @@
 > 1.16.5 and 1.17.1 Quilt versions are not available as QFAPI isn't available for those versions. I recommend using a later Quilt version (≥1.18.2) or switching to Fabric for those.
 
 > **Note**
-> Experiencing UI issues? Exordium may be the culprit. While it does have its great benefits, as it is beta software, it *may* cause issues, *especially* when using mods that modify UI. When trying to fix an issue, make sure to try disabling Exordium first.
+> Experiencing UI issues? Exordium or ImmediatelyFast may be the mod causing it. While they do have great benefits, they *may* cause issues, *especially* when using mods that modify UI. When trying to fix an issue, make sure to try disabling either of those first.
 
 Additive is a simple, super-fast Optifine alternative modpack. It has a ton of the features you know and love from Optifine, like shaders, great optimization, resource pack features, zoom, capes. This pack is way faster than Optifine, and can even reach up to ten times the framerate.
 
