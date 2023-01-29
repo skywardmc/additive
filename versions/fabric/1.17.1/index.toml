@@ -126,12 +126,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "e41428f34e388501fccdc7f30bedfb769618d6df85c15d3873c8a9fbf0b3d780"
+hash = "bb284a95fb5a36f01120e91d502ca8d2c0486b4fc71daa128e009bc9a620b4d3"
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "1941a584dcca1ceaa4e5d9db258eb4e4d6ca584f419500dffffc2ecdac2a0a5d"
+hash = "0470abf725bdd530cde1a630221bf09ac2baf2705471b7e49a8abc89700dba19"
 metafile = true
 
 [[files]]
