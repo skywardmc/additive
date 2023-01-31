@@ -23,7 +23,7 @@ This is a modpack I work on in my spare time that can be used as a replacement f
 
 It's built off my other project [Adrenaline](https://intergrav.github.io/Adrenaline/) for maximized performance, boosting your game's framerate up to 10 times.
 
-> Want to know more information about the modpack? [Check out the website](https://intergrav.github.io/Additive/) for download links and more!
+> Want to know more information about the modpack? [Check out the Modrinth page](https://modrinth.com/modpack/Additive/) for download links and more!
 
 ### Built With
 
