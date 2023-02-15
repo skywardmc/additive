@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
+hash = "0fe83c99b29c952f464c7bfba9cc86cc4f834bef7834821433fe23ce3dd230e6"
 metafile = true
 
 [[files]]
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
-hash = "3d1bbe92949b9653e77c8dc91861c4375ab17ffae08d0e270a6c5f0084e3571c"
+hash = "118176743b4aa94a076aae292b51d7c48d1c05f76a3ca9d5285c202abbdd5c43"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "05b44cffce36ff8ead5b71d946bf5529ba72d6e8e4a4ec58e32666775c3ae5d9"
+hash = "cd969a55e1013fc6a8f8b7dbadb1b40444d66ac51a50cf7a58f43ae339b684e6"
 metafile = true
 
 [[files]]

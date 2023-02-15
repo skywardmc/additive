@@ -96,7 +96,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "b508bb6b509b96b2e297e94ca2ce365623730b938f32c74d49c574a7ef1ecb24"
+hash = "89b77cf775f282a4c755d0839f20d2078af8fc5b2915cb526d118b9d9694c995"
 metafile = true
 
 [[files]]
@@ -121,12 +121,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "145dbcbac757622ec415041cdcabf07654981f84d5044c8fc16f6aa88a03ccb3"
+hash = "f441da2ee20b66f7a72e476057f56f851550168ea4fea436abf674f45dc7e79b"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
+hash = "0fe83c99b29c952f464c7bfba9cc86cc4f834bef7834821433fe23ce3dd230e6"
 metafile = true
 
 [[files]]
@@ -141,12 +141,17 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "a013b29b9971b0e7817280a84c0237d8d9a65a60708c5e894754ade7ced0c9a9"
+hash = "b2f3946270893de11c4d1b22fa401b648ac2807638e3bfe68827a6933725d3eb"
 metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "f19e328fe42f91d1b65e244ee5bcf70f1e5305a27278945098ea85af82e05d0d"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "e18884acf679fb4445b59582e8873fc7c8e64a3b73347068e0b2867623bb92d4"
 metafile = true
 
 [[files]]
@@ -156,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "3108487e76960f8e1cb70cccb973b88137f362cdf11a667bbc3208c44722fe8b"
+hash = "fed0d1bab4e7e037790b03b8df9f9680266395016d95d81c65d6a6074d7d7fa7"
 metafile = true
 
 [[files]]
@@ -166,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
-hash = "080d4789738ae0015c0a1fc76ffc3f6487f55dc5877b3de1c3b458b544efe362"
+hash = "333b0a827bc10800ebfb5a83f6f540f92553d3d57bf47e3f183e0b6d935597c0"
 metafile = true
 
 [[files]]
@@ -211,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "ee3aa9ab24522ccb8cbfcc4ceacab517416594c9ee93e68f82a00b56792e1c3e"
+hash = "2af323bd9b84abdcf8ace4e8bf9eacafacb9c8f3c980643354697de24cfa3080"
 metafile = true
 
 [[files]]
@@ -226,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "6ac9730845d3ccd16d691f3d626cdaa78b95e06a73f98503856f602e4f7cad0e"
+hash = "d94f9ad5bbcda1ed1ac5ee7855db8ea638461c507122ed37689ee9a715aaf838"
 metafile = true
 
 [[files]]

@@ -3,7 +3,7 @@ filename = "lambdabettergrass-1.2.4+1.18.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.2.4+1.18/lambdabettergrass-1.2.4%2B1.18.jar"
+url = "https://cdn.modrinth.com/data/2Uev7LdA/versions/1.2.4%2B1.18/lambdabettergrass-1.2.4%2B1.18.jar"
 hash-format = "sha1"
 hash = "941e27f095bd4a355ebf6f71212f378d4d7d5dca"
 

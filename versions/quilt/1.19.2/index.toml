@@ -80,11 +80,6 @@ hash = "eaba2f41f04c306118190beb2a2bf4a44263e0196a106b9c8a9bfddff038afab"
 metafile = true
 
 [[files]]
-file = "mods/cem.pw.toml"
-hash = "753859b58aa7a674785b3ec5a8080c2142209a50185cc3dd5ab90c7c6a38f5ee"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
@@ -96,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "3648ed55ffae5bc153c16b2d414925cc30165b5171aa0e2a146e5ba22366fcf1"
+hash = "3cbe3d523b39667928fcc34f71651b0e581e5c541dd5ecf17228464770466bc5"
 metafile = true
 
 [[files]]
@@ -121,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "c985bc9064cc29094fdfd59a037baa1523778cc2a9e5665c3f1b6ca0efe6a543"
+hash = "0fe83c99b29c952f464c7bfba9cc86cc4f834bef7834821433fe23ce3dd230e6"
 metafile = true
 
 [[files]]
@@ -136,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "00960cdd63d16c9a2ca9f1e3a9c3aa79d789c0284fb19091ba4b8841a7f5def5"
+hash = "46a497398e476b0bbac4a1c9816da987be2a9afc2e62011d584963beef0ba45e"
 metafile = true
 
 [[files]]
@@ -156,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "b27773505b8fcfb4dd88dbc5b3cea9c5dfb3d9fac0cb4d91f4b8ccbde7a275ad"
+hash = "2355898e55539353e3fe43057c1c2880e02ceb6b64c8f5d1e0bc2a660635c323"
 metafile = true
 
 [[files]]
@@ -166,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
-hash = "0ab0925b9d00ddcf75dc5077fba4eee2c825945a7590750e1821ba783fb26f37"
+hash = "507abebf9ae5282c92a1c799ed9666e23f0605190633c16e086b1c9e17ad4465"
 metafile = true
 
 [[files]]
@@ -196,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "ad5006e0af565aa9e862112703e3867b291233a0ffcc56495387319d70ac402e"
+hash = "79e31e1697a4121696b9a1817ff75ebe58af1514f132cdc64522d4ca4e0cdd08"
 metafile = true
 
 [[files]]
@@ -206,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "f8abf37ca66a859e03c848166dfd7d82f4c89a22c7b4ec5b3f97890bda8438d7"
+hash = "0f9e287c84c2463ecb376d58c8bf30cbfbfa04ec44aef2f61e36e42fe529be30"
 metafile = true
 
 [[files]]
@@ -236,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "24d6f5ebd589f979a77dcce6be9a3e96e5b36c3e23ea1e20bb0a55736f78c898"
+hash = "0fca0fcd62697e3ec9ced16a6917c2eba2f5c0de612cd28a2be1c84c316901e5"
 metafile = true
 
 [[files]]
