@@ -1,12 +1,12 @@
 name = "Additive"
 author = "UltraStorm"
-version = "1.13.2+1.17.1.fabric"
+version = "1.14.0+1.17.1.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "34ac380b86f6bda370d3a64efa69139b876d6866f9abd6dcf7464a4ca606fa47"
+hash = "06812a5ed4a0a94a6e0bf31c05ff1311c4f88e98daa6d7996561984f679d3124"
 
 [versions]
 fabric = "0.14.14"

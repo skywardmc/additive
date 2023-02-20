@@ -1,0 +1,11 @@
+version = 3
+# (Default: 1) Configures the parallelism of global executor.
+# You can make this higher to increase chunk loading speed, however you may lose some stability in MSPT and FPS.
+globalExecutorParallelism = "1"
+
+[clientSideConfig]
+	[clientSideConfig.modifyMaxVDConfig]
+		# (Default: false) Whether to modify maximum view distance
+		enabled = "false"
+		# (Default: 32) Max render distance allowed in game options
+		maxViewDistance = "default"

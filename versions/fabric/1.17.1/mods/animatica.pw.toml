@@ -3,7 +3,7 @@ filename = "animatica-0.4+1.17.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/PRN43VSY/versions/0.4+1.17/animatica-0.4%2B1.17.jar"
+url = "https://cdn.modrinth.com/data/PRN43VSY/versions/0.4%2B1.17/animatica-0.4%2B1.17.jar"
 hash-format = "sha1"
 hash = "1b0db406ca2ea269814a049576302b7967108cf8"
 

@@ -1,0 +1,13 @@
+name = "OptiGUI"
+filename = "optigui-1.1.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JuksLGBQ/versions/RMa6KMf9/optigui-1.1.6.jar"
+hash-format = "sha1"
+hash = "041727ca39abbf0ef89f95089a193ab7f4535543"
+
+[update]
+[update.modrinth]
+mod-id = "JuksLGBQ"
+version = "RMa6KMf9"

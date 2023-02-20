@@ -3,7 +3,7 @@ filename = "CITResewn-0.9.1+1.17.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/otVJckYQ/versions/0.9.1+1.17.1/CITResewn-0.9.1+1.17.1.jar"
+url = "https://cdn.modrinth.com/data/otVJckYQ/versions/0.9.1%2B1.17.1/CITResewn-0.9.1%2B1.17.1.jar"
 hash-format = "sha1"
 hash = "ac422ad6ec5bed7a52c34af6dd6fa8430a802c92"
 

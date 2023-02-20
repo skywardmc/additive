@@ -1,0 +1,13 @@
+{
+  "quality": {
+    "weather_quality": "FAST",
+    "leaves_quality": "FAST"
+  },
+  "advanced": {
+    "cpu_render_ahead_limit": 4
+  },
+  "performance": {
+    "always_defer_chunk_updates": true,
+    "use_entity_culling": false
+  }
+}

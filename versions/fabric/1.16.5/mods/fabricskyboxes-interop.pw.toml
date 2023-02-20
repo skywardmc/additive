@@ -1,0 +1,13 @@
+name = "FabricSkyBoxes Interop"
+filename = "fsb-interop-1.1.4+mc1.16.5-build.27.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HpdHOPOp/versions/esZJwR4U/fsb-interop-1.1.4%2Bmc1.16.5-build.27.jar"
+hash-format = "sha1"
+hash = "8908f6082474d643c7fd62e784391bba970d0db0"
+
+[update]
+[update.modrinth]
+mod-id = "HpdHOPOp"
+version = "esZJwR4U"

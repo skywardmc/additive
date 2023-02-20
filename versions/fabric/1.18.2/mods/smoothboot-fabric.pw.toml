@@ -1,0 +1,13 @@
+name = "Smooth Boot (Fabric)"
+filename = "smoothboot-fabric-1.18.2-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FWumhS4T/versions/iy4eaYy2/smoothboot-fabric-1.18.2-1.7.0.jar"
+hash-format = "sha1"
+hash = "ef6c6d8838c529b4b072c446c050a03cdc43903b"
+
+[update]
+[update.modrinth]
+mod-id = "FWumhS4T"
+version = "iy4eaYy2"
