@@ -39,7 +39,7 @@ Additive is designed as an open-source and modular alternative to OptiFine, offe
 
 *Not all features are supported and some packs may load improperly.
 
-*Don't want these extra features? Use [Adrenaline](https://modrinth.com/modpack/adrenaline/) instead, which is what Additive is built from. Adrenaline is a base layer that only adds optimizations and nothing else, and may actually run faster than Additive.*
+*Don't want these extra features? Use [Adrenaline](https://modrinth.com/modpack/adrenaline/) instead, which is what Additive is built from. Adrenaline is a base layer that only adds optimizations and nothing else, and may actually run faster than Additive. In my testing, I had about a 10-15% increase in framerate when using Adrenaline.*
 
 ## ❓ Why this over OptiFine?
 
