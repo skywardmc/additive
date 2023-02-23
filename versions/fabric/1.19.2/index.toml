@@ -1,16 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/citresewn.json"
-hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
+file = "config/isxander-main-menu-credits.json"
+hash = "f14cf0cf9d9ccfdb39c9eb2a40beb68146c38e9c5c695e0cca112d3f21c7ed23"
+
+[[files]]
+file = "config/puzzle.json"
+hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
 hash = "b9f6e59580784f1fc6104c64e28f09d00cbfc1a5083604a1f4dbdef8900bb56e"
 
 [[files]]
+file = "config/yosbr/config/capes.json5"
+hash = "51336712e25933a4b3ef553958ead09ccf02a7502b02b4240ae60c381b1858f0"
+
+[[files]]
 file = "config/yosbr/config/cem.conf"
 hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
+
+[[files]]
+file = "config/yosbr/config/citresewn.json"
+hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
 [[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
@@ -43,10 +55,6 @@ hash = "0d539bf48acbab4079d41894b35a8eca1c68368738fd713de08acecae1dd8509"
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "459043680fe671f08da4d1a88ff7204fa94880c2a7babba98d68acebc60d49c1"
-
-[[files]]
-file = "config/yosbr/config/puzzle.json"
-hash = "bc050a8360bc5fd9deca22ed51221e477ac7d7063f45cc362419c5eca8f816f4"
 
 [[files]]
 file = "config/yosbr/config/smoothboot.json"
@@ -96,7 +104,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+hash = "bf886d03a194a4036f02afe690cb21ca346fff20f4193355994ec97f046a8809"
 metafile = true
 
 [[files]]
@@ -177,6 +185,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
 metafile = true
 
 [[files]]
