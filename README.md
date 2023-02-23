@@ -19,7 +19,7 @@ Additive is a simple OptiFine alternative modpack. It has many of the features y
 
 ## 📥 Installation guide
 
-Please follow [this tutorial](https://github.com/intergrav/Adrenaline/wiki/Installation) on the Adrenaline wiki to figure out how to install the modpack, or use the instructions in the official Modrinth documentation above. After you install the pack, you can figure out how to tweak things to give greater optimizations in the [post-install](https://github.com/intergrav/Adrenaline/wiki/Post-install) section of the Adrenaline wiki. This includes procedures such as increasing your allocated memory, tweaking your game settings for your device, and some more advanced stuff such as changing your Java runtime and JVM flags. Yes, Additive uses Adrenaline's wiki as that is what this is built from.
+Please follow [this tutorial](https://github.com/intergrav/Additive/wiki/Installation) on the wiki to figure out how to install the modpack, or use the instructions in the official Modrinth documentation above. After you install the pack, you can figure out how to tweak things to give greater optimizations in the [post-install](https://github.com/intergrav/Additive/wiki/Post-install) section of the wiki. This includes procedures such as increasing your allocated memory, tweaking your game settings for your device, and some more advanced stuff such as changing your Java runtime and JVM flags.
 
 ## 🔥 Performance
 
@@ -67,7 +67,7 @@ Experiencing bugs, crashes, or other issues? Feel free to open an issue on the [
 
 ## ❓ Frequently Asked Questions
 
-For a few frequently asked questions, please visit the Adrenaline [wiki](https://github.com/intergrav/Adrenaline/wiki). It also has a few other helpful resources that I suggest you read, such as troubleshooting info and more :)
+For a few frequently asked questions, please visit the [wiki](https://github.com/intergrav/Additive/wiki). It also has a few other helpful resources that I suggest you read, such as troubleshooting info and more :)
 
 ## 🍉 Sponsor
 Need a fast, reliable Minecraft server? Use my code `devin` for 25% off your first month of any MelonCube server, supporting me in the process. Click this image for more information. You can also setup my server-side performance pack called [Adrenaserver](https://modrinth.com/modpack/adrenaserver) to improve your server's optimization while still allowing vanilla clients to join.
