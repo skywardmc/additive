@@ -45,6 +45,8 @@ Additive is designed as an open-source and modular alternative to OptiFine, offe
 
 OptiFine used to be the go-to solution for enhancing performance in Minecraft and offered many additional features that users loved. However, recent developments have changed the situation. OptiFine functions as a type of "all-in-one" mod, making it impossible to disable certain features that are incompatible with other mods. Additionally, its closed-source nature presents a challenge for modders who are unable to fix compatibility issues. OptiFine is not natively compatible with Fabric and requires a separate mod, OptiFabric, which is difficult to keep up to date. This has led to the creation of alternative mods that work just as well, if not better, and are easier to update. Additive usually updates much quicker than OptiFine does. While the transition may take some time to get used to, the overall experience is much improved compared to OptiFine.
 
+For a full list of currently supported features, see this [wiki page](https://github.com/intergrav/Additive/wiki/Give-up-OptiFine).
+
 ## ✅ Compatibility
 
 Additive is designed to be compatible with a wide range of devices, even those with low specifications. This makes it an accessible option with varying hardware configurations. The pack is compatible with Windows, Linux, and likely Mac as well, although I cannot confirm this as I do not own a Mac. Additionally, Additive is much more compatible with other mods as compared to OptiFine, thanks to its more flexible design and native compatibility with Fabric.
