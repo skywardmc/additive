@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "6cf8dc4dcee580a73a892a2299c12f5f2ee594a1f478604e77833acd28b41673"
+hash = "2be6a9d9492834668b2bc88735d01820476a6c08d7367be6f29aba26dbdb07bc"
 
 [[files]]
 file = "config/puzzle.json"
@@ -10,7 +10,7 @@ hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
-hash = "b9f6e59580784f1fc6104c64e28f09d00cbfc1a5083604a1f4dbdef8900bb56e"
+hash = "cdf61af100d8a29e9bbf26cc1b7ad8ae29c82357831705a97bb1dffa8ab386fa"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -38,7 +38,7 @@ hash = "1dc6a3aef057f6d08a802abba3c64af5d604078059787da31d253544c67e8904"
 
 [[files]]
 file = "config/yosbr/config/fastload.properties"
-hash = "ffca9b1f7a24121b7fef85b11563f56243b135c74a55d6cd1b9a066888b70fb3"
+hash = "61d20c951eee5418cafbc19c811a82dad1d019a2c86a764209b681bd6319a49a"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "4500a05ef146b3815b3994022b5437398dcb0bd9121c4b1a7ce498aa5ddab3c4"
+hash = "748714dcfedd603a422361127773a00c693d48e4fafb99dcc30c3108b7afca63"
 metafile = true
 
 [[files]]
@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "cd969a55e1013fc6a8f8b7dbadb1b40444d66ac51a50cf7a58f43ae339b684e6"
+hash = "d5b11b9bb4df8cf799eecbece01102e9bd1d83876d93d2b9a15666a1601b7e2b"
 metafile = true
 
 [[files]]

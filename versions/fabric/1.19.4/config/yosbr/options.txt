@@ -1,0 +1,7 @@
+enableVsync:false
+entityShadows:false
+simulationDistance:5
+graphicsMode:0
+maxFps:260
+renderClouds:"true"
+mipmapLevels:3

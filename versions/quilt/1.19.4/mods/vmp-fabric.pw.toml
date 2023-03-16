@@ -1,0 +1,13 @@
+name = "Very Many Players (Fabric)"
+filename = "vmp-fabric-mc1.19.4-0.2.0+beta.7.64-all.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wnEe9KBa/versions/bFssby6r/vmp-fabric-mc1.19.4-0.2.0%2Bbeta.7.64-all.jar"
+hash-format = "sha1"
+hash = "d64561359e30b19ab90a66acad0874522a5d60e4"
+
+[update]
+[update.modrinth]
+mod-id = "wnEe9KBa"
+version = "bFssby6r"

@@ -1,13 +1,13 @@
 name = "ImmediatelyFast"
-filename = "ImmediatelyFast-1.1.9+1.18.2.jar"
+filename = "ImmediatelyFast-1.1.10+1.18.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/aWcTiEn8/ImmediatelyFast-1.1.9%2B1.18.2.jar"
+url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/YVmLXIsi/ImmediatelyFast-1.1.10%2B1.18.2.jar"
 hash-format = "sha1"
-hash = "e12e37dbed576c365f9a2a60ef0e96006fabb55e"
+hash = "9d24888440893371d1da91a60d3338d089f06fa9"
 
 [update]
 [update.modrinth]
 mod-id = "5ZwdcRci"
-version = "aWcTiEn8"
+version = "YVmLXIsi"
