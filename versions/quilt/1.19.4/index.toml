@@ -83,6 +83,11 @@ hash = "eaeef66044d551eb98b20b5c293d9c396f8342f17bc76bb0822cd90ac56b95bb"
 metafile = true
 
 [[files]]
+file = "mods/capes.pw.toml"
+hash = "83d8a8865dfe81276fabc0c7085106a760608c0a3d569716fc77b3d0cb4d4c0d"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4b47562757100608c21dc1440a22175d83b1ebedaebf330c22cc04b951e7a477"
 metafile = true
@@ -103,6 +108,11 @@ hash = "3ecd59b2ab957aadc6759fdb82b82d63c03dfef49c1199f271078659e94cdbf1"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "c2814d761fc227d78759c88c38b37b3985fe4a36d18520a333965a1a9a601c2d"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "6d8f457e49c2a578262d091817b5571897cd73a3bc58db33bac3c60f13d67679"
 metafile = true
@@ -115,6 +125,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "c880ebfe6d340e4da7fe935f1a3cdcff84d3db7f4efe8fb3d12839b6d08c7aed"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "ef2f37f8f7eb3481d6d379b54b6607fc7e2b51be0a8fabeccdb0e39ae01cba0c"
 metafile = true
 
 [[files]]
@@ -139,7 +154,17 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "79849a3a5c4d0ef9ddab4ddca20424128021f562ef8f599bc5867592219a3f6b"
+hash = "9966fa77d57235f7460b84632e7b89188b2944787f23214f87a10908f5aed867"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "b181531817e2f079d5ac74f78c410d7e978d18c111a81b38a29bb3809102291d"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "d1a855b30f796a2a57faca3702c7bfafb353ddfcd597bca2d8c01fb86f010bbc"
 metafile = true
 
 [[files]]
@@ -155,6 +180,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c48006ba1c8c4ab44d43ace55bac28c14a237f48016d990b4c2057255a60477a"
+metafile = true
+
+[[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "82312494cc4cb1b914968097ff27733905e6af5dec5829cdbdbc86e5c05b421e"
 metafile = true
 
 [[files]]
