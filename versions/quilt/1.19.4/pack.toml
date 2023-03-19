@@ -1,6 +1,6 @@
 name = "Additive"
 author = "UltraStorm"
-version = "1.15.2+1.19.4.quilt"
+version = "1.15.2+1.19.4.quilt-alpha.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
