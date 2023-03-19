@@ -49,7 +49,7 @@ For a full list of currently supported features, see this [wiki page](https://gi
 
 ## ✅ Compatibility
 
-Additive is designed to be compatible with a wide range of devices, even those with low specifications. This makes it an accessible option with varying hardware configurations. The pack is compatible with Windows, Linux, and likely Mac as well, although I cannot confirm this as I do not own a Mac. Additionally, Additive is much more compatible with other mods as compared to OptiFine, thanks to its more flexible design and native compatibility with Fabric.
+Additive is designed to be compatible with a wide range of devices, even those with low specifications. This makes it an accessible option with varying hardware configurations. The pack is compatible with Windows, Linux, and Mac. Additionally, Additive is much more compatible with other mods as compared to OptiFine, thanks to its more flexible design and native compatibility with Fabric.
 
 For players with very low-spec devices, I recommend using my other project, [Adrenaline](https://modrinth.com/modpack/adrenaline/), a modpack specifically designed for optimization. Unlike other modpacks that may include extra, non-essential mods, Adrenaline prioritizes performance over anything else, making it the ideal choice for limited hardware resources.
 
