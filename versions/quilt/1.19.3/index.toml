@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "499c0071facdbdc6ae7faaf4562df8a0f2803c436f8242877ef687bbeaf9091d"
+hash = "0ae0027573def27935f229feaa0283639f2ea8ed6bc894d74d9352c8ad1a1bc9"
 
 [[files]]
 file = "config/puzzle.json"
@@ -92,11 +92,6 @@ hash = "83d8a8865dfe81276fabc0c7085106a760608c0a3d569716fc77b3d0cb4d4c0d"
 metafile = true
 
 [[files]]
-file = "mods/cem.pw.toml"
-hash = "4830a70a299bd27667a9cc64637364a65eb876175153a076c8da9398e9be89ff"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "fd235eacb6d28aae0ebdfa0de95ac33e4f1a6ec67e16fe8074153665b3b0f55a"
 metafile = true
@@ -104,6 +99,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "4cb02206331c9a6d207681b2e40b4b8648a462b0c31e6e634200a01b592b1d3d"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "e7d59ecd1a6d10dfae1f01741c6240833c54f12e48f44997d3ac7971918f3e63"
 metafile = true
 
 [[files]]
@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3ecd59b2ab957aadc6759fdb82b82d63c03dfef49c1199f271078659e94cdbf1"
+hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
 metafile = true
 
 [[files]]
@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "9ab7092cb7e27bec8bb02d195e8f0c6a207b3f1383da7179a57ebd3328778a24"
+hash = "0d1225c262af125d3251ded259d8b8ecdf372d9335e180b915389ef59a5e45d4"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "73016b3eee768165722134b3eaab88cddeabfe70410f9ae8eb5281eaecc06dd2"
+hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
 metafile = true
 
 [[files]]
@@ -213,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "ad2b176582893c8e1fd3153c2273b228cd66dfae3287cf1e92b4989b1b8ba776"
+hash = "1afe5d10e148d3d727f70bfc065e0e65b9992bcd1904dcdc3f29c201a6d4dd15"
 metafile = true
 
 [[files]]
@@ -223,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "946275e17b2c860d1efb56d268a63c53fa9100953ea7759c4f7c22c3385734c9"
+hash = "e4c981864080221395f462c5a2ef1ccfd38aa6b16ca10879a4b5ef4f60828a7d"
 metafile = true
 
 [[files]]
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "f60dab2c1cf96a1d156c35f24fe90b1b6208202eb59caff77f6348066277e549"
+hash = "dbc278de3d507cad99715d17c2f4858e58cf7ce5e76c9c59525d5fae7c05172f"
 metafile = true
 
 [[files]]

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "499c0071facdbdc6ae7faaf4562df8a0f2803c436f8242877ef687bbeaf9091d"
+hash = "0ae0027573def27935f229feaa0283639f2ea8ed6bc894d74d9352c8ad1a1bc9"
 
 [[files]]
 file = "config/puzzle.json"
@@ -83,17 +83,12 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "5b55762b678094a36f95f5f940e7c9c09543045ca3b1be5edec4e373e0387cab"
+hash = "901631d9b66ecb1cda0d8a2aa79be0ccbbeeed1e0ef1bddfb31ef3bc196b0e3a"
 metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "83d8a8865dfe81276fabc0c7085106a760608c0a3d569716fc77b3d0cb4d4c0d"
-metafile = true
-
-[[files]]
-file = "mods/cem.pw.toml"
-hash = "2393668f05c9062f95075532c112a18df9d328996a34ad527411540fc07a42b7"
 metafile = true
 
 [[files]]
@@ -104,6 +99,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "4cb02206331c9a6d207681b2e40b4b8648a462b0c31e6e634200a01b592b1d3d"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "a62ddd02d238fe4bbb14d561cd4829a7c33690d997c23f4ebc2ed4def9d70e2c"
 metafile = true
 
 [[files]]
@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3ecd59b2ab957aadc6759fdb82b82d63c03dfef49c1199f271078659e94cdbf1"
+hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
 metafile = true
 
 [[files]]
@@ -134,6 +134,11 @@ metafile = true
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "42272688975731772ce119e33659091edfff29244dddd147320866c0e5177ee8"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "979d1295d0c4d7497bb4f34fb85316ef331f2c4a3dbf12673345e61bef63c1d0"
 metafile = true
 
 [[files]]
@@ -172,6 +177,11 @@ hash = "1f4df9a518618ca75875f23a6dccf74acaec26963d9108468ff4d106107e02f1"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "f573cac2ec9cd88456c545e177753791c91a38ba0a46c4ad4c87e5a7878664ea"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "3ffe2388740cc111a332082f56e37bb4b95764035dfe5d6dff81db8a35d4cc4d"
 metafile = true
@@ -188,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "73016b3eee768165722134b3eaab88cddeabfe70410f9ae8eb5281eaecc06dd2"
+hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
 metafile = true
 
 [[files]]
@@ -203,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "ad2b176582893c8e1fd3153c2273b228cd66dfae3287cf1e92b4989b1b8ba776"
+hash = "1afe5d10e148d3d727f70bfc065e0e65b9992bcd1904dcdc3f29c201a6d4dd15"
 metafile = true
 
 [[files]]
@@ -213,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d53ea077dd824788e114ad1b113d413504cb40a8680c28d9b596ad1997c3386d"
+hash = "a0d6bc80ddb30ae38daab5e04d8b1a8066a9f9c51a7f6948f5d755e057c7bd84"
 metafile = true
 
 [[files]]
@@ -243,12 +253,12 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "32086f66144cb0fe3983463f4eff19e2fa99f9648ad1163d18284694b515b4cd"
+hash = "b1e7dd85695abd68eb6ac1060ea4d948b6b62683a2d04b67e114442bb295da7d"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "3207f43011f1e422c2491333eb3882d761056c76d463cd2e0f7acdd4ce85e97c"
+hash = "96a0c6997753cbc04207852157e0fd41d47dfbfd6aef9023125380518d8dd545"
 metafile = true
 
 [[files]]

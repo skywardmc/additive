@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "499c0071facdbdc6ae7faaf4562df8a0f2803c436f8242877ef687bbeaf9091d"
+hash = "0ae0027573def27935f229feaa0283639f2ea8ed6bc894d74d9352c8ad1a1bc9"
 
 [[files]]
 file = "config/puzzle.json"
@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3ecd59b2ab957aadc6759fdb82b82d63c03dfef49c1199f271078659e94cdbf1"
+hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
 metafile = true
 
 [[files]]
@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "46a497398e476b0bbac4a1c9816da987be2a9afc2e62011d584963beef0ba45e"
+hash = "0d1225c262af125d3251ded259d8b8ecdf372d9335e180b915389ef59a5e45d4"
 metafile = true
 
 [[files]]
@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "73016b3eee768165722134b3eaab88cddeabfe70410f9ae8eb5281eaecc06dd2"
+hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "fc829d9bfa6e9c399324e64cc5feb01f01630fc0971c7286ac08b5575dcf89b2"
+hash = "1afe5d10e148d3d727f70bfc065e0e65b9992bcd1904dcdc3f29c201a6d4dd15"
 metafile = true
 
 [[files]]
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "f2b64534ac741a2a5f4ea7aa59585e1a5e60160e65cddac301d3cf46eb335150"
+hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
 metafile = true
 
 [[files]]
@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "0fca0fcd62697e3ec9ced16a6917c2eba2f5c0de612cd28a2be1c84c316901e5"
+hash = "2b7a256302fa5192a29379e80feaa26326f883bcfbce16386834ecaa50f6d516"
 metafile = true
 
 [[files]]

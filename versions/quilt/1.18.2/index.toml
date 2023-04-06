@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "499c0071facdbdc6ae7faaf4562df8a0f2803c436f8242877ef687bbeaf9091d"
+hash = "0ae0027573def27935f229feaa0283639f2ea8ed6bc894d74d9352c8ad1a1bc9"
 
 [[files]]
 file = "config/puzzle.json"
@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3ecd59b2ab957aadc6759fdb82b82d63c03dfef49c1199f271078659e94cdbf1"
+hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
 metafile = true
 
 [[files]]
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "b2f3946270893de11c4d1b22fa401b648ac2807638e3bfe68827a6933725d3eb"
+hash = "0d1225c262af125d3251ded259d8b8ecdf372d9335e180b915389ef59a5e45d4"
 metafile = true
 
 [[files]]
