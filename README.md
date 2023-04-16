@@ -21,11 +21,13 @@ Additive is a simple OptiFine alternative modpack. It has many of the features y
 
 Please follow [this tutorial](https://github.com/intergrav/Additive/wiki/Installation) on the wiki to figure out how to install the modpack, or use the instructions in the official Modrinth documentation above. After you install the pack, you can figure out how to tweak things to give greater optimizations in the [post-install](https://github.com/intergrav/Additive/wiki/Post-install) section of the wiki. This includes procedures such as increasing your allocated memory, tweaking your game settings for your device, and some more advanced stuff such as changing your Java runtime and JVM flags.
 
-## 🔥 Performance
+## Features
 
-Through various optimization mods and mod configurations, Additive can cause your game to reach quite high framerates and use fewer resources. This also causes a big decrease in startup times, world loading times, and more. From my testing, Additive can sometimes reach up to 8x the framerate as compared to having no mods.
+### 🔥 Performance
 
-## 🔍 OptiFine features
+Through various optimization mods and mod configurations, Additive can cause your game to reach quite high framerates and use fewer resources. This also causes a big decrease in startup times, world loading times, and more. From my testing, Additive can sometimes reach up to 9x the framerate as compared to having no mods.
+
+### 🔍 OptiFine features
 
 Additive is designed as an open-source and modular alternative to OptiFine, offering many of the same features, including but not limited to:
 
@@ -34,12 +36,14 @@ Additive is designed as an open-source and modular alternative to OptiFine, offe
 - Shader packs*
 - Dynamic lighting
 - Better grass and snow
-- OF donator capes
+- OF donator capes (and [free capes](https://github.com/intergrav/Additive/wiki/Supporter-cape))
 - Many other key OptiFine features
 
-*Not all features are supported and some packs may load improperly.
+*As of 1.15.5, most packs will load properly.* To see the full list of OptiFine features, check out [this wiki page](https://github.com/intergrav/Additive/wiki/Give-up-OptiFine).
 
-*Don't want these extra features? Use [Adrenaline](https://modrinth.com/modpack/adrenaline/) instead, which is what Additive is built from. Adrenaline is a base layer that only adds optimizations and nothing else, and may actually run faster than Additive. In my testing, I had about a 10-15% increase in framerate when using Adrenaline.*
+### ✨ Other extras
+
+Additive has [skyevg]()'s [e4mc]() built-in, which allows anyone to connect to your LAN server in an unobtrusive, simple, and privacy-respecting way. Simply open to LAN and copy the link that is given to you. The other side does not need to have Additive installed - they can connect with anything. No Telemetry is included in Additive aswell.
 
 ## ❓ Why this over OptiFine?
 
@@ -75,5 +79,7 @@ For a few frequently asked questions, please visit the [wiki](https://github.com
 Need a fast, reliable Minecraft server? Use my code `devin` for 25% off your first month of any MelonCube server, supporting me in the process. Click this image for more information. You can also setup my server-side performance pack called [Adrenaserver](https://modrinth.com/modpack/adrenaserver) to improve your server's optimization while still allowing vanilla clients to join.
 
 [![MelonCube Image](https://www.meloncube.net/partners/custom-banners/fc383dd6-4bb3-424f-b4fb-f540acb27e8b.png)](https://meloncube.net/devin)
+
+<small>Yes, this description format is definitely inspired by Sodium's description. Hey, I needed a good base for this :p</small>
 
 > *This description was copied from the [Modrinth page](https://modrinth.com/modpack/additive). It may not be formatted correctly.*
