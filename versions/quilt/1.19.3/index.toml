@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0ae0027573def27935f229feaa0283639f2ea8ed6bc894d74d9352c8ad1a1bc9"
+hash = "2b39b41d03ac94640c3be65cc865d30c58e171dde8e185d8c5f8c7af16b7edf3"
 
 [[files]]
 file = "config/puzzle.json"
@@ -38,7 +38,7 @@ hash = "1dc6a3aef057f6d08a802abba3c64af5d604078059787da31d253544c67e8904"
 
 [[files]]
 file = "config/yosbr/config/fastload.properties"
-hash = "61d20c951eee5418cafbc19c811a82dad1d019a2c86a764209b681bd6319a49a"
+hash = "3f30ae7870ea03e6e058a67613d7c9cf6c5bc0d46a92c65e2d87c801643a472c"
 
 [[files]]
 file = "config/yosbr/config/fastquit-config.txt"
@@ -102,8 +102,13 @@ hash = "4cb02206331c9a6d207681b2e40b4b8648a462b0c31e6e634200a01b592b1d3d"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "685e49295efd03f5c55e14d86f96136bc4ba50cca2c581189421c00d76f2001b"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "e7d59ecd1a6d10dfae1f01741c6240833c54f12e48f44997d3ac7971918f3e63"
+hash = "0d4bc9ff6ca1bb1024a0ead6d06df3f8dabed6fe5eed974bd94e3eac4c0f7b08"
 metafile = true
 
 [[files]]
@@ -138,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "0d1225c262af125d3251ded259d8b8ecdf372d9335e180b915389ef59a5e45d4"
+hash = "43c1e9c4afedd29ee2b0107aefa662b889b99eaba914a43c7244872abfd75c10"
 metafile = true
 
 [[files]]
@@ -153,7 +158,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d1592cce2fde95f73e257d48d7ee739542c1f6b641325bbadf092fd38c4f5cca"
+hash = "93255e83ba1978a3e41222593a935413bbbffd4a3014fa74739446ed66ce7f89"
 metafile = true
 
 [[files]]
@@ -209,6 +214,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "0ac90dcc33473b316b975601f5c69f172e9babae174e7c85ec24281e31903934"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
 metafile = true
 
 [[files]]

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0ae0027573def27935f229feaa0283639f2ea8ed6bc894d74d9352c8ad1a1bc9"
+hash = "2b39b41d03ac94640c3be65cc865d30c58e171dde8e185d8c5f8c7af16b7edf3"
 
 [[files]]
 file = "config/puzzle.json"
@@ -38,7 +38,7 @@ hash = "1dc6a3aef057f6d08a802abba3c64af5d604078059787da31d253544c67e8904"
 
 [[files]]
 file = "config/yosbr/config/fastload.properties"
-hash = "61d20c951eee5418cafbc19c811a82dad1d019a2c86a764209b681bd6319a49a"
+hash = "3f30ae7870ea03e6e058a67613d7c9cf6c5bc0d46a92c65e2d87c801643a472c"
 
 [[files]]
 file = "config/yosbr/config/fastquit-config.txt"
@@ -109,6 +109,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "29dd60baf34732bb55e0bcb4284efedd481528f29e48b35cb8b3cfe618acf583"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+hash = "500d4bbf46d61d0c7a865051e12331ed8f76c5aa9c969ca2d02a43777aaba82d"
 metafile = true
 
 [[files]]

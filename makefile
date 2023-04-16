@@ -3,9 +3,6 @@ update-packwiz:
 	go install github.com/Merith-TK/packwiz-wrapper/cmd/pw@latest
 	clear
 	@echo "Packwiz has been Updated"
-mods:
-	pw -b -d versions/fabric mr install fast-better-grass
-	pw -b -d versions/quilt mr install fast-better-grass
 export-fabric:
 	pw -b -d versions/fabric mr export
 export-quilt:
