@@ -43,7 +43,7 @@ Additive is designed as an open-source and modular alternative to OptiFine, offe
 
 ### ✨ Other extras
 
-Additive has [skyevg]()'s [e4mc]() built-in, which allows anyone to connect to your LAN server in an unobtrusive, simple, and privacy-respecting way. Simply open to LAN and copy the link that is given to you. The other side does not need to have Additive installed - they can connect with anything. No Telemetry is included in Additive aswell.
+Additive has [skyevg](https://git.skye.vg/me)'s [e4mc](https://git.skye.vg/me/e4mc_minecraft) built-in, which allows anyone to connect to your LAN server in an unobtrusive, simple, privacy-respecting way, similar to Essential. Simply open to LAN and copy the link that is given to you. The other side does not need to have Additive installed - they can connect with anything. No Telemetry is included in Additive aswell.
 
 ## ❓ Why this over OptiFine?
 
