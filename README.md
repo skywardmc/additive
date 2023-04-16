@@ -21,7 +21,7 @@ Additive is a simple OptiFine alternative modpack. It has many of the features y
 
 Please follow [this tutorial](https://github.com/intergrav/Additive/wiki/Installation) on the wiki to figure out how to install the modpack, or use the instructions in the official Modrinth documentation above. After you install the pack, you can figure out how to tweak things to give greater optimizations in the [post-install](https://github.com/intergrav/Additive/wiki/Post-install) section of the wiki. This includes procedures such as increasing your allocated memory, tweaking your game settings for your device, and some more advanced stuff such as changing your Java runtime and JVM flags.
 
-## Features
+## ➕ Features
 
 ### 🔥 Performance
 
