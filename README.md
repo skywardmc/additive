@@ -39,7 +39,7 @@ Additive is designed as an open-source and modular alternative to OptiFine, offe
 - OF donator capes (and [free capes](https://github.com/intergrav/Additive/wiki/Supporter-cape))
 - Many other key OptiFine features
 
-*As of 1.15.5, most packs will load properly.* To see the full list of OptiFine features, check out [this wiki page](https://github.com/intergrav/Additive/wiki/Give-up-OptiFine).
+**As of 1.15.5, most packs should load properly.* To see the full list of OptiFine features, check out [this wiki page](https://github.com/intergrav/Additive/wiki/Give-up-OptiFine).
 
 ### 🌐 Public LAN
 
