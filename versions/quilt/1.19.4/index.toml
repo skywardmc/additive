@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a61f7fb0f4158d26eb19d72ef7b4055f44e3237b10f48233b59c9faef9f36ccc"
+hash = "de4e61c9351551a54f2cb058885d3d71e82f26fe08d17d959561c8541ac95989"
 
 [[files]]
 file = "config/puzzle.json"
@@ -106,6 +106,11 @@ metafile = true
 [[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "eb6cb8a8cde5c16bfe3c1f14353f362bc857621a9703579ff9aac154c8c975e9"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "156942df991662545265aae10fafa4b64bc1ba1226670be03916e58894671089"
 metafile = true
 
 [[files]]

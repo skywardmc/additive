@@ -3,6 +3,9 @@ update-packwiz:
 	go install github.com/Merith-TK/packwiz-wrapper/cmd/pw@latest
 	clear
 	@echo "Packwiz has been Updated"
+mods:
+	pw -b -d versions/fabric mr install https://modrinth.com/mod/cloth-config
+	pw -b -d versions/quilt mr install https://modrinth.com/mod/cloth-config
 export-fabric:
 	pw -b -d versions/fabric mr export
 export-quilt:
