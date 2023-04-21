@@ -41,7 +41,7 @@ Additive is designed as an open-source and modular alternative to OptiFine, offe
 
 **As of 1.15.5, most packs should load properly.* To see the full list of OptiFine features, check out [this wiki page](https://github.com/intergrav/Additive/wiki/Give-up-OptiFine).
 
-### 🌐 Public LAN
+### ✨ Other features
 
 The modpack has [skyevg](https://git.skye.vg/me)'s [e4mc](https://git.skye.vg/me/e4mc_minecraft) built-in, which allows anyone to connect to your LAN server in an unobtrusive, simple, privacy-respecting way, similar to Essential's world hosting feature. Simply open to LAN and copy the link that is given to you. The other side does not need to have Additive installed - they can connect with anything. If you would like to stop the mod, simply run `/e4mc stop` after opening to LAN.
 
