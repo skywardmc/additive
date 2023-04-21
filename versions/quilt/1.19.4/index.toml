@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7f0583d70b3a305b1c763a91b5fe32a253a9c24f8907d39491191712ecf0c9cc"
+hash = "a61f7fb0f4158d26eb19d72ef7b4055f44e3237b10f48233b59c9faef9f36ccc"
 
 [[files]]
 file = "config/puzzle.json"
@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "7e96230b1e3edfa2347c17a992bafae0543ba8f82301f118d0b4123cf02d6245"
+hash = "9277beb9481ab7cd8abff4411fd823a167073c9457e142e5579d568e8f26c0a1"
 metafile = true
 
 [[files]]
@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "685e49295efd03f5c55e14d86f96136bc4ba50cca2c581189421c00d76f2001b"
+hash = "1a40260b79727502120cbf6a83efc62df915671677bb7e910aa8c65d575d0a80"
 metafile = true
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "43c1e9c4afedd29ee2b0107aefa662b889b99eaba914a43c7244872abfd75c10"
+hash = "3fd5e8732f9cd063d0ff3b6caf305330ed8a306cb1af9630c79eabf4ca83606d"
 metafile = true
 
 [[files]]
@@ -215,17 +215,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "ac519bc5639f80a7a150e1748638bdd283374f97f876cfd380bd3dd7cd9019c7"
+hash = "b8637d34d5e142b7de5ff0ffdcefc664ec322ea0528a251bfbc3d99e1c8986e9"
 metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "b181531817e2f079d5ac74f78c410d7e978d18c111a81b38a29bb3809102291d"
-metafile = true
-
-[[files]]
-file = "mods/no-chat-reports.pw.toml"
-hash = "c947125039216bc6763671c675dc37b58b14ef2ee7a34270ec66ffb9c11afd8d"
 metafile = true
 
 [[files]]
@@ -240,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "a0d6bc80ddb30ae38daab5e04d8b1a8066a9f9c51a7f6948f5d755e057c7bd84"
+hash = "3c793a12d7638e813ea7323e376577ee626b30bfcae4d22caa7820a215109357"
 metafile = true
 
 [[files]]
@@ -285,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "72214bf1c5210d1fd5d47f5fe354310ea7d7e1268eb48574c0655d6d4f4d5c42"
+hash = "64cc3a69ccf183d56da3c42383918b90da3825877cbb13f712bc671487903120"
 metafile = true
 
 [[files]]

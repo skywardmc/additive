@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7f0583d70b3a305b1c763a91b5fe32a253a9c24f8907d39491191712ecf0c9cc"
+hash = "a61f7fb0f4158d26eb19d72ef7b4055f44e3237b10f48233b59c9faef9f36ccc"
 
 [[files]]
 file = "config/puzzle.json"
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "500d4bbf46d61d0c7a865051e12331ed8f76c5aa9c969ca2d02a43777aaba82d"
+hash = "3125e80488a12cc0925e7a8b065acc2eafecfd5517e7ad81b4e054474624362e"
 metafile = true
 
 [[files]]
@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "43c1e9c4afedd29ee2b0107aefa662b889b99eaba914a43c7244872abfd75c10"
+hash = "3fd5e8732f9cd063d0ff3b6caf305330ed8a306cb1af9630c79eabf4ca83606d"
 metafile = true
 
 [[files]]

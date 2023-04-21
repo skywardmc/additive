@@ -1,13 +1,13 @@
 name = "e4mc"
-filename = "e4mc-2.0.0.jar"
+filename = "e4mc-3.0.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/rfb8Hm5o/e4mc-2.0.0.jar"
+url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/RYu0blcO/e4mc-3.0.0.jar"
 hash-format = "sha1"
-hash = "e39ba80ab3acb1f7be827ac8236ba8fe5aa5c7a0"
+hash = "f2ea7e4ca0a327cc4d1dd5aa4e1be3e1ab0173d5"
 
 [update]
 [update.modrinth]
 mod-id = "qANg5Jrr"
-version = "rfb8Hm5o"
+version = "RYu0blcO"
