@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "de4e61c9351551a54f2cb058885d3d71e82f26fe08d17d959561c8541ac95989"
+hash = "4b0fa9e03aafc5d8dfd10d907d7e58df5c8d0800954c1136f98641e3fd485e0e"
 
 [[files]]
 file = "config/puzzle.json"
@@ -85,6 +85,10 @@ file = "config/yosbr/config/vmp.properties"
 hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
+file = "config/yosbr/config/world-host.json5"
+hash = "c602ad2f5d370579a6f530355b2c60852fbbbfa6c230ebb568cbf79ec290e76b"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "96c989dd0d3e12f5d042f0964452365a9add38effcd6fa3d079474d25420d524"
 
@@ -119,18 +123,13 @@ hash = "984741a3b4d5612df37b81d7349dd1f130257eaf7d94d95b72ce43fff9411885"
 metafile = true
 
 [[files]]
-file = "mods/e4mc.pw.toml"
-hash = "1a40260b79727502120cbf6a83efc62df915671677bb7e910aa8c65d575d0a80"
-metafile = true
-
-[[files]]
 file = "mods/ebe.pw.toml"
 hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "5aa24736781ea40f3c375164d36afbfbfee2266da3f6862b19ba37bf48df7ff9"
+hash = "bcaaa1ccbe72a964df7a8950f4f6b754cc9d1e8d20c4582141d59d8fef50b058"
 metafile = true
 
 [[files]]
@@ -140,7 +139,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "c3b9347961a06e85aad24fa8f863f617da394df49a67b0b1a1a952ad7f0056f7"
+hash = "64e37fd54d2b0afced5c242e90579f321c7fa9cbf1b3270cd4c31a0575eb0e07"
 metafile = true
 
 [[files]]
@@ -155,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
+hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
 metafile = true
 
 [[files]]
@@ -170,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "3fd5e8732f9cd063d0ff3b6caf305330ed8a306cb1af9630c79eabf4ca83606d"
+hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
 metafile = true
 
 [[files]]
@@ -195,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "8a762171b89a5265ad651263b4691a098ce6429edd74b4ddb09c7c33286fcc75"
+hash = "ec644a70524673946d8a987bbc4d3f0968c4885f55541b837ee14a366b218d35"
 metafile = true
 
 [[files]]
@@ -281,6 +280,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "2b7a256302fa5192a29379e80feaa26326f883bcfbce16386834ecaa50f6d516"
+metafile = true
+
+[[files]]
+file = "mods/world-host.pw.toml"
+hash = "ce21d13482f5525b5966c2ac46765ca7c262a89a9338a5de87b947646d9d797e"
 metafile = true
 
 [[files]]

@@ -3,5 +3,6 @@ entityShadows:false
 simulationDistance:5
 graphicsMode:0
 maxFps:260
+resourcePacks:["vanilla","fabric","file/Chat Reporting Helper.zip"]
 renderClouds:"true"
 mipmapLevels:3

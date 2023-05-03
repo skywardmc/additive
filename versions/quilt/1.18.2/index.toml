@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "de4e61c9351551a54f2cb058885d3d71e82f26fe08d17d959561c8541ac95989"
+hash = "4b0fa9e03aafc5d8dfd10d907d7e58df5c8d0800954c1136f98641e3fd485e0e"
 
 [[files]]
 file = "config/puzzle.json"
@@ -85,6 +85,10 @@ file = "config/yosbr/config/vmp.properties"
 hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
+file = "config/yosbr/config/world-host.json5"
+hash = "c602ad2f5d370579a6f530355b2c60852fbbbfa6c230ebb568cbf79ec290e76b"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "96c989dd0d3e12f5d042f0964452365a9add38effcd6fa3d079474d25420d524"
 
@@ -129,11 +133,6 @@ hash = "d807461a67a231feb0e1a23929aeec7117f6260a565a6010e6cb45b386debdb3"
 metafile = true
 
 [[files]]
-file = "mods/e4mc.pw.toml"
-hash = "3125e80488a12cc0925e7a8b065acc2eafecfd5517e7ad81b4e054474624362e"
-metafile = true
-
-[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b668875d7f22033e43efeef4c1772f8567d6b33b06f7b16e17ccb3bbcb23dc47"
 metafile = true
@@ -155,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "62360beac5e427be02b732421c9e4fe53819bc6f5e2cc821fd6f2d9278c5485b"
+hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
 metafile = true
 
 [[files]]
@@ -170,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "3fd5e8732f9cd063d0ff3b6caf305330ed8a306cb1af9630c79eabf4ca83606d"
+hash = "0e72ac12907f4fb5a499a459cc2c64f9225a0c77ee59e76c9360ff0d3479aea2"
 metafile = true
 
 [[files]]
@@ -195,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "7270a9ac5690c04fc5445e88b7cbb9f216c94250e7a3cc98d034049341ab0083"
+hash = "062b63f97387a4ec3db4586a5f29243d3ad59460456e4c8d9a914f1a35154f5e"
 metafile = true
 
 [[files]]
@@ -281,6 +280,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "d94f9ad5bbcda1ed1ac5ee7855db8ea638461c507122ed37689ee9a715aaf838"
+metafile = true
+
+[[files]]
+file = "mods/world-host.pw.toml"
+hash = "87d279395a5ab8123197f8047afe7d57aedf899edb20b373df0881d9faf36699"
 metafile = true
 
 [[files]]

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "de4e61c9351551a54f2cb058885d3d71e82f26fe08d17d959561c8541ac95989"
+hash = "4b0fa9e03aafc5d8dfd10d907d7e58df5c8d0800954c1136f98641e3fd485e0e"
 
 [[files]]
 file = "config/puzzle.json"
@@ -83,6 +83,10 @@ hash = "6ccf73c631ecef6b9a5b6a9cb67b4ac117a3b131ce0b4a884a3b4ec1b537aa0f"
 [[files]]
 file = "config/yosbr/config/vmp.properties"
 hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
+
+[[files]]
+file = "config/yosbr/config/world-host.json5"
+hash = "c602ad2f5d370579a6f530355b2c60852fbbbfa6c230ebb568cbf79ec290e76b"
 
 [[files]]
 file = "config/yosbr/options.txt"
@@ -186,6 +190,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "dfae39183ee753bc76f63d9c2770b3b92297b028b9437185fc822891c4bb621a"
+metafile = true
+
+[[files]]
+file = "mods/world-host.pw.toml"
+hash = "ba4a5f4eb3dad2ed5faaa567315a726821c9c79d9dcf7e42fe71ddaaf840283e"
 metafile = true
 
 [[files]]
