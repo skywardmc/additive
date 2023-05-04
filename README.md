@@ -7,6 +7,8 @@
   <p align="center">
     Simple and fast open-source OptiFine alternative for modern loaders based on Adrenaline
     <br />
+    <a href="https://github.com/intergrav/Additive/wiki">Explore the wiki</a>
+    ·
     <a href="https://github.com/intergrav/Additive/issues">Report Bugs</a>
     ·
     <a href="https://github.com/intergrav/Additive/issues">Request Features</a>
