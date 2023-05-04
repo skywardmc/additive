@@ -11,8 +11,9 @@
     ·
     <a href="https://github.com/intergrav/Additive/issues">Request Features</a>
   </p>
-  <a href="https://modrinth.com/modpack/additive"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/modrinth_vector.svg" alt="Available on Modrinth"></a>
-  <a href="https://gitpod.io/from-referrer/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/gitpod_vector.svg" alt="Ready for GitPod"></a>
+  <a href="https://modrinth.com/modpack/additive"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg" alt="Available on Modrinth"></a>
+  <a href="https://discord.gg/36Tv44cYte"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/discord-singular_vector.svg" alt="Chat on Discord"></a>
+  <a href="https://gitpod.io/from-referrer/"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/supported/gitpod_vector.svg" alt="Ready for GitPod"></a>
 </div>
 
 Additive is a simple OptiFine alternative modpack. It has many of the features you know and love from OptiFine, like shaders, high optimization, resource pack features, zoom, capes, and more. This pack is built from my other project, [Adrenaline](https://modrinth.com/modpack/adrenaline), which is what gives it the optimizations. Here is a [video](https://www.youtube.com/watch?v=Zl7nzdbG1GI) by [BillyDaBongo](https://www.youtube.com/c/BillyDaBongo) that explains what Additive is, how to install it, and other modpacks like Simply Optimized.
