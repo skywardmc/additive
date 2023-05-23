@@ -89,12 +89,13 @@ file = "config/yosbr/config/world-host.json5"
 hash = "c602ad2f5d370579a6f530355b2c60852fbbbfa6c230ebb568cbf79ec290e76b"
 
 [[files]]
-file = "config/yosbr/options.txt"
-hash = "96c989dd0d3e12f5d042f0964452365a9add38effcd6fa3d079474d25420d524"
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
 metafile = true
 
 [[files]]
@@ -148,11 +149,6 @@ hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
-metafile = true
-
-[[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
 hash = "2ecf8a35b7a0f6f00245fc95bc1d15f40ddcbb3c31794e2447911099a326ff9c"
 metafile = true
@@ -190,11 +186,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "ec644a70524673946d8a987bbc4d3f0968c4885f55541b837ee14a366b218d35"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
 
 [[files]]
@@ -245,6 +236,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "02afa656e08ce408c1b541e60d9126b8bac35b55a26950547291ee8f54c1899d"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
 metafile = true
 
 [[files]]

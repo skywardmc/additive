@@ -85,16 +85,13 @@ file = "config/yosbr/config/vmp.properties"
 hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
 
 [[files]]
-file = "config/yosbr/config/world-host.json5"
-hash = "c602ad2f5d370579a6f530355b2c60852fbbbfa6c230ebb568cbf79ec290e76b"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "96c989dd0d3e12f5d042f0964452365a9add38effcd6fa3d079474d25420d524"
-
-[[files]]
 file = "mods/animatica.pw.toml"
 hash = "43b20cf7fa9548f520981737c7f3432b2c7f69aeaa499bf8e2dce1cc9eea7789"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "8344401f3ab02bd9835655eea8de27337f4dc846b54643cf5e3eeb078c70230a"
 metafile = true
 
 [[files]]
@@ -185,11 +182,6 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "793507e44a0b52de9169ef5c5b232f4c765ef5d4898a50b438c10735762a2caa"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "3f216956fa906cfdfb32976d3a0b365d11c9c08294e50b0e413dfe6b96468bac"
 metafile = true
 
 [[files]]
