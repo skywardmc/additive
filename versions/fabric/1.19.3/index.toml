@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4b0fa9e03aafc5d8dfd10d907d7e58df5c8d0800954c1136f98641e3fd485e0e"
+hash = "be83fbfa0ca1eb2f29c1f276b4f6cec0ecd137084c801cb7588d715f88ebd4e2"
 
 [[files]]
 file = "config/puzzle.json"
@@ -19,6 +19,10 @@ hash = "62b04eea085d727936f22e03d11ebadfae7490fd58da9048409b94c6ac21af9e"
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "56e38e1d6039cbcf32c68416b60be42a4f5f3006c3caf50eb1eae1fc03580e86"
+
+[[files]]
+file = "config/yosbr/config/borderlessmining.json"
+hash = "c7983abfbff136519ffeca3ac75f4db10c81d7ad3adae6f4e1f9ad509a04c817"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
@@ -65,6 +69,10 @@ file = "config/yosbr/config/lambdabettergrass.toml"
 hash = "a96351b4d852862f0c994cd61a05856c965e73e8f698591f0f2f5ba9a30bd952"
 
 [[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "909e2467c0c277d63fe881ac80e44ea69ed85fe70c09665f2350cf92494294cf"
+
+[[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "0d539bf48acbab4079d41894b35a8eca1c68368738fd713de08acecae1dd8509"
 
@@ -83,6 +91,10 @@ hash = "6ccf73c631ecef6b9a5b6a9cb67b4ac117a3b131ce0b4a884a3b4ec1b537aa0f"
 [[files]]
 file = "config/yosbr/config/vmp.properties"
 hash = "0d0549563aca08c87a22a9fd862cc6e7a9906f2d6fca84dcbfa7cbec14dff7e6"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "4c4b9d86961d5fc9213f1781d51ad6f671ee70bffa1df30345356b30c02e7c3c"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -121,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "1a40260b79727502120cbf6a83efc62df915671677bb7e910aa8c65d575d0a80"
+hash = "fa61231305ed305a07281e096797cca217fbd6f7da6a7979ec3594acdbd26d72"
 metafile = true
 
 [[files]]
@@ -131,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "78b4265cb588c34e3f144857d011413dd54953d8301bf911fe31dc0a37e5024a"
+hash = "f2bb9539194789d19ef2ee64e37c26e3801af60559eb9f49612992dc1cb55ca0"
 metafile = true
 
 [[files]]
@@ -141,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "3ddb12a19403eb453fda1c23fd5124b0451db66eb6bf56a6b8b396b6f5fe17a4"
+hash = "d5a12a217e5482938fdbedc5a97c5eede593906838bbdcf4ec37682fd727f2d8"
 metafile = true
 
 [[files]]
@@ -236,7 +248,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "1afe5d10e148d3d727f70bfc065e0e65b9992bcd1904dcdc3f29c201a6d4dd15"
+hash = "8e01ebbfc62934c94989b5321c2ca1b0ca99febca5fa925bdb5eba089ce027b5"
 metafile = true
 
 [[files]]
