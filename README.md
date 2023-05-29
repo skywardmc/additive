@@ -28,7 +28,7 @@ If you would like to install the modpack, go to this page on [the website](https
 
 ### 🔥 Performance
 
-Through various optimization mods and mod configurations, Additive can cause your game to reach quite high framerates and use fewer resources. This also causes a big decrease in startup times, world loading times, and more. From my testing, Additive can sometimes reach up to 9x the framerate as compared to having no mods.
+Through various optimization mods and mod configurations, Additive can cause your game to reach quite high framerates. This also causes a big decrease in startup times, world loading times, and more. From my testing, Additive can sometimes reach up to 9x the framerate as compared to having no mods.
 
 ### 🔍 OptiFine features
 
