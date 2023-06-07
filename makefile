@@ -1,20 +1,24 @@
 update-packwiz:
 	go install github.com/packwiz/packwiz@latest
-	go install github.com/Merith-TK/packwiz-wrapper/cmd/pw@latest
+	go install github.com/Merith-TK/packwiz-wrapper/cmd/pw@main
 	clear
 	@echo "Packwiz has been Updated"
 export-fabric:
-	pw -b -d versions/fabric mr export
+	-mkdir -p .build/fabric/
+	cd versions/fabric && pw batch mr export
+	-mv versions/fabric/*/*.mrpack .build/fabric
 export-quilt:
-	pw -b -d versions/quilt mr export
+	-mkdir -p .build/quilt/
+	cd versions/quilt && pw batch mr export
+	-mv versions/quilt/*/*.mrpack .build/quilt
 update-fabric:
-	pw -b -d versions/fabric update --all
+	cd versions/fabric && pw batch update --all
 update-quilt:
-	pw -b -d versions/quilt update --all
+	cd versions/quilt && pw batch update --all
 refresh-fabric:
-	pw -b -d versions/fabric refresh
+	cd versions/fabric && pw batch refresh
 refresh-quilt:
-	pw -b -d versions/quilt refresh
+	cd versions/quilt && pw batch refresh
 refresh:
 	make refresh-fabric
 	make refresh-quilt
