@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "be83fbfa0ca1eb2f29c1f276b4f6cec0ecd137084c801cb7588d715f88ebd4e2"
+hash = "038da3017dd190d73adcc35f1fbbb27d3c5e8f120d389aa326f88f2c23f4382e"
 
 [[files]]
 file = "config/puzzle.json"
@@ -39,6 +39,10 @@ hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
 [[files]]
 file = "config/yosbr/config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
+
+[[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "8eac230e722a59915fa26ed453d780cd2034b65ec39a7ffe88135d16840c9692"
 
 [[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
@@ -86,7 +90,7 @@ hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "6ccf73c631ecef6b9a5b6a9cb67b4ac117a3b131ce0b4a884a3b4ec1b537aa0f"
+hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
 
 [[files]]
 file = "config/yosbr/config/vmp.properties"
@@ -146,6 +150,11 @@ hash = "d807461a67a231feb0e1a23929aeec7117f6260a565a6010e6cb45b386debdb3"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b668875d7f22033e43efeef4c1772f8567d6b33b06f7b16e17ccb3bbcb23dc47"
 metafile = true
@@ -161,18 +170,13 @@ hash = "111e5e1082cd618125fad1e8892caf9c1fcacd2a115ea73b1a71e35ae98259d0"
 metafile = true
 
 [[files]]
-file = "mods/exordium.pw.toml"
-hash = "ef9ab1a9351ad20f6c5c061caa409d4024bcf8ad498dc4994d897ca1988c61ff"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "268eee36d007dc55ff7abb4e4eff3dc2d6d8007fad18bea53330dffffeee41f5"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "7be1e122e9ef8f1b7f2df9ffccf02cf83a52d0a53ae5ba7d07ea7bd3cc149101"
+hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
 metafile = true
 
 [[files]]
@@ -212,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "062b63f97387a4ec3db4586a5f29243d3ad59460456e4c8d9a914f1a35154f5e"
+hash = "ab9645994926d59cb1e0b2c1f93adc8d2d40a2fd7671a690fc21d5be37dc4154"
 metafile = true
 
 [[files]]
@@ -241,11 +245,6 @@ hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
-hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "ec64297b6b7f82ede5ecc46a82e8a0e8dc8b730ee2ad763427b7043389b7a072"
 metafile = true
@@ -257,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "8e01ebbfc62934c94989b5321c2ca1b0ca99febca5fa925bdb5eba089ce027b5"
+hash = "a6955c0a5238d656d0916537b9b498b2e39a57737fd10fe9d47ce4b925a330d2"
 metafile = true
 
 [[files]]
@@ -297,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "1b3926e303a048364492a90f7b6ac669be98538b973dbde453c824829131bdae"
+hash = "132314930774a2d4f4b99416f8bf488fd29bb71aa1f05a19dd95dea31ed67dca"
 metafile = true
 
 [[files]]

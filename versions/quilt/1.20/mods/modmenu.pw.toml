@@ -1,0 +1,13 @@
+name = "Mod Menu"
+filename = "modmenu-7.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/RTFDnTKf/modmenu-7.0.1.jar"
+hash-format = "sha1"
+hash = "7210fab34b5ffe9f43207e2a74c7d4b8cdf5b165"
+
+[update]
+[update.modrinth]
+mod-id = "mOgUt4GM"
+version = "RTFDnTKf"

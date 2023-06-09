@@ -1,0 +1,13 @@
+name = "Indium"
+filename = "indium-1.0.18+mc1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Orvt0mRa/versions/WTH3T2cR/indium-1.0.18%2Bmc1.20.jar"
+hash-format = "sha1"
+hash = "e4fe54f15bc82abdf667fc4658d3b3e7d4e02174"
+
+[update]
+[update.modrinth]
+mod-id = "Orvt0mRa"
+version = "WTH3T2cR"

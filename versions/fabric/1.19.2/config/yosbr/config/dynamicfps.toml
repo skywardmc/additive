@@ -1,0 +1,4 @@
+unfocusedFPS = 2
+unfocusedVolumeMultiplier = 1.0
+hiddenVolumeMultiplier = 1.0
+runGCOnUnfocus = true

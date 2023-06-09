@@ -1,6 +1,0 @@
-itemFrameLODRange = 128
-itemFrame3FaceCullingRange = 0.0
-includeMangroveRoots = true
-
-[modCompatibility]
-minecraft = true
