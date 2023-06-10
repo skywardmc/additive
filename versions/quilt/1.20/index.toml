@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "55edf1c3d358ce208562be90dc337c1c4a1f5d7aacf8b3604674f524549d22df"
+hash = "788854ed4a1b79ab220883bbfb8d8049e999200756511140096d50c488a20d32"
 metafile = true
 
 [[files]]
