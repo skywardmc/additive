@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "038da3017dd190d73adcc35f1fbbb27d3c5e8f120d389aa326f88f2c23f4382e"
+hash = "e7742f402470379c17668cc4df0cc161784f9fec9fe58eceb28877536d1db1d8"
 
 [[files]]
 file = "config/puzzle.json"
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "788402a125343b8f538a8415adfda1ee49707fb9349d094030c038447e192649"
+hash = "d9eedf6b968e18479f2d9819859e5d9e8eea0876c066ae4238a4672482a34efb"
 metafile = true
 
 [[files]]
@@ -161,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "498647bf3f7f2ab5b76e0f964b352ea745b01a704e4b37c78b9d02e0a43681a9"
+hash = "0c49c30afd27b0a2cf79b4487a31143a313e847ad6eede7f9d56d7644313e61c"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "18d82b174f61f28a6fcd4d4fe3b29ffa5663a9fabc74314668b6db21430e167c"
+hash = "8b204c352fbc477a8591ca32376b004fdabcfacb12b570a7a1826cabd550bb93"
 metafile = true
 
 [[files]]
@@ -231,7 +231,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "bef4d6ae3e73b65d223e78ba62282435cb273b306ef1e8660c28745fcc0b500c"
+hash = "0241aaf8419884f43f529223b52e274712b109557e065846b953ab91953f2cb7"
 metafile = true
 
 [[files]]
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "4c6afb189f165daa97b7719b70d829d5b7d3615608f2434af39f4efc28f57aad"
+hash = "1c0b40f9eed2fdcc55d1e4338da7fe18b06061e829f349aeb12bb22a813a4935"
 metafile = true
 
 [[files]]
@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]

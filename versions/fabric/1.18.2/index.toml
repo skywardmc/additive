@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "038da3017dd190d73adcc35f1fbbb27d3c5e8f120d389aa326f88f2c23f4382e"
+hash = "e7742f402470379c17668cc4df0cc161784f9fec9fe58eceb28877536d1db1d8"
 
 [[files]]
 file = "config/puzzle.json"
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "a6955c0a5238d656d0916537b9b498b2e39a57737fd10fe9d47ce4b925a330d2"
+hash = "0241aaf8419884f43f529223b52e274712b109557e065846b953ab91953f2cb7"
 metafile = true
 
 [[files]]
@@ -296,12 +296,12 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "1babe0f7de12f46bf08404f5992cc8661abd20ae2108ed25f062c265b8d3b685"
+hash = "99019bdbcb815247220d3c6d92c2169f8b3df8ff486690aa9d605540c085f49c"
 metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
