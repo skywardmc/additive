@@ -35,14 +35,14 @@ Through various optimization mods and mod configurations, Additive can cause you
 Additive is designed as an open-source and modular alternative to OptiFine, offering many of the same features, including but not limited to:
 
 - Ultimate performance boost
-- OptiFine resource pack features*
-- Shader packs*
+- OptiFine resource pack features
+- Shader packs
 - Dynamic lighting
 - Better grass and snow
 - OF donator capes (and [free capes](https://github.com/intergrav/Additive/wiki/Supporter-cape))
 - Many other key OptiFine features
 
-**As of 1.15.5, most packs should load properly.* To see the full list of OptiFine features, check out [this wiki page](https://github.com/intergrav/Additive/wiki/Give-up-OptiFine).
+To see the full list of OptiFine features, check out [this wiki page](https://github.com/intergrav/Additive/wiki/Give-up-OptiFine).
 
 ### 🌎 World hosting
 
