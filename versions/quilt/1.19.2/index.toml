@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e7742f402470379c17668cc4df0cc161784f9fec9fe58eceb28877536d1db1d8"
+hash = "27e4af2945007a534c1cb1640a77c5dad977187199cd1cb385f2bc88f2189d49"
 
 [[files]]
 file = "config/puzzle.json"
@@ -112,11 +112,6 @@ metafile = true
 [[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "e8ccaa2816d767744121e3240a30bb061f8bba8c9274909017832d2f8576ce50"
-metafile = true
-
-[[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "d0faea9c2424906291c80e9e5464d05a070858c6c88f668dcdb993ac438d7a20"
 metafile = true
 
 [[files]]
@@ -262,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "adba7046d8fdc1d8d85da31ce491177ec38d9bcab5d2fcc0ee29fe8393f5eb96"
 metafile = true
 
 [[files]]

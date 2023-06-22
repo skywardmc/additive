@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e7742f402470379c17668cc4df0cc161784f9fec9fe58eceb28877536d1db1d8"
+hash = "27e4af2945007a534c1cb1640a77c5dad977187199cd1cb385f2bc88f2189d49"
 
 [[files]]
 file = "config/puzzle.json"
@@ -115,11 +115,6 @@ hash = "61e83f271c7e16618b26ee427e87d9ced073c2e8edcc94dbdff76aed3f5a8069"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "e4bbedd539a469daf66cf45717ccf5b8d2ba454d7e6b865c3a648fb8c4f80a40"
-metafile = true
-
-[[files]]
 file = "mods/capes.pw.toml"
 hash = "eca4f4b015ce8aa02c9fd68959e067894967744f3602f44ca24e93c21a0cb39f"
 metafile = true
@@ -166,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "111e5e1082cd618125fad1e8892caf9c1fcacd2a115ea73b1a71e35ae98259d0"
+hash = "7d20d76afead6260888c637db1036394c4c21d87cf44ad27ee7bafa9fee9321b"
 metafile = true
 
 [[files]]
@@ -267,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "82bfc54f0259e74515d892ec18de6623a4460fdb6ddd43bc21c477a83b587fab"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "33aea337e320968adbbc14ef1b883f163a587898fbed6693055c1164ee68f932"
 metafile = true
 
 [[files]]

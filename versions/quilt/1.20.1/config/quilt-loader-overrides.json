@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "overrides": [
+    {
+      "path": "<mods>/smoothboot-fabric-1.19.4-1.7.0.jar",
+      "depends": [
+        {
+          "remove": {
+            "id": "minecraft",
+            "versions": "=1.19.4"
+          }
+        }
+      ]
+    },
+    {
+      "path": "<mods>/borderless-mining-1.1.7+1.19.4.jar",
+      "depends": [
+        {
+          "remove": {
+            "id": "minecraft",
+            "versions": "=1.19.4"
+          }
+        }
+      ]
+    }
+  ]
+}

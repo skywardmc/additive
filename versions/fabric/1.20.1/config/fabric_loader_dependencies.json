@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "overrides": {
+    "smoothboot": {
+      "-depends": {
+        "minecraft": "IGNORED"
+      }
+    },
+    "borderlessmining": {
+      "-depends": {
+        "minecraft": "IGNORED"
+      }
+    }
+  }
+}

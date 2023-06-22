@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e7742f402470379c17668cc4df0cc161784f9fec9fe58eceb28877536d1db1d8"
+hash = "27e4af2945007a534c1cb1640a77c5dad977187199cd1cb385f2bc88f2189d49"
 
 [[files]]
 file = "config/puzzle.json"
@@ -192,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "748714dcfedd603a422361127773a00c693d48e4fafb99dcc30c3108b7afca63"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "1931d9ef7053a451339f8834f1f7559e5e081496a3fb25e8278d0737446d4913"
 metafile = true
 
 [[files]]

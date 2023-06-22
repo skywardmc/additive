@@ -1,12 +1,12 @@
 name = "Additive"
 author = "UltraStorm"
-version = "1.17.1+1.20.1.quilt"
+version = "1.17.2+1.20.1.quilt"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "72bf1a76b4d9995022543b01f67839fea75d13f20d1f98a49ed079d16f6518d0"
+hash = "0d2df6a01a11932d3829b083fc0c2e185169645894e4e58835126a2c37afa587"
 
 [versions]
 minecraft = "1.20.1"
