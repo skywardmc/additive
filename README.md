@@ -34,7 +34,7 @@ Through various optimization mods and mod configurations, Additive can cause you
 
 Additive is designed as an open-source and modular alternative to OptiFine, offering many of the same features, including but not limited to:
 
-- Ultimate performance boost
+- Large performance boost
 - OptiFine resource pack features
 - Shader packs
 - Dynamic lighting
