@@ -1,0 +1,13 @@
+name = "Ok Zoomer"
+filename = "okzoomer-4.0.1+1.16.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aXf2OSFU/versions/4.0.1%2B1.16.2/okzoomer-4.0.1%2B1.16.2.jar"
+hash-format = "sha1"
+hash = "60ee683e6a75da17ab105ea65f89871352711af6"
+
+[update]
+[update.modrinth]
+mod-id = "aXf2OSFU"
+version = "L7TmfftT"

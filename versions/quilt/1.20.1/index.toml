@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c08dd423149e17806bb0cc710d3ccc8f2d7e2141c8a726617784b4d1f2b2c3e1"
+hash = "7d0bb24a75dc984be7b0cc9d51de8037990844dbc5619559cbdcd37c53f3cde9"
 
 [[files]]
 file = "config/puzzle.json"
@@ -65,8 +65,8 @@ file = "config/yosbr/config/fastload.properties"
 hash = "08c78ab862dbb711eaa56f41bbf4696e3fe7d7c5882e864bdf6586a0e67234a9"
 
 [[files]]
-file = "config/yosbr/config/fastquit-config.txt"
-hash = "51737ea18619d5d6f55a8c7aff5ac0375ab8387a68698baa650d4732c8e38df6"
+file = "config/yosbr/config/fastquit.toml"
+hash = "26f8b71328ef8dc87a44b2750254fcc87cf1b84fef111f64a4b98d5712a20c05"
 
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
@@ -141,6 +141,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "c8c6a3893859d2f0e04ebf400c8ce8b47de21cfe6097996b5dde1561e92f3c80"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "6a4afd7b42387477795e73b17b8963ea313ce6f8a960343a2579ff0b41544beb"
 metafile = true
 
 [[files]]
@@ -234,6 +239,11 @@ hash = "6d813994b3eda187ae08b36561b60205de365852e2163f323c4c0ee283816ac6"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "23583083d03c8effa3dca4c17c7da2fcf57d653292b02898afe8d7029be6b0d7"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "0241aaf8419884f43f529223b52e274712b109557e065846b953ab91953f2cb7"
 metafile = true
@@ -301,11 +311,6 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-hash = "fe67f559bf7c07593f1eb0e3cfabb56635de7e566b26241559452dc04484bd4e"
 metafile = true
 
 [[files]]

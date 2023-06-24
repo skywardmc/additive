@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c08dd423149e17806bb0cc710d3ccc8f2d7e2141c8a726617784b4d1f2b2c3e1"
+hash = "7d0bb24a75dc984be7b0cc9d51de8037990844dbc5619559cbdcd37c53f3cde9"
 
 [[files]]
 file = "config/puzzle.json"
@@ -150,6 +150,11 @@ hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "2440a3dbb326c4993cb00d5619581017cc783981f8cbaf8ab53bd400d1e5bbf5"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "b668875d7f22033e43efeef4c1772f8567d6b33b06f7b16e17ccb3bbcb23dc47"
 metafile = true
@@ -245,6 +250,11 @@ hash = "b99c1cae57386de36e5a6dc1d247057d0d5c0e9c5a5563b67d078ea7975919a9"
 metafile = true
 
 [[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "3fa5439f34ada944b04d1abbe6e78e49ef5f561b336511a2c5cfd85c7ddd1e03"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "0241aaf8419884f43f529223b52e274712b109557e065846b953ab91953f2cb7"
 metafile = true
@@ -297,9 +307,4 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-hash = "42653e0671bbbde6f2ac3fa3af3b7068b7c83f2d9f8091dbaa24c758464d7a19"
 metafile = true

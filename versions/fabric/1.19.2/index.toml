@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c08dd423149e17806bb0cc710d3ccc8f2d7e2141c8a726617784b4d1f2b2c3e1"
+hash = "7d0bb24a75dc984be7b0cc9d51de8037990844dbc5619559cbdcd37c53f3cde9"
 
 [[files]]
 file = "config/puzzle.json"
@@ -137,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "bd52ab27068961afc53efd50c527302775b87fb176d10779e0d6a0428dcc51e4"
 metafile = true
 
 [[files]]

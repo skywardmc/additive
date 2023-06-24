@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c08dd423149e17806bb0cc710d3ccc8f2d7e2141c8a726617784b4d1f2b2c3e1"
+hash = "7d0bb24a75dc984be7b0cc9d51de8037990844dbc5619559cbdcd37c53f3cde9"
 
 [[files]]
 file = "config/puzzle.json"
@@ -120,6 +120,11 @@ hash = "7227ae7ebc90974368b355d80fd7e6bf76e7fe9946237e8cbc9a3f43f3488b0f"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "35f6daea7e2c267015b91613fbe3682d8d468da6a5e42972055c932adf084c9b"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml"
 hash = "61c72ce5be0869a31c41c078961e451b82724e09e617ea0fb85c91be9e09b892"
 metafile = true
@@ -187,6 +192,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "990ac06e16de11d0bfde772bf929d599404b7183fc922d67990fc3dff6c85682"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "0997308ff63efc671314e21885e6909f62f8aa3e98b6c7280378db82018a73d9"
 metafile = true
 
 [[files]]
