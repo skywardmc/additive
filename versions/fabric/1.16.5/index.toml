@@ -205,11 +205,6 @@ hash = "748714dcfedd603a422361127773a00c693d48e4fafb99dcc30c3108b7afca63"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "1931d9ef7053a451339f8834f1f7559e5e081496a3fb25e8278d0737446d4913"
-metafile = true
-
-[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "082d202257610559228e6bea1d1068fe25eba87c306dc4142e874f118ac8949f"
 metafile = true
