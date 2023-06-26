@@ -5,11 +5,6 @@
       "-depends": {
         "minecraft": "IGNORED"
       }
-    },
-    "borderlessmining": {
-      "-depends": {
-        "minecraft": "IGNORED"
-      }
     }
   }
 }

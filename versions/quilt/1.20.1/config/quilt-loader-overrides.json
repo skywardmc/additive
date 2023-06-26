@@ -11,17 +11,6 @@
           }
         }
       ]
-    },
-    {
-      "path": "<mods>/borderless-mining-1.1.7+1.19.4.jar",
-      "depends": [
-        {
-          "remove": {
-            "id": "minecraft",
-            "versions": "=1.19.4"
-          }
-        }
-      ]
     }
   ]
 }

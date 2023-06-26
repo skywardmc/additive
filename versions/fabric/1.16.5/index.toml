@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7d0bb24a75dc984be7b0cc9d51de8037990844dbc5619559cbdcd37c53f3cde9"
+hash = "9f8b46c385c25bb7e50754a70cd05ce058e5d9a75d7f1d45203523bab92932e5"
 
 [[files]]
 file = "config/puzzle.json"
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "437380b4636f7bef2e71098906688d2b8872341bf55a24652bb2b6dc39b68760"
+hash = "9a8af457dc8b2671d1486f23e018bb4c1b3f9008a3bb6e26b977ffc5e3e49666"
 metafile = true
 
 [[files]]
@@ -226,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "61c6edd9a529527b44db300346ecffb4cc250d250174ccb97eaa2e39832b1529"
+hash = "4baa5a62976039e9eb8f441f470d08364cae2f9d1cef3c4fd997991515211974"
 metafile = true
 
 [[files]]

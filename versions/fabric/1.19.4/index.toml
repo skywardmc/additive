@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7d0bb24a75dc984be7b0cc9d51de8037990844dbc5619559cbdcd37c53f3cde9"
+hash = "9f8b46c385c25bb7e50754a70cd05ce058e5d9a75d7f1d45203523bab92932e5"
 
 [[files]]
 file = "config/puzzle.json"
@@ -145,6 +145,11 @@ hash = "932f6be6f81e47ec23ac4c2e717d273d6321d9f6312c6d52b239a9af38a7e7ba"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "d26a91a3a457dc46a9d492a1898ccb5f412b80dc093321150051b48da97794fc"
+metafile = true
+
+[[files]]
 file = "mods/emuno.pw.toml"
 hash = "24d93f8e349a4b3612bedf0a67df4f526ae33bc9f388f16840a3aa90b5ff479f"
 metafile = true
@@ -171,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
+hash = "4ee359a86da950211a8da17a896c815af7d35fd9c5b7d3472f3fd5676476ba81"
 metafile = true
 
 [[files]]
@@ -256,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/rrls.pw.toml"
-hash = "ecac429bbba85204f8c946cf9b941faaad4121711486e66628319dfbe807e43a"
+hash = "ea726946037adba0558ff0de1011aac5660eb6b4ea8663f5a575f3c61d7a49aa"
 metafile = true
 
 [[files]]
@@ -286,12 +291,12 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "1c0b40f9eed2fdcc55d1e4338da7fe18b06061e829f349aeb12bb22a813a4935"
+hash = "39b013f54d6a8c48419a71557e6a3ec0fa9f350438b4ca26285261d66e017b0a"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "37c5d5ea5d8c26d988a1de62ab9afc54fa9d8febf276de57f087a1642265ebfc"
+hash = "c324a8a5d30da741732ff1ce9fe561decca934419da381d4d47a698b7df8ff91"
 metafile = true
 
 [[files]]
