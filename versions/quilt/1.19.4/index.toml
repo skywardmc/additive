@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9f8b46c385c25bb7e50754a70cd05ce058e5d9a75d7f1d45203523bab92932e5"
+hash = "fef3986e3ed4b82655eb390b54350ab928aaa2efabf3502a09a91541a518d370"
 
 [[files]]
 file = "config/puzzle.json"
@@ -116,7 +116,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "83d8a8865dfe81276fabc0c7085106a760608c0a3d569716fc77b3d0cb4d4c0d"
+hash = "5eba39d9e5a05337908239be113ec4bc26b557d8bc9bf10e0c7d9528bcb71d4d"
 metafile = true
 
 [[files]]
@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "c324a8a5d30da741732ff1ce9fe561decca934419da381d4d47a698b7df8ff91"
+hash = "bd8b90a79f53542a2421bce844e0e7a01907910146d71d9aac72bf449f107437"
 metafile = true
 
 [[files]]
@@ -306,5 +306,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "e2ba9b957d81e3489d3bce8f2d028cd514b9ae385d86f88681cc8a7bbe2efdfc"
+hash = "8fd75cdc574672683f7dc9cd667eeda11fe5ca3414e781515161dae3e930d569"
 metafile = true
