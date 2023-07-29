@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "fef3986e3ed4b82655eb390b54350ab928aaa2efabf3502a09a91541a518d370"
+hash = "53984aee0f4b02687e16b35d45d24d566a5ee80fa229cbc69e21f5005383b7d3"
 
 [[files]]
 file = "config/puzzle.json"
@@ -77,6 +77,10 @@ file = "config/yosbr/config/lambdynlights.toml"
 hash = "909e2467c0c277d63fe881ac80e44ea69ed85fe70c09665f2350cf92494294cf"
 
 [[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+hash = "adc94cd2504aeb8ba10ae4d39fc98c1f0fe5b06682b5b0943823d83a4bb5b9c3"
+
+[[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "0d539bf48acbab4079d41894b35a8eca1c68368738fd713de08acecae1dd8509"
 
@@ -126,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+hash = "d1dc8ac9ea0e5aed978c464ff34e460924dfc44d518eece4abbbfb9a5d49abf8"
 metafile = true
 
 [[files]]
@@ -156,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "290d36293a86ebdf7aec0ea84aa975eaccd7d7878b32d06fe1e0a0376d5441a5"
+hash = "b530adad65cbbef684e41627b20e1bda58b9a80999742015a043e8d1e01965ca"
 metafile = true
 
 [[files]]
@@ -171,12 +175,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "2ecf8a35b7a0f6f00245fc95bc1d15f40ddcbb3c31794e2447911099a326ff9c"
+hash = "317630013414bf85db780d2f81fba158012da75370be3e4ffd6a1b79147d3ba8"
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "1ef7f8449365aa7f1185447ca46bc1c742e3d766c9dffb90b90447daed049042"
+hash = "9cdd6767e3a3622ef53706bc9737c8ad771cf08590c7053b86a0c639f447b379"
 metafile = true
 
 [[files]]
@@ -235,6 +239,11 @@ hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "fae507c732292cd2a041116bd02531b09227f99330ee7359ef413905d8551406"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "be0fd8b9cd9f8a94428ea8ac5ec84f4f7bab23697236b7a2e54d8537834e0315"
 metafile = true
@@ -251,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "0241aaf8419884f43f529223b52e274712b109557e065846b953ab91953f2cb7"
+hash = "6b9a5755df72a262ba648f459c72d130211f859811b80b69aed1d47ea1a7aad6"
 metafile = true
 
 [[files]]
@@ -271,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+hash = "17651adb28b085101dcded29ef037e6622849a98b21d1c1872185e7b241a32f6"
 metafile = true
 
 [[files]]

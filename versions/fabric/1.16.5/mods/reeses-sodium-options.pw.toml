@@ -1,13 +1,13 @@
 name = "Reese's Sodium Options"
-filename = "reeses_sodium_options-1.5.0+mc1.16.5-build.68.jar"
+filename = "reeses_sodium_options-1.6.3+mc1.16.5-build.86.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/292StcfY/reeses_sodium_options-1.5.0%2Bmc1.16.5-build.68.jar"
+url = "https://cdn.modrinth.com/data/Bh37bMuy/versions/Em4mC86n/reeses_sodium_options-1.6.3%2Bmc1.16.5-build.86.jar"
 hash-format = "sha1"
-hash = "6f4c15d15241646e6d01a7cd3c0ae3314d6dbbb3"
+hash = "443f7f977aadb9a73f73f2b9840fbf6989446fb2"
 
 [update]
 [update.modrinth]
 mod-id = "Bh37bMuy"
-version = "292StcfY"
+version = "Em4mC86n"

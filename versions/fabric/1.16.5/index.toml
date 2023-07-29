@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "fef3986e3ed4b82655eb390b54350ab928aaa2efabf3502a09a91541a518d370"
+hash = "53984aee0f4b02687e16b35d45d24d566a5ee80fa229cbc69e21f5005383b7d3"
 
 [[files]]
 file = "config/puzzle.json"
@@ -77,6 +77,10 @@ file = "config/yosbr/config/lambdynlights.toml"
 hash = "909e2467c0c277d63fe881ac80e44ea69ed85fe70c09665f2350cf92494294cf"
 
 [[files]]
+file = "config/yosbr/config/modernfix-mixins.properties"
+hash = "adc94cd2504aeb8ba10ae4d39fc98c1f0fe5b06682b5b0943823d83a4bb5b9c3"
+
+[[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "0d539bf48acbab4079d41894b35a8eca1c68368738fd713de08acecae1dd8509"
 
@@ -111,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "9a8af457dc8b2671d1486f23e018bb4c1b3f9008a3bb6e26b977ffc5e3e49666"
+hash = "89de993e357a2a10af6a408cd157d947951c65ec8ecd95a7db4eaf52f8359043"
 metafile = true
 
 [[files]]
@@ -146,12 +150,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "7defc57c326a31b1821ed69396f32925d6d429db00420280b53636db7d400b33"
+hash = "7f92dec9bc5acaecdb0296602701e7ec8712ff3cb0610da8abf5a09e88661ce8"
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "e2ccf61a06f7fc68edc434cd409804f2e2174433f7368b8042d0b58ef8b83e96"
+hash = "752fef9cc4c9305a37cbd20a64324cdff82311681234b85eb39e23640151749a"
 metafile = true
 
 [[files]]
@@ -190,6 +194,11 @@ hash = "cfff77a6b3c6fd42810c9e2b10e5243258b4949f3935e9e0708f65aed580360c"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "6cf72540c65ecc6586c24bb0f7f51f4c8668bafa384c9c762a03d9e69a434860"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "990ac06e16de11d0bfde772bf929d599404b7183fc922d67990fc3dff6c85682"
 metafile = true
@@ -201,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "748714dcfedd603a422361127773a00c693d48e4fafb99dcc30c3108b7afca63"
+hash = "3e80d36fe7e575900040f31a47026571e72a0acdfb8b5767d484ff4e4bdb0801"
 metafile = true
 
 [[files]]
