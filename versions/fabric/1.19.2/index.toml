@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "53984aee0f4b02687e16b35d45d24d566a5ee80fa229cbc69e21f5005383b7d3"
+hash = "3fc83aed64efe2ce587325ffc94565c18a2167ef3e5cf6192f3489ea158730a0"
 
 [[files]]
 file = "config/puzzle.json"
@@ -78,7 +78,7 @@ hash = "909e2467c0c277d63fe881ac80e44ea69ed85fe70c09665f2350cf92494294cf"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "adc94cd2504aeb8ba10ae4d39fc98c1f0fe5b06682b5b0943823d83a4bb5b9c3"
+hash = "75dc59a264bf929fee5af95c087e3ec170311a50ca876b2d738d00ac90cf06c0"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
