@@ -28,7 +28,9 @@ If you would like to install the modpack, go to this page on [the website](https
 
 ### 🔥 Performance
 
-Through various optimization mods and mod configurations, Additive can cause your game to reach quite high framerates. This also causes a big decrease in startup times, world loading times, and more. From my testing, Additive can sometimes reach up to 9x the framerate as compared to having no mods.
+This modpack is based on [Adrenaline](https://modrinth.com/project/adrenaline), which is designed to significantly improve the performance of your game by using various optimization mods and configurations. It mainly involves faster startup times and a very high increase in framerates. Additive has a few extra mods for specific use-cases as well, such as [FastQuit](https://modrinth.com/project/fastquit) which allows you to immediately quit worlds and save them in the background.
+
+I won't compare the performance to other modpacks - mainly because doing accurate benchmarks is quite hard to do with a game like this where there are so many factors to consider. It can also depend on your hardware. I would suggest manually doing a benchmark and see which modpack is best for you.
 
 ### 🔍 OptiFine features
 
