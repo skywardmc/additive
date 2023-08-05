@@ -46,9 +46,9 @@ Additive is designed as an open-source and modular alternative to OptiFine, offe
 
 To see the full list of OptiFine features, check out [this wiki page](https://github.com/intergrav/Additive/wiki/Give-up-OptiFine).
 
-### 🌎 World hosting
+### 💡 Other features
 
-The modpack includes [World Host](https://modrinth.com/mod/world-host) by [Gaming32](https://github.com/Gaming32), which allows you to host your world in a free, unobtrusive, simple and privacy-respecting way, similar to Essential's world hosting feature. The other side does not need to have Additive installed - they can connect with anything. Simply click "Open Externally" in the menu, and send the given domain to your friends. For more instructions and information, view the [Modrinth page](https://modrinth.com/mod/world-host).
+Additive contains a very small amount of non-OptiFine features - mainly being small fixes, such as [EmuNO](https://modrinth.com/mod/emuno) and [Fix Keyboard on Linux](https://modrinth.com/mod/fix-keyboard-on-linux). There's also [World Host](https://modrinth.com/mod/world-host) included, which lets you host your world to the public by simply clicking "Open Externally" in the pause menu. [Borderless Mining](https://modrinth.com/mod/borderless-mining) is tucked away for convenience, disabled by default, but you can enable it in the mod menu. For the full list, check out the [Extra features](https://github.com/intergrav/Additive/wiki/Extra-features) wiki page.
 
 ## ❓ Why this over OptiFine?
 
