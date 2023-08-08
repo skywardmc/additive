@@ -1,13 +1,13 @@
 name = "FabricSkyBoxes Interop"
-filename = "fsb-interop-1.3.3+mc1.20-build.46.jar"
+filename = "fsb-interop-1.3.4+mc1.20-build.47.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/HpdHOPOp/versions/Y5qDVQ5H/fsb-interop-1.3.3%2Bmc1.20-build.46.jar"
+url = "https://cdn.modrinth.com/data/HpdHOPOp/versions/mH6v5ahJ/fsb-interop-1.3.4%2Bmc1.20-build.47.jar"
 hash-format = "sha1"
-hash = "0dd2ab9c4bf868d664cb4b8d00e7e0b8408e5e28"
+hash = "a8b71b031b9659fc111698fc12e923e28621cdc8"
 
 [update]
 [update.modrinth]
 mod-id = "HpdHOPOp"
-version = "Y5qDVQ5H"
+version = "mH6v5ahJ"
