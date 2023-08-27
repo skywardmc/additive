@@ -1,17 +1,17 @@
+# This config file is taken from Simply Optimized 8.4.0. C2ME is not shipped with
+# Adrenaline by default, however this serves it's place if the user adds the mod manually.
+# 
+# Thanks HyperSoop for allowing me to modify the config file for Adrenaline :)
+
 version = 3
-# (Default: 2) Configures the parallelism of global executor.
-globalExecutorParallelism = "1"
 
 [clientSideConfig]
-
 	[clientSideConfig.modifyMaxVDConfig]
-		# (Default: true) Whether to modify maximum view distance
 		enabled = false
 
 [noTickViewDistance]
-	# (Default: true) Whether to enable no-tick view distance
-	enabled = false
+	compatibilityMode = false
+	maxConcurrentChunkLoads = 1
 
-[threadedWorldGen]
-	# (Default: false) Whether to enable this feature
-	enabled = false
+[ioSystem]
+	gcFreeChunkSerializer = true
