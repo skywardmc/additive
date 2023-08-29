@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "bce4552e7361652e8ba92a13a84e3c5eeeb20cccf4df4de15a57d1da7ff3aa12"
+hash = "1de5761854ff549405888ae0442861555452d899fb85eb1a75d15f0108593e45"
 
 [[files]]
 file = "config/puzzle.json"
@@ -26,7 +26,7 @@ hash = "c7983abfbff136519ffeca3ac75f4db10c81d7ad3adae6f4e1f9ad509a04c817"
 
 [[files]]
 file = "config/yosbr/config/c2me.toml"
-hash = "77663d8f0a7c937e80b3c7a01dab03c99f12ca954148ce4823d96d767ebb8933"
+hash = "e0175393f767dc9d1c61ee6b69db461ea1d6d26b76c6f07503d6724edd009c89"
 
 [[files]]
 file = "config/yosbr/config/capes.json5"
@@ -50,7 +50,7 @@ hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
-hash = "a7c71647841d9f125dc7482bde82450b4d46942ba4fea673246fd956a1b499fd"
+hash = "d8eec905de29447db4b7a8c82c317033104f812190e59a6df1bc80b1bbac94cb"
 
 [[files]]
 file = "config/yosbr/config/fastquit.toml"
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "cdfba6239ea3dd9c111ebdca03626c3f179f7794ee146d0f043a82064ea39be1"
+hash = "b955450fc7798bd9490f24977a828a06aeee726198aacec1eef16703ab88fbc5"
 metafile = true
 
 [[files]]
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8c5609126c7a8d38b68c4df16f9e505c5aacdeda05d7a55cb661872db3831ae4"
+hash = "e5f92dc07f3f57d187c366dc98c1d16d75df5cf47775b1c2d8589f5a01900536"
 metafile = true
 
 [[files]]
@@ -278,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "2008716fdfef554660ce44659a3a42acd673a5391af2d4bd94f40654f1f60a1d"
+hash = "5128dafec4140a625b5c388f56e9989b8f6780dcce41134ef799bd9be3d5ae1a"
 metafile = true
 
 [[files]]
@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "5f5f3db8824093d650ea00c5f860c9532288310521ca2aa3689635d6d0910016"
+hash = "c19bc87fa42de31c7732c70cc4cbb03807248dad0137f7553d15873889617fc4"
 metafile = true
 
 [[files]]

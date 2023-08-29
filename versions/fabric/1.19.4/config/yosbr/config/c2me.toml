@@ -1,5 +1,7 @@
 # This config file is taken from Simply Optimized 8.4.0. C2ME is not shipped with
 # Adrenaline by default, however this serves it's place if the user adds the mod manually.
+#
+# I've disabled C2ME's experimental GC-free chunk serializer.
 # 
 # Thanks HyperSoop for allowing me to modify the config file for Adrenaline :)
 
@@ -12,6 +14,3 @@ version = 3
 [noTickViewDistance]
 	compatibilityMode = false
 	maxConcurrentChunkLoads = 1
-
-[ioSystem]
-	gcFreeChunkSerializer = true
