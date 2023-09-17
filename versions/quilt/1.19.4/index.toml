@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1de5761854ff549405888ae0442861555452d899fb85eb1a75d15f0108593e45"
+hash = "4b97d28aa1e2d2ece89ea2c85c66eb67f6fd71fb8d6ff4cc915371c794d6a022"
 
 [[files]]
 file = "config/puzzle.json"
@@ -41,8 +41,8 @@ file = "config/yosbr/config/citresewn.json"
 hash = "dcb9f9dd8184ba8ee7c81e785f677434c7cda2acb925fd3d542e2a361ee78e32"
 
 [[files]]
-file = "config/yosbr/config/dynamicfps.toml"
-hash = "8eac230e722a59915fa26ed453d780cd2034b65ec39a7ffe88135d16840c9692"
+file = "config/yosbr/config/dynamic_fps.json"
+hash = "03446bd8438e32366f310541f383bce5cdb2154fb5fb51973a7f3cf14f3ef173"
 
 [[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "4e54e315ce46ed6dd72b5d6c70bd24bebd6a4e648b80afcbbedc8ef352a06ec7"
+hash = "a59200f17de0902d8018567d20fdd550224a84ddf19f9b50fb70a14ad30d2d6a"
 metafile = true
 
 [[files]]
@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "09cc84c8d459ab708ac281e47cf76c6cf19cefaed7084ec481334d37875cb500"
+hash = "c449a15cfdfaf32cc1f49347404a08657464f032c59aab353052c97c70a30dbc"
 metafile = true
 
 [[files]]
@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "106a5a4554f1d79b3158beea97e16108a318b940924e643162444630dbebecab"
+hash = "88c0fc20bad48c7c65dc7394f8dbb00b908c4c4c21323a2160705177ccf10cc3"
 metafile = true
 
 [[files]]

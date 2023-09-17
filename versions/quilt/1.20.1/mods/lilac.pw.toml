@@ -1,0 +1,13 @@
+name = "LiLaC"
+filename = "lilac-1.0.0-beta.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rtp2Lyr5/versions/pRI9PPjm/lilac-1.0.0-beta.2.jar"
+hash-format = "sha1"
+hash = "660881d5495a429f815094a52f189210f61bb033"
+
+[update]
+[update.modrinth]
+mod-id = "Rtp2Lyr5"
+version = "pRI9PPjm"
