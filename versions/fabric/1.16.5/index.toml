@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4b97d28aa1e2d2ece89ea2c85c66eb67f6fd71fb8d6ff4cc915371c794d6a022"
+hash = "17df3203c357ae2bbbeeb2eee65cf23311c4ec7a035055ec2ae988db51243a62"
 
 [[files]]
 file = "config/puzzle.json"
@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "fb022e27289b252419e13f5a1f38c476376db9794fa1ca6dd089029144750272"
+hash = "cd93cb8ef97deada4fa7188901daa2e57826db9009928310e727858850510175"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "4baa5a62976039e9eb8f441f470d08364cae2f9d1cef3c4fd997991515211974"
+hash = "310fb0cc78403f7bb322b65675bdbc544f1b60ab445130001361d4ae9abb9bcc"
 metafile = true
 
 [[files]]

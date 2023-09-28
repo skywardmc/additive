@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4b97d28aa1e2d2ece89ea2c85c66eb67f6fd71fb8d6ff4cc915371c794d6a022"
+hash = "17df3203c357ae2bbbeeb2eee65cf23311c4ec7a035055ec2ae988db51243a62"
 
 [[files]]
 file = "config/puzzle.json"
@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3a9f0237e0eb16ab1ffba6dc8de1e7fb9828c4b111c5c5fbee82dfdffcc1dcd7"
+hash = "b2418ea39fdf365d839f2ecf6b3811552f9c95fe6bd673b612020856b4e07c73"
 metafile = true
 
 [[files]]
@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "553b9250760336fef6baaf059a41b8cae37316734183ae218a8162707f2a7626"
+hash = "4d266269f340582b7e618e4bef93e79dd13f1dc3843a8f02f63ab282dc2e9411"
 metafile = true
 
 [[files]]
@@ -188,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "f666e4e2da72185b349bc7c009b5a7bbe10f4501972d3d34ed7966fd533a939c"
+hash = "510cc416989c890f0fa0394e39e605a319869eac7a29a00066cebfb6552d2aae"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "66023ec6fd9d24094d04daa9d94d7f8fee950ac4f4bcd56aa08c0ad394678d7f"
+hash = "a16799bfb18ad3723165408cc7ca841091497ffd2a4ea31da365017f67846bbf"
 metafile = true
 
 [[files]]
@@ -228,7 +228,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "c6705186e23c5c3cb91f92af4a48be356cd6a18e384a0e1fa9616125f734f201"
+hash = "088d7693dae653ff299d1454674e29ab3b1649cf889c5ecd32ccced2b0c48472"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "2e7316dfcdbe292d78cf55189162961c900327bb62d18a58045d46b32137ec67"
+hash = "b5b5782c41abc271b355db78d4508103796db6b66106ae6be821bb42dcc44e88"
 metafile = true
 
 [[files]]
