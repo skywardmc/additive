@@ -1,13 +1,13 @@
 name = "EmuNO"
-filename = "emuno-1.1.0.jar"
+filename = "emuno-1.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/RLrPqrNI/versions/Dkqzfeve/emuno-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/RLrPqrNI/versions/Rt34JLkK/emuno-1.1.1.jar"
 hash-format = "sha1"
-hash = "01f741c3f6103899923e4421d0a1f253b74f61b7"
+hash = "851deb11c20f2a7a43ae19919bed4f436483a033"
 
 [update]
 [update.modrinth]
 mod-id = "RLrPqrNI"
-version = "Dkqzfeve"
+version = "Rt34JLkK"

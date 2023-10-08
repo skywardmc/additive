@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "17df3203c357ae2bbbeeb2eee65cf23311c4ec7a035055ec2ae988db51243a62"
+hash = "61bddaa74d8378c52bddb8480eac7334ac0b6c0df29133c6de57b3cf1e27f0b6"
 
 [[files]]
 file = "config/puzzle.json"
@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1c1fb401b3fef6dc52ce5e0fec5e5a8232fcb7d1f76bdecae82d9b7314a1419e"
+hash = "6da7c4d8bba0c49352ddfecec65d2e9c71a41738913b63665a0ee79eb75c890b"
 metafile = true
 
 [[files]]
@@ -283,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "bf15af24a20747fa85a32c620eef0f36963a0bff65dda2d6b70b29a9bebd0793"
+hash = "0cb4fc4715d90e206ebd8f1e6323c57e11630aabcc0b71aeeab8bd9456910fac"
 metafile = true
 
 [[files]]
