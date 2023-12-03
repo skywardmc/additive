@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "29101166aa118593bd41489fbb3364d053308c69e82abbf4a72cc71cd3f21c17"
+hash = "128beaacf8d9edc656ab86137a72bec8788a93fc31ee1d6a1425b34272211951"
 
 [[files]]
 file = "config/puzzle.json"
-hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
+hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -50,7 +50,7 @@ hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
-hash = "d8eec905de29447db4b7a8c82c317033104f812190e59a6df1bc80b1bbac94cb"
+hash = "d2d587cdd083d2776c24bc8bf7b8a10498790de6093953705ba121912230e269"
 
 [[files]]
 file = "config/yosbr/config/fastquit-config.txt"
@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "ca724d36f1e811948427ca05b67b9041f4ec2cc620ec7b50cba9ba83e095f186"
+hash = "85c51a07b1d2fa0e596e8c4c0e5f6c01ffb2a1a0693153b08105fa7d20572738"
 metafile = true
 
 [[files]]

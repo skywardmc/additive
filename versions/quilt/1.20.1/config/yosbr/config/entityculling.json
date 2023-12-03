@@ -1,4 +1,4 @@
 {
-  "sleepDelay": 125,
-  "hitboxLimit": 80
+  "sleepDelay": 75,
+  "hitboxLimit": 60
 }

@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "29101166aa118593bd41489fbb3364d053308c69e82abbf4a72cc71cd3f21c17"
+hash = "128beaacf8d9edc656ab86137a72bec8788a93fc31ee1d6a1425b34272211951"
 
 [[files]]
 file = "config/puzzle.json"
-hash = "21829a5d69be72b4202c975210a69c9331d75cd0cb7a9cddde56dac1131774ac"
+hash = "017213d817c551c6bddb0cf3a1344ded1747abba66bb758c9c9effc39f0d46e0"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -50,7 +50,7 @@ hash = "219204a2efc6d53ad8b3116db7392e039ba8e0ed5f45bc18562c9697bdf8f5c9"
 
 [[files]]
 file = "config/yosbr/config/entityculling.json"
-hash = "d8eec905de29447db4b7a8c82c317033104f812190e59a6df1bc80b1bbac94cb"
+hash = "d2d587cdd083d2776c24bc8bf7b8a10498790de6093953705ba121912230e269"
 
 [[files]]
 file = "config/yosbr/config/fastquit.toml"
@@ -59,6 +59,10 @@ hash = "26f8b71328ef8dc87a44b2750254fcc87cf1b84fef111f64a4b98d5712a20c05"
 [[files]]
 file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "2fee62477522b340fb814284e126749bd7858d2f7c17a2400d09644e5c4d725d"
+
+[[files]]
+file = "config/yosbr/config/immediatelyfast.json"
+hash = "55e693cdf40a6cb56a41eba09141c49ade93995642807ef4ac39e8d1233507f2"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -228,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "e0e8c3e60bac3df37dd6d4ea9d1a5ea91807727ef797b557996d4e4062219d90"
+hash = "b9125c39c0cdfdf11287f16e856b4ff1823b19d58e6f05a7066d15f14ac64aa6"
 metafile = true
 
 [[files]]
