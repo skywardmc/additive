@@ -1,13 +1,13 @@
 name = "Additive"
 author = "SkywardMC"
-version = "1.22.0+1.18.2.fabric"
+version = "1.23.0+1.18.2.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0d65e0decf0033cbfef0748068839b7ec3521332e974cadd1398482e6935c2b7"
+hash = "8922e4d8cba135f8f410cfe965692978d58a0db67e7b4fdf8cc47829b241f6fc"
 
 [versions]
-fabric = "0.15.0"
+fabric = "0.15.3"
 minecraft = "1.18.2"

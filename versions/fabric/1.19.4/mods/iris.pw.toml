@@ -1,13 +1,13 @@
 name = "Iris Shaders"
-filename = "iris-mc1.19.4-1.6.10.jar"
+filename = "iris-mc1.19.4-1.6.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YL57xq9U/versions/9a8qLmTR/iris-mc1.19.4-1.6.10.jar"
+url = "https://cdn.modrinth.com/data/YL57xq9U/versions/wN6PuLPa/iris-mc1.19.4-1.6.11.jar"
 hash-format = "sha1"
-hash = "d285d925d4f54404043437113b3315aa8c9d78cf"
+hash = "1b7a1a5831fc39a0a74582497be9bb03dcb9f7f6"
 
 [update]
 [update.modrinth]
 mod-id = "YL57xq9U"
-version = "9a8qLmTR"
+version = "wN6PuLPa"

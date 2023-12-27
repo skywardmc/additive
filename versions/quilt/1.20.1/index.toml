@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "128beaacf8d9edc656ab86137a72bec8788a93fc31ee1d6a1425b34272211951"
+hash = "baebab188efe9d5e0f1eb200812f656449f6085daeb685045417f8b5cb45fda4"
 
 [[files]]
 file = "config/puzzle.json"
@@ -122,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+hash = "a89dfcc985612a275975d4823a24fc3dceb244bacb2e8f81bd459283bf1b9fe9"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "6e6ee1bf66d6977728d3bf5404338c87a0a4ad5260833efcd912aaaca776cf8f"
+hash = "689ddf2293756df17ff80a4ed9ff181419f1f3fdfd450036f31e717db15e9447"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "46a172be840f12809901566f70bdb9c3bf0ce778911caeff9ae078eabcc1e04c"
+hash = "98d750b2b833c589799b246ac51387d3d3e5046f759c4efc6dadacaf6186bf6c"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "1b8b8a8249a2b1c00a1aa74fcde9e368cbb18355d89c201998ba0604d604e715"
+hash = "ba4525ab08293cfb3befbfb0ad56e6b25d60e3e8aca92cfe55478d5a450e599f"
 metafile = true
 
 [[files]]
@@ -202,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "87ea5bf588ed195eaee3bcbd2432b5671692a203b25b688ffcbfeea6d2cea775"
+hash = "41a3116f5642d40ed54efda3f863373fa4d3c0c3a24a447a38c8a106e9fbb079"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b9125c39c0cdfdf11287f16e856b4ff1823b19d58e6f05a7066d15f14ac64aa6"
+hash = "919cf3088c29f42ac95d83ebfafbd09730289b4fc3371106abc03731a6142bf7"
 metafile = true
 
 [[files]]
@@ -292,7 +292,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "10a996a445a743fca369e6b491bf0263082f929e626b91c401cbac7ca5e8cd46"
+hash = "80acf3766a90b17cfbb75c3e5aceb6c94fe598bb39a4b672c82f71b02efaa2ac"
 metafile = true
 
 [[files]]
