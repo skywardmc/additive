@@ -70,7 +70,7 @@ hash = "909e2467c0c277d63fe881ac80e44ea69ed85fe70c09665f2350cf92494294cf"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "39e289b38f9dab390f1103490002374eaf98c688de33cf6abf1e72dc9a5b9c92"
+hash = "117d843e8a2679e4fd7fc30727d2eade230c3476f64b08c66b75b21b05fcf033"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
@@ -86,15 +86,11 @@ hash = "c37edec3875da8e561eb60bb7a18dcdce128cc41cfe26261c65a8e942f65d58f"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "7fa2fdbeb82f6838cdfd4e3c686f31aafba333e505509d75b98883fe8a17f450"
+hash = "e4db84778c8d4d784413c027e30daa93558a42b1cfae8202ed47cda47a2792d9"
 
 [[files]]
 file = "config/yosbr/config/world-host.json5"
 hash = "c602ad2f5d370579a6f530355b2c60852fbbbfa6c230ebb568cbf79ec290e76b"
-
-[[files]]
-file = "config/yosbr/options.txt"
-hash = "4c4b9d86961d5fc9213f1781d51ad6f671ee70bffa1df30345356b30c02e7c3c"
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
