@@ -1,13 +1,13 @@
 name = "Entity Texture Features"
-filename = "entity_texture_features_fabric_1.20.1-5.0.jar"
+filename = "entity_texture_features_fabric_1.20.1-5.2.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/XWSoEIYq/entity_texture_features_fabric_1.20.1-5.0.jar"
+url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/YnTygVlO/entity_texture_features_fabric_1.20.1-5.2.3.jar"
 hash-format = "sha1"
-hash = "c50df6a6209263099d3470eee2bbc441080a24e0"
+hash = "4886f68e007b8501b59af21755d9a8f6683157fa"
 
 [update]
 [update.modrinth]
 mod-id = "BVzZfTc1"
-version = "XWSoEIYq"
+version = "YnTygVlO"

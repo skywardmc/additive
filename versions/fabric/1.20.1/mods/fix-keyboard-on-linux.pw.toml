@@ -1,13 +1,13 @@
 name = "Fix Keyboard on Linux"
-filename = "fix-keyboard-on-linux-1.0.0.jar"
+filename = "fix-keyboard-on-linux-1.0.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/siXFh9dn/versions/1.0.0/fix-keyboard-on-linux-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/siXFh9dn/versions/ZKDQu5sd/fix-keyboard-on-linux-1.0.1.jar"
 hash-format = "sha1"
-hash = "4b6989cb24a43d00c0295b5f00a93eed8a8b3d96"
+hash = "54f8961e608e0846f2f1feb25846643c2b024af6"
 
 [update]
 [update.modrinth]
 mod-id = "siXFh9dn"
-version = "jdX6FvED"
+version = "ZKDQu5sd"
