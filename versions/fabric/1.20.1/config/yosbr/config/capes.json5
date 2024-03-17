@@ -6,5 +6,5 @@
 	enableMinecraftCapesMod: true,
 	enableCosmetica: true,
 	enableCloaksPlus: true,
-	enableElytraTexture: true,
+	enableElytraTexture: true
 }
