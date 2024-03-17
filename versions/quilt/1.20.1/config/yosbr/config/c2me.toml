@@ -8,9 +8,9 @@
 version = 3
 
 [clientSideConfig]
-	[clientSideConfig.modifyMaxVDConfig]
-		enabled = false
+[clientSideConfig.modifyMaxVDConfig]
+enabled = false
 
 [noTickViewDistance]
-	compatibilityMode = false
-	maxConcurrentChunkLoads = 2
+compatibilityMode = false
+maxConcurrentChunkLoads = 2

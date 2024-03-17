@@ -1,1 +1,4 @@
-{"enableBorderlessFullscreen": false,"addToVanillaVideoSettings": false}
+{
+	"enableBorderlessFullscreen": false,
+	"addToVanillaVideoSettings": false
+}

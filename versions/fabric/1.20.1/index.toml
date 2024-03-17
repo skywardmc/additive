@@ -25,9 +25,6 @@ file = "config/yosbr/config/c2me.toml"
 file = "config/yosbr/config/capes.json5"
 
 [[files]]
-file = "config/yosbr/config/cem.conf"
-
-[[files]]
 file = "config/yosbr/config/citresewn.json"
 
 [[files]]

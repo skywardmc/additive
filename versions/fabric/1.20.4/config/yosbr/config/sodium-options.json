@@ -1,5 +1,5 @@
 {
-  "advanced": {
-    "cpu_render_ahead_limit": 4
-  }
+	"advanced": {
+		"cpu_render_ahead_limit": 4
+	}
 }
