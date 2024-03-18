@@ -189,6 +189,10 @@ file = "mods/moreculling.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/nvidium.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 metafile = true
 
