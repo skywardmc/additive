@@ -19,9 +19,6 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 file = "config/yosbr/config/borderlessmining.json"
 
 [[files]]
-file = "config/yosbr/config/c2me.toml"
-
-[[files]]
 file = "config/yosbr/config/capes.json5"
 
 [[files]]
