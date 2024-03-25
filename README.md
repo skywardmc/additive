@@ -32,7 +32,7 @@ After installing the modpack, you can easily add your favorite mods so long as t
 
 ### 🚀 Improve performance
 
-Additive is based on and kept in sync with the [Adrenaline](https://modrinth.com/modpack/adrenaline) modpack. Adrenaline's aim is to significantly improve rendering and game logic performance, along with memory and hardware usage, without compromising on the game's looks or features in any way. This is done with various optimization mods that are actively tested for stability and improvement. Some mods are also pre-configured. Adrenaline wouldn't exist with projects like [Sodium](https://modrinth.com/mod/sodium), so I advise you to donate to mod authors and contributors if you can.
+Additive is based on and kept in sync with the [Adrenaline](https://modrinth.com/modpack/adrenaline) modpack. Adrenaline's aim is to significantly improve rendering and game logic performance, along with memory and hardware usage, without compromising on the game's looks or features in any way. This is done with various optimization mods that are actively tested for stability and improvement. Some mods are also pre-configured. Adrenaline wouldn't exist without projects like [Sodium](https://modrinth.com/mod/sodium), so I advise you to donate to mod authors and contributors if you can.
 
 ### 🔍 OptiFine features
 
