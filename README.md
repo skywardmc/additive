@@ -44,7 +44,7 @@ Additive utilizes various mods that offers the same features that OptiFine did w
 - Dynamic lighting from held objects
 - Better grass and snow
 - OptiFine donator capes (and [free capes](https://github.com/skywardmc/additive/wiki/Supporter-cape))
-- [All other features and more information on the wiki](https://github.com/skywardmc/additive/wiki/Give-up-OptiFine)
+- [All OptiFine features and more information on the wiki](https://github.com/skywardmc/additive/wiki/Give-up-OptiFine)
 
 ### 💡 Other features
 
