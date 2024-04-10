@@ -53,6 +53,7 @@ Additive also includes some extra features unrelated to OptiFine, although I aim
 - Small input fixes for MacOS and Linux players
 - World hosting feature which lets you effortlessly open your LAN world freely and securely
 - Borderless fullscreen window setting in the video settings
+- Community-driven translations for many mods provided by [Loqui](https://modrinth.com/mod/loqui). Contribute translations [here](https://crowdin.com/project/loqui-moddedmc)!
 - [All other features and more information on the wiki](https://github.com/skywardmc/additive/wiki/Extra-features)
 
 ### ⚙️ Source-available
