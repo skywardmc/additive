@@ -1,0 +1,13 @@
+name = "FerriteCore"
+filename = "ferritecore-6.0.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uXXizFIs/versions/pguEMpy9/ferritecore-6.0.3-fabric.jar"
+hash-format = "sha1"
+hash = "f2bbb773f4213d36201b76820f206e2a6f213c0c"
+
+[update]
+[update.modrinth]
+mod-id = "uXXizFIs"
+version = "pguEMpy9"

@@ -1,0 +1,13 @@
+name = "Main Menu Credits"
+filename = "main-menu-credits-1.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qJDfP7WN/versions/hWX5REu6/main-menu-credits-1.1.2.jar"
+hash-format = "sha1"
+hash = "771eb704928c6d3e9fdf0e7971ba7d97305e09dd"
+
+[update]
+[update.modrinth]
+mod-id = "qJDfP7WN"
+version = "hWX5REu6"

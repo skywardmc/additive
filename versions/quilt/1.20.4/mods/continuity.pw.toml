@@ -1,0 +1,13 @@
+name = "Continuity"
+filename = "continuity-3.0.0-beta.4+1.20.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/1IjD5062/versions/JXhQlDZl/continuity-3.0.0-beta.4%2B1.20.2.jar"
+hash-format = "sha1"
+hash = "f9eaa5fc75d2747dbe14818dfde04eaf7152ae3c"
+
+[update]
+[update.modrinth]
+mod-id = "1IjD5062"
+version = "JXhQlDZl"
