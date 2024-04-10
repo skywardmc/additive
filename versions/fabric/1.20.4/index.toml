@@ -190,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
+hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
 metafile = true
 
 [[files]]
@@ -225,7 +225,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "b61b0ccdc8328d637c0f57cbb25258491b94ae03c89c4194ad6ca8b86579dd28"
+hash = "b1e256001d9d86101d4fd0c888099bcf25b0b72fffc8a5a64505dcb48fb6a652"
 metafile = true
 
 [[files]]
@@ -240,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "f2ce97d2bfd39ba6b2f66eb2e87c3e9bf4668d11e13c0670cb0809bdf1d9d870"
+hash = "418339fd110b3103efe89feb85b6f77bc3914a00fd8d81368fbb8524b5938bd6"
 metafile = true
 
 [[files]]
@@ -285,12 +285,12 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "7005e926a32cfe6e1191ea0da9f65635e28f9dec4d827044c43da622697ba9c2"
+hash = "af2f18c6feb48fe4bfc019bdbc4899eb874324082207dc01171ffbf15547f5dd"
 metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "7c7cb83b4ee06e8b6d2ea20682a88756877227001877fe76b170d7fbd94774d4"
+hash = "541c9a4652b02d1edfd7465c3c0ee17b0d9d12e02cd48412f9a6df27777683f5"
 metafile = true
 
 [[files]]
