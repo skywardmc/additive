@@ -1,0 +1,5 @@
+{
+  "main_menu": {
+    "bottom_left": [{"text":"Additive 1.25.1","clickEvent":{"action":"open_url","value":"https://modrinth.com/modpack/additive"}}]
+  }
+}

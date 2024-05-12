@@ -1,0 +1,9 @@
+{
+	"defaultSigningMode": "ON_DEMAND",
+	"showNCRButton": false,
+	"showReloadButton": false,
+	"verifiedIconEnabled": false,
+	"hideModifiedMessageIndicators": false,
+	"hideSigningRequestMessage": true,
+	"skipSigningWarning": true
+}

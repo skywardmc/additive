@@ -1,0 +1,13 @@
+name = "Puzzle"
+filename = "puzzle-1.6.2+1.20.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3IuO68q1/versions/foWdRKRT/puzzle-1.6.2%2B1.20.6.jar"
+hash-format = "sha1"
+hash = "1c5f7ed41df768a563903cd95e65d614a9ac617f"
+
+[update]
+[update.modrinth]
+mod-id = "3IuO68q1"
+version = "foWdRKRT"
