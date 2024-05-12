@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "4e87ee9b05c48cf4ca532f455de6d21d1c7c6adae8f90f9020d7ca0a159472b9"
+hash = "e5bde0bc121e4e034094552cda7d9cb4a1e23b6f8468fb0c701fa3f790a7dd89"
 metafile = true
 
 [[files]]
