@@ -66,7 +66,7 @@ hash = "54008cb6683821a7666db20867e55f71b7f90f101191cfe8fbaf1eb38f975e96"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
-hash = "624ed4c30777968887c07194cc265fc66aea996a20f55c32f0df861bc8ccc5c5"
+hash = "aef7324d3c235a60b4e62983385d1b4bfd348f3a58995ab2a075e9ca0ac9d3ce"
 
 [[files]]
 file = "config/yosbr/config/moreculling.toml"

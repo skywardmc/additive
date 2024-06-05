@@ -1,4 +1,6 @@
 {
 	"mods_button_style": "icon",
-	"update_checker": false
+	"update_checker": false,
+	"count_libraries": false,
+	"count_children": false
 }
