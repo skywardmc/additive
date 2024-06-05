@@ -209,6 +209,11 @@ hash = "c2597298dd5d160ca9161a12bcb5e933118cb66718b27c0945938eedb19dd90d"
 metafile = true
 
 [[files]]
+file = "mods/language-reload.pw.toml"
+hash = "ef364a31e3355d3b920af2530bac7a2dc4ed69f78e83bf219a616730a63051fa"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "8d8efd1b0fdd39724444d3f38573077f82b9f7091376d1c18a52404d7053626c"
 metafile = true

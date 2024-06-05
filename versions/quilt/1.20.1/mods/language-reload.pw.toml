@@ -1,0 +1,13 @@
+name = "Language Reload"
+filename = "language-reload-1.6.1+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/kO9nUBoX/language-reload-1.6.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "02fdfa8eab9fb261c0681d86d1d91b3a2fe16cb6"
+
+[update]
+[update.modrinth]
+mod-id = "uLbm7CG6"
+version = "kO9nUBoX"
