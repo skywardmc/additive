@@ -239,6 +239,11 @@ hash = "9d790daf7f139be1a7e771b7d70e4de5fcc5b3a4212b9dd7aa0ada308fa1c9fd"
 metafile = true
 
 [[files]]
+file = "mods/obsidianui.pw.toml"
+hash = "87981efb46e0cd7a408a1dddb1e80fd40c59ba0d9331953b0f888302a7dd3936"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "3572aa6d75c3ee9bdd85db71a6c43e9a996ce15e5371b2596c7017feddf56c9f"
 metafile = true
@@ -256,6 +261,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "c35d165125b8a1064f59e6573ce99fb62ce36142adbc476f3e2533256910ec4b"
+metafile = true
+
+[[files]]
+file = "mods/ryoamiclights.pw.toml"
+hash = "38d174b363d20977147fc4e9c5842d76fef3597556472cd4e8e75db3a6356445"
 metafile = true
 
 [[files]]
