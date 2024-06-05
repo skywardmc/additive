@@ -57,10 +57,6 @@ file = "config/yosbr/config/iris.properties"
 hash = "4b404c16b82563e05e0cc8dc1218eb6194b2aa4473f348ff0c0c7a8655d9b5ff"
 
 [[files]]
-file = "config/yosbr/config/lambdynlights.toml"
-hash = "d6afc19db2764da5ae94c735f9544987a5a4686305d1478d31fdca800a94444c"
-
-[[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
 hash = "22caf99f6531254b612c35bc12aff9c2b6d121b038b2e418a1a429049d16c9e0"
 
@@ -71,6 +67,10 @@ hash = "624ed4c30777968887c07194cc265fc66aea996a20f55c32f0df861bc8ccc5c5"
 [[files]]
 file = "config/yosbr/config/moreculling.toml"
 hash = "a2470fbc25f1a7df9833c57ca6588a356da86d9ab46881e5ce0e505239943fed"
+
+[[files]]
+file = "config/yosbr/config/ryoamiclights.toml"
+hash = "d6afc19db2764da5ae94c735f9544987a5a4686305d1478d31fdca800a94444c"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
