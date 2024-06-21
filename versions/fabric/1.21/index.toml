@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fabric_loader_dependencies.json"
+hash = "efc154c12c41d109c1d2bcaaac42cc1942bd257aecc7dc6959efb5b5a7f870bf"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "d4343337416f8324da8ff0e190b2108780d5eb918841347438d44eaec2e964c6"
 
@@ -253,16 +257,6 @@ hash = "9c603d7cea1e1b60317400b25490a93051f7e73204c337d815ac1dc53132a421"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "fc3b3d32f3f0dfc641237b76e5e2a5b196a59eb9dc2d5a65e03d67200cc86f34"
-metafile = true
-
-[[files]]
-file = "mods/nvidium.pw.toml"
-hash = "9d790daf7f139be1a7e771b7d70e4de5fcc5b3a4212b9dd7aa0ada308fa1c9fd"
-metafile = true
-
-[[files]]
 file = "mods/obsidianui.pw.toml"
 hash = "150b622b59aa157646792d5b76c799d78a8ac64fc5c2f96c99f8344554591b71"
 metafile = true
@@ -293,16 +287,6 @@ hash = "46af7d3bd6fec707eb0d9aac51c4cd1a85888266cf250b4dae7b2780487df7fb"
 metafile = true
 
 [[files]]
-file = "mods/resolution-control-plus-plus.pw.toml"
-hash = "2a92aa58bff66b0c77fe5629943916951145654e667d707c80d2e3e94532bcc1"
-metafile = true
-
-[[files]]
-file = "mods/ryoamiclights.pw.toml"
-hash = "38d174b363d20977147fc4e9c5842d76fef3597556472cd4e8e75db3a6356445"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "28f2167da063c1be7b1f4e534cdcbb446daa569cc32ffe1c0705663a9a06a5b9"
 metafile = true
@@ -315,11 +299,6 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "f937ca0de07e36477286eebbd0b592920b5d8c76c0422d27bd2303732061bf5e"
-metafile = true
-
-[[files]]
-file = "mods/world-host.pw.toml"
-hash = "a1cfaa434b979b6f2778832353be5e9981f696f101e4c4d54ba0820bc1e1b1d6"
 metafile = true
 
 [[files]]
