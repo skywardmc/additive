@@ -1,0 +1,13 @@
+name = "MidnightLib"
+filename = "midnightlib-fabric-1.5.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/HVILSMf5/midnightlib-fabric-1.5.7.jar"
+hash-format = "sha1"
+hash = "48ccab78bdcd3e8123367648675bbba6fbf23f60"
+
+[update]
+[update.modrinth]
+mod-id = "codAaoxh"
+version = "HVILSMf5"

@@ -1,0 +1,13 @@
+name = "YetAnotherConfigLib"
+filename = "YetAnotherConfigLib-3.5.0+1.21-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/Y8Wa10Re/YetAnotherConfigLib-3.5.0%2B1.21-fabric.jar"
+hash-format = "sha1"
+hash = "c58dab87a7b62d0b3812c97fa69381ae041a1439"
+
+[update]
+[update.modrinth]
+mod-id = "1eAoo2KR"
+version = "Y8Wa10Re"
