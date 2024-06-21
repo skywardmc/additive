@@ -288,6 +288,11 @@ hash = "975478c93b1218131fd48695cd7efb9bbe0d69125409940b015a7058e42fb6be"
 metafile = true
 
 [[files]]
+file = "mods/resolution-control-plus-plus.pw.toml"
+hash = "7be857e8d069e439fd3425690544481c2fd013ce7898b658367e95e248c0005d"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "f7c09e537f9db67804dd7df6b8ba3a0cfb63429ad992a99e8f8faba33187ded2"
 metafile = true

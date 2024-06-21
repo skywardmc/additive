@@ -293,6 +293,11 @@ hash = "c35d165125b8a1064f59e6573ce99fb62ce36142adbc476f3e2533256910ec4b"
 metafile = true
 
 [[files]]
+file = "mods/resolution-control-plus-plus.pw.toml"
+hash = "2a92aa58bff66b0c77fe5629943916951145654e667d707c80d2e3e94532bcc1"
+metafile = true
+
+[[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "38d174b363d20977147fc4e9c5842d76fef3597556472cd4e8e75db3a6356445"
 metafile = true
