@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "d4343337416f8324da8ff0e190b2108780d5eb918841347438d44eaec2e964c6"
+hash = "3b9e19358031725e4474889df1028f48c38481980229d1914b48316672e6e434"
 
 [[files]]
 file = "config/puzzle.json"
