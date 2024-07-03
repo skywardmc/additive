@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "1a65361cf2207ba6bad6eba3e66e407983452398c4ac5cbe5db0d8430b8a6496"
+hash = "1640bacec8b2ded2995fb903d3187a6ade6ecf506fc5e8eb572f634f87a251e6"
 metafile = true
 
 [[files]]
@@ -129,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "27f9b131c5f2db3267fe07cab7c104a5651cbdfbdc1f023374fe6d93f686f26b"
+hash = "509c6f91e81267b6a20bc4c89ab8ca165ad39522cc1c59861e8168ea166db8e9"
 metafile = true
 
 [[files]]
@@ -164,7 +164,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7e5e7a222813e1aaa21e6d940ab1fc156daa90694f9e85152f283dbe5b1a912d"
+hash = "2aaff0682f57de54888dda0c66ca6584b700460886064622aebe2d0d68ef0e23"
 metafile = true
 
 [[files]]
@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "c4d8f09c871cdc4e00bf4e0e56521bbe736f567f159a2c316a612d1e53485189"
+hash = "e54aa7c21f022dd44393975d1d14c4238f23f228432b7b91c5f899fcc15464a3"
 metafile = true
 
 [[files]]
@@ -209,12 +209,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "fc8ae39ef4edbdb8e23ec91a10d1ef42c0fc569b5c8d633d7c584bfd55daa8bc"
+hash = "31278d67704a56eb32d93c240e4bfd9822e1ab6047ee14d752953dd0c24dca95"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c2597298dd5d160ca9161a12bcb5e933118cb66718b27c0945938eedb19dd90d"
+hash = "860b83d5fe7aadcefa928fe156d38e46cf171b6102d5691758eb75da3fcdb799"
 metafile = true
 
 [[files]]
@@ -264,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/obsidianui.pw.toml"
-hash = "87981efb46e0cd7a408a1dddb1e80fd40c59ba0d9331953b0f888302a7dd3936"
+hash = "3b0d888e273c6191ea59f13bc50982e7a5f382eca60ca5329c2a6be3969c1e78"
 metafile = true
 
 [[files]]
@@ -304,12 +304,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "174b7b4038141e84a8a08c29d742fe4608574955991b6147b0a5fdac4c6529ff"
+hash = "44a5de1ad7f56e021d67f7fd904d9bf0c41e29c74fdbe55ba551758036ef88cc"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0b1a53f585b616faa04cb2bccdb05e67c0fbc1887b209c191d4fb7c91d13cac4"
+hash = "115a89810ba6b5e00365b3733dd2ed03bb6e9aee3bdc49714cd897a153146d8a"
 metafile = true
 
 [[files]]
@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "a1cfaa434b979b6f2778832353be5e9981f696f101e4c4d54ba0820bc1e1b1d6"
+hash = "14d8d165da7dcd3d8f44d797c774c1a6c9cac62a5307deb82bfb7b393ffa97fa"
 metafile = true
 
 [[files]]

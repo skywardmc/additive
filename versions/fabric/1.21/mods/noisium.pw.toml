@@ -1,0 +1,13 @@
+name = "Noisium"
+filename = "noisium-fabric-2.2.0+mc1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KuNKN7d2/versions/ZXBMeSZ0/noisium-fabric-2.2.0%2Bmc1.21.jar"
+hash-format = "sha1"
+hash = "db6a28440987a2e6123c47933c79819b35242d99"
+
+[update]
+[update.modrinth]
+mod-id = "KuNKN7d2"
+version = "ZXBMeSZ0"
