@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "efc154c12c41d109c1d2bcaaac42cc1942bd257aecc7dc6959efb5b5a7f870bf"
+hash = "49c2396331e4dfdcc9dcd6298e8c9215978a545245fe69469475748eec849ee8"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -152,11 +152,6 @@ hash = "e6eff4533154c7715f8a1fbc8c8b9c940e63b5878f6ce39e7ffef050a8da202f"
 metafile = true
 
 [[files]]
-file = "mods/emuno.pw.toml"
-hash = "8f0c18360533351fff9237b803b1a91fb86cc9b00d56e61f116076e654c9f8e8"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "8f0045c1f4b6a8bc0feeb64f6c95638383bb992b9dcc4cee0974ab85f6115b6e"
 metafile = true
@@ -234,6 +229,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
+metafile = true
+
+[[files]]
+file = "mods/macos-input-fixes.pw.toml"
+hash = "f14660be4c4cbc78a43756aafe528e956851119fcc5023139e82c18f8c520082"
 metafile = true
 
 [[files]]

@@ -148,11 +148,6 @@ hash = "316c9b6fa7e755915125409bd2a0a8b3f732534f794e8db4a5b2feac91ad573e"
 metafile = true
 
 [[files]]
-file = "mods/emuno.pw.toml"
-hash = "8f0c18360533351fff9237b803b1a91fb86cc9b00d56e61f116076e654c9f8e8"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "7bc062e46f4919feb0edac897a5db36ee1073abff7de2e90cd18301f8df0bb98"
 metafile = true
@@ -230,6 +225,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "2600531abea1670221c21edf73d7024cf1285f58bca3a838777f957e5e17f477"
+metafile = true
+
+[[files]]
+file = "mods/macos-input-fixes.pw.toml"
+hash = "f14660be4c4cbc78a43756aafe528e956851119fcc5023139e82c18f8c520082"
 metafile = true
 
 [[files]]
