@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "7bc062e46f4919feb0edac897a5db36ee1073abff7de2e90cd18301f8df0bb98"
+hash = "3fe83af238470ff52ceeeca5c9da3f894d21312b300b4afe9e46f30d8147ebd3"
 metafile = true
 
 [[files]]
@@ -159,7 +159,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "c17780fd3353a4c360f41c89abd5c180db96d5af14e7b0c627f68e0d151503e0"
+hash = "5ddcc8a6ae2cb77512bef6dd99157bfa033759ef5abce6d90414d8213e821ce4"
 metafile = true
 
 [[files]]
@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "e54aa7c21f022dd44393975d1d14c4238f23f228432b7b91c5f899fcc15464a3"
+hash = "86a353a8454402a9f52c26ab43930e57ece532880960764957aed6fdc1e08f14"
 metafile = true
 
 [[files]]
@@ -319,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "14d8d165da7dcd3d8f44d797c774c1a6c9cac62a5307deb82bfb7b393ffa97fa"
+hash = "014813cc5814e2196681564d18cbc12e8940d27ed10d39cb2dc1ebfe237d3f91"
 metafile = true
 
 [[files]]
