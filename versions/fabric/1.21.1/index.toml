@@ -145,11 +145,6 @@ hash = "84de3cd780d9b310e855a6977b6b432b6ab5cb1da8a0c557341825ba31697af2"
 metafile = true
 
 [[files]]
-file = "mods/cull-less-leaves.pw.toml"
-hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "8fb1d7b9c4c090b7c96ab7e4b6408ca39f33e0aedfbb4615d1c3aa84c9f0aea9"
 metafile = true
@@ -230,11 +225,6 @@ hash = "cf0adf784f1a181299bc48c9b9048fba5980755365586592e73ffe46ae4915e5"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "5f694b0c16bfbf69b05cb28eef7a553ae548e623bc2cbccc98e01d950d3611db"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "8663b25e8805cc38d50355590699b2266c2c8be50000451311c866113aa29b4b"
 metafile = true
@@ -285,11 +275,6 @@ hash = "0b35eacc51808809894ef78b91dfd614e056a34708e4bd2aa6f5ebeb7993a1c0"
 metafile = true
 
 [[files]]
-file = "mods/nvidium.pw.toml"
-hash = "689a6b882d654811647fa99eaaa5d5d0c089281846a1fcf1d6242cd18063569e"
-metafile = true
-
-[[files]]
 file = "mods/obsidianui.pw.toml"
 hash = "595baa2bb72f3af291c3e5afae919db7f26e4f7e2d73aea527fce947b861376c"
 metafile = true
@@ -337,6 +322,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "ece36a60c9afd8cbbe422a0fd72b11873d52eb87702cbfa5bc19cb5c44366398"
+metafile = true
+
+[[files]]
+file = "mods/sodiumleafculling.pw.toml"
+hash = "d05681b90cd9cf8b424ca4cd295eecbdbfcadf9fd2fc1af612228127fce7a2b6"
 metafile = true
 
 [[files]]
