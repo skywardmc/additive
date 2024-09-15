@@ -1,0 +1,13 @@
+name = "Nvidium"
+filename = "nvidium-0.3.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SfMw2IZN/versions/3L83QwKZ/nvidium-0.3.1.jar"
+hash-format = "sha512"
+hash = "1da6ab0a179dd18035139e4562cd8921803fbeff9ac7a2e6af216c4ab4b6baecf755970a4b75ebfa645bac74bdfc3d8d9565419f5d401fda844ff4201b965413"
+
+[update]
+[update.modrinth]
+mod-id = "SfMw2IZN"
+version = "3L83QwKZ"

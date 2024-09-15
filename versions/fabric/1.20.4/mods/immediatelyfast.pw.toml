@@ -1,13 +1,13 @@
 name = "ImmediatelyFast"
-filename = "ImmediatelyFast-Fabric-1.2.18+1.20.4.jar"
+filename = "ImmediatelyFast-Fabric-1.2.21+1.20.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/HX5WEfoR/ImmediatelyFast-Fabric-1.2.18%2B1.20.4.jar"
-hash-format = "sha1"
-hash = "cb1a465167fd2b313e4b8fd2dfff478e5951827f"
+url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/tF2vt38m/ImmediatelyFast-Fabric-1.2.21%2B1.20.4.jar"
+hash-format = "sha512"
+hash = "96ae034d1510ecda59db6d12331e0372989acd24dda542fd77777310e6a487b5d9136471603099aa47a40aacca3b36ce426107eb720ce2a744b9d7175d05ede8"
 
 [update]
 [update.modrinth]
 mod-id = "5ZwdcRci"
-version = "HX5WEfoR"
+version = "tF2vt38m"
