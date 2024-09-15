@@ -156,9 +156,8 @@ hash = "5cfdebf79480f71e84191358887f49eb8cc59b7d937f2e5be73fb8267606da2b"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "e6eff4533154c7715f8a1fbc8c8b9c940e63b5878f6ce39e7ffef050a8da202f"
-metafile = true
+file = "mods/enhancedblockentities-0.10.1+1.21.jar"
+hash = "bb8500024f2fd5f6ab09b6c48661d80783eb25f9c8b41bade242f84e21432b75"
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
