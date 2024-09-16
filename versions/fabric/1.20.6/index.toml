@@ -111,6 +111,11 @@ hash = "51ac678d3646bcb97e13935ae67d32abbd55def714030b3b3433aa15b4b2c8af"
 metafile = true
 
 [[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "55db857485ba12c4b59da5851f63d643efcb10c8f7890d94a5cf7f078a5ebc8a"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "d69deccb96543ac742844da8a00166831b9609d4a5df27139d88102de6dd5227"
 metafile = true
