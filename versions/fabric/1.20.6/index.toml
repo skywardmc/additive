@@ -196,11 +196,6 @@ hash = "eae8d54cd5848b9e0a2dcd21be161724bcef2f27be24577fb036a8fa024dfea5"
 metafile = true
 
 [[files]]
-file = "mods/fabricbettergrass.pw.toml"
-hash = "bcd27d481492c7f60c09bb841281da82eb6f8e83305c98f2be21376d7bd3fae1"
-metafile = true
-
-[[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
 hash = "0150385c5eaea653a1433f4112afdd1b577521e71f9f2b7ab397af5e15aa391e"
 metafile = true
