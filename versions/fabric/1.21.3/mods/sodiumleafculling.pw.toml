@@ -1,0 +1,13 @@
+name = "Sodium Leaf Culling"
+filename = "sodiumleafculling-fabric-1.0.0-1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/M25bkObt/versions/nYTeWG7l/sodiumleafculling-fabric-1.0.0-1.21.1.jar"
+hash-format = "sha512"
+hash = "ab579151c8e9c80717572978f48b1bafd2e11104a2516f8d813ff28f97938bfc437001bd30b5469b44f6d1ec8c5b6db001ec43b85f9e81fb63d84fb63e3fa75f"
+
+[update]
+[update.modrinth]
+mod-id = "M25bkObt"
+version = "nYTeWG7l"
