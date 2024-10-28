@@ -107,12 +107,12 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "51ac678d3646bcb97e13935ae67d32abbd55def714030b3b3433aa15b4b2c8af"
+hash = "96b2fb043fef692e070f39ec824d04014c2ce30893fe380ef4fb713b298adbde"
 metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "6b1cc2d5b7db49c5b9eb104e53b6ab536767f0f8eb5ad14b91dd0a7d40ec8dfa"
+hash = "8ce1125458e17ea845f60abacef8f1507254c076455871a1e2fa6459f2466a3e"
 metafile = true
 
 [[files]]
@@ -147,12 +147,12 @@ metafile = true
 
 [[files]]
 file = "mods/cull-less-leaves.pw.toml"
-hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
+hash = "e4a437ed5c3f631fd4787e6ad4d61295654aba9d07528a5b692b8e917221ea0d"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "69c489a374e64efb220a98611388233bc1b923ac14006786ac055574cd66e214"
+hash = "655e9405b6675581291126805c5e76aa2153ce932a77fe25b82711a4bab27928"
 metafile = true
 
 [[files]]
@@ -222,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a4c0d10b78d2212f6a8e1f620760f72699f8c46b38cb93e797a3b538bfbd0806"
+hash = "c3d4f2627461782145554911f6f5e79d91d25cb1cdfc2c7386769cf3b9c7b97f"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "ef364a31e3355d3b920af2530bac7a2dc4ed69f78e83bf219a616730a63051fa"
+hash = "5124507127c85ebad2b2b35be2f6a132ee1f4a8f75b972f8cb4d773bcb9fb070"
 metafile = true
 
 [[files]]
@@ -357,7 +357,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "a88b2f6458286d826a3c444eb298c16b5da386bd3e89dc6105f7e95c502d866a"
+hash = "469c40ff2836d15eb03148d6066515ccee331d87b93632fbbd124fbf0ef29bb1"
 metafile = true
 
 [[files]]
