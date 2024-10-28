@@ -171,11 +171,6 @@ hash = "6e572f70d25f8f509761cb13f0d29eb2f9333713e4d32b33ecd576f7545a738e"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "7ed4b1f815d4c6121591cbad1d0b41fea818c4cb377b0f8f39655392f8cf63df"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "d3d53e83fbebd420919804c2204e411923f8ea0c62fafa2771c0beb5ed4cfbe2"
 metafile = true
