@@ -5,10 +5,6 @@ file = "config/isxander-main-menu-credits.json"
 hash = "7bcf1f20ab9a1eca927b08e6d8772a3787d532ad82fe9b27d8b31dadd97eea7c"
 
 [[files]]
-file = "config/puzzle.json"
-hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
-
-[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "e0d9ce47a87536c707b797789b53e9e4f09b273f69098b1303b0815ebd82b3c5"
 
@@ -71,6 +67,10 @@ hash = "22caf99f6531254b612c35bc12aff9c2b6d121b038b2e418a1a429049d16c9e0"
 [[files]]
 file = "config/yosbr/config/modmenu.json"
 hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
+
+[[files]]
+file = "config/yosbr/config/puzzle.json"
+hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
 
 [[files]]
 file = "config/yosbr/config/ryoamiclights.toml"
