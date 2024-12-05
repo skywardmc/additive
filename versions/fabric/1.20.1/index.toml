@@ -107,7 +107,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "6c5a2fc560751c90dd40b0be4a28c9271aea8d2cf2d5c59cbfa3014e53dbfea6"
+hash = "e0cf59ae504142b4c4e6e702cc3209e0d6c37ca428d6d0b15a40d430c0b4364d"
 metafile = true
 
 [[files]]
@@ -137,12 +137,12 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "acbde04e67f2f0970a6b81e3c818a5f8ed3eceab4f3a04330d80c70c24d03afe"
+hash = "ca80c5f6b0faca95bbc06192a3da36446ff396b5e6e0304f6779269b60bbdd9d"
 metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "9a25a41714e3cba98573c490583442e3329a07b87bef44df7ac47ac00bac4d5a"
+hash = "5944ed5a779d142aea9ccd8c466a20fa3d9233a29f2be1e5ae54fc15f5edd57e"
 metafile = true
 
 [[files]]
@@ -152,7 +152,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "b57e845b9447b543bb6d0f7f87c61fc35424d2cc9be6a87eb6561685b4d5415f"
+hash = "8718c1de38f03334743dd2c041d50b8643387f8b4a70a12d9f542f5931825b0a"
 metafile = true
 
 [[files]]
@@ -172,12 +172,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "80e4754f033925c32159a9e54a5d2a7f6b643dc1cc71ddc136766e6e2025b3cf"
+hash = "bc7d8253f56d74d7cde9b4e8fa0a99f967dc7165d564c959e138f23db3559426"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "ad4003ded1035b5726a437557a6a26ddf0e6309fe0be1f61900c4c2c6bb63f3d"
+hash = "b7292ddaf4e29b7e9bebadfc1948c98ab08366914ef312e37cfc56601763f828"
 metafile = true
 
 [[files]]
@@ -192,12 +192,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "5edd45af7eccd8a626f72fa148a680dc2640c081bdc73971b17652c92b92780b"
+hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
 metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "d439534b4e3b5d09b75e906ed3a86135fbb13f6ab51f1624a99622830211c97d"
+hash = "9337e02ac174dec76ea5f21cd11f384afb36fef41250c1a2e4707065698bfdb3"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1a0ca5ccdd3c2a5ab50bd98910168b5050b8bbcfb6d461ba5b2f208cfb13b1b0"
+hash = "2e441b5e21e8db1cd9102216ce4b8d1a25d77a026182e00f6324aadda402f715"
 metafile = true
 
 [[files]]
@@ -262,7 +262,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "f14660be4c4cbc78a43756aafe528e956851119fcc5023139e82c18f8c520082"
+hash = "3ba523b0e2a61388644998f4ce0e34bffe2b4bbe59d5b4bd8e467e52fc4fc21a"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "be3e8357614fde57b98700cce139b1b3473018fedcec59102a898d61057c1a4a"
+hash = "d3ebe8e69a65f1193d969d9ee9994b8c61a8246861063f9663ff5ebe2f33792c"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "cab8821ef01fde0eafedffe90c6a935b5753f68a81fd607ecfde468d954f74ec"
+hash = "d898a6759ccf5c552c18671f59be67f25cef7435abb0a9c2d6c96ef77712795f"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "e78eab05d2bb55861865917d0caf1153ed4b631a4376a4c075d051162151c22a"
+hash = "058f62395b41a3b18121bcd961320cc8fd8460a34a5ccb4f07552e42ff19df4a"
 metafile = true
 
 [[files]]
@@ -342,12 +342,12 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "d6b2f352de3b3dac60040bfe4f5f61330527470a78d84d46b8ca27a87d3ebecc"
+hash = "85c8ccfc59be520f80ef6083e519ffbf05a44168bf81f07abba0f6e7f2e00fbd"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "59ad9368b47a15f1bbf5389597dd698e487fcbcdfcc3f794a090cb810df3d72d"
+hash = "b21a0febb87b7d8aa954a912d1ea26b572c1f512e0564a97595ca8f204ce7e7c"
 metafile = true
 
 [[files]]

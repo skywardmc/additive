@@ -1,13 +1,13 @@
 name = "ObsidianUI"
-filename = "ObsidianUI-fabric-0.2.7+mc1.21.jar"
+filename = "ObsidianUI-fabric-0.2.9+mc1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/E0L8mfJZ/versions/Yt9IWzuL/ObsidianUI-fabric-0.2.7%2Bmc1.21.jar"
-hash-format = "sha1"
-hash = "735d9faf5572b48fefd6b82736031af256194c9c"
+url = "https://cdn.modrinth.com/data/E0L8mfJZ/versions/j7blxBm6/ObsidianUI-fabric-0.2.9%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "4e75feb3e363a85427c664a72566247d66bf48de8821545ae8e001a4ce1627da220c32ed5533b20df0a3ce58f356d729919a12a3a8f4b61db80f1b66c469ae54"
 
 [update]
 [update.modrinth]
 mod-id = "E0L8mfJZ"
-version = "Yt9IWzuL"
+version = "j7blxBm6"
