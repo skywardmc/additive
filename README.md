@@ -28,15 +28,15 @@ If you would like to install the modpack, go to this page on [the SkywardMC webs
 
 After installing the modpack, you can easily add your favorite mods so long as they are compatible with the Minecraft version you are playing on. The wiki also has some recommendations on possibly improving performance further with other mods that are not suitable to be included in Additive by default.
 
-# 🎯 Goals
+# ⭐ Features
 
-### 🚀 Improve performance
+### 🚀 Major performance improvement
 
 Additive is based on and kept in sync with the [Adrenaline](https://modrinth.com/modpack/adrenaline) modpack. Adrenaline's aim is to significantly improve rendering and game logic performance, along with memory and hardware usage, without compromising on the game's looks or features in any way. This is done with various optimization mods that are actively tested for stability and improvement. Some mods are also pre-configured. Adrenaline wouldn't exist without projects like [Sodium](https://modrinth.com/mod/sodium), so I advise you to donate to mod authors and contributors if you can.
 
 For the list of performance mods that are included, see this [wiki page](https://github.com/skywardmc/adrenaline/wiki/Performance-features).
 
-### 🔍 OptiFine features
+### 🔍 OptiFine alternatives
 
 Additive utilizes various mods that offers the same features that OptiFine did while also being modular so that you can remove features you don't want or features that are incompatible with other mods. This includes, but is not limited to:
 
@@ -48,7 +48,7 @@ Additive utilizes various mods that offers the same features that OptiFine did w
 - OptiFine donator capes (and [free capes](https://github.com/skywardmc/additive/wiki/Supporter-cape))
 - [All OptiFine features and more information on the wiki](https://github.com/skywardmc/additive/wiki/Give-up-OptiFine)
 
-### 💡 Other features
+### 💡 Other things
 
 Additive also includes some extra features unrelated to OptiFine, although I aim to keep this list of mods minimal. Mods are suitable for the "other features" section if they are lightweight and unobtrusive. This includes things like:
 
@@ -93,8 +93,6 @@ For a few frequently asked questions, along with tons of other information, cons
 
 # 🍉 Sponsor
 
-Need a fast, reliable Minecraft server? Feel free to use my code `devin` for 25% off your first month of any server from Bisect Hosting, supporting me in the process. Click this banner for more information. You can also setup my server-side performance pack called [Adrenaserver](https://modrinth.com/modpack/adrenaserver) to improve your server's optimization while still allowing vanilla clients to join.
+Need a fast, reliable Minecraft server? Feel free to use my code `devin` for 25% off your first month of any server from Bisect Hosting, supporting me in the process. Click this banner for more information. You can also setup my client/server performance pack [Adrenaline](https://modrinth.com/modpack/adrenaline) to improve your server's optimization while still allowing vanilla clients to join.
 
 [![Bisect Hosting Image](https://www.bisecthosting.com/partners/custom-banners/444cf491-d49c-4b9a-8b2d-250593122b7e.webp)](https://www.bisecthosting.com/devin)
-
-*Additive's description is heavily inspired by [Sodium](https://modrinth.com/mod/sodium)'s description and also includes some information from them. Description last updated: March 25, 2024*
