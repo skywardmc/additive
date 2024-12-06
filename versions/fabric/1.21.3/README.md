@@ -8,5 +8,4 @@
 - FabricSkyboxes
   - FabricSkyboxes Interop
 
-- RyoamicLights
 - Ears

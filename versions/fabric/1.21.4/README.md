@@ -16,7 +16,6 @@
 - BetterGrassify
 
 - Ears
-- RyoamicLights
 
 - FastQuit
 - Language Reload
