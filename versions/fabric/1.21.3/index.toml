@@ -206,6 +206,11 @@ hash = "2b699ec9fd674b493af0e52bc3ecbbdb3dc890a6d70f132dc146d5331c0d5b28"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "698d4ef94817abda13fd1b052bec4c5ed51fe7f84fbc218bbe545ed2a23a9622"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "129c03b79033a095fd345caaa01845d41a28e8312212495fd30922a82a950be3"
 metafile = true
@@ -238,11 +243,6 @@ metafile = true
 [[files]]
 file = "mods/noisium.pw.toml"
 hash = "03b88e6c07796d391b9ea91b68af2a0bc3bf66b87d7f1faa298d581be40cc365"
-metafile = true
-
-[[files]]
-file = "mods/obsidianui.pw.toml"
-hash = "d3e77ca961d390a507e341b9cb3dfdceb30c9f94b811812505fdb46a6c64405b"
 metafile = true
 
 [[files]]

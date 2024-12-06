@@ -236,6 +236,11 @@ hash = "2b699ec9fd674b493af0e52bc3ecbbdb3dc890a6d70f132dc146d5331c0d5b28"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "0802f98909f8ef394056804e4772be187ff3143c9d4038ccb7dc3dcacfe535fc"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "7e1a5dfc89f7f8c99397df79d5339e1b920b316c0860ef25d5ba06832455eae9"
 metafile = true
@@ -276,11 +281,6 @@ hash = "0b35eacc51808809894ef78b91dfd614e056a34708e4bd2aa6f5ebeb7993a1c0"
 metafile = true
 
 [[files]]
-file = "mods/obsidianui.pw.toml"
-hash = "3cce60b7d7bb63fa7964074693376aee924c092f49d7e49b96ebf6d4dcdb8efc"
-metafile = true
-
-[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "e81f81879ea44e6df00ca6689d8fbd0ae67f0dbf4e7d43fa0bb5a88c8b17bef2"
 metafile = true
@@ -303,11 +303,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "375ae78c4e4cb43a9a172f6866de6011d4d01eaaede76d23a38a157663e43ff2"
-metafile = true
-
-[[files]]
-file = "mods/ryoamiclights.pw.toml"
-hash = "ea10b64e72890a0b0fac51f24c33c33ecee7e1fbe4c5d1ce7df053f65c004ba9"
 metafile = true
 
 [[files]]
