@@ -85,10 +85,6 @@ file = "config/yosbr/config/servercore/optimizations.yml"
 hash = "c1347aa983b02f5e59fcbd4f931501e2705330c5cf25e723d3239b85e6b6e262"
 
 [[files]]
-file = "config/yosbr/config/sodium-options.json"
-hash = "1570d389b7f47caa8256fcf023243cd510d37eda62a611c8e27936c12d93d806"
-
-[[files]]
 file = "config/yosbr/config/threadtweak.json"
 hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
@@ -157,11 +153,6 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "1de39da04f5e8ab4595f4c2cd36710bc29a661311c5616e6af6af270d2506aed"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "61d64eadda8079ccd7c906a3b5143ab5b9b3716918c775dad2d3d59dfbe7bb41"
 metafile = true
 
 [[files]]
@@ -322,11 +313,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "063756db96c81916d61a31c9ff7ae494e4d7f4cc6be3753cc251a4f77cb0643f"
-metafile = true
-
-[[files]]
-file = "mods/sodiumleafculling.pw.toml"
-hash = "d05681b90cd9cf8b424ca4cd295eecbdbfcadf9fd2fc1af612228127fce7a2b6"
 metafile = true
 
 [[files]]
