@@ -1,0 +1,13 @@
+name = "ResolutionControl++"
+filename = "resolution-control-plus-plus-1.21.1-3.0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SBESx1ZS/versions/LjdEFdrK/resolution-control-plus-plus-1.21.1-3.0.3.jar"
+hash-format = "sha512"
+hash = "a095a4377b99bb2b2fd8179fbda36cd048e0a835b7d380f76d0a0d0f69624aba1e68ff8cde87439e903b1640e2648905e689452d95f966aafbd1cb4aa3a5b21b"
+
+[update]
+[update.modrinth]
+mod-id = "SBESx1ZS"
+version = "LjdEFdrK"

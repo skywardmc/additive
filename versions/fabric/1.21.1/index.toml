@@ -310,6 +310,11 @@ hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
+file = "mods/resolution-control-plus-plus.pw.toml"
+hash = "49b4b01eb3aae1cd5c78da42945be2635d4adfe525404fdc046c8bf73d9f8b34"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "cfbcb74eec1633a4941c2295cefdf6d1767cd9635494d5e2ec4351728468a3ab"
 metafile = true
