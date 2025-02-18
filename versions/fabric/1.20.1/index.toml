@@ -112,7 +112,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "7294ffad8e498fe330bf6c367988e5a21be1a6568f33dcbc5d2583bba882aba2"
+hash = "62c99a9cf83e5f6ae2c701bafe09b12b31c59d215194d56c7bb9e7ef6f291928"
 metafile = true
 
 [[files]]
@@ -157,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "6a4afd7b42387477795e73b17b8963ea313ce6f8a960343a2579ff0b41544beb"
+hash = "71644e8041262193332f28d24b649c06c81074a983c6e3acd18b62a117b68b60"
 metafile = true
 
 [[files]]
@@ -192,12 +192,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
+hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
 metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "e2b4f570c162788ee0f84c5c755bc1bad60e0a36938b05a9a17912f94bda5b24"
+hash = "9f4b3ab255d63cd35fd021a474113d121cf87f1e888ce648e9f66c8450aa9c5e"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2e441b5e21e8db1cd9102216ce4b8d1a25d77a026182e00f6324aadda402f715"
+hash = "b24899fa80266f775c2a5ad945f01fced39a3d747ac633cdd20f52cb9c921aac"
 metafile = true
 
 [[files]]
@@ -257,7 +257,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
 metafile = true
 
 [[files]]
@@ -277,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "8c8a415665b41e96e7afd7503a94fa58998677801eab82931112314459723ffd"
+hash = "fac1ce75868b8cea1e0f09388444adb81ee8bedb3dc86d3206e49182905acff7"
 metafile = true
 
 [[files]]
@@ -292,12 +292,12 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "91157ca968c3964386434db92a70625a33356d325e5ea584ba5dba43920b12d4"
+hash = "77077befda9c8531484703975b697a82b076c16ec968f8fb198c99362a0fced0"
 metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "d94f0ab447725c1b03c339e40e71a3390263c1fbec3428b77cd9324ce7945a79"
+hash = "4c5f6795048ed7ed38aaf83e6464aad87f4c6757193f38ca14de4d8a3d265937"
 metafile = true
 
 [[files]]

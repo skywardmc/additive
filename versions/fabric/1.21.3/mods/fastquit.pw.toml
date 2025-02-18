@@ -1,13 +1,13 @@
 name = "FastQuit"
-filename = "fastquit-3.0.0+1.20.6.jar"
+filename = "fastquit-3.0.0+1.21.3.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/x1hIzbuY/versions/dIGKewCo/fastquit-3.0.0%2B1.20.6.jar"
-hash-format = "sha1"
-hash = "9c4bf4fc3292d627fe0eff85a96672a15f27338c"
+url = "https://cdn.modrinth.com/data/x1hIzbuY/versions/880U5Kcb/fastquit-3.0.0%2B1.21.3.jar"
+hash-format = "sha512"
+hash = "998dee8b0959a90d8cffe2d657c5ad80d120135abaeb05e6b280c4871c2d80116c68bbc0e77e479f9b5a426a3ffa7d0fc8d0ccb141839c5916c38d556e7d6ce2"
 
 [update]
 [update.modrinth]
 mod-id = "x1hIzbuY"
-version = "dIGKewCo"
+version = "880U5Kcb"
