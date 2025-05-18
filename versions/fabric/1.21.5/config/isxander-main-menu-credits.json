@@ -1,15 +1,13 @@
 {
-    "main_menu": {
-      "bottom_left": [
-        {
-          "text": "Additive 1.35.0 (Alpha)",
-          "color": "red",
-          "click_event": {
-            "action": "open_url",
-            "url": "https://modrinth.com/modpack/additive"
-          }
+  "main_menu": {
+    "bottom_left": [
+      {
+        "text": "Additive 1.35.0",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://modrinth.com/modpack/additive"
         }
-      ]
-    }
+      }
+    ]
   }
-  
+}
