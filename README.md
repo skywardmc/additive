@@ -69,19 +69,7 @@ For a full list of currently supported features, see this [wiki page](https://gi
 
 # ✅ Hardware Compatibility
 
-Additive supports the use of graphics cards with drivers that are compatible with OpenGL 4.6. Most graphics cards released in 2010 or later are compatible. This includes the following hardware:
-
-- Intel HD Graphics 500 Series (Skylake) or newer
-- Nvidia GeForce 400 Series (Fermi) or newer
-- AMD Radeon HD 7000 Series (GCN 1) or newer
-
-In some cases, older graphics cards may also work (as long as they have drivers which support OpenGL 3.3) but they are not officially supported and may not be compatible in the future.
-
-Android devices that use OpenGL translation layers (such as GL4ES, ANGLE, etc) are not supported and will likely not work with Additive's set of mods. These translation layers do not implement required functionality and suffer from underlying driver bugs which cannot be worked around.
-
-If you are running into problems, you should make sure that your graphics drivers are up-to-date. I also recommend taking a look at [this page](https://github.com/CaffeineMC/sodium-fabric/wiki/Driver-Compatibility) on the Sodium wiki.
-
-*The majority of this was taken from Sodium's hardware compatibility section. I'll update this accordingly if anything is changed.*
+For Hardware Compatibility information, see the corresponding section in [Sodium's Modrinth description](https://modrinth.com/mod/sodium#hardware-compatibility).
 
 # 🐛 How to Report Issues
 
