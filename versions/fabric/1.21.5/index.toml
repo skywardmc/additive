@@ -114,8 +114,13 @@ hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
 metafile = true
 
 [[files]]
+file = "mods/bigshot.pw.toml"
+hash = "eac7cbf27bb67641e4a658da63886a1dcaf7a432e5e7e5eada45a86e7547c649"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "b2ffc85cb1e056dd662acee098fa82af0ce16e8d34073aa2b010c57410737fdc"
+hash = "1e77f24415a10692531a1d38f9163e52f70f0d98d9407f4f3cdee5bbef3ed03c"
 metafile = true
 
 [[files]]
@@ -180,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "08d4ccb59b4068787d57a323c46c336a883dccf6a42ea684976a40f2cc9a69f6"
+hash = "7526ccbba405cff20b86350c9e0a59c8c470a59df70abb2fc307b6537a76105b"
 metafile = true
 
 [[files]]
@@ -190,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "fc96e5541850046b40f7b0214a387a9a4ac1384ec727f2f4a37a048d97341626"
+hash = "eab2d8e0481dcf624b39ccfcc714e41c393690b90b89ff8d874e96fa1e47e776"
 metafile = true
 
 [[files]]
@@ -210,7 +215,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b145e5dd9741ce6de8408c8c60f9a657f02fd417ddf710a87f2af506b6297256"
+hash = "2449e4f29f167ff8453e67d0d4fc47294523e2ca9dce022d1a5670cd2ed49808"
 metafile = true
 
 [[files]]
@@ -225,7 +230,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "4f91b0b457fcd875c378c1ab161ac57fbbfb06f5a99ca97c606addb6d6daa6c4"
+hash = "c0c0d6ca3bb068a7b94fc2a849fb334b11cc92dbd5964061d1307c11df073720"
 metafile = true
 
 [[files]]
@@ -240,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "3ba523b0e2a61388644998f4ce0e34bffe2b4bbe59d5b4bd8e467e52fc4fc21a"
+hash = "e4562622be1286bf8f2c8af9e3fc4e6052c9cd51c67c70f2bfce0fd9d26c31bb"
 metafile = true
 
 [[files]]
@@ -290,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "08e7fcbf0eb89fd14ebbbe9f041c60c5b5cd63e5554386766b6ef7476e7ed65a"
+hash = "2f7057e72af0cc31061ed60c31fce906122d0913ecbb956f124a1b35575f4b1a"
 metafile = true
 
 [[files]]
@@ -330,5 +335,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
+hash = "2fed8d4f5a2f794b9b2ce0af6151f1b6aba91fb32ac53e642c098de57c21683e"
 metafile = true

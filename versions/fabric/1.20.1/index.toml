@@ -224,6 +224,11 @@ hash = "ae83dfcccd580352eee3cf509ace37f67f1bf0d2862d2d9c9d64d8909892d2d4"
 metafile = true
 
 [[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "83ac3e7f70eb567845286596a8baad96b73ef3c2ee1fa378375df7a13aad7c11"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "26b473edf76a38c7f6f883381b6a42a33eea992501f26c46bae8b6149c86e234"
 metafile = true
@@ -321,11 +326,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
-metafile = true
-
-[[files]]
-file = "mods/resolution-control-plus.pw.toml"
-hash = "f0dcbfc4f9cca6aa877c806b357f02e3be9fbf001c331b321f6855773129785a"
 metafile = true
 
 [[files]]

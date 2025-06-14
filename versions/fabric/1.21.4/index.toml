@@ -114,6 +114,11 @@ hash = "57c157ebf3f36495fa14668c3906e70726a83564c7d0071507fc85baa106626c"
 metafile = true
 
 [[files]]
+file = "mods/bigshot.pw.toml"
+hash = "ddcd1755d29dd89026531e1e2ff9da9687429f776b95eb3f10a5e583dc5da0c6"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "db16cd34b809cd98e78bf47cd03c8071d71b2b6c4c5e26ef5efed363207bbed2"
 metafile = true
@@ -159,6 +164,11 @@ hash = "883f5688d32b11100214279e4a04e2a9ba788dc1d99db611a9f1aca946c07c9c"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "6c94f2d5e791983e7cd4d7f2deb3e0abe1d8531ff42843aab1f7e4d8505a44d4"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "20bd4cbff43edcff50312e24802538df9c264507fa35c8c8713f35401c03bbf8"
 metafile = true
@@ -180,7 +190,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "687d9f69912b725a879bf3b4da8fb3f63eead93e4ce3e719c2be67d56b70c0b5"
+hash = "18e346acc11ee4082d56b804810909a69010a26eb27ac1ac3840489a6ed754fb"
 metafile = true
 
 [[files]]
@@ -190,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "a6619f77790d0ab7457aaa05fc336250fc53e237234e80e777a30bb4f7873bf5"
+hash = "3dbad627b6e9e33288cec7c876e16c57728559b051e3d4705d1be59694942a98"
 metafile = true
 
 [[files]]
@@ -225,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "72028ee2d4464eb37fcdfafb39bab016e265f6f761bfd67dab103d2cb7b18e11"
+hash = "06d953295265b2f415532373736703632cbddcfe916a8f6534ab3006f57a6c4f"
 metafile = true
 
 [[files]]
@@ -240,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "3ba523b0e2a61388644998f4ce0e34bffe2b4bbe59d5b4bd8e467e52fc4fc21a"
+hash = "e4562622be1286bf8f2c8af9e3fc4e6052c9cd51c67c70f2bfce0fd9d26c31bb"
 metafile = true
 
 [[files]]
@@ -264,6 +274,11 @@ hash = "88c6edc1712f4f0cd915cd723b9e0296924d454b3855a719d2962103b2b92bea"
 metafile = true
 
 [[files]]
+file = "mods/moremcmeta.pw.toml"
+hash = "874a6cc4a8617f0e909449da4edb9b50e5ade6d6fc1dbdf0489a4af31d9e2bbc"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "4044051a3cb2ae86edab32775bbe99f2c379afde47d7fe0b1f8ff2897447a59e"
 metafile = true
@@ -280,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "b33df2a834b3576200f63aeb2262f43e7b23b7f31355feecf9539d388d9a45e5"
+hash = "18124e5924bef68f0f391d5c8c7da7d21fb336c1b2c2db7c2e564e5323915b49"
 metafile = true
 
 [[files]]
@@ -291,11 +306,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
-metafile = true
-
-[[files]]
-file = "mods/resolution-control-plus-plus.pw.toml"
-hash = "6189a3ed8000d767e717392521a8fd1efdf4ce01ad82407990c29c7f919df980"
 metafile = true
 
 [[files]]
@@ -340,5 +350,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
+hash = "2fed8d4f5a2f794b9b2ce0af6151f1b6aba91fb32ac53e642c098de57c21683e"
 metafile = true

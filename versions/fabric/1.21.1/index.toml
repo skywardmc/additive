@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "71c1a36f3a6dc674f1b89e3d254a8e67d2a831b70f66c64e37cc998c419ad977"
+hash = "a3642d02cf384305528c3d7ecdbdd8cd88a89156d4d1be057b9c9e5e4d8309b2"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricbettergrass.pw.toml"
-hash = "81895633a7f0ea04f02154107f23889d4c4c89d31da74ecdf6d79fe7d51fc159"
+hash = "f25e6b8180a9f656b6453513ddff74504eb54641cc89a493c0336c6a0584889e"
 metafile = true
 
 [[files]]
@@ -216,6 +216,11 @@ metafile = true
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "1f6c74d7140e368e85df87d1bdbb4b533052488dcee7e23ecc1f699dfd2efe82"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "b062d71c371b3361e700edb4db46acd1a1feed6c91b95764e08e03cdb25ba1f5"
 metafile = true
 
 [[files]]
@@ -250,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "fcd2efc7933249606e692b7cfd6d041f4ab01e8d35c365c2497bbebbd476027f"
+hash = "ba5c3f46736bdb93afcfb86134f559e8e2f8161c58105eb15b799578b477d36c"
 metafile = true
 
 [[files]]
@@ -265,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "3ba523b0e2a61388644998f4ce0e34bffe2b4bbe59d5b4bd8e467e52fc4fc21a"
+hash = "e4562622be1286bf8f2c8af9e3fc4e6052c9cd51c67c70f2bfce0fd9d26c31bb"
 metafile = true
 
 [[files]]
@@ -280,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "aef4285546f962adb1b2fa9a1c9c379431d581b781ccdfe8f42f069d1845da31"
+hash = "1584444b7f16488634393b73c6cd7ab5247338beb9d5eda623b32db64adc3871"
 metafile = true
 
 [[files]]
@@ -316,11 +321,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
-metafile = true
-
-[[files]]
-file = "mods/resolution-control-plus-plus.pw.toml"
-hash = "49b4b01eb3aae1cd5c78da42945be2635d4adfe525404fdc046c8bf73d9f8b34"
 metafile = true
 
 [[files]]
@@ -370,5 +370,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "3b3d085dc3380e238ae077c44abd63323987f622acb3049baa50744a49e52e0a"
+hash = "2fed8d4f5a2f794b9b2ce0af6151f1b6aba91fb32ac53e642c098de57c21683e"
 metafile = true
