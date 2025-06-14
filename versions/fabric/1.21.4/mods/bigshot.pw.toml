@@ -1,0 +1,13 @@
+name = "Bigshot"
+filename = "BigShot-fabric-1.21.4-11.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/vNU5pyXC/versions/cK41UEu7/BigShot-fabric-1.21.4-11.0.1.jar"
+hash-format = "sha512"
+hash = "5ebcf43a04d1f4a9d988142f07779b5cb1794ef7ee2b33d7e007e1176d5e25433ebe9ab9cba1707d8c23cf4c250935cde5bfa6feeb0c3e6b74fd242f6824fc2f"
+
+[update]
+[update.modrinth]
+mod-id = "vNU5pyXC"
+version = "cK41UEu7"
