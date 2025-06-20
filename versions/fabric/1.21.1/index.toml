@@ -73,6 +73,10 @@ file = "config/yosbr/config/modmenu.json"
 hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
 
 [[files]]
+file = "config/yosbr/config/ok_zoomer/config.toml"
+hash = "e8e8a337209ed7bf822f57a0eccd0a74d72478b922250041e654124f10a91308"
+
+[[files]]
 file = "config/yosbr/config/puzzle.json"
 hash = "f546f5a9367d113277de4051e3c14b898dea9490d9bd9f8240f222e0ea062c22"
 
