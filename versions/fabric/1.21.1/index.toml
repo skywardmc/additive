@@ -299,6 +299,11 @@ hash = "0b35eacc51808809894ef78b91dfd614e056a34708e4bd2aa6f5ebeb7993a1c0"
 metafile = true
 
 [[files]]
+file = "mods/nuit.pw.toml"
+hash = "0846c709603ff778d27f6afe12caa9fedf0648b7d7182a969fd08fe6432b5cc9"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "5d25233fba3660f080fdf112e1599ce4365183930b2385dfd9591d32ed0be29a"
 metafile = true
