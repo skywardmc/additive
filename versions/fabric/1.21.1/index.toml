@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "aac3264b90df2d5233cf095b3280f9f458ac47e087ef7fe64facef1c4180032c"
+hash = "192bdebc1b68b33d263b4f75de0b7503fb24e87123660e37c143b5c93d656b46"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -365,6 +365,11 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "7d47e3d8bee4711ab37491e5e91bad186b6606ba560ab8a1dec753c157cf1151"
 metafile = true
 
 [[files]]
