@@ -1,0 +1,13 @@
+name = "Sodium Options Mod Compat"
+filename = "sodiumoptionsmodcompat-fabric-1.0.0-1.21.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Yg1VT27P/versions/C8El2MOS/sodiumoptionsmodcompat-fabric-1.0.0-1.21.4.jar"
+hash-format = "sha512"
+hash = "31e9ebed92bb2e912e4539ef66060a8b834a49aa10b1368d18f4fea89cf2fb7d12573658aa5e31a6262345d98b3410edb87ef8e64b75b49c25cd2ee8128334f1"
+
+[update]
+[update.modrinth]
+mod-id = "Yg1VT27P"
+version = "C8El2MOS"
