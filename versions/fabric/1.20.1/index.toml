@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "5dbe70f6dee859c9c2f6f13f2e8c34801fe89cc57ec94c96fc3200bed8d42531"
+hash = "501acdaa439603e3a002cd2da5aad794ff9f39b2c75270bfab5779e2d7c6e0d8"
 metafile = true
 
 [[files]]
@@ -185,7 +185,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "ecac94b13fbe07f0cb760795800c799687a64b9cf967f66031f9f4a68b59a0c9"
+hash = "83694fbf6220e475266375b6a8e559419eb178176f77973da9181484f7df4b9f"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "68985a3f3d2a6f829783c1bdbd27f195556992fc2c0a9738656acccf38d8c97a"
+hash = "67099bc47fc849c2964b3b64b6f3af6fcbf941d9a4f1c03dda25f746b279015b"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f2d4fb902274312c42ecca4fb8dc3781d4d249ab978e9e57c89eff03c577c7c4"
+hash = "f149a969021fee77abd79fee4906f80abbbd928b3f68bf14de1a2685ee9a2a80"
 metafile = true
 
 [[files]]
@@ -315,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "573ef12b7101d599ab5e8d012f17150a886feb884f219c94672eef9ebbe700d5"
+hash = "4b88564ad94c61172b4b73aa4591709e7d68163cee1b4e40b5fc6fdb6a6fcc87"
 metafile = true
 
 [[files]]
@@ -385,7 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "5df1b8ef822fe9987a65d412936909b4d700872db2ed107d0092e28452999101"
+hash = "f8a4208d9cb40af6ad94428f2bc83a6f0b5713e8344d04898e834faa510ff2da"
 metafile = true
 
 [[files]]
