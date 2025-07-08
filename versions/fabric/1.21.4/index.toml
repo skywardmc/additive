@@ -113,13 +113,18 @@ file = "config/yosbr/options.txt"
 hash = "a737dd82279403a1a22b4dcd1fa3f99915f4feac38879042a8b1da6a4ccac199"
 
 [[files]]
+file = "mods/animatica.pw.toml"
+hash = "c5048fc150b79625fe3304de6b57643436f6e232f4f5493cbe0476494e54120e"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "1e59464196bd2a0cb5dcc4eb6014e323982e993c68c0f0173ff95b58ceed366e"
 metafile = true
 
 [[files]]
-file = "mods/bigshot.pw.toml"
-hash = "ddcd1755d29dd89026531e1e2ff9da9687429f776b95eb3f10a5e583dc5da0c6"
+file = "mods/bettergrassify.pw.toml"
+hash = "321066a558542e9b7caeb2e3a93eb4bddd4d3fc2e3d39afbd02e902b17c8f897"
 metafile = true
 
 [[files]]
@@ -278,13 +283,13 @@ hash = "88c6edc1712f4f0cd915cd723b9e0296924d454b3855a719d2962103b2b92bea"
 metafile = true
 
 [[files]]
-file = "mods/moremcmeta.pw.toml"
-hash = "874a6cc4a8617f0e909449da4edb9b50e5ade6d6fc1dbdf0489a4af31d9e2bbc"
+file = "mods/noisium.pw.toml"
+hash = "4044051a3cb2ae86edab32775bbe99f2c379afde47d7fe0b1f8ff2897447a59e"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "4044051a3cb2ae86edab32775bbe99f2c379afde47d7fe0b1f8ff2897447a59e"
+file = "mods/nuit-interop.pw.toml"
+hash = "00942cd2fd2775f47e1451a1705fcc0bc282bc0e7f19eafbaea70866478244b4"
 metafile = true
 
 [[files]]
@@ -318,6 +323,11 @@ hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
+file = "mods/renderscale.pw.toml"
+hash = "f556b79b6dab86608cefbf643663298256c212eee9ec46e02000de674ade6fee"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "585e3b8144192b82e4fcbc36c4b1d8355789feb034acf8dd0d7f6c46692dd39c"
 metafile = true
@@ -345,11 +355,6 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
-metafile = true
-
-[[files]]
-file = "mods/txnilib.pw.toml"
-hash = "870a57469e507f2f44d764446223ebbee85ad1808d913936202e584c337792fd"
 metafile = true
 
 [[files]]

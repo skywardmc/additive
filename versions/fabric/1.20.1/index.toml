@@ -110,12 +110,17 @@ hash = "a737dd82279403a1a22b4dcd1fa3f99915f4feac38879042a8b1da6a4ccac199"
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "c0fb764563c122328f9ba69e7d27c2b3b2e21fc607782affd6710b943f03fe75"
+hash = "e94fd2f80b6029f19fb0c68d5bbf443a21645af0d668c5a544e3b3f23508fb61"
 metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "501acdaa439603e3a002cd2da5aad794ff9f39b2c75270bfab5779e2d7c6e0d8"
+metafile = true
+
+[[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "444dc7b515acd2e5a5b399c78fe89758f43bfe962a453472ad18a50193eae8b6"
 metafile = true
 
 [[files]]
@@ -209,26 +214,6 @@ hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
-file = "mods/fabricbettergrass.pw.toml"
-hash = "9f4b3ab255d63cd35fd021a474113d121cf87f1e888ce648e9f66c8450aa9c5e"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "ed4487cc1613cc53daa5188730653a4720728971553315dcea7205b28f914f1c"
-metafile = true
-
-[[files]]
-file = "mods/fabricskyboxes.pw.toml"
-hash = "ae83dfcccd580352eee3cf509ace37f67f1bf0d2862d2d9c9d64d8909892d2d4"
-metafile = true
-
-[[files]]
-file = "mods/fabrishot.pw.toml"
-hash = "83ac3e7f70eb567845286596a8baad96b73ef3c2ee1fa378375df7a13aad7c11"
-metafile = true
-
-[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "26b473edf76a38c7f6f883381b6a42a33eea992501f26c46bae8b6149c86e234"
 metafile = true
@@ -309,6 +294,16 @@ hash = "f4b9d7acc345b8df6dd13e19b36658cbca476abdee703ee6f38c66d33e8fa763"
 metafile = true
 
 [[files]]
+file = "mods/nuit-interop.pw.toml"
+hash = "a0b2b689e7e6eb10cd342da48dd605cfbe09d782790a42089f31835a54e37b1a"
+metafile = true
+
+[[files]]
+file = "mods/nuit.pw.toml"
+hash = "421b6b05164e623dc65e0e4133fc484fb3b87b26b040ad4b2ffb239491d8bb2d"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "6c61882bbd734f1260d930c860ecd183e089e3d878c4faccee0f73acf65c18b1"
 metafile = true
@@ -326,6 +321,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
+metafile = true
+
+[[files]]
+file = "mods/resolution-control-plus.pw.toml"
+hash = "69f4fe4d4ded744be3007514d94c5aa9fcfe9de81e0e80e31de3e8c45c234715"
 metafile = true
 
 [[files]]
@@ -356,11 +356,6 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
-metafile = true
-
-[[files]]
-file = "mods/txnilib.pw.toml"
-hash = "3f12e299c61128e9b68e30f814a8507437afc84e27c678fe7955ced741fc176a"
 metafile = true
 
 [[files]]
