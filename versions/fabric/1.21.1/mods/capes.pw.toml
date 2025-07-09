@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/89Wsn8GD/versions/6SzVPVR4/capes-1.5.4%2B1.21-fabric.jar"
-hash-format = "sha1"
-hash = "11655909a800fd70e2e0ca940cddc2bdbcbe2003"
+hash-format = "sha512"
+hash = "8cd91182feec18a41412d6a8ad5311f730d881c30959aeb80eddf993c7930200758d0f4f1676dcbced7d315c124a0c02137f997c998a4912dd1a10a6a33664af"
 
 [update]
 [update.modrinth]
