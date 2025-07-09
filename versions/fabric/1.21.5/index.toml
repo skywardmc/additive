@@ -328,11 +328,6 @@ hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
 metafile = true
 
 [[files]]
-file = "mods/txnilib.pw.toml"
-hash = "e7fb5de225178279b1dac94da0ae17a014522205cd00d46018b4c8643b5f3f14"
-metafile = true
-
-[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "bc5b833dac6b91f96e3d650e1209d141b9267ce7cb7ac45b8b5a976d6c6a5f4e"
 metafile = true
