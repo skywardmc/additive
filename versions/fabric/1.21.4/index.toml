@@ -25,8 +25,8 @@ file = "config/yosbr/config/bettergrass.json5"
 hash = "5ba4ad8c50ca8715fe648e7e68e8b5df0fe05acac0f9b152cedd93a6250ae386"
 
 [[files]]
-file = "config/yosbr/config/capes.json5"
-hash = "dda5b7b8f667e02c239390c96f2a6f84d2224c7be2449e2a75a2a7fc5a96e636"
+file = "config/yosbr/config/cape-provider.json5"
+hash = "6b65e1270f555a74560a10fa17bb6b7290e022f46dc02b29239b32a1b3d27b37"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -138,8 +138,8 @@ hash = "04caaca613928c8d4e1d3015332a74a43be6ee0fd7693011d2aa91f56d13f768"
 metafile = true
 
 [[files]]
-file = "mods/capes.pw.toml"
-hash = "c764ec528a8f0a0608129136fa35538e174dea6bcd712285db0a15b2ba685d1f"
+file = "mods/cape-provider.pw.toml"
+hash = "c5c6fa0deffa311658ca3225c54f94a71686b66134bfad1e3bf819e2ba977c2c"
 metafile = true
 
 [[files]]
@@ -170,11 +170,6 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "883f5688d32b11100214279e4a04e2a9ba788dc1d99db611a9f1aca946c07c9c"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "6c94f2d5e791983e7cd4d7f2deb3e0abe1d8531ff42843aab1f7e4d8505a44d4"
 metafile = true
 
 [[files]]
@@ -355,6 +350,11 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "870a57469e507f2f44d764446223ebbee85ad1808d913936202e584c337792fd"
 metafile = true
 
 [[files]]

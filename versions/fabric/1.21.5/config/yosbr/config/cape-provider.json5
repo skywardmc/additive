@@ -1,0 +1,9 @@
+{
+  "activeProviderIds": [
+    "minecraftcapes",
+    "optifine",
+    "cosmetica"
+  ],
+  "enableElytraTexture": true,
+  "customProviders": []
+}

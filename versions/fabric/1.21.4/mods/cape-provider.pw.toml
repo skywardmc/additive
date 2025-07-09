@@ -1,0 +1,13 @@
+name = "Cape Provider"
+filename = "cape-provider-1.0.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/orXAsira/versions/KlgBF6TO/cape-provider-1.0.2.jar"
+hash-format = "sha512"
+hash = "8b114861c4fda61d3e1b1335834c4dd957959a0dc0602631a0daf30f223f4ad984861fd10cb14de39b81be45eda102e7fae453b367696a0c36244660c3904223"
+
+[update]
+[update.modrinth]
+mod-id = "orXAsira"
+version = "KlgBF6TO"
