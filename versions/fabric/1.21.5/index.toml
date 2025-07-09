@@ -128,11 +128,6 @@ hash = "d8a788b59e239573694e09a72c14dff19cffdd5b85671fd6722130d7f4f0e831"
 metafile = true
 
 [[files]]
-file = "mods/c2me-fabric.pw.toml"
-hash = "1e77f24415a10692531a1d38f9163e52f70f0d98d9407f4f3cdee5bbef3ed03c"
-metafile = true
-
-[[files]]
 file = "mods/calcmod.pw.toml"
 hash = "7a19ebcd18bfdf9dad3aa78e6d0e4931d6172029ef939cfeaf450660bda0e863"
 metafile = true
@@ -233,11 +228,6 @@ hash = "623f91f5cb2cfe0e7c3a6fc48ae5984dfad62e85389e2567ab5421f7d9d02c51"
 metafile = true
 
 [[files]]
-file = "mods/krypton.pw.toml"
-hash = "8b481b1845bb190388182a683a4efe506516429ede29757923f48eba2e1a43e4"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "c0c0d6ca3bb068a7b94fc2a849fb334b11cc92dbd5964061d1307c11df073720"
 metafile = true
@@ -308,11 +298,6 @@ hash = "d6f179c5d1f8094cbc648dc1c430e330cf0e30ad81ebe082e4f06db4049867cb"
 metafile = true
 
 [[files]]
-file = "mods/servercore.pw.toml"
-hash = "2f7057e72af0cc31061ed60c31fce906122d0913ecbb956f124a1b35575f4b1a"
-metafile = true
-
-[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "abe9878dcb237d56e2ba70c17db8c721c6c2b8e62b241bc333539d5bc6be938f"
 metafile = true
@@ -325,11 +310,6 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
-metafile = true
-
-[[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "bc5b833dac6b91f96e3d650e1209d141b9267ce7cb7ac45b8b5a976d6c6a5f4e"
 metafile = true
 
 [[files]]
