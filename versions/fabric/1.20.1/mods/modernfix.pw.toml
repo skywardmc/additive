@@ -1,13 +1,13 @@
 name = "ModernFix"
-filename = "modernfix-fabric-5.24.1+mc1.20.1.jar"
+filename = "modernfix-fabric-5.24.4+mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nmDcB62a/versions/QtunKFLa/modernfix-fabric-5.24.1%2Bmc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/nmDcB62a/versions/PSpecC1r/modernfix-fabric-5.24.4%2Bmc1.20.1.jar"
 hash-format = "sha512"
-hash = "fca2be3f52dec20cd55a9fb7a1ad0d6daaca88615e95620095d5b4fa4ceb4e7e36c9ae59a5f55b5f2f23aad4d8e84307d880487c5cfae5d54c0fd2f84e908b76"
+hash = "f56b3e3761af6031ecd4cab5b3dc143cbd47d97e0a5eb8138bd579bd6c169687d5affa154c71992703ffddb2e99f3e6c3852fb554ee0321467ffc6a8cc301a28"
 
 [update]
 [update.modrinth]
 mod-id = "nmDcB62a"
-version = "QtunKFLa"
+version = "PSpecC1r"
