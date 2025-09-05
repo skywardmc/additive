@@ -3,8 +3,7 @@ name: Mod request
 about: Suggest a mod to add, remove, or change in the modpack
 title: Short description of issue here
 labels: enhancement
-assignees: ''
-
+assignees: ""
 ---
 
 **Is your request related to a problem? Please describe if so.**

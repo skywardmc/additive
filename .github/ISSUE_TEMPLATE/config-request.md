@@ -3,8 +3,7 @@ name: Config request
 about: Suggest an addition, removal, or change in the modpack config
 title: Short description of issue here
 labels: enhancement
-assignees: ''
-
+assignees: ""
 ---
 
 **Is your request related to a problem? Please describe.**

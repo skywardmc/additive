@@ -3,8 +3,7 @@ name: Bug report
 about: Create a bug report to help us improve the modpack
 title: Short description of issue here
 labels: bug
-assignees: ''
-
+assignees: ""
 ---
 
 **Describe the bug**
@@ -12,6 +11,7 @@ A clear and concise description of what the bug is. Be sure that you are running
 
 **To Reproduce**
 Steps to reproduce the behavior:
+
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
@@ -24,9 +24,10 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Device info (please complete the following information):**
- - OS: [e.g. Windows 11, Fedora Linux, etc]
- - Minecraft version: [e.g. 1.20.2, 1.19.4, etc]
- - Optionally provide some hardware information [e.g. GPU, CPU] if you think it's related
+
+- OS: [e.g. Windows 11, Fedora Linux, etc]
+- Minecraft version: [e.g. 1.20.2, 1.19.4, etc]
+- Optionally provide some hardware information [e.g. GPU, CPU] if you think it's related
 
 **Additional context**
 Add any other context about the problem here.
