@@ -81,10 +81,6 @@ file = "config/yosbr/config/puzzle.json"
 hash = "481193336b67c5a9a82beec77880556f3b92fd792cd8ea4414a904dd66acd733"
 
 [[files]]
-file = "config/yosbr/config/ryoamiclights.toml"
-hash = "d6afc19db2764da5ae94c735f9544987a5a4686305d1478d31fdca800a94444c"
-
-[[files]]
 file = "config/yosbr/config/servercore/config.yml"
 hash = "7ed78d3273aebb454ea062b841297b6a498364b997596383354402487e0e0434"
 
