@@ -21,8 +21,8 @@ file = "config/yosbr/config/badoptimizations.txt"
 hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
 
 [[files]]
-file = "config/yosbr/config/bettergrass.json5"
-hash = "f0dfe4d7e5f928318f910ed4f2f0d1dd619d9acb80bbad15cb4850c1a73d0b01"
+file = "config/yosbr/config/bettergrass.json"
+hash = "69b07ae8cb0d37e1179a76c6c182f6746e7f86978e519e74162b8e30b6791452"
 
 [[files]]
 file = "config/yosbr/config/cape-provider.json5"
