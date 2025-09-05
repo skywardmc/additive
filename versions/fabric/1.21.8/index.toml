@@ -263,11 +263,6 @@ hash = "6eea5e1db3dbca126b82f211bf0d2fcf2cf13097023fdef3dd668e48581a73d0"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "4e1dd52be6541751029a370a02c83cc663a8be8b62187a4aa273ca02a154fc37"
-metafile = true
-
-[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "364747a29d538ceca8471b4cd4460b4875ce6e49ef4ed9ae6b768ddb54af2aff"
 metafile = true
@@ -275,11 +270,6 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "aaa113528d488df3744621e67362de6b2db57116109256b06277974127007a28"
-metafile = true
-
-[[files]]
-file = "mods/polytone.pw.toml"
-hash = "8b7039febd3fe0ca93e8c4462ba481c7c1ce0294e87d716f7a2a202bf5a83b21"
 metafile = true
 
 [[files]]
@@ -310,11 +300,6 @@ metafile = true
 [[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "ff0d87064f466d6dfa5151178cb805cea4169a6e85f47913b462758262a78024"
-metafile = true
-
-[[files]]
-file = "mods/world-host.pw.toml"
-hash = "0af1ab53ce68a6850cdd1071d3291462ea816dede99cc34e92b8a430a359b900"
 metafile = true
 
 [[files]]
