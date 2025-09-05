@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "prettier": "^3.6.2",
+    "prettier-plugin-properties": "^0.3.0",
+    "prettier-plugin-toml": "^2.0.6"
+  },
+  "prettier": {
+    "useTabs": true
+  }
+}
