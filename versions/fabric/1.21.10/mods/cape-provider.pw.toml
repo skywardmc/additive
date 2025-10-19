@@ -1,0 +1,13 @@
+name = "Cape Provider"
+filename = "cape-provider-4.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/orXAsira/versions/Guii8t2f/cape-provider-4.1.1.jar"
+hash-format = "sha512"
+hash = "eb5257d53a6e163c4430e330f2ee4f4a1060a53b6b7ea1c55bfa62ad14186fbace370647e9e18dbf96f40e594f412fac8b52460339140dbe6517f2e052f3f26c"
+
+[update]
+[update.modrinth]
+mod-id = "orXAsira"
+version = "Guii8t2f"

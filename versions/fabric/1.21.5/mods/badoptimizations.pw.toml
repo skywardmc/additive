@@ -1,13 +1,13 @@
 name = "BadOptimizations"
-filename = "BadOptimizations-2.3.0-1.21.2-21.5.jar"
+filename = "BadOptimizations-2.3.1-1.21.2-21.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/g96Z4WVZ/versions/PGSmdolb/BadOptimizations-2.3.0-1.21.2-21.5.jar"
+url = "https://cdn.modrinth.com/data/g96Z4WVZ/versions/GY6x0X6n/BadOptimizations-2.3.1-1.21.2-21.5.jar"
 hash-format = "sha512"
-hash = "f1079c91f27dadd54ec36d42eae55c4fb95675aac8ebaaf40cecd8221d4819f3f28ba24b7ce5d31b2fca62a8489fe12860ad0bf187d9df44a928d78e60a9cb53"
+hash = "58703ca0542edb7af03789e3e4fc1a69be6e26702b9e6f26d81ca2fd4baa791c16fe68105fcf99ee5a4e0cf07cce591c77a27bdf89ef9ca04d68583c9b63f5c5"
 
 [update]
 [update.modrinth]
 mod-id = "g96Z4WVZ"
-version = "PGSmdolb"
+version = "GY6x0X6n"
