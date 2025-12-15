@@ -25,10 +25,6 @@ file = "config/yosbr/config/bettergrass.json5"
 hash = "f0dfe4d7e5f928318f910ed4f2f0d1dd619d9acb80bbad15cb4850c1a73d0b01"
 
 [[files]]
-file = "config/yosbr/config/capes.json5"
-hash = "7823fc7bb5b474d3a39a2ff8e71054812499439cef63fbaa7124930de296c7cf"
-
-[[files]]
 file = "config/yosbr/config/citresewn.json"
 hash = "080ec08b7754723a3fa7c45cc0c37f251cc69ff5a07c06bb0f9cb40596373bbe"
 
@@ -129,8 +125,8 @@ hash = "6ebb236b2a46dbf564aa2760a68027703e44105ab18e77ea76c0fe2323a9bafb"
 metafile = true
 
 [[files]]
-file = "mods/capes.pw.toml"
-hash = "a8785544fb032c24853b8ed9bb15d65c30312f1ee5f7ada3e73a0350512702a0"
+file = "mods/cape-provider.pw.toml"
+hash = "32e62841150c71c545cf4eb2320ebce57713f6bbac55a60b6e1d8199e206b7b6"
 metafile = true
 
 [[files]]
