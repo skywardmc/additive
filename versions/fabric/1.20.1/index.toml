@@ -49,10 +49,6 @@ file = "config/yosbr/config/enhanced_bes.properties"
 hash = "ef55a85f0905e41d93de2b7e53266d393bf58f43917d9b15ea8f66b757a5996d"
 
 [[files]]
-file = "config/yosbr/config/entityculling.json"
-hash = "3955e3822546d7193b0432b91ba89e233a7b4aaf88cbf2883d1931c77bbc9fdb"
-
-[[files]]
 file = "config/yosbr/config/fastquit.toml"
 hash = "4c7872ece540160831d0c17e505336ffa2fba0748f3f32f137af1958272e200c"
 
