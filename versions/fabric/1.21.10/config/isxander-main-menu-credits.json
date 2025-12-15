@@ -2,11 +2,8 @@
 	"main_menu": {
 		"bottom_left": [
 			{
-				"text": "Additive 1.38.0",
-				"clickEvent": {
-					"action": "open_url",
-					"value": "https://modrinth.com/modpack/additive"
-				}
+				"text": "Additive 1.38.0 (Beta)",
+				"color": "gold"
 			}
 		]
 	}
