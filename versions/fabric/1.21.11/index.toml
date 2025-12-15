@@ -115,11 +115,6 @@ hash = "fa1d1286d8bc03ae99442535edd1e3c134ea859b861089e21d8b503e7cba4c67"
 metafile = true
 
 [[files]]
-file = "mods/bettergrassify.pw.toml"
-hash = "d74546a98e3af1867539d80bdf9d188968920a7df8e57ccb3b7a55b36a37eb7a"
-metafile = true
-
-[[files]]
 file = "mods/calcmod.pw.toml"
 hash = "6ebb236b2a46dbf564aa2760a68027703e44105ab18e77ea76c0fe2323a9bafb"
 metafile = true
@@ -130,28 +125,8 @@ hash = "32e62841150c71c545cf4eb2320ebce57713f6bbac55a60b6e1d8199e206b7b6"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "72f3dbfcfbf16d8437d865b090c4338cf32de86f290e8e8dde5626cb301bb4c7"
-metafile = true
-
-[[files]]
-file = "mods/continuity.pw.toml"
-hash = "b152c75412428e5f53667cb0836fa1323ca93cbd925e456239710a2e261d9963"
-metafile = true
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "fea88dacd90b345c7eeb238bcdacbba20a20d3efba6ee97096826058d5b411a0"
-metafile = true
-
-[[files]]
-file = "mods/cubes-without-borders.pw.toml"
-hash = "a90139b002d632ba9256cb3e7e877945bf8e3afa5b191d1adc83c5e3eb72da4c"
 metafile = true
 
 [[files]]
@@ -160,28 +135,8 @@ hash = "3a96a1e5bef30c16a8738c2a8acf54693225122424c39fa06f589a11ccc83b90"
 metafile = true
 
 [[files]]
-file = "mods/ears.pw.toml"
-hash = "b06a7f30dcd9f9df9d10998274ee6b419c59f2a61a07833aafc2a62b929d3bec"
-metafile = true
-
-[[files]]
-file = "mods/entity-model-features.pw.toml"
-hash = "f234a39f70e9a92f27cb5462616a1f8a78673804380c06d84e7c4ea5fa06e367"
-metafile = true
-
-[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "0d12dd9a11aff82f65a691d7b9d54c106eb870a5b27f614b1584571e300d00a2"
-metafile = true
-
-[[files]]
-file = "mods/entitytexturefeatures.pw.toml"
-hash = "6d74eac8e7c0d542a37681dc808a1af1213fd91b5a9361cca1274d7426bb278e"
-metafile = true
-
-[[files]]
-file = "mods/esf.pw.toml"
-hash = "b5c07339bc334ddfe27120580cca09d71541a2f8230251a85284807ff0688a4c"
 metafile = true
 
 [[files]]
@@ -192,11 +147,6 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
-metafile = true
-
-[[files]]
-file = "mods/fastquit.pw.toml"
-hash = "5014dd5897aff9ec19601d1a5dd3536611444a78e328fe97e6dccda60b18bda9"
 metafile = true
 
 [[files]]
@@ -225,18 +175,8 @@ hash = "9c15d70a164a6e16b09212b6a24d097003f86bb595634a66c04b9a31dff38ff4"
 metafile = true
 
 [[files]]
-file = "mods/language-reload.pw.toml"
-hash = "31227851ed1e54477d6d80181ec637daac3c90b2216308d063e6412665a5c8a0"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "88a36b21d538d44aca7dd0a7e5ad8c09b1b263be3f4381e3bb22bc9f94ee7290"
-metafile = true
-
-[[files]]
-file = "mods/macos-input-fixes.pw.toml"
-hash = "95de24f2f2d9c9fa4dcb33660bd6fafb2101a5514f718d00b207f48da26b64cf"
 metafile = true
 
 [[files]]
@@ -255,16 +195,6 @@ hash = "6dbca2c20d66b076bb4e8959ea0e26887991acf48f785aae402e066d5e3eb6ea"
 metafile = true
 
 [[files]]
-file = "mods/nuit-interop.pw.toml"
-hash = "00942cd2fd2775f47e1451a1705fcc0bc282bc0e7f19eafbaea70866478244b4"
-metafile = true
-
-[[files]]
-file = "mods/nuit.pw.toml"
-hash = "60618900d0ec75ea05b70403860cd161c736a5cd26f533872fba13a7c7c72206"
-metafile = true
-
-[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "ee0b54d23f802ea714ecfe71c62421ca00d3b49699324bb01defab4868d529f0"
 metafile = true
@@ -272,11 +202,6 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "08b89b53c392b5fa29198418df8598404d93c58eae40d432caed797c828adbd5"
-metafile = true
-
-[[files]]
-file = "mods/polytone.pw.toml"
-hash = "e69fb1ebd3dc77fe4e68c5a3cfbd67e42f70cb6a8c6e67cb21a02988bab01e9b"
 metafile = true
 
 [[files]]
@@ -302,11 +227,6 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "f61bd9fbfa3fcc5d8267b5cbe6af08c93385752ddc6e6b74df0fbcfd5747e413"
-metafile = true
-
-[[files]]
-file = "mods/world-host.pw.toml"
-hash = "0af1ab53ce68a6850cdd1071d3291462ea816dede99cc34e92b8a430a359b900"
 metafile = true
 
 [[files]]
