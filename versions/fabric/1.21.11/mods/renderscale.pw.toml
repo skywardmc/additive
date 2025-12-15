@@ -1,0 +1,13 @@
+name = "RenderScale"
+filename = "renderscale-fabric-1.21.11-1.3.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Va8PJBFX/versions/1BDIVv7c/renderscale-fabric-1.21.11-1.3.6.jar"
+hash-format = "sha512"
+hash = "440611d9f526cb223f8592b5553ea0547f78fda1070554ccc88849150212a5032f0a06eaa35b834c2c513cddd8229a7e1fd85272e3547d84ae68210611f1f54d"
+
+[update]
+[update.modrinth]
+mod-id = "Va8PJBFX"
+version = "1BDIVv7c"

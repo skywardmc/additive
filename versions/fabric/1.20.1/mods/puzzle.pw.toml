@@ -1,13 +1,13 @@
 name = "Puzzle"
-filename = "puzzle-1.5.2+1.20.jar"
+filename = "puzzle-fabric-2.2.1+1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/3IuO68q1/versions/F5UKlslF/puzzle-1.5.2%2B1.20.jar"
-hash-format = "sha1"
-hash = "5c3937cb1b9f7e2112cdf00ec0b1afce7c526ac1"
+url = "https://cdn.modrinth.com/data/3IuO68q1/versions/8qlnRMi7/puzzle-fabric-2.2.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "361c032aae6106f971ed2f3c50798142f5fb3162829e55690017716cb7653e216368c070af90009ea4b69b0d80dd207d2f33abb70991fe43574aa62625bad540"
 
 [update]
 [update.modrinth]
 mod-id = "3IuO68q1"
-version = "F5UKlslF"
+version = "8qlnRMi7"
