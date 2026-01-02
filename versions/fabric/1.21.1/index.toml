@@ -111,12 +111,12 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "39f761298d831e49308b1507c2ac1e524f4ad07f220621e45290c810deb1c497"
+hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
 metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "00b259fdd4d835fb64598ad9ee720927dc951234c5170842c80457a5b8c048b6"
+hash = "e3964d79e12bdd973455044f73212adf71ce6d13e1be902e223ca38622a3a09f"
 metafile = true
 
 [[files]]
@@ -146,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "0723ac190dd6838c7c3bb10dbfc5f58ec213f4f8ba12298076c1dc33be5426c2"
+hash = "62855f68e8e6e6b26e1434655e38f632171cec49621592db8dac451865770aef"
 metafile = true
 
 [[files]]
@@ -171,17 +171,17 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "4898b9beb1b7cf7df38346b02d9756c10e09408b6344e3295fe7177b25549f14"
+hash = "dde1c3036a0cc2c280e2254a5ffd647fbae47dd72c77dd564f35d791d6d21709"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "a5f087c8dc28d4cc2c16009533a24c08fb7acf06b820804ba2a2a3b80e6a913c"
+hash = "4afa048a3c67c71e2dd6ac89d5b77066069a2ecaeee59618020b151a6fa7aab9"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "1824d1cc8f4f82a88972b9220dc6806c05968d651fb38f6bfe69e4d8215fc0ed"
+hash = "2ada3ac958fb2beff2e913d3094a06cab1b6a794de0e4132b014437d409af397"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
+hash = "61afd7af5c645ffd966b2bd86be944eacd1e48a8044e8f67082225d4d9989f0c"
 metafile = true
 
 [[files]]
@@ -216,7 +216,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "e785de906915a9056bd4db06f8b143e97ef59f281820d5d627aad0768dfc046a"
+hash = "37e14a7a0b033feafd7fc1cb82842c128b1b2f2053dd1d11206834d7fcc6f597"
 metafile = true
 
 [[files]]
@@ -241,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "95de24f2f2d9c9fa4dcb33660bd6fafb2101a5514f718d00b207f48da26b64cf"
+hash = "43b7544c0a49c9368caf33a1529a720c6fadb17f7d07db6a8e952b514b5a862c"
 metafile = true
 
 [[files]]
@@ -291,12 +291,12 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "eb504c0cb2cf332ea461c65f93d3d7dfe8b8412c1d253e2015c5d76e6d48a559"
+hash = "9d68782624dadddacfd248604944572d450e4b90dcec55329829717b837af1db"
 metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
-hash = "2aabb44c8d1f765ba68c212df86d3615f0eb331354614ab935298cef63b79224"
+hash = "d4ad5c4462a3ee981f6ac3eff82c3cc1d6f08b3c01c99e16face1261a6161684"
 metafile = true
 
 [[files]]
