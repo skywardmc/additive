@@ -1,0 +1,13 @@
+name = "Polytone"
+filename = "polytone-1.21.11-4.0.2-alpha-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3qAYkBMB/versions/XKXlCCA1/polytone-1.21.11-4.0.2-alpha-fabric.jar"
+hash-format = "sha512"
+hash = "57e6d03fb731139b2467e55ae5fa6613417ae8977f9de3fb792de8d1e67ddb869ad28eda055e04111af75c479c4fe724411eae0dcaeb93b211b55edba2ee8f4f"
+
+[update]
+[update.modrinth]
+mod-id = "3qAYkBMB"
+version = "XKXlCCA1"

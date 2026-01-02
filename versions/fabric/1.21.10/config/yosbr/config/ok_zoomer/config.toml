@@ -1,0 +1,147 @@
+# Allows for configuring the main zoom features.
+[features]
+# "OFF": Disables the zoom's cinematic camera.
+# "VANILLA": Uses the game's cinematic camera while zooming.
+# "MULTIPLIED": Uses the cinematic camera with a configurable multiplier while zooming.
+# options: OFF, VANILLA, MULTIPLIED
+# default: OFF
+cinematic_camera = "VANILLA"
+# Divides the mouse sensitivity with the zoom divisor while zooming.
+# default: true
+reduce_sensitivity = true
+# "OFF": The zoom will abruptly transition between its on and off states.
+# "SMOOTH": The zoom will smoothly transition between its on and off states in a manner resembling the game's FOV transitions.
+# "LINEAR": The zoom will linearly transition between its on and off states.
+# options: OFF, SMOOTH, LINEAR
+# default: SMOOTH
+zoom_transition = "SMOOTH"
+# Divides the amount of view bobbing with the zoom divisor while zooming.
+# default: true
+reduce_view_bobbing = true
+# "HOLD": The zoom will require the zoom key to be held.
+# "TOGGLE": The zoom will be toggled by the zoom key.
+# "PERSISTENT": The zoom will always be enabled, with the zoom key being used for zoom scrolling.
+# options: HOLD, TOGGLE, PERSISTENT
+# default: HOLD
+zoom_mode = "HOLD"
+# Allows to increase or decrease the zoom by scrolling with the mouse wheel.
+# default: true
+zoom_scrolling = true
+# "EXPONENTIAL": The zoom will scroll in an exponential way, making zoom steps consistent. This may be harder to configure currently.
+# "LEGACY": The zoom will scroll in an arbitrary way. This may be easier to configure currently, but scrolling may feel harder on higher zoom levels.
+# options: EXPONENTIAL, LEGACY
+# default: EXPONENTIAL
+scrolling_mode = "EXPONENTIAL"
+# Retains the interface when zooming.
+# default: false
+persistent_interface = false
+# Adds zoom manipulation keys along with the zoom key. A game reboot will be required in order to apply the changes.
+# default: true
+extra_key_binds = true
+# "OFF": Disables the zoom overlay.
+# "VIGNETTE": Uses a vignette as the zoom overlay. The vignette texture can be found at assets/ok_zoomer/textures/misc/zoom_overlay.png
+# "SPYGLASS": Uses the spyglass overlay as the zoom overlay.
+# options: OFF, VIGNETTE, SPYGLASS
+# default: OFF
+zoom_overlay = "OFF"
+# "OFF": Zooming won't require a spyglass and won't replace its zoom.
+# "REQUIRE_ITEM": Zooming will require a spyglass in order to work. This option is configurable through the ok_zoomer:zoom_dependencies item tag.
+# "REPLACE_ZOOM": Zooming will replace the spyglass zoom but it won't require one in order to work.
+# "BOTH": Zooming will act as a complete replacement of the spyglass zoom, requiring one to work and replacing its zoom as well.
+# options: OFF, REQUIRE_ITEM, REPLACE_ZOOM, BOTH
+# default: OFF
+spyglass_mode = "OFF"
+
+# Allows for precise tweaking of the zoom.
+[zoom_values]
+# Determines the number to be used on the exponential curve. If unsure, keep this value at 2.
+# range: 2 - 2147483647
+# default: 2
+scroll_base = 2
+# Determines the resolution of zoom scrolling. This will effectively multiply the amount of scroll steps.
+# range: 1 - 2147483647
+# default: 5
+scroll_resolution = 5
+# The default scroll step to use on zooming in.
+# range: 0 - 2147483647
+# default: 10
+default_scroll_step = 10
+# The maximum amount of scroll steps that the zoom may reach.
+# range: 0 - 2147483647
+# default: 30
+scroll_step_limit = 30
+# The multiplier used by the multiplied cinematic camera.
+# range: 2.2250738585072014E-308 - 32.0
+# default: 4.0
+cinematic_multiplier = 4.0
+
+# Allows to configure the "Legacy" scrolling mode.
+[legacy_scroll_values]
+# The divisor used to apply zoom to the FOV. A higher value means more zoom.
+# range: 2.2250738585072014E-308 - 1.7976931348623157E308
+# default: 4.0
+zoom_divisor = 4.0
+# The minimum zoom divisor that you can scroll down.
+# range: 2.2250738585072014E-308 - 1.7976931348623157E308
+# default: 1.0
+minimum_zoom_divisor = 1.0
+# The maximum zoom divisor that you can scroll up.
+# range: 2.2250738585072014E-308 - 1.7976931348623157E308
+# default: 50.0
+maximum_zoom_divisor = 50.0
+# The number of steps between the zoom divisor and the minimum zoom divisor. Used by zoom scrolling.
+# range: 0 - 2147483647
+# default: 5
+lower_scroll_steps = 5
+# The number of steps between the zoom divisor and the maximum zoom divisor. Used by zoom scrolling.
+# range: 0 - 2147483647
+# default: 10
+upper_scroll_steps = 10
+
+# Allows for precise tweaking of zoom transitions.
+[transition_values]
+# The factor used for smooth zoom transitions. A lower value means a smoother transition, a higher value means a faster one.
+# range: 2.2250738585072014E-308 - 1.0
+# default: 0.6
+smooth_transition_factor = 0.6
+# The value which the linear zoom transition step can reach.
+# range: 0.0 - 1.7976931348623157E308
+# default: 0.2
+linear_step = 0.2
+
+# Provides a selection of unusual options.
+[tweaks]
+# If pressed, the "Save Toolbar Activator" keybind will be unbound if there's a conflict with the zoom key.
+# default: true
+unbind_conflicting_key = false
+# Hides the crosshair while zooming.
+# default: true
+hide_crosshair = true
+# Allows for resetting the zoom with the middle mouse button.
+# default: true
+reset_zoom_with_mouse = true
+# Improves performance by making the game render less of the world while zoomed in. This feature depends on the Sodium mod in order to work.
+# default: true
+smart_occlusion = true
+# Expands the entity distance while zooming in, allowing creatures and certain blocks to be seen from afar. This may have a performance impact during zoom.
+# options: OFF, SAFE, ON
+# default: SAFE
+see_distant_entities = "SAFE"
+# Adds the spyglass's sounds effects on zooming in and out
+# default: false
+spyglass_sounds = false
+# Adds sound effects on zoom scrolling.
+# default: false
+scroll_sounds = false
+# If enabled, the current zoom divisor is forgotten once zooming is finished.
+# default: true
+forget_zoom_divisor = true
+# Adds a button to open Ok Zoomer settings next to the zoom key bind.
+# default: true
+show_settings_on_key = true
+# Displays debug information for exponential zoom scrolling. Currently it may help with configuring the zoom scrolling.
+# default: false
+debug_scrolling = false
+# Prints a random owo in the console when the game starts.
+# default: true
+print_owo_on_start = true
