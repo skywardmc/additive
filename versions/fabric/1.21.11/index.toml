@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/crash_assistant/config.toml"
+hash = "40eb160d8d949974799244992c879731de7c011331e59c1e27f7571d105e5789"
+
+[[files]]
+file = "config/crash_assistant/modlist.json"
+hash = "c1e2459616e34bb8609096ced84f278e734a07c587155f6c83e6ea76704b191b"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "66dc1ce863f4acaec6222b80b92d4a325f521a01578c42eb46b6508f93f1ccec"
 
@@ -147,6 +155,11 @@ metafile = true
 [[files]]
 file = "mods/controlify.pw.toml"
 hash = "74d4c94cff9b02f0149e9e96f8af1822de87ea1c0b05d0cf4ce9249637faa712"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+hash = "9e4b7af4e25273baee0d9f2bc9f337d3b71ee52bbdd3d470cdcbb6d7876b1a1e"
 metafile = true
 
 [[files]]
