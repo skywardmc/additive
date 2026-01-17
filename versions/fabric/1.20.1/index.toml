@@ -120,6 +120,11 @@ hash = "444dc7b515acd2e5a5b399c78fe89758f43bfe962a453472ad18a50193eae8b6"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "62c99a9cf83e5f6ae2c701bafe09b12b31c59d215194d56c7bb9e7ef6f291928"
+metafile = true
+
+[[files]]
 file = "mods/calcmod.pw.toml"
 hash = "635275e7ff042568ac2279602371e0da61eae9b07d7486b5b357f5f43d83caa9"
 metafile = true
@@ -161,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "ce0b6c452313b669ce95d6bc7f232f72b89bf61ebb2013cac5b17a09c8132510"
+hash = "d1239fb872fc0765dcedf2a0e46dc61674729acb834511bb175ef17760ac8040"
 metafile = true
 
 [[files]]
@@ -196,7 +201,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
+hash = "1ee56d5feb0ede9397b26f3c5b7543a3556088146d154b55172ef0e8b1a97705"
 metafile = true
 
 [[files]]
@@ -232,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "99efc9e805ce2888680d3cacb9be65733c6d4a8cfcb77e1976205f758db24346"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "c56ddfdfccf143c8c6b5b93e9555d1c2d80ff7c1bdacd91dfede65785fa686b0"
 metafile = true
 
 [[files]]
@@ -296,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "4384bc790b955c7329be45a0f5a140f7159598718076e8c06d425f91cefbba87"
+hash = "110ba5640465b8b3b4987967e6f802a96aaaca37bf7a1cb89a876d4523a61fcc"
 metafile = true
 
 [[files]]
@@ -315,6 +325,11 @@ hash = "69f4fe4d4ded744be3007514d94c5aa9fcfe9de81e0e80e31de3e8c45c234715"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "058f62395b41a3b18121bcd961320cc8fd8460a34a5ccb4f07552e42ff19df4a"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "8ad07191dfdea31249b4416a390c1cdf1d4ff1938cf9f8a617f98f7a08c5356c"
 metafile = true
@@ -325,8 +340,18 @@ hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
 
 [[files]]
+file = "mods/starlight.pw.toml"
+hash = "c4e271777a2f6df8183926e358fe428a29dcf2cacb3c7d0185be89564a2bb6e6"
+metafile = true
+
+[[files]]
 file = "mods/threadtweak.pw.toml"
 hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "ff2f782be8090072041d0cd00abed11c1a22dfe2d397cd73e042f3b449954588"
 metafile = true
 
 [[files]]
@@ -346,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "d2d5a9c835661b4f6f718fd057f03594b87aa49d1bcd9711af8553e51ea4a6fb"
+hash = "de2a82da7e914ff268bb7a0dd8bbb577ae693781b36bb59442ce2f3a7e530387"
 metafile = true
 
 [[files]]

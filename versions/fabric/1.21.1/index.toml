@@ -120,6 +120,11 @@ hash = "e3964d79e12bdd973455044f73212adf71ce6d13e1be902e223ca38622a3a09f"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "4ad2380d787eb6ccf4d88e26d646b459fd95b31d76a99f346b60d6dfc7fdc398"
+metafile = true
+
+[[files]]
 file = "mods/calcmod.pw.toml"
 hash = "eeec057d3fb7f0c076d271a1c3608b67d88895e59a18bb9b5a5fe604b65fc6e6"
 metafile = true
@@ -146,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "62855f68e8e6e6b26e1434655e38f632171cec49621592db8dac451865770aef"
+hash = "cc49cd6a7e284c67a8a45b596eb598248232f6fc7071b9ef65d0db6996d2706e"
 metafile = true
 
 [[files]]
@@ -156,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "4effaea1cdc0ccd0de4a94ab435cc3cb22085933fca7e1dd35b9fb8953a1ce9e"
+hash = "7c9d9ae612abbb7593b3d5b8306442b87c381fa38efbef2fcbf17e8669552cdc"
 metafile = true
 
 [[files]]
@@ -222,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "2b699ec9fd674b493af0e52bc3ecbbdb3dc890a6d70f132dc146d5331c0d5b28"
 metafile = true
 
 [[files]]
@@ -310,6 +320,16 @@ hash = "7c9846385d08af6c3a44efa155c0d29ac648b6fb41b4ba97b3d95416d2db3f6c"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "fe940e70dad29aa8b5e57d9679d7503009d56b1890dbc25194b4d278cbfaae5e"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+hash = "509a129f843e72b23f7269fb940bbd757a78716d6f2350f33ebe751c40bb77f8"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "1af09f16a643df0f61f2c799e981aa0b8c109999f0784584a6eff9a81f1c00c1"
 metafile = true
@@ -330,13 +350,18 @@ hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
 metafile = true
 
 [[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "53e01bde67391ead9e5bcf1e86479aebd9ddb0345f871ce4b49afd655b238523"
+metafile = true
+
+[[files]]
 file = "mods/world-host.pw.toml"
 hash = "a60a3daa425e1d278d5a51abc60d3818979278970559ee1d392757c0b3e4f50b"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "5b433ab4213566b3d8fbaa47205cc1c838ee191fea283409fe771d24d3fe838a"
+hash = "2b8076d687072c6a6c5baa1c2dcdab3ce20589c4e473501b9c17f49a6fbe158b"
 metafile = true
 
 [[files]]
@@ -346,5 +371,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "1435829994c9fcd11b99b0d93ea7e2f78523d3eb9071063b2052bc316e40a7c5"
+hash = "e8a4a5ded3fd3ad71f8882d870541a3edf5d8286d9182e9fd8c5990e570e7463"
 metafile = true
