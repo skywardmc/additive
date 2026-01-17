@@ -160,6 +160,11 @@ hash = "1adccdf12bf5475db4651b96574f9147fa5253e7c0116fffe02ab43b35261aff"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "8b0b277d0995973ec6110af87f836f02699365bd072e52a4543ca56aa317fb6d"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "9a1e4e79c8bff39654800ae28fc918618ccdd3e7ad31e911882d300b25ade818"
 metafile = true
