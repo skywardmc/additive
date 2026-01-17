@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "1294a6af338a79c0e497efc04d16a03dec96e62d4c85a611e1965b0d2a620308"
+hash = "745c40e53f634b63b6794a5b2569f5acae63b1f00084f7ac1c5d63492bbfe467"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"

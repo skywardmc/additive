@@ -53,7 +53,7 @@
 [simple_mode]
 	#If enabled, the GUI starts in simple mode with logs hidden and a single "Show Logs (Expert Mode)" button.
 	#Disabled by default.
-	enabled = true
+	enabled = false
 	#If true, modpack creators always see the Expert Mode with logs visible, even if simple mode is enabled.
 	prevent_for_modpack_creators = true
 	#If true, hides the mod list changes section while simple mode is active.
