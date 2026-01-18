@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/crash_assistant/config.toml"
-hash = "745c40e53f634b63b6794a5b2569f5acae63b1f00084f7ac1c5d63492bbfe467"
+hash = "868ddcb532c17eeffd2607e0da02a2fc2d54f09acf31b06f7e286f2a1749f43a"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "af5045125305f945a9646e7931557343b6e0071962752cba29099ff9e20fe536"
+hash = "5467457075607ffa2ed4c6f944285a6b32fe3360b14dfd0e9e86f293b38963ed"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
