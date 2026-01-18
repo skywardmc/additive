@@ -242,12 +242,12 @@
 		"curseForgeHash": 1054940300,
 		"modrinthHash": "d79e193539ad7920382648083e6c61b7fc053d2c"
 	},
-	"polytone-1.21.11-5.2.3-fabric.jar": {
-		"jarName": "polytone-1.21.11-5.2.3-fabric.jar",
+	"polytone-1.21.11-5.3.0-fabric.jar": {
+		"jarName": "polytone-1.21.11-5.3.0-fabric.jar",
 		"modId": "polytone",
-		"version": "1.21.11-5.2.3",
-		"curseForgeHash": 128580762,
-		"modrinthHash": "c7c75df93879d2a113fdeb69b8bbc8ad0d6e4c22"
+		"version": "1.21.11-5.3.0",
+		"curseForgeHash": 4159671165,
+		"modrinthHash": "f6d68d6ca2f5a82cf30f748e5994649dd56276fe"
 	},
 	"puzzle-fabric-2.3.0+1.21.11.jar": {
 		"jarName": "puzzle-fabric-2.3.0+1.21.11.jar",
