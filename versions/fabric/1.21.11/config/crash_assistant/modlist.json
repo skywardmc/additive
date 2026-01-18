@@ -18,6 +18,13 @@
     "curseForgeHash": 1539063478,
     "modrinthHash": "70fa28d5a7a1fdd61dd804ca6ac411750da1473f"
   },
+  "bbe-1.3.0-rc.1+1.21.11.jar": {
+    "jarName": "bbe-1.3.0-rc.1+1.21.11.jar",
+    "modId": "betterblockentities",
+    "version": "1.3.0-rc.1+1.21.11",
+    "curseForgeHash": 3867158536,
+    "modrinthHash": "7440450f977a3a444f13a15ef957ffdaa509b635"
+  },
   "BetterGrassify-1.8.3+fabric.1.21.11.jar": {
     "jarName": "BetterGrassify-1.8.3+fabric.1.21.11.jar",
     "modId": "bettergrass",
@@ -248,13 +255,6 @@
     "version": "2.3.0",
     "curseForgeHash": 3094340480,
     "modrinthHash": "38ac343fa4d93c405549c355b1d39b536978ed64"
-  },
-  "reeses-sodium-options-fabric-2.0.2+mc1.21.11.jar": {
-    "jarName": "reeses-sodium-options-fabric-2.0.2+mc1.21.11.jar",
-    "modId": "reeses-sodium-options",
-    "version": "2.0.2+mc1.21.11",
-    "curseForgeHash": 1406038941,
-    "modrinthHash": "777f0d0671d41d70da3332f67328be864fda9289"
   },
   "renderscale-fabric-1.21.11-1.3.6.jar": {
     "jarName": "renderscale-fabric-1.21.11-1.3.6.jar",

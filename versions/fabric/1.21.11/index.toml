@@ -6,7 +6,7 @@ hash = "745c40e53f634b63b6794a5b2569f5acae63b1f00084f7ac1c5d63492bbfe467"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "c1e2459616e34bb8609096ced84f278e734a07c587155f6c83e6ea76704b191b"
+hash = "af5045125305f945a9646e7931557343b6e0071962752cba29099ff9e20fe536"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -120,6 +120,11 @@ metafile = true
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "b72d00d529ec694ae354b73f6b36d4ec2b830c60c05cc31f46d00ac7ddf8a26b"
+metafile = true
+
+[[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "f25fe10d36c668ac9b4c564ade627cf42a5b6e7dccd01d5377be8e2033c75f5b"
 metafile = true
 
 [[files]]
@@ -295,11 +300,6 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "3cbdb02ff4be022d7e0f9b82cd64a36669d5986d7ed3ddcf7bcdbacc0b1b4b2a"
-metafile = true
-
-[[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "383d8df46529ce54b4b0574be2fd9eba4f45d8c85aa668604e152fca3e439f5a"
 metafile = true
 
 [[files]]

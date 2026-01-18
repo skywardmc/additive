@@ -6,7 +6,7 @@ hash = "745c40e53f634b63b6794a5b2569f5acae63b1f00084f7ac1c5d63492bbfe467"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "3a5cc94400bc0731914cd0f2bade816c8c9cc40138c4502f0899fe49d3d276bf"
+hash = "09d82ec2dcf4152591f1c303ab6724447e6b920ae305270680b1e712a8ce417f"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -120,6 +120,11 @@ metafile = true
 [[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "f8805d3902fb3e31ea9e53f684e3d731b5ac7d2fd2507c475fd1f5f4da266a2f"
+metafile = true
+
+[[files]]
+file = "mods/better-block-entities.pw.toml"
+hash = "c8d6bda044475105c02984665f1205537241931d927f825cd8af9699264c1025"
 metafile = true
 
 [[files]]

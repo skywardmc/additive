@@ -18,6 +18,13 @@
     "curseForgeHash": 4098692863,
     "modrinthHash": "1afd5c9c6a1d5970285d1b08af1fa6c7585842dc"
   },
+  "bbe-1.2.0+1.21.10.jar": {
+    "jarName": "bbe-1.2.0+1.21.10.jar",
+    "modId": "betterblockentities",
+    "version": "1.2.0+1.21.10",
+    "curseForgeHash": 669890906,
+    "modrinthHash": "bd12066547d1f791e905fb29356f0601b4c2f57a"
+  },
   "BetterGrassify-1.8.3+fabric.1.21.10.jar": {
     "jarName": "BetterGrassify-1.8.3+fabric.1.21.10.jar",
     "modId": "bettergrass",
