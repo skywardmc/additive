@@ -10,7 +10,7 @@ hash = "68266d77fca44658b8889cb4625274d5397b8e537c28064e0e65c68af658a143"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "281f9c02b48d0af6304d3a0328078749a5a965d8059b43459c53b8e1e1071478"
+hash = "350c46431bd7d00bdac8e3335fe8862d937a121862a68659f645aa782093b1c1"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -354,7 +354,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "a6c590b2e93be7bc5a0f4d4f5511c257edf4236ef7245a824b5e615e7d85b384"
+hash = "fef0dfb7d26f7dd8a4f0ff10635853d4a410a4b058fef250d029a95b258694b8"
 metafile = true
 
 [[files]]

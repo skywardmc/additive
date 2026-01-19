@@ -263,13 +263,6 @@
 		"curseForgeHash": 2167359578,
 		"modrinthHash": "099c68feeb74887cbbbd8ce9a27c6123804a2c5a"
 	},
-	"noisium-fabric-2.3.0+mc1.20-1.20.1.jar": {
-		"jarName": "noisium-fabric-2.3.0+mc1.20-1.20.1.jar",
-		"modId": "noisium",
-		"version": "2.3.0+mc1.20-1.20.1",
-		"curseForgeHash": 434970265,
-		"modrinthHash": "be85535cf1efe82bd8c41bcf851becaad498a598"
-	},
 	"optigui-2.3.0-beta.9+1.20.jar": {
 		"jarName": "optigui-2.3.0-beta.9+1.20.jar",
 		"modId": "optigui",

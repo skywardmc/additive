@@ -6,11 +6,11 @@ hash = "868ddcb532c17eeffd2607e0da02a2fc2d54f09acf31b06f7e286f2a1749f43a"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "3d25310a5bc67e52769c2cde3baf1952f75241badbe27c54e087fd42f6b46d83"
+hash = "cc01cebc7482644778735b1d121f8123fb33af7260c415dc285203fdaf81cab9"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "920cf8cf7d1385dd71d2f10088be90dcda151e3c68ec2c52fd3dd2f55e9a3eb9"
+hash = "e4f95356325a4d3ba0fe1d2725b8b30b2d9568be7944101a52fafa205857eb90"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -295,11 +295,6 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
-metafile = true
-
-[[files]]
-file = "mods/noisium.pw.toml"
-hash = "f4b9d7acc345b8df6dd13e19b36658cbca476abdee703ee6f38c66d33e8fa763"
 metafile = true
 
 [[files]]

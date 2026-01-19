@@ -249,13 +249,6 @@
 		"curseForgeHash": 2497936418,
 		"modrinthHash": "6213120772192040a0aeb5c7cfe330c068605b1f"
 	},
-	"noisium-fabric-2.3.0+mc1.21-1.21.1.jar": {
-		"jarName": "noisium-fabric-2.3.0+mc1.21-1.21.1.jar",
-		"modId": "noisium",
-		"version": "2.3.0+mc1.21-1.21.1",
-		"curseForgeHash": 3206555106,
-		"modrinthHash": "642a672cfc60ff1e1262a39d7e160b1381c5120c"
-	},
 	"ok_zoomer-fabric-10.0.0-beta.10.jar": {
 		"jarName": "ok_zoomer-fabric-10.0.0-beta.10.jar",
 		"modId": "ok_zoomer",

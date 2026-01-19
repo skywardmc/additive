@@ -6,11 +6,11 @@ hash = "868ddcb532c17eeffd2607e0da02a2fc2d54f09acf31b06f7e286f2a1749f43a"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "1d4c5445ac7e95cddd039339fb62e125440abfa6e444276f1eb31577a11f9fc7"
+hash = "4cbfc08d4af9205749e18a9e5381a046465d5d08048d60bee0795cea80faf560"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "920cf8cf7d1385dd71d2f10088be90dcda151e3c68ec2c52fd3dd2f55e9a3eb9"
+hash = "e4f95356325a4d3ba0fe1d2725b8b30b2d9568be7944101a52fafa205857eb90"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -288,11 +288,6 @@ hash = "d917697e84a95f857a447d26f94d93169a5a62176c93193cdf80c8d8bc1e280a"
 metafile = true
 
 [[files]]
-file = "mods/noisium.pw.toml"
-hash = "0b35eacc51808809894ef78b91dfd614e056a34708e4bd2aa6f5ebeb7993a1c0"
-metafile = true
-
-[[files]]
 file = "mods/nuit-interop.pw.toml"
 hash = "533cc65290311d51c42bfa7a5a700254db6401ae5a90829fb7863b17db9665d1"
 metafile = true
@@ -380,6 +375,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "21949d4c8ec3c12af60e4fe99dbec55d8840d6d70f065d5b0fff723a8ab01b01"
 metafile = true
 
 [[files]]
