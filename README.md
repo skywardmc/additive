@@ -5,7 +5,7 @@
   <br />
   <br />
   <p align="center">
-    Simple and fast open-source OptiFine alternative for modern loaders
+    Simple and fast open-source OptiFine alternative for modern loaders. Designed for players, content creators, and more
     <br />
     <a href="https://github.com/intergrav/Additive/wiki">Explore the wiki</a>
     ·
