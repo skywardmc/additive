@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "7e1f5788188341d69aa19bb057065d451fab494d002f96a1d92dbf5d7f3b5d2d"
+hash = "7a304e1dd8fdc4ab7fb695e661547ceb951b1aa4a20ae397852c64a3d9408683"
 metafile = true
 
 [[files]]
@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "f4aa82dec5064cd5ae70bfc97fe703ee222b5780be0fc99c9eb75f30e370f49a"
+hash = "b30fc540be7e8d96d37209585e2cbf2459566b760d656c10712e0b3e2597f42f"
 metafile = true
 
 [[files]]
@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "fddee9a3746196e5150d9b539687b981573ebe8af3f06113b8b055370f4bd270"
+hash = "123b0f9e3ff9516d1d9d97b65349ccc1a397584de1c1ffeda94852c1c7c14dc7"
 metafile = true
 
 [[files]]
