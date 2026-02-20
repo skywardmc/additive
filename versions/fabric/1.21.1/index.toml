@@ -13,22 +13,6 @@ file = "config/isxander-main-menu-credits.json"
 hash = "2cee7d95d78c5d08740184a068518cb7eb7e62cf2acd1044c579656774f7e58c"
 
 [[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "e0d9ce47a87536c707b797789b53e9e4f09b273f69098b1303b0815ebd82b3c5"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Common.json"
-hash = "20bb880eb7a4657399b86fd11f6e2ec56c87c04ad037d62c155dcca5d484aa7f"
-
-[[files]]
-file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
-hash = "69b2e8613a2e3084367295c7b74cb598957f97bb9b9cfe56eb7b7a3187d86b66"
-
-[[files]]
-file = "config/yosbr/config/badoptimizations.txt"
-hash = "f043b31a1fd029cbcd999a9ba184a1f66b4a8a8f020881c59b870436d8de1103"
-
-[[files]]
 file = "config/yosbr/config/bettergrass.json"
 hash = "69b07ae8cb0d37e1179a76c6c182f6746e7f86978e519e74162b8e30b6791452"
 
@@ -61,10 +45,6 @@ file = "config/yosbr/config/ferritecore.mixin.properties"
 hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
 [[files]]
-file = "config/yosbr/config/immediatelyfast.json"
-hash = "fe6551b3aa77d3b624acff41ed6bf65b3d6d5c8821b7bda8875ff7b6b75e0c43"
-
-[[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
@@ -83,14 +63,6 @@ hash = "a7c05cd6ad8a8fcd1399b40aefe221c9cbaa67e58fac4b477bda534ec92d9ded"
 [[files]]
 file = "config/yosbr/config/puzzle.json"
 hash = "481193336b67c5a9a82beec77880556f3b92fd792cd8ea4414a904dd66acd733"
-
-[[files]]
-file = "config/yosbr/config/servercore/config.yml"
-hash = "7ed78d3273aebb454ea062b841297b6a498364b997596383354402487e0e0434"
-
-[[files]]
-file = "config/yosbr/config/servercore/optimizations.yml"
-hash = "c1347aa983b02f5e59fcbd4f931501e2705330c5cf25e723d3239b85e6b6e262"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
@@ -115,11 +87,6 @@ hash = "a737dd82279403a1a22b4dcd1fa3f99915f4feac38879042a8b1da6a4ccac199"
 [[files]]
 file = "mods/animatica.pw.toml"
 hash = "ff31791271197f8122fb52893e7e67d86ba038dd0e77e57227ef84de8f7e069e"
-metafile = true
-
-[[files]]
-file = "mods/badoptimizations.pw.toml"
-hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
 metafile = true
 
 [[files]]
@@ -233,6 +200,11 @@ hash = "9c58c6f6299c9ab982847248be076b6840df69ce6b647a2a18e81d9a1cbeaf19"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "dce0df1d0cb1a7f05811ba502f3a3de0458e0c5154f1b72ae493a339f3866083"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "de9842a74bad2677a92f96157171b3108dcacb6a517d395006a1f158d5f46bbb"
 metafile = true
@@ -305,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "6f45c3f2ec9005b18846088784d291f4dabcce7b569031fb44855845a33aa8f7"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "97156c7cbfd94c3f457f5ef89ab65f1b963b1559f98fd3923ab40cf8cc21a905"
 metafile = true
 
 [[files]]
