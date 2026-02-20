@@ -292,6 +292,11 @@ hash = "16a351dac4db6e5b8035f56090710a227d33482797ef5bcc09a367099304be74"
 metafile = true
 
 [[files]]
+file = "mods/skyboxify.pw.toml"
+hash = "eaaba7e31678172acd73bcaf684528317703f8637c0cc16e382e7e034641a6b8"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "986e43ff06d2a79effec6e219aca063d7b53a98096c5f63983f23cf54c11c7e5"
 metafile = true
