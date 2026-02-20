@@ -1,6 +1,6 @@
 name = "Fast Noise"
 filename = "zfastnoise-1.0.10+1.20.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OnlVIpq5/versions/65MY0RWz/zfastnoise-1.0.10%2B1.20.jar"
