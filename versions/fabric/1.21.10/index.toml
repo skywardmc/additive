@@ -289,7 +289,7 @@ metafile = true
 
 [[files]]
 file = "mods/servercore.pw.toml"
-hash = "a112d883056e0934ca5f7d8718f5a2c5cf9d6d63ecb7e91754ba9dcee7bb799e"
+hash = "886b70d966a36dca61cbd19c4d3955ed657206ce9b8491aad7894c0a369355cd"
 metafile = true
 
 [[files]]
@@ -324,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "5380963b0d14f7af979e64a40e48cbb94603c7b16cbd47229327304bca30ab7e"
+hash = "791e7fc3499f18873d370e4ad55197824849a165996fec36db3edd54921e3d18"
 metafile = true
 
 [[files]]
