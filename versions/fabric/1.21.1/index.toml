@@ -6,7 +6,7 @@ hash = "868ddcb532c17eeffd2607e0da02a2fc2d54f09acf31b06f7e286f2a1749f43a"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "39bc5f92d69c8e8208d67504c0332d2a279f60c8eec3b0d891686b0f4ff21886"
+hash = "db8e5de5c1de9aff8f283262e8429115fed79305fdcf1ef14f4fe535695056c2"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"

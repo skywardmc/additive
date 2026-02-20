@@ -11,13 +11,6 @@
 		"curseForgeHash": 602460333,
 		"modrinthHash": "48746e8fbf005ffd4b7018cf37339a312865c57b"
 	},
-	"BadOptimizations-2.4.1-1.21.10.jar": {
-		"jarName": "BadOptimizations-2.4.1-1.21.10.jar",
-		"modId": "badoptimizations",
-		"version": "2.4.1",
-		"curseForgeHash": 4098692863,
-		"modrinthHash": "1afd5c9c6a1d5970285d1b08af1fa6c7585842dc"
-	},
 	"bbe-1.2.0+1.21.10.jar": {
 		"jarName": "bbe-1.2.0+1.21.10.jar",
 		"modId": "betterblockentities",
@@ -102,12 +95,12 @@
 		"curseForgeHash": 1522104491,
 		"modrinthHash": "3523219b8613cba5afba8ee0f0c91520d07273d3"
 	},
-	"entity_model_features_1.21.9-fabric-3.0.11.jar": {
-		"jarName": "entity_model_features_1.21.9-fabric-3.0.11.jar",
+	"entity_model_features_1.21.9-fabric-3.0.12.jar": {
+		"jarName": "entity_model_features_1.21.9-fabric-3.0.12.jar",
 		"modId": "entity_model_features",
-		"version": "3.0.11",
-		"curseForgeHash": 1336688498,
-		"modrinthHash": "53e9e49cb52ce337b4e833222e8df976067b8a0c"
+		"version": "3.0.12",
+		"curseForgeHash": 1470012794,
+		"modrinthHash": "6ab1276d45b69f7502a1a3fd52267084ea282d0e"
 	},
 	"entity_sound_features_1.21.9-fabric-0.7.2.jar": {
 		"jarName": "entity_sound_features_1.21.9-fabric-0.7.2.jar",
@@ -164,6 +157,13 @@
 		"version": "1.0.2",
 		"curseForgeHash": 553527540,
 		"modrinthHash": "3409ef6494ab1e9a151177775a12b63004c87080"
+	},
+	"fzzy_config-0.7.6+1.21.9.jar": {
+		"jarName": "fzzy_config-0.7.6+1.21.9.jar",
+		"modId": "fzzy_config",
+		"version": "0.7.6+1.21.9",
+		"curseForgeHash": 38397153,
+		"modrinthHash": "88940f2983f140b163dbe6ae4342470c03710ca9"
 	},
 	"ImmediatelyFast-Fabric-1.13.5+1.21.10.jar": {
 		"jarName": "ImmediatelyFast-Fabric-1.13.5+1.21.10.jar",
@@ -249,6 +249,13 @@
 		"curseForgeHash": 1054940300,
 		"modrinthHash": "d79e193539ad7920382648083e6c61b7fc053d2c"
 	},
+	"particle_core-0.3.2+1.21.9.jar": {
+		"jarName": "particle_core-0.3.2+1.21.9.jar",
+		"modId": "particle_core",
+		"version": "0.3.2+1.21.9",
+		"curseForgeHash": 650225542,
+		"modrinthHash": "353abc578625479558f39e382b60dbb5022b724a"
+	},
 	"polytone-1.21.10-3.6.3-fabric.jar": {
 		"jarName": "polytone-1.21.10-3.6.3-fabric.jar",
 		"modId": "polytone",
@@ -277,6 +284,20 @@
 		"curseForgeHash": 3507144787,
 		"modrinthHash": "e9bb925e632dabe709a8558cdcb04c85efe24c61"
 	},
+	"servercore-fabric-1.5.14+1.21.9.jar": {
+		"jarName": "servercore-fabric-1.5.14+1.21.9.jar",
+		"modId": "servercore",
+		"version": "1.5.14+1.21.9",
+		"curseForgeHash": 3417754780,
+		"modrinthHash": "6a732327f7855aa64f820942031d6e4adeba68a6"
+	},
+	"skyboxify-2.5+1.21.10-fabric.jar": {
+		"jarName": "skyboxify-2.5+1.21.10-fabric.jar",
+		"modId": "skyboxify",
+		"version": "2.5",
+		"curseForgeHash": 289836983,
+		"modrinthHash": "6508d38b429e934355110d6ae8a7ad81bd6a976a"
+	},
 	"sodium-extra-fabric-0.7.1+mc1.21.10.jar": {
 		"jarName": "sodium-extra-fabric-0.7.1+mc1.21.10.jar",
 		"modId": "sodium-extra",
@@ -304,5 +325,12 @@
 		"version": "0.1.2",
 		"curseForgeHash": 441615101,
 		"modrinthHash": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9"
+	},
+	"zfastnoise-1.0.10+1.21.10.jar": {
+		"jarName": "zfastnoise-1.0.10+1.21.10.jar",
+		"modId": "zfastnoise",
+		"version": "1.0.10+1.21.10",
+		"curseForgeHash": 267532689,
+		"modrinthHash": "3d6c5737cb5a85dc38d842de907b1f5e23d61b59"
 	}
 }
