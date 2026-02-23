@@ -6,7 +6,7 @@ hash = "868ddcb532c17eeffd2607e0da02a2fc2d54f09acf31b06f7e286f2a1749f43a"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "232f12903bfd09f3ce3f71346614b7305003696b90a8a7a8f6b9d2009618af1b"
+hash = "7c02ad1fd5dd18b39d6a341f2ad92180ff9d755f50c3bdcca42b2d24c8bf4c1f"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
@@ -46,7 +46,7 @@ hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
 file = "config/yosbr/config/modernfix-mixins.properties"
-hash = "569e69474a55eb41d46079a4d85691f8ac6fbf4b60e7d4e4b63f36bc3bdf7cec"
+hash = "633e40d4d0297b1388f92877424ac1966077b9e3337096c425711a8683abb050"
 
 [[files]]
 file = "config/yosbr/config/modmenu.json"
