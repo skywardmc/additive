@@ -354,11 +354,11 @@
 		"curseForgeHash": 441615101,
 		"modrinthHash": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9"
 	},
-	"zfastnoise-1.0.10+1.21.jar": {
-		"jarName": "zfastnoise-1.0.10+1.21.jar",
+	"zfastnoise-1.0.11+1.21.jar": {
+		"jarName": "zfastnoise-1.0.11+1.21.jar",
 		"modId": "zfastnoise",
-		"version": "1.0.10+1.21",
-		"curseForgeHash": 488129372,
-		"modrinthHash": "07e212c22f1d33b164db757f100310277eede501"
+		"version": "1.0.11+1.21",
+		"curseForgeHash": 3225079270,
+		"modrinthHash": "34a584c0e0bfa9d94cb7cd9c16b4e70ca1b30789"
 	}
 }

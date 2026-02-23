@@ -259,9 +259,9 @@
 	"polytone-1.21.11-5.4.11-fabric.jar": {
 		"jarName": "polytone-1.21.11-5.4.11-fabric.jar",
 		"modId": "polytone",
-		"version": "1.21.11-5.4.10",
-		"curseForgeHash": 2665493933,
-		"modrinthHash": "d6747b60942b8a01f4d9fd67677dba0c6eba626e"
+		"version": "1.21.11-5.4.11",
+		"curseForgeHash": 3771485219,
+		"modrinthHash": "a2597a4a6cc65c2ebb8ac615790a989872579ec7"
 	},
 	"puzzle-fabric-2.3.0+1.21.11.jar": {
 		"jarName": "puzzle-fabric-2.3.0+1.21.11.jar",
@@ -319,11 +319,11 @@
 		"curseForgeHash": 441615101,
 		"modrinthHash": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9"
 	},
-	"zfastnoise-1.0.16+1.21.11.jar": {
-		"jarName": "zfastnoise-1.0.16+1.21.11.jar",
+	"zfastnoise-1.0.19+1.21.11.jar": {
+		"jarName": "zfastnoise-1.0.19+1.21.11.jar",
 		"modId": "zfastnoise",
-		"version": "1.0.16+1.21.11",
-		"curseForgeHash": 3940133237,
-		"modrinthHash": "01d9ac3a0741a0d6b72457f3c80fe757212e6d7d"
+		"version": "1.0.19+1.21.11",
+		"curseForgeHash": 2401328326,
+		"modrinthHash": "a94e264540a5030dcae0f0174074dec806ad7ee7"
 	}
 }
