@@ -1,12 +1,14 @@
 {
 	"states": {
 		"unfocused": {
-			"frame_rate_target": 2,
-			"run_garbage_collector": true
+			"volume_multipliers": {
+				"master": 1.0
+			},
+			"frame_rate_target": 2
 		},
 		"invisible": {
 			"volume_multipliers": {
-				"master": 0.25
+				"master": 1.0
 			},
 			"run_garbage_collector": true
 		}
