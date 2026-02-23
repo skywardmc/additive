@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "b30fc540be7e8d96d37209585e2cbf2459566b760d656c10712e0b3e2597f42f"
+hash = "59a0d75570f7ad8a2809ad6f9247b83deab41d82044945e2457b3c62b13443e2"
 metafile = true
 
 [[files]]
@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "c2024c4263e4d7a84563f1ea1bbd44c39cf3b46deac6be89d0c9b7a68165c60a"
+hash = "4dd22192db66cc2819ec1ebae733de139d1d34fddfd0c7166e8dccd1098d5386"
 metafile = true
 
 [[files]]
