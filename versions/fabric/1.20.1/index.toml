@@ -10,7 +10,7 @@ hash = "3b8c5f438368c8d741c41550984ae4cb4bf9c8844260073e3c133740dfa2dcdb"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b006b3ffc41c7c13ecb4977c16e0221410220b321f4da4b2861f8dc8eee5384c"
+hash = "a9e2687d54abf587853c6e007e4d3df0143284b69641c7953afc79de5e83a90d"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -67,10 +67,6 @@ hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
 [[files]]
 file = "config/yosbr/config/puzzle.json"
 hash = "481193336b67c5a9a82beec77880556f3b92fd792cd8ea4414a904dd66acd733"
-
-[[files]]
-file = "config/yosbr/config/threadtweak.json"
-hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
 [[files]]
 file = "config/yosbr/config/vmp.properties"
@@ -327,11 +323,6 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "c4e271777a2f6df8183926e358fe428a29dcf2cacb3c7d0185be89564a2bb6e6"
-metafile = true
-
-[[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "dbbeb7a8f32fdbe0d5e44a8c7671ed2297ee8d12d4610500ac54742e70b4fb53"
 metafile = true
 
 [[files]]

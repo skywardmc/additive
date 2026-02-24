@@ -10,7 +10,7 @@ hash = "9c1ae5857ce18f30fd4be53f1ab1287429588310318663b1d99067f3defe1479"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b006b3ffc41c7c13ecb4977c16e0221410220b321f4da4b2861f8dc8eee5384c"
+hash = "a9e2687d54abf587853c6e007e4d3df0143284b69641c7953afc79de5e83a90d"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json"
@@ -67,10 +67,6 @@ hash = "481193336b67c5a9a82beec77880556f3b92fd792cd8ea4414a904dd66acd733"
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "5b24c9a57bb6092df95d9e8ec3c79574103967cef4db94508b9b172df1e447e5"
-
-[[files]]
-file = "config/yosbr/config/threadtweak.json"
-hash = "545cbe317c5146bacb9e13c7c03a605f0b6bd6e1ddaf1a05f8be8537d6f8b0ce"
 
 [[files]]
 file = "config/yosbr/config/vmp.properties"
@@ -327,11 +323,6 @@ metafile = true
 [[files]]
 file = "mods/sodiumleafculling.pw.toml"
 hash = "0a6179657082b15117e18fbc80fd60538dc91024a63006e843cb5dbf1991bcbe"
-metafile = true
-
-[[files]]
-file = "mods/threadtweak.pw.toml"
-hash = "e77fe4473df0685a27bdc27f9a50c0dced4d298a2765301c2b1f0b11e078a887"
 metafile = true
 
 [[files]]
