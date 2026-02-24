@@ -6,11 +6,11 @@ hash = "868ddcb532c17eeffd2607e0da02a2fc2d54f09acf31b06f7e286f2a1749f43a"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "90fb0f04e57c3f58345fbb078bb15503f3b611bb3caf5234a3389174bd547852"
+hash = "07f9236df26ac8dc47fbe5f5b5466f64a9dd1880e8bd549b78970b3dc44786e7"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b54b73917258b6377c432885d8362c3f48a9715c2811198c4bf3ad4794e21c27"
+hash = "b006b3ffc41c7c13ecb4977c16e0221410220b321f4da4b2861f8dc8eee5384c"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json"
@@ -208,7 +208,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "276947b1f9933ca2220a00736aba177e4034ca9a45cad9f258abf762fdb3bb0b"
+hash = "38c950bdd47f54d586d1e9ae0c714574885423941ed7799f11b776d2b05ed02f"
 metafile = true
 
 [[files]]
@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "59a0d75570f7ad8a2809ad6f9247b83deab41d82044945e2457b3c62b13443e2"
+hash = "44a47033d8f1e2d4ce103790ba8225c092be761030c1a422942fd464fbcc8f91"
 metafile = true
 
 [[files]]
@@ -303,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9d340481c374a20067d1748c1a4991626bce9d7812f0bdb96072cd7a15d35462"
+hash = "0b4c98b7b25cdfcbb7882c32155d597f0fcaa37aa301b14baf4ad8cab65fea85"
 metafile = true
 
 [[files]]
