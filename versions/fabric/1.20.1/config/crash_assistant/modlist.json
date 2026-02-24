@@ -326,13 +326,6 @@
 		"curseForgeHash": 2838862230,
 		"modrinthHash": "bcdbf37d9494e405cba210d7a80ed58e756297b5"
 	},
-	"threadtweak-fabric-1.20.2-0.1.1.jar": {
-		"jarName": "threadtweak-fabric-1.20.2-0.1.1.jar",
-		"modId": "threadtweak",
-		"version": "1.20.2-0.1.1",
-		"curseForgeHash": 2555662298,
-		"modrinthHash": "4849b845daf49089d0eb1268ce23d61b9694afa4"
-	},
 	"world-host-0.5.2+1.20.1-fabric.jar": {
 		"jarName": "world-host-0.5.2+1.20.1-fabric.jar",
 		"modId": "world-host",
