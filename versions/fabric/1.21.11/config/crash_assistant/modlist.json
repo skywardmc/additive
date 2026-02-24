@@ -179,12 +179,12 @@
 		"curseForgeHash": 1817047427,
 		"modrinthHash": "4f17c6b7388f0afc5d24075dc2a294963f78c712"
 	},
-	"iris-fabric-1.10.5+mc1.21.11.jar": {
-		"jarName": "iris-fabric-1.10.5+mc1.21.11.jar",
+	"iris-fabric-1.10.6+mc1.21.11.jar": {
+		"jarName": "iris-fabric-1.10.6+mc1.21.11.jar",
 		"modId": "iris",
-		"version": "1.10.5+mc1.21.11",
-		"curseForgeHash": 2875243313,
-		"modrinthHash": "8f56581bb74c845b702d07488cd9b8adffaae497"
+		"version": "1.10.6+mc1.21.11",
+		"curseForgeHash": 2562027252,
+		"modrinthHash": "9a4dd8518bbad9e6be9edd443cfc6da74b1bb26b"
 	},
 	"lambdynamiclights-4.9.1+1.21.11.jar": {
 		"jarName": "lambdynamiclights-4.9.1+1.21.11.jar",
@@ -256,12 +256,12 @@
 		"curseForgeHash": 3173556117,
 		"modrinthHash": "9d5b466bd0eabcf49564c760b9e88d781cbe0feb"
 	},
-	"polytone-1.21.11-5.4.11-fabric.jar": {
-		"jarName": "polytone-1.21.11-5.4.11-fabric.jar",
+	"polytone-1.21.11-5.4.13-fabric.jar": {
+		"jarName": "polytone-1.21.11-5.4.13-fabric.jar",
 		"modId": "polytone",
-		"version": "1.21.11-5.4.11",
-		"curseForgeHash": 3771485219,
-		"modrinthHash": "a2597a4a6cc65c2ebb8ac615790a989872579ec7"
+		"version": "1.21.11-5.4.10",
+		"curseForgeHash": 2070994864,
+		"modrinthHash": "9a56f859d8155e9dcb8dc3e696f7fb9190cbfb10"
 	},
 	"puzzle-fabric-2.3.0+1.21.11.jar": {
 		"jarName": "puzzle-fabric-2.3.0+1.21.11.jar",
@@ -298,12 +298,12 @@
 		"curseForgeHash": 877862667,
 		"modrinthHash": "e8fd1eae0d589393189f64062ca1e46fc03f4ced"
 	},
-	"sodium-fabric-0.8.4+mc1.21.11.jar": {
-		"jarName": "sodium-fabric-0.8.4+mc1.21.11.jar",
+	"sodium-fabric-0.8.6+mc1.21.11.jar": {
+		"jarName": "sodium-fabric-0.8.6+mc1.21.11.jar",
 		"modId": "sodium",
-		"version": "0.8.4+mc1.21.11",
-		"curseForgeHash": 3654986812,
-		"modrinthHash": "c0a8ac43af978f8d8245bf033670944eb90d7b2e"
+		"version": "0.8.6+mc1.21.11",
+		"curseForgeHash": 1512225672,
+		"modrinthHash": "fa686304c63efea0456af91a0b6352f032e61e66"
 	},
 	"yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar": {
 		"jarName": "yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar",
