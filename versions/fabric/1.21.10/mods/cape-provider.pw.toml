@@ -1,0 +1,13 @@
+name = "Cape Provider"
+filename = "cape-provider-4.3.1.0-legacy+1.21.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/orXAsira/versions/rxDooCVe/cape-provider-4.3.1.0-legacy%2B1.21.10.jar"
+hash-format = "sha512"
+hash = "247a599cc0f0fe859a905676def907d8421915ec9130255b0ddd2b11ebfdcf939f6b63582f2f82d9d2125f93e2e38572543b8fca05c66e3705fc87dc08b87e4f"
+
+[update]
+[update.modrinth]
+mod-id = "orXAsira"
+version = "rxDooCVe"
