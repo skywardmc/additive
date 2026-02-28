@@ -32,12 +32,12 @@
 		"curseForgeHash": 1542198176,
 		"modrinthHash": "a55ae2911cb9c4c56b466e47867ad615a743437a"
 	},
-	"capes-1.5.10+1.21.9-fabric.jar": {
-		"jarName": "capes-1.5.10+1.21.9-fabric.jar",
-		"modId": "capes",
-		"version": "1.5.10+1.21.9",
-		"curseForgeHash": 3897306740,
-		"modrinthHash": "879a1da77dc64e6788965e2028ef2aaf6dd52650"
+	"cape-provider-4.3.1.0-legacy+1.21.10.jar": {
+		"jarName": "cape-provider-4.3.1.0-legacy+1.21.10.jar",
+		"modId": "cape-provider",
+		"version": "4.3.1.0-legacy+1.21.10",
+		"curseForgeHash": 2176588063,
+		"modrinthHash": "72256a3a7a834e92ee28b694e55a8ca8ff73ff5e"
 	},
 	"cloth-config-20.0.149-fabric.jar": {
 		"jarName": "cloth-config-20.0.149-fabric.jar",
@@ -53,12 +53,12 @@
 		"curseForgeHash": 1139097148,
 		"modrinthHash": "071e6ceddabeaf0277c8643d611f1aa0ed167be3"
 	},
-	"controlify-3.0.0-beta.2+1.21.10-fabric.jar": {
-		"jarName": "controlify-3.0.0-beta.2+1.21.10-fabric.jar",
+	"controlify-3.0.0-beta.3+1.21.10-fabric.jar": {
+		"jarName": "controlify-3.0.0-beta.3+1.21.10-fabric.jar",
 		"modId": "controlify",
-		"version": "3.0.0-beta.2+1.21.10-fabric",
-		"curseForgeHash": 1778469289,
-		"modrinthHash": "8ede77e2fd0144ba6af4f97f34561572cfdce945"
+		"version": "3.0.0-beta.3+1.21.10-fabric",
+		"curseForgeHash": 2956107206,
+		"modrinthHash": "c3a026ffc8e9cee1c54c07782c8000dc67295c7d"
 	},
 	"CrashAssistant-fabric-1.21.5-1.21.11-1.10.30.jar": {
 		"jarName": "CrashAssistant-fabric-1.21.5-1.21.11-1.10.30.jar",
@@ -235,13 +235,6 @@
 		"curseForgeHash": 1826344725,
 		"modrinthHash": "55994722875c4b071b31dcb6f3c9cba8818f3391"
 	},
-	"ok_zoomer-fabric-15.0.0-beta.5.jar": {
-		"jarName": "ok_zoomer-fabric-15.0.0-beta.5.jar",
-		"modId": "ok_zoomer",
-		"version": "15.0.0-beta.5",
-		"curseForgeHash": 543704962,
-		"modrinthHash": "73ead37ca4ea9d46c0308a5028e6ef460954655c"
-	},
 	"optigui-2.3.0-beta.9+1.21.9.jar": {
 		"jarName": "optigui-2.3.0-beta.9+1.21.9.jar",
 		"modId": "optigui",
@@ -291,12 +284,12 @@
 		"curseForgeHash": 3417754780,
 		"modrinthHash": "6a732327f7855aa64f820942031d6e4adeba68a6"
 	},
-	"skyboxify-2.5+1.21.10-fabric.jar": {
-		"jarName": "skyboxify-2.5+1.21.10-fabric.jar",
+	"skyboxify-2.6+1.21.10-fabric.jar": {
+		"jarName": "skyboxify-2.6+1.21.10-fabric.jar",
 		"modId": "skyboxify",
-		"version": "2.5",
-		"curseForgeHash": 289836983,
-		"modrinthHash": "6508d38b429e934355110d6ae8a7ad81bd6a976a"
+		"version": "2.6",
+		"curseForgeHash": 3984209013,
+		"modrinthHash": "1bba41d2fed9e3c9917214e19659ec4a80b7c632"
 	},
 	"sodium-extra-fabric-0.7.1+mc1.21.10.jar": {
 		"jarName": "sodium-extra-fabric-0.7.1+mc1.21.10.jar",
@@ -332,5 +325,12 @@
 		"version": "1.0.19+1.21.9",
 		"curseForgeHash": 192881106,
 		"modrinthHash": "c2be5f50b028c06a4a51c4cd5413b95d80bfc1d0"
+	},
+	"zoomify-2.15.2+1.21.9.jar": {
+		"jarName": "zoomify-2.15.2+1.21.9.jar",
+		"modId": "zoomify",
+		"version": "2.15.2+1.21.9",
+		"curseForgeHash": 3573397083,
+		"modrinthHash": "874bae4867d0a2782857e3ee20b5045f36a3eda2"
 	}
 }

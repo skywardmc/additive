@@ -298,13 +298,6 @@
 		"curseForgeHash": 594864691,
 		"modrinthHash": "206f1b01b99ac3df99ddd84ed96b466a8700412d"
 	},
-	"resolution-control-plus-1.20-3.0.0.jar": {
-		"jarName": "resolution-control-plus-1.20-3.0.0.jar",
-		"modId": "resolutioncontrol",
-		"version": "1.20-3.0.0",
-		"curseForgeHash": 3923045761,
-		"modrinthHash": "644e42beb9e3d591980e584c242874c7802be944"
-	},
 	"servercore-fabric-1.5.2+1.20.1.jar": {
 		"jarName": "servercore-fabric-1.5.2+1.20.1.jar",
 		"modId": "servercore",
@@ -347,12 +340,12 @@
 		"curseForgeHash": 441615101,
 		"modrinthHash": "f0340e9c0bc95d67f3f3e9c1cd79b61054af11f9"
 	},
-	"zfastnoise-1.0.10+1.20.jar": {
-		"jarName": "zfastnoise-1.0.10+1.20.jar",
+	"zfastnoise-1.0.11+1.20.jar": {
+		"jarName": "zfastnoise-1.0.11+1.20.jar",
 		"modId": "zfastnoise",
-		"version": "1.0.10+1.20",
-		"curseForgeHash": 1881176544,
-		"modrinthHash": "213b9d68509b581d24b4d84ea21157dc75ef60e0"
+		"version": "1.0.11+1.20",
+		"curseForgeHash": 1951134613,
+		"modrinthHash": "0c70551779487d7ae4e535b640f4da9c711e7612"
 	},
 	"Zoomify-2.14.6+1.20.1.jar": {
 		"jarName": "Zoomify-2.14.6+1.20.1.jar",

@@ -25,12 +25,12 @@
 		"curseForgeHash": 3343611522,
 		"modrinthHash": "b7c173e3b9bee5fb76f8d3d8f8d2a2bbdae24442"
 	},
-	"capes-1.5.4+1.21-fabric.jar": {
-		"jarName": "capes-1.5.4+1.21-fabric.jar",
-		"modId": "capes",
-		"version": "1.5.4+1.21",
-		"curseForgeHash": 854205225,
-		"modrinthHash": "11655909a800fd70e2e0ca940cddc2bdbcbe2003"
+	"cape-provider-5.0.0.0-legacy+1.21.1.jar": {
+		"jarName": "cape-provider-5.0.0.0-legacy+1.21.1.jar",
+		"modId": "cape-provider",
+		"version": "5.0.0.0-legacy+1.21.1",
+		"curseForgeHash": 3899608001,
+		"modrinthHash": "f22525e913093bb37c92a52ee6126551d9da379e"
 	},
 	"citresewn-1.2.2+1.21.jar": {
 		"jarName": "citresewn-1.2.2+1.21.jar",
@@ -53,12 +53,12 @@
 		"curseForgeHash": 3854824062,
 		"modrinthHash": "c7f09b53512604c2ba6803b1247bc70e4d0f8f8c"
 	},
-	"controlify-3.0.0-beta.2+1.21.1-fabric.jar": {
-		"jarName": "controlify-3.0.0-beta.2+1.21.1-fabric.jar",
+	"controlify-3.0.0-beta.3+1.21.1-fabric.jar": {
+		"jarName": "controlify-3.0.0-beta.3+1.21.1-fabric.jar",
 		"modId": "controlify",
-		"version": "3.0.0-beta.2+1.21.1-fabric",
-		"curseForgeHash": 3711182069,
-		"modrinthHash": "93d1b48a71823924c7e1cdc858edfcf22759003c"
+		"version": "3.0.0-beta.3+1.21.1-fabric",
+		"curseForgeHash": 1023865531,
+		"modrinthHash": "d4efd82b986b151de1c3bd2a919def19d8becb95"
 	},
 	"CrashAssistant-fabric-1.19-1.21.4-1.10.30.jar": {
 		"jarName": "CrashAssistant-fabric-1.19-1.21.4-1.10.30.jar",
@@ -123,12 +123,12 @@
 		"curseForgeHash": 3162575748,
 		"modrinthHash": "dffd306c5aeba040595e2f02badf441db638624b"
 	},
-	"fabric-api-0.116.8+1.21.1.jar": {
-		"jarName": "fabric-api-0.116.8+1.21.1.jar",
+	"fabric-api-0.116.9+1.21.1.jar": {
+		"jarName": "fabric-api-0.116.9+1.21.1.jar",
 		"modId": "fabric-api",
-		"version": "0.116.8+1.21.1",
-		"curseForgeHash": 4173794501,
-		"modrinthHash": "7bb69655470af3afa456bb2b6e984c87fdfacf47"
+		"version": "0.116.9+1.21.1",
+		"curseForgeHash": 2592518340,
+		"modrinthHash": "e41cb63b923a6064021c5a30afa4e844b82ca6e9"
 	},
 	"fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar": {
 		"jarName": "fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar",
@@ -249,13 +249,6 @@
 		"curseForgeHash": 2497936418,
 		"modrinthHash": "6213120772192040a0aeb5c7cfe330c068605b1f"
 	},
-	"ok_zoomer-fabric-10.0.0-beta.11.jar": {
-		"jarName": "ok_zoomer-fabric-10.0.0-beta.11.jar",
-		"modId": "ok_zoomer",
-		"version": "10.0.0-beta.11",
-		"curseForgeHash": 2345529460,
-		"modrinthHash": "f5bf6ca1b5c35bf4c76d4fcd68787a09f82dde3e"
-	},
 	"optigui-2.3.0-beta.9+1.21.jar": {
 		"jarName": "optigui-2.3.0-beta.9+1.21.jar",
 		"modId": "optigui",
@@ -290,13 +283,6 @@
 		"version": "1.8.3+mc1.21.4",
 		"curseForgeHash": 1957765779,
 		"modrinthHash": "c72f07a8f139f0420cbce29bd9eb29fb24db427f"
-	},
-	"renderscale-fabric-1.21.1-1.3.5.jar": {
-		"jarName": "renderscale-fabric-1.21.1-1.3.5.jar",
-		"modId": "renderscale",
-		"version": "1.3.5",
-		"curseForgeHash": 4208526335,
-		"modrinthHash": "3cf4358d3dcbd243456bdcb812c5259504b6dc04"
 	},
 	"servercore-fabric-1.5.10+1.21.1.jar": {
 		"jarName": "servercore-fabric-1.5.10+1.21.1.jar",
@@ -353,5 +339,12 @@
 		"version": "1.0.11+1.21",
 		"curseForgeHash": 3225079270,
 		"modrinthHash": "34a584c0e0bfa9d94cb7cd9c16b4e70ca1b30789"
+	},
+	"zoomify-2.15.2+1.21.1.jar": {
+		"jarName": "zoomify-2.15.2+1.21.1.jar",
+		"modId": "zoomify",
+		"version": "2.15.2+1.21.1",
+		"curseForgeHash": 3994356335,
+		"modrinthHash": "9ec9c47e1d3465ea0cbd595b6d9d12227239c9a6"
 	}
 }
