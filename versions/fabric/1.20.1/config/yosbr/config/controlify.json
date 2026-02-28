@@ -1,1 +1,5 @@
-{ "global": { "quiet_mode": true } }
+{
+	"global": {
+		"quiet_mode": true
+	}
+}
