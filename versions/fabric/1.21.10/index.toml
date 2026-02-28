@@ -6,19 +6,19 @@ hash = "868ddcb532c17eeffd2607e0da02a2fc2d54f09acf31b06f7e286f2a1749f43a"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "7c02ad1fd5dd18b39d6a341f2ad92180ff9d755f50c3bdcca42b2d24c8bf4c1f"
+hash = "d0d7408fd198fe4d9091d8a31d137bf0c06fb2f085c07779cb5606731a0f8fa7"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a9e2687d54abf587853c6e007e4d3df0143284b69641c7953afc79de5e83a90d"
+hash = "a30646c8fe299a3ff012ef7061bab5c1ac2620f284f688c2a87d742bfe1bb035"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json"
 hash = "69b07ae8cb0d37e1179a76c6c182f6746e7f86978e519e74162b8e30b6791452"
 
 [[files]]
-file = "config/yosbr/config/capes.json5"
-hash = "7823fc7bb5b474d3a39a2ff8e71054812499439cef63fbaa7124930de296c7cf"
+file = "config/yosbr/config/cape-provider/config.json"
+hash = "b3612a9d6604d93979063473643dc1c312963bc7ac318f764967932a1c0cfde5"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -26,7 +26,7 @@ hash = "080ec08b7754723a3fa7c45cc0c37f251cc69ff5a07c06bb0f9cb40596373bbe"
 
 [[files]]
 file = "config/yosbr/config/controlify.json"
-hash = "bc7cfadfe7121fdbd356c7992705ea6f484de518d3fd473eb8c59ea93e79a04d"
+hash = "4ecbd7b9f073f3f8d66d530af6cf1a23555650c433beb3815a5d2fe9c55218fb"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
@@ -94,8 +94,8 @@ hash = "6ebb236b2a46dbf564aa2760a68027703e44105ab18e77ea76c0fe2323a9bafb"
 metafile = true
 
 [[files]]
-file = "mods/capes.pw.toml"
-hash = "49c1c5602bb00e9b91e673cf7e8eaed65ad08f9b80e5af4deeb8a9236dbcc97b"
+file = "mods/cape-provider.pw.toml"
+hash = "e301074b3e9325f4394ceca0c4ae02b11ff2e80aeb4ca6a61ac8bde1619c03f8"
 metafile = true
 
 [[files]]
@@ -110,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "b28163b3de881e3b59215e7a9613900235ed698e0b252a919833f12ce9f58a8b"
+hash = "3664d6aa821c5ddceecc71c381025250e8b4ed69331f99827a2e6f3a6aca6535"
 metafile = true
 
 [[files]]
@@ -244,11 +244,6 @@ hash = "6f9c7fd82681111859ff63446dc8327447adeaad84e9cfb534955afb5eb6c81a"
 metafile = true
 
 [[files]]
-file = "mods/ok-zoomer.pw.toml"
-hash = "348284f9e32f1827364efbf0053cee3b127c3d1db371554b118ab35c965d4c3d"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "08b89b53c392b5fa29198418df8598404d93c58eae40d432caed797c828adbd5"
 metafile = true
@@ -290,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyboxify.pw.toml"
-hash = "fca0b31f19825159e5765b9bc25b1c4af07535ba970aaaffc7877bd62406312d"
+hash = "d59f53b462dd29ebace9122997317c2f3b393b60516ab271a6d4915e0b31a873"
 metafile = true
 
 [[files]]
@@ -321,6 +316,11 @@ metafile = true
 [[files]]
 file = "mods/zfastnoise.pw.toml"
 hash = "a7ab6a121ae62579dde4bcf2cad941a24a77991fcf9e8685ed29eaf3c332fd6a"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "9190014654c3a01d217640032fccd571bf7d2e63b3f83d5b555da5e5e83f63ac"
 metafile = true
 
 [[files]]

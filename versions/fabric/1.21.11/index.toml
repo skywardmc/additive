@@ -6,19 +6,19 @@ hash = "868ddcb532c17eeffd2607e0da02a2fc2d54f09acf31b06f7e286f2a1749f43a"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "07f9236df26ac8dc47fbe5f5b5466f64a9dd1880e8bd549b78970b3dc44786e7"
+hash = "e977c5749beaa0c032c98e5b2c58a96872ae3ea1afa17b9e96f525f1f9372ea3"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a9e2687d54abf587853c6e007e4d3df0143284b69641c7953afc79de5e83a90d"
+hash = "a30646c8fe299a3ff012ef7061bab5c1ac2620f284f688c2a87d742bfe1bb035"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json"
 hash = "69b07ae8cb0d37e1179a76c6c182f6746e7f86978e519e74162b8e30b6791452"
 
 [[files]]
-file = "config/yosbr/config/capes.json5"
-hash = "7823fc7bb5b474d3a39a2ff8e71054812499439cef63fbaa7124930de296c7cf"
+file = "config/yosbr/config/cape-provider/config.json"
+hash = "b3612a9d6604d93979063473643dc1c312963bc7ac318f764967932a1c0cfde5"
 
 [[files]]
 file = "config/yosbr/config/citresewn.json"
@@ -26,7 +26,7 @@ hash = "080ec08b7754723a3fa7c45cc0c37f251cc69ff5a07c06bb0f9cb40596373bbe"
 
 [[files]]
 file = "config/yosbr/config/controlify.json"
-hash = "bc7cfadfe7121fdbd356c7992705ea6f484de518d3fd473eb8c59ea93e79a04d"
+hash = "4ecbd7b9f073f3f8d66d530af6cf1a23555650c433beb3815a5d2fe9c55218fb"
 
 [[files]]
 file = "config/yosbr/config/dynamic_fps.json"
@@ -53,10 +53,6 @@ file = "config/yosbr/config/modmenu.json"
 hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
 
 [[files]]
-file = "config/yosbr/config/ok_zoomer/config.toml"
-hash = "a7c05cd6ad8a8fcd1399b40aefe221c9cbaa67e58fac4b477bda534ec92d9ded"
-
-[[files]]
 file = "config/yosbr/config/puzzle.json"
 hash = "481193336b67c5a9a82beec77880556f3b92fd792cd8ea4414a904dd66acd733"
 
@@ -79,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-block-entities.pw.toml"
-hash = "7b587cd143d5f24804b6f20c6adb51816afd1f8167ab15f434d8b19ad725b7c6"
+hash = "8958a9efde473f0e9ab49069682c66f5c6cbf8023f983a14658c1a325c7273b7"
 metafile = true
 
 [[files]]
@@ -98,8 +94,8 @@ hash = "6ebb236b2a46dbf564aa2760a68027703e44105ab18e77ea76c0fe2323a9bafb"
 metafile = true
 
 [[files]]
-file = "mods/capes.pw.toml"
-hash = "a8785544fb032c24853b8ed9bb15d65c30312f1ee5f7ada3e73a0350512702a0"
+file = "mods/cape-provider.pw.toml"
+hash = "c309ee0d1923d35142488290e24fb759a0d7917c784c9666079dbae7443c9874"
 metafile = true
 
 [[files]]
@@ -114,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "5c440a15e6e584a39586d0390dd83d5ce2a00e0d93aa0b1f86f58f1c54d97d28"
+hash = "79641d52e42757542b18e8d7ceabfb8858c672166f5f8a9d3c72611f5e6fe360"
 metafile = true
 
 [[files]]
@@ -248,11 +244,6 @@ hash = "51ff93e279e03cb3cd77a5be0df777cdcd975d35b5149180d9dc724e47168c76"
 metafile = true
 
 [[files]]
-file = "mods/ok-zoomer.pw.toml"
-hash = "539f79184cc2be47e205276ea5e5eb46fafa4f2ee1061fd14993fa29d0d0134a"
-metafile = true
-
-[[files]]
 file = "mods/optigui.pw.toml"
 hash = "08b89b53c392b5fa29198418df8598404d93c58eae40d432caed797c828adbd5"
 metafile = true
@@ -289,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/skyboxify.pw.toml"
-hash = "eaaba7e31678172acd73bcaf684528317703f8637c0cc16e382e7e034641a6b8"
+hash = "7c93161436c57ab14685d1a5d70bfd58c63c7e69106e9363043aae4afd5d59dd"
 metafile = true
 
 [[files]]
@@ -320,6 +311,11 @@ metafile = true
 [[files]]
 file = "mods/zfastnoise.pw.toml"
 hash = "4dd22192db66cc2819ec1ebae733de139d1d34fddfd0c7166e8dccd1098d5386"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "3ff0c2f005f2523f157b776f0e870494a8e8ec0ff77cb7e965c88b4e2090efdb"
 metafile = true
 
 [[files]]

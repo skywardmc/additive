@@ -6,11 +6,11 @@ hash = "82a265b88eaaf64b301487e9e9be899b2edeb8c01d16d86c4eaccc77e722dd3d"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "db7b7401d58275ac3f4f6c55835bb9893c5c39f2db520d6ae10c39e7bdacf87a"
+hash = "f0057e0fce66896dfc85c6fab4071b6824cad32a092ec7e82e24464624e43dd8"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a9e2687d54abf587853c6e007e4d3df0143284b69641c7953afc79de5e83a90d"
+hash = "a30646c8fe299a3ff012ef7061bab5c1ac2620f284f688c2a87d742bfe1bb035"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json5"
@@ -26,7 +26,7 @@ hash = "080ec08b7754723a3fa7c45cc0c37f251cc69ff5a07c06bb0f9cb40596373bbe"
 
 [[files]]
 file = "config/yosbr/config/controlify.json"
-hash = "bc7cfadfe7121fdbd356c7992705ea6f484de518d3fd473eb8c59ea93e79a04d"
+hash = "4ecbd7b9f073f3f8d66d530af6cf1a23555650c433beb3815a5d2fe9c55218fb"
 
 [[files]]
 file = "config/yosbr/config/cull-less-leaves.json"
@@ -298,11 +298,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
-metafile = true
-
-[[files]]
-file = "mods/resolution-control-plus.pw.toml"
-hash = "69f4fe4d4ded744be3007514d94c5aa9fcfe9de81e0e80e31de3e8c45c234715"
 metafile = true
 
 [[files]]
