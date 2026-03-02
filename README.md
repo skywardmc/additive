@@ -25,7 +25,7 @@ This modpack is built and kept in sync with our other project, [Adrenaline](http
 
 **Please be sure to read Sodium's [Driver Compatibility](https://github.com/CaffeineMC/sodium-fabric/wiki/Driver-Compatibility) section on the wiki before installing Additive. It contains some important instructions on preventing crashes and other performance issues.**
 
-If you would like to install the modpack, go to this page on [the SkywardMC website](https://skywardmc.org/additive). You can install the modpack with a third party launcher or our standalone installer. After you install, you can figure out how to tweak things to give greater optimizations in the [post-install](https://skywardmc.org/additive/post-install) section of the wiki. This includes procedures such as increasing your allocated memory and tweaking your game settings for your device.
+If you would like to install the modpack, go to this page on [the SkywardMC website](https://skywardmc.org/additive/installation). You can install the modpack with a third party launcher or our standalone installer. After you install, you can figure out how to tweak things to give greater optimizations in the [post-install](https://skywardmc.org/additive/post-install) section of the wiki. This includes procedures such as increasing your allocated memory and tweaking your game settings for your device.
 
 After installing the modpack, you can easily add your favorite mods so long as they are compatible with the Minecraft version you are playing on. The wiki also has some recommendations on possibly improving performance further with other mods that are not suitable to be included in Additive by default.
 
