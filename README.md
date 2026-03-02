@@ -1,23 +1,23 @@
 <div align="center">
-  <a href="https://github.com/skywardmc/Additive">
-    <img src="https://raw.githubusercontent.com/intergrav/Branding/main/additive/additive_textlogo_256h.png" alt="Logo" height="75">
+  <a href="https://github.com/skywardmc/additive">
+    <img src="https://skywardmc.org/branding/additive/text-logo.png" alt="Additive" height="70">
   </a>
   <br />
   <br />
   <p align="center">
-    Simple and fast open-source OptiFine alternative for modern loaders. Designed for players, content creators, and more
+    A modern, open-source alternative to OptiFine for Fabric
     <br />
     <a href="https://skywardmc.org/additive">Explore the wiki</a>
     ·
-    <a href="https://github.com/skywardmc/Additive/issues">Report Bugs</a>
+    <a href="https://github.com/skywardmc/additive/issues">Report Bugs</a>
     ·
-    <a href="https://github.com/skywardmc/Additive/issues">Request Features</a>
+    <a href="https://github.com/skywardmc/additive/issues">Request Features</a>
   </p>
-  <a href="https://modrinth.com/modpack/additive"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/available/modrinth_vector.svg" alt="Available on Modrinth"></a>
-  <a href="https://discord.gg/36Tv44cYte"><img src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact-minimal/social/discord-singular_vector.svg" alt="Chat on Discord"></a>
 </div>
 
-Additive is a modpack designed as an **alternative to OptiFine**. It includes the majority of OptiFine's features, such as built-in shader support, a vast improvement in rendering and logic performance, extra features for resource packs to utilize, a zoom feature, OptiFine and custom capes support, and [much more](https://skywardmc.org/additive/optifine-features). It also includes a small amount of [extra features](https://skywardmc.org/additive/extra-features), such as input fixes for MacOS and Linux along with a free and easy-to-use world hosting feature. This modpack is built and kept in sync with my other project, [Adrenaline](https://modrinth.com/modpack/adrenaline), a lighter alternative without the quality-of-life mods. Want your own mods that aren't included in Additive? Don't worry! You can easily add your favorite mods after installation.
+Additive is a modpack, developed for Fabric, designed as an **alternative to OptiFine**. It includes the majority of OptiFine's features, such as built-in shader support, a vast improvement in rendering and logic performance, extra features for resource packs to utilize, a zoom feature, OptiFine and custom capes support, and [much more](https://skywardmc.org/additive/optifine-features). It also includes a small amount of [extra features](https://skywardmc.org/additive/extra-features), such as input fixes for MacOS and Linux along with a free and easy-to-use world hosting feature.
+
+This modpack is built and kept in sync with our other project, [Adrenaline](https://modrinth.com/modpack/adrenaline), a lighter alternative without the quality-of-life mods. Want your own mods that aren't included in Additive? Don't worry! You can easily add your favorite mods after installation.
 
 ![Available for Fabric](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/supported/fabric_vector.svg) [![Chat with us on Discord](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/social/discord-plural_vector.svg)](https://discord.gg/36Tv44cYte) [![Available on GitHub](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/compact/available/github_vector.svg)](https://github.com/skywardmc/additive)
 
