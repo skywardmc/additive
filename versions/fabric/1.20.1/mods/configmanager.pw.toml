@@ -1,6 +1,6 @@
 name = "Config Manager"
 filename = "ConfigManager-fabric-1.20.1-1.20.4-1.1.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/jlNms3Jp/versions/cfpIbREF/ConfigManager-fabric-1.20.1-1.20.4-1.1.1.jar"
