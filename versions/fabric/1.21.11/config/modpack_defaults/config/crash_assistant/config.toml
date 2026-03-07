@@ -263,7 +263,7 @@ shown_greeting = true
 #Scripts should be placed in config/crash_assistant/scripts/log_analysis folder.
 [scripts]
 #Enable feature.
-enabled = true
+enabled = false
 #Enable Scripts IDE in the GUI.
 ide_enabled = true
 #By changing this value you can disable creating "scripts" folder and placing example scripts there.
