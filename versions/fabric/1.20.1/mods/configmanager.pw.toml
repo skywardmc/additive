@@ -1,0 +1,13 @@
+name = "Config Manager"
+filename = "ConfigManager-fabric-1.20.1-1.20.4-1.1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/jlNms3Jp/versions/cfpIbREF/ConfigManager-fabric-1.20.1-1.20.4-1.1.1.jar"
+hash-format = "sha512"
+hash = "0c56327762a7bc89321718ca474d734ec4fce0f872352972a26e36f21903f3c93cd2d35d69afb20b3803cdc3c1be79a5a3bd8f712d487cbafc9b8c4def4c3672"
+
+[update]
+[update.modrinth]
+mod-id = "jlNms3Jp"
+version = "cfpIbREF"
