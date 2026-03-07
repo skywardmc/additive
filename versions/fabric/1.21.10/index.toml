@@ -41,6 +41,10 @@ file = "config/modpack_defaults/config/iris.properties"
 hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
+file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
+hash = "dbcbfb5ab7ee9272da2dcfa7eeccdb4bfc6c075ea7b3fe513b4598da6d6242ae"
+
+[[files]]
 file = "config/modpack_defaults/config/modernfix-mixins.properties"
 hash = "633e40d4d0297b1388f92877424ac1966077b9e3337096c425711a8683abb050"
 

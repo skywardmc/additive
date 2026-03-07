@@ -49,6 +49,10 @@ file = "config/modpack_defaults/config/iris.properties"
 hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
+file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
+hash = "dbcbfb5ab7ee9272da2dcfa7eeccdb4bfc6c075ea7b3fe513b4598da6d6242ae"
+
+[[files]]
 file = "config/modpack_defaults/config/lambdynlights.toml"
 hash = "d6afc19db2764da5ae94c735f9544987a5a4686305d1478d31fdca800a94444c"
 
