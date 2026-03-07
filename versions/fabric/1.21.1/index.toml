@@ -1,79 +1,75 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/crash_assistant/config.toml"
-hash = "868ddcb532c17eeffd2607e0da02a2fc2d54f09acf31b06f7e286f2a1749f43a"
-
-[[files]]
-file = "config/crash_assistant/modlist.json"
-hash = "c5ea5b8c2b111f407fde87fad099f05919fb670a0b1e69462db2ce45780cc6ea"
-
-[[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a30646c8fe299a3ff012ef7061bab5c1ac2620f284f688c2a87d742bfe1bb035"
+hash = "dbcbfb5ab7ee9272da2dcfa7eeccdb4bfc6c075ea7b3fe513b4598da6d6242ae"
 
 [[files]]
-file = "config/yosbr/config/bettergrass.json"
+file = "config/modpack_defaults/config/bettergrass.json"
 hash = "69b07ae8cb0d37e1179a76c6c182f6746e7f86978e519e74162b8e30b6791452"
 
 [[files]]
-file = "config/yosbr/config/cape-provider/config.json"
+file = "config/modpack_defaults/config/cape-provider/config.json"
 hash = "b3612a9d6604d93979063473643dc1c312963bc7ac318f764967932a1c0cfde5"
 
 [[files]]
-file = "config/yosbr/config/citresewn.json"
+file = "config/modpack_defaults/config/citresewn.json"
 hash = "080ec08b7754723a3fa7c45cc0c37f251cc69ff5a07c06bb0f9cb40596373bbe"
 
 [[files]]
-file = "config/yosbr/config/controlify.json"
+file = "config/modpack_defaults/config/controlify.json"
 hash = "4ecbd7b9f073f3f8d66d530af6cf1a23555650c433beb3815a5d2fe9c55218fb"
 
 [[files]]
-file = "config/yosbr/config/dynamic_fps.json"
+file = "config/modpack_defaults/config/crash_assistant/config.toml"
+hash = "b4dc962bdb7344bab8070d564850256e039460c43646d794cfbad26c0752eeef"
+
+[[files]]
+file = "config/modpack_defaults/config/dynamic_fps.json"
 hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
 
 [[files]]
-file = "config/yosbr/config/enhanced_bes.properties"
+file = "config/modpack_defaults/config/enhanced_bes.properties"
 hash = "ef55a85f0905e41d93de2b7e53266d393bf58f43917d9b15ea8f66b757a5996d"
 
 [[files]]
-file = "config/yosbr/config/fastquit.toml"
+file = "config/modpack_defaults/config/fastquit.toml"
 hash = "4c7872ece540160831d0c17e505336ffa2fba0748f3f32f137af1958272e200c"
 
 [[files]]
-file = "config/yosbr/config/ferritecore.mixin.properties"
+file = "config/modpack_defaults/config/ferritecore.mixin.properties"
 hash = "3817e94107bb1c7358beebb80b1810e822de38be430f855cf14828c38018e8e2"
 
 [[files]]
-file = "config/yosbr/config/iris.properties"
+file = "config/modpack_defaults/config/iris.properties"
 hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
-file = "config/yosbr/config/modernfix-mixins.properties"
+file = "config/modpack_defaults/config/modernfix-mixins.properties"
 hash = "c668b4ad565c58243a1e0eb71884b17c77ab2242d983075f12dc2666060709ba"
 
 [[files]]
-file = "config/yosbr/config/modmenu.json"
+file = "config/modpack_defaults/config/modmenu.json"
 hash = "ee8d1a6f11ea009f37abba6325d97766910e1786b0de848aa307771d8a87ed72"
 
 [[files]]
-file = "config/yosbr/config/puzzle.json"
+file = "config/modpack_defaults/config/puzzle.json"
 hash = "481193336b67c5a9a82beec77880556f3b92fd792cd8ea4414a904dd66acd733"
 
 [[files]]
-file = "config/yosbr/config/sodium-options.json"
+file = "config/modpack_defaults/config/sodium-options.json"
 hash = "5b24c9a57bb6092df95d9e8ec3c79574103967cef4db94508b9b172df1e447e5"
 
 [[files]]
-file = "config/yosbr/config/vmp.properties"
+file = "config/modpack_defaults/config/vmp.properties"
 hash = "244a5a217b4604782a66736cae23717c7871acd0e2bbd51dc2b28e4b642885f2"
 
 [[files]]
-file = "config/yosbr/config/world-host.json5"
+file = "config/modpack_defaults/config/world-host.json5"
 hash = "c602ad2f5d370579a6f530355b2c60852fbbbfa6c230ebb568cbf79ec290e76b"
 
 [[files]]
-file = "config/yosbr/options.txt"
+file = "config/modpack_defaults/options.txt"
 hash = "5f7a76da45c11e03698f375bd3612d57a729a09f604f21d8bc647d069eaf0c7f"
 
 [[files]]
@@ -112,6 +108,11 @@ hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
+file = "mods/configmanager.pw.toml"
+hash = "48eea561787fda4c303f60716c0266ab613e8d816642617515be3d04777189b2"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "4f97764f3cb4c74f84afbe32cf8a1d2cefecda129c0f1441906562dcb8f2b8cb"
 metafile = true
@@ -123,7 +124,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "d8e661ae0f24fb32dc1fe9096e6acdf5e2801336aee7de0d9a479d167543cd83"
+hash = "f8f941964c822c5c56322eacbb2cd8b361b74df1a48608cc043420b86c2d8fec"
 metafile = true
 
 [[files]]
@@ -204,6 +205,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "5284f6d141a990f4ea021c12b851e07102f5cb22743cf7b33be6ad2eb4c8d3f5"
+metafile = true
+
+[[files]]
+file = "mods/ixeris.pw.toml"
+hash = "f83bac5910818c6f63f2d9a779a7d04133880f5fbbe998d2eed35f21aa56c745"
 metafile = true
 
 [[files]]
@@ -324,11 +330,6 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "2b8076d687072c6a6c5baa1c2dcdab3ce20589c4e473501b9c17f49a6fbe158b"
-metafile = true
-
-[[files]]
-file = "mods/yosbr.pw.toml"
-hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
