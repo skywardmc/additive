@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/calcmod.pw.toml"
-hash = "6ebb236b2a46dbf564aa2760a68027703e44105ab18e77ea76c0fe2323a9bafb"
+hash = "9943f89813eb7717141b06865d72e455b706df12146dfd3ad430f3fd6501ad1f"
 metafile = true
 
 [[files]]
@@ -125,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "982801b4473e11e6f8c5899f18a260515239dfce397c650c6920fc6ae03f6abb"
+hash = "33882383faf5a34a8a6dd9906c4d58f4ac9da7a39792ecb2a0a7cdad0234991a"
 metafile = true
 
 [[files]]
@@ -140,12 +140,12 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "26fbb6ed4d33303b68af2d305318ad333efc0577d16401481fcc1f0b1b030d6e"
+hash = "aac7a096ea718108c94396d2c76a077cbb56364eaddcada0c4f449081d2e5ad1"
 metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "9b30e993f21da8f74807d67c218e0ac8e02cdeae368e7a743cbd5bfa625b0580"
+hash = "aa93b5ea23944438a794230a0b616c681ff44596a126c70c8f909bc62ef8c97d"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/renderscale.pw.toml"
-hash = "b4c4f1163795d12bb392a2645b886b6afc6e7b3e4d28af4968a6ca0c74fcb606"
+hash = "c8ad2f0f522c49415bc4fcb3386008b2d57fb6afc4d7acf4b91bc489506f78a8"
 metafile = true
 
 [[files]]
