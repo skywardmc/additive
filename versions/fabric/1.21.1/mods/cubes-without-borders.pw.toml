@@ -11,3 +11,8 @@ hash = "78a9e25f6b8bdd4637a10d7e0ffea85c9704bcae88a4daba27a843e63e2044cf2718c480
 [update.modrinth]
 mod-id = "ETlrkaYF"
 version = "m350hyy8"
+
+[option]
+optional = true
+default = true
+description = "Allows you to set fullscreen mode to Borderless"

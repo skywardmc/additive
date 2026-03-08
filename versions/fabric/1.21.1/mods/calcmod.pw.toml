@@ -11,3 +11,8 @@ hash = "b7c173e3b9bee5fb76f8d3d8f8d2a2bbdae24442"
 [update.modrinth]
 mod-id = "XoHTb2Ap"
 version = "LE8aEZ5E"
+
+[option]
+optional = true
+default = true
+description = "Adds a `/calc` command that can be used to for various different calculations, like crafting utils, storage utils, etc"

@@ -11,3 +11,8 @@ hash = "fd1dacb165536923232b3af4b1e008260a5790ab1d5e05a9bad18c2fa17770896d5c2199
 [update.modrinth]
 mod-id = "mfzaZK3Z"
 version = "rEnDH8t5"
+
+[option]
+optional = true
+default = true
+description = "Adds support for extra skin features, built-in to the skin file itself"

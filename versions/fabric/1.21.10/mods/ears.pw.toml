@@ -11,3 +11,8 @@ hash = "63b86f95f4bcefc37e7306f94d461d6f1ebd35d77ac9f01f39918c38b1af6b581414a28b
 [update.modrinth]
 mod-id = "mfzaZK3Z"
 version = "UtemjD1P"
+
+[option]
+optional = true
+default = true
+description = "Adds support for extra skin features, built-in to the skin file itself"
