@@ -11,8 +11,3 @@ hash = "440611d9f526cb223f8592b5553ea0547f78fda1070554ccc88849150212a5032f0a06ea
 [update.modrinth]
 mod-id = "Va8PJBFX"
 version = "1BDIVv7c"
-
-[option]
-optional = true
-default = true
-description = "Allows you to customize the resolution at which the game is rendered, separately from HUD"

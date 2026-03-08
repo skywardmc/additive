@@ -11,8 +11,3 @@ hash = "38de38b3b6b2763743d765ddabe31c4433bab290ab7ada6d17829f942044e6f69415e6fd
 [update.modrinth]
 mod-id = "2AIZDfYo"
 version = "aeZLqLcC"
-
-[option]
-optional = true
-default = true
-description = "Allows you to proxy Open to LAN connections to the public internet"

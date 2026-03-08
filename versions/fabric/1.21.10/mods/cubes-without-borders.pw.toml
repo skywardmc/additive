@@ -11,8 +11,3 @@ hash = "93ef2bce695fd7d180d03d8d1d2a15c74e7807f74f087518d607f754d58b1945fb571c5a
 [update.modrinth]
 mod-id = "ETlrkaYF"
 version = "wXhtL4fb"
-
-[option]
-optional = true
-default = true
-description = "Allows you to set fullscreen mode to Borderless"
