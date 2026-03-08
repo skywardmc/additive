@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/calcmod.pw.toml"
-hash = "70c62b3efd81035f940b9ef73575eb356a5ed2b73508ae3fdbd1f1b52b0356fb"
+hash = "eeec057d3fb7f0c076d271a1c3608b67d88895e59a18bb9b5a5fe604b65fc6e6"
 metafile = true
 
 [[files]]
@@ -133,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "32fb6d21045500994117e1479083a22db3e1c9776beafa609c83e25461d85396"
+hash = "7797b4dcd9c68b4555caf2629b0bff76f234ae04e8b42956e95ce2c65807049e"
 metafile = true
 
 [[files]]
@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "4e897477312af427734e159fc9f5f293f382677bf1aa25c72e53983f7fdf56e2"
+hash = "1de39da04f5e8ab4595f4c2cd36710bc29a661311c5616e6af6af270d2506aed"
 metafile = true
 
 [[files]]
@@ -328,7 +328,7 @@ metafile = true
 
 [[files]]
 file = "mods/world-host.pw.toml"
-hash = "a528e0ce90b1794f29b54f5dd9eaae6a8867bb4fdbca6573dcf29bff299796ea"
+hash = "a60a3daa425e1d278d5a51abc60d3818979278970559ee1d392757c0b3e4f50b"
 metafile = true
 
 [[files]]
