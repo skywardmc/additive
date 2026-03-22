@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "50444a8be6f3bae80304ef9932d651362271cb00d4d3f59fdbd3f7366ea9eb68"
+hash = "0724e3a9f24993fc8b85bf094027cdf96eb3fef442420f159574da54fb1154f9"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -42,7 +42,7 @@ hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "50444a8be6f3bae80304ef9932d651362271cb00d4d3f59fdbd3f7366ea9eb68"
+hash = "0724e3a9f24993fc8b85bf094027cdf96eb3fef442420f159574da54fb1154f9"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdabettergrass.toml"
@@ -213,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "82dda02d8aa36e6222ca49fc6547dea0197958ff168abac44e2634128416a00a"
+hash = "bac603aa8f56afce8e06daac2a3038fece96c232d9863b0714eeb45f625a5428"
 metafile = true
 
 [[files]]
