@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/PRN43VSY/versions/0.5%2B1.18.2/animatica-0.5%2B1.18.2.jar"
-hash-format = "sha1"
-hash = "1073b1e722ea629ef72133cb9968156a0d8beeca"
+hash-format = "sha512"
+hash = "3db21e015cd157b867c80d300a4c364ea399a29bfc62f802ea992995ff0d1c4c3f196922ac244ad74c283d3ba50c01c55ac3435fc7d9bde28c30c689f3d5a0c1"
 
 [update]
 [update.modrinth]

@@ -1,13 +1,13 @@
 name = "World Host"
-filename = "world-host-0.4.8+1.19.2-fabric.jar"
+filename = "world-host-0.5.2+1.19.2-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2AIZDfYo/versions/N8ThgPbA/world-host-0.4.8%2B1.19.2-fabric.jar"
-hash-format = "sha1"
-hash = "780a60f5caf8328180e5fe429b608b02c923cfc8"
+url = "https://cdn.modrinth.com/data/2AIZDfYo/versions/z6kATqeY/world-host-0.5.2%2B1.19.2-fabric.jar"
+hash-format = "sha512"
+hash = "183a6c37debfe13f5a12f4e5832de321ce58dfa14e425a632ef801083b9e9ded1cbdafefc6a66e527a133aa52dbb1deee7019debf539c3543c5df84080b0d3f7"
 
 [update]
 [update.modrinth]
 mod-id = "2AIZDfYo"
-version = "N8ThgPbA"
+version = "z6kATqeY"

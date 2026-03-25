@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9s6osm5g/versions/BLMp2TRt/cloth-config-6.5.102-fabric.jar"
-hash-format = "sha1"
-hash = "d8996df838204ebe2aa7314b0a95914d326b37e0"
+hash-format = "sha512"
+hash = "0673b8bc2b92b6a93dd63938cbc994f5c0e09a0bab5a4719ca35ff970c14f2476ef0eb431334b28ecfa6821f1daa1fd7511cef4b1a13b50620292df0adf0c7ba"
 
 [update]
 [update.modrinth]

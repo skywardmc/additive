@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/OVuFYfre/versions/0.4/enhancedblockentities-0.4--1.16.x.jar"
-hash-format = "sha1"
-hash = "5b815b595ac5e40123845e1bb03c95392ad1a7dd"
+hash-format = "sha512"
+hash = "baa978ba883afa5b5af5961c673816700c97e50fe71964e6c0fffb9041282ac714d84319508fed58b18f5b4d56d0acb3f1d14a6faed7f62d20d9b00fa4c9a35d"
 
 [update]
 [update.modrinth]

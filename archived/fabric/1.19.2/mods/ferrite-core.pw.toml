@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/uXXizFIs/versions/kwjHqfz7/ferritecore-5.0.3-fabric.jar"
-hash-format = "sha1"
-hash = "4a124f8205e39b84a156db2d1e435c5708328d7b"
+hash-format = "sha512"
+hash = "efbea36712322c71aee547ebc71b3644947e40bfa01d721fce5d5ba2db4aa6867e6a76f43d46e33ae8a2672f300bfc5b96510e164b1dd09cfae9cba0a195252d"
 
 [update]
 [update.modrinth]

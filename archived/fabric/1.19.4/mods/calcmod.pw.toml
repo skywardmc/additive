@@ -1,0 +1,13 @@
+name = "CalcMod"
+filename = "calcmod-fabric-1.19.4-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XoHTb2Ap/versions/JWhtNGF1/calcmod-fabric-1.19.4-1.3.0.jar"
+hash-format = "sha512"
+hash = "def57b3851528ec43cea2e11a2bb80e1f82eb21579ee4913198ec41289ff077fe9b5a1b4b77b75fc230d4919c08d6ad7eeeb1a05ee9238f1a7dbc72619f2e783"
+
+[update]
+[update.modrinth]
+mod-id = "XoHTb2Ap"
+version = "JWhtNGF1"

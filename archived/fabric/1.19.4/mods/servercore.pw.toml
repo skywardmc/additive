@@ -1,0 +1,13 @@
+name = "ServerCore"
+filename = "servercore-fabric-1.3.5+1.19.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4WWQxlQP/versions/aq6o4qRe/servercore-fabric-1.3.5%2B1.19.4.jar"
+hash-format = "sha512"
+hash = "41b8f4a48bdda74b68fc9810d52510fd4bdc56dc9ab06d2fa936804419c5903ea3ff479fdf5e4b5c75a3e1829f026ee39c775e987576d74ff6f64e4e5cfd2c37"
+
+[update]
+[update.modrinth]
+mod-id = "4WWQxlQP"
+version = "aq6o4qRe"

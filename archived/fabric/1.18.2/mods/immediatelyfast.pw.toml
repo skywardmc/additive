@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/D73h6MNI/ImmediatelyFast-1.1.12%2B1.18.2.jar"
-hash-format = "sha1"
-hash = "e0209c4fad9fd7fa167cd36166795c57a82ed981"
+hash-format = "sha512"
+hash = "479a0472a2669ad8159a57d0bc279001efb5c693d6b9b2e72b689a7108af27782f4e977d47db7208ac0f54cc5a00623f7b3949a65b3596b52aea83f88fce7f59"
 
 [update]
 [update.modrinth]

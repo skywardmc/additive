@@ -1,0 +1,13 @@
+name = "Starlight (Fabric)"
+filename = "starlight-1.1.3+fabric.f5dcd1a.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/H8CaAYZC/versions/HZYU0kdg/starlight-1.1.3%2Bfabric.f5dcd1a.jar"
+hash-format = "sha512"
+hash = "6bc9e4582f6e28dada721cd5a3eea5b817e3445883a3717c1927c558ee991dc327239c62afd4ce9215fa7735c3afa6e870f287826dc4c2d773a524903a7b8fb4"
+
+[update]
+[update.modrinth]
+mod-id = "H8CaAYZC"
+version = "HZYU0kdg"

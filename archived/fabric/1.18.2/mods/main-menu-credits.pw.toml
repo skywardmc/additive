@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/qJDfP7WN/versions/1.1.1/main-menu-credits-1.1.1.jar"
-hash-format = "sha1"
-hash = "7df757c8d19a13da60c7b85f13870965d61c71d8"
+hash-format = "sha512"
+hash = "20c4455b742e2bff30e043c810483e90b95aa01de6f5223ca12a895b296cc209974c36fb95ae2a0b9f0a9c912ed345f535643d2f19f51c23b3861764f5bd02a4"
 
 [update]
 [update.modrinth]

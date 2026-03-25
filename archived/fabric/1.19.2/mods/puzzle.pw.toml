@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/3IuO68q1/versions/NwemUTyO/puzzle-1.4.2-1.19.jar"
-hash-format = "sha1"
-hash = "86a07e717d9325761a468cc1a521efa5b4de715d"
+hash-format = "sha512"
+hash = "ce159526430af954926f6973753ce11e2c9004ceeecd6d2a70a95aef6b3f8695350f634acfaf75f8cc7843cd98fb6d24578e8cded3886b37c5c3584bf19089f5"
 
 [update]
 [update.modrinth]

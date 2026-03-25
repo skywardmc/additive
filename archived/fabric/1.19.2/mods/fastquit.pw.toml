@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/x1hIzbuY/versions/ahUi4sBL/fastquit-2.1.0%2B1.19-1.19.2.jar"
-hash-format = "sha1"
-hash = "f3d977524174445f8bebd1203114f99bd5c5a89a"
+hash-format = "sha512"
+hash = "6b71d14aa5ba386508c96ecbaec9fcc931e6d7f482b636b3eaec4caa3c12fc7b15258208783ec26e7df0f01a1f59d10c720459c498a8f87f9e70f096c5009d0b"
 
 [update]
 [update.modrinth]

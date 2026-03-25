@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/tN4E9NfV/versions/NCVUlRX8/Chat%20Reporting%20Helper.zip"
-hash-format = "sha1"
-hash = "6e4ccb4ee167270eb65c0875f7115af8dac15256"
+hash-format = "sha512"
+hash = "9987aba4fb17e881b71a71213ea238212fb189a702fdefed471168dfbaeb3457af65b7fb9b9a13e4bf6fee2498324e9acb1da267404a174cc0af4d2d475e009b"
 
 [update]
 [update.modrinth]

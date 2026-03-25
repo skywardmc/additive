@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nmDcB62a/versions/LXlsO4Vo/modernfix-fabric-5.7.2%2Bmc1.19.4.jar"
-hash-format = "sha1"
-hash = "53ec153757699d3998f74891d8ac8ef13b3da2aa"
+hash-format = "sha512"
+hash = "94877c4253224855753650e198df5cec908e4d07ae8f678982fa0a51a421d8f5659c2d505320a6af079da890bddca4f17d519484411bba877ca67fe545ec58b8"
 
 [update]
 [update.modrinth]

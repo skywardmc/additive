@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/gJ6ZmZ4Z/yet-another-config-lib-fabric-3.1.1%2B1.19.4.jar"
-hash-format = "sha1"
-hash = "52a6c69a822c3592ed5f8b2285a2905d53a4c7aa"
+hash-format = "sha512"
+hash = "f69abf85f63f7aeb52a62102c98c106d166e5ea18f9b4623e7e7dd648d2cfc7b503e8e8d3b8bfbf005fc92d4616f67c359711f360ad9e10ca8f6026a3918f821"
 
 [update]
 [update.modrinth]

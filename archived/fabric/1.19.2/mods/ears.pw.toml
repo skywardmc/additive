@@ -1,13 +1,13 @@
 name = "Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)"
-filename = "ears-fabric-1.19-1.4.6.jar"
+filename = "ears-fabric-1.19-1.4.7.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/mfzaZK3Z/versions/1.4.6%2Bfabric-1.19/ears-fabric-1.19-1.4.6.jar"
-hash-format = "sha1"
-hash = "7c3626834c332f7de37b57298b39bf5dfbc2a714"
+url = "https://cdn.modrinth.com/data/mfzaZK3Z/versions/NUe2jWfv/ears-fabric-1.19-1.4.7.jar"
+hash-format = "sha512"
+hash = "e50448afe36d03c22881aa9c51328aae7b410bbeb56e5bbb9bd3eaf1fb9312062b3e6d6113e335cafdaa43bedfa03c46355ce5ecf722ec8b98a90461c04a45fa"
 
 [update]
 [update.modrinth]
 mod-id = "mfzaZK3Z"
-version = "qZkbcILO"
+version = "NUe2jWfv"

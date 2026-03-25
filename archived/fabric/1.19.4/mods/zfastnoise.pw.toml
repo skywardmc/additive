@@ -1,0 +1,13 @@
+name = "Fast Noise"
+filename = "zfastnoise-1.0.11+1.19.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OnlVIpq5/versions/ih5xzhim/zfastnoise-1.0.11%2B1.19.4.jar"
+hash-format = "sha512"
+hash = "4f3a78109274959171db0504a39301fa492c90b34665be047fac4478922f18c23cef07eed5cdbf8de886d5022f4bf7ebdf951930d2b83e6c1ed8ba5a710dfc30"
+
+[update]
+[update.modrinth]
+mod-id = "OnlVIpq5"
+version = "ih5xzhim"

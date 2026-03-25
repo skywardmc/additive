@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9s6osm5g/versions/xMTUxQCV/cloth-config-4.17.101-fabric.jar"
-hash-format = "sha1"
-hash = "0c1311b8657bcde82b8cc755e9a5da5479a8e984"
+hash-format = "sha512"
+hash = "fdfb4000999e1b443a8770377b5004b536d685c6e9be7f68428f2666d8f4b3606aaf0218fb292c1de25816fc6e9bb8b548f47fdae341e5adee525ada4dfa2ab8"
 
 [update]
 [update.modrinth]

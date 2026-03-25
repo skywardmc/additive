@@ -1,0 +1,13 @@
+name = "Nuit Interop (formerly FabricSkyBoxes Interop)"
+filename = "fsb-interop-1.3.2+mc1.19.2-build.40.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HpdHOPOp/versions/Bz2Z4Lrk/fsb-interop-1.3.2%2Bmc1.19.2-build.40.jar"
+hash-format = "sha512"
+hash = "58017fa3099a59c7af0dcefad0d20edac70d5dff95e9fcfb2c6a7fbdb2963739fab41c5ffdede9af24fe5e412096999834c17c03c895158a06e46be2be425fda"
+
+[update]
+[update.modrinth]
+mod-id = "HpdHOPOp"
+version = "Bz2Z4Lrk"

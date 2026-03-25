@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/3IuO68q1/versions/EZrDjvh2/puzzle-1.4.1-1.18.jar"
-hash-format = "sha1"
-hash = "a630f54c71b7bf43999a41b37763f245a2687f5f"
+hash-format = "sha512"
+hash = "55a335296abb82f4adb4b6cd4bc5a1861fb87fcd5707893c52bd1978babfa79df3300132abd59329fc482083b85ac2289d594aba348341a182e07b204564f7d8"
 
 [update]
 [update.modrinth]

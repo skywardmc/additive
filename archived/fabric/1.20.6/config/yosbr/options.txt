@@ -1,3 +1,0 @@
-simulationDistance:5
-resourcePacks:["vanilla","fabric","file/Chat Reporting Helper.zip"]
-onboardAccessibility:true
