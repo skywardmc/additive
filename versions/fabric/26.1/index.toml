@@ -84,6 +84,11 @@ hash = "0676ba0d2bd3ae2136ee3a629b514d87e7641c63501079611472a759662bcc51"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "1b8f4603e81c48badce4a9321dea87bdeb9d3b5a2f0be566139d087afad73a47"
+metafile = true
+
+[[files]]
 file = "mods/configmanager.pw.toml"
 hash = "6868ff98071493d02294c37e7ed6b07830f52733a67aff3164c2f6f5217da73c"
 metafile = true
@@ -95,7 +100,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "15ff2b988c9e96738e13da76458c2329f0df2dba1df7373964c3965ec4d93368"
+hash = "0b4721522ae8497677ff44178646d768863825d92e925ac93ab97c02f165c08c"
 metafile = true
 
 [[files]]
@@ -105,7 +110,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "62091f78296306feada5353cc29d151e3d0c4f07b8c9ee768742ad6dfa2d9894"
+hash = "b0cdd3b586c4150da87d6f8732d6baef247ef32399cf6c5734614fb54ac90e4a"
 metafile = true
 
 [[files]]
@@ -115,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "442c0dd20ac6007c14242a0e6b3150158992b70009e3b1d96c97b8983030a6fc"
+hash = "c7591ee366f9b0e5744de7e8c2ec53aeaf6e144fdded761279ad84abf8542285"
 metafile = true
 
 [[files]]
