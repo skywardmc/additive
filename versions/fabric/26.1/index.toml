@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9d863aab5cc5d2a9f306176eb939ae53904b65d860097ed98cfe641b35a37c87"
+hash = "70f2a783a1797a9e5034ab491eaa06ccc0fcace4befdf7bbdffedfe85ee29131"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
