@@ -1,0 +1,13 @@
+name = "Ok Zoomer"
+filename = "ok_zoomer-universal-17.0.0-beta.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/aXf2OSFU/versions/gK1CDvlE/ok_zoomer-universal-17.0.0-beta.2.jar"
+hash-format = "sha512"
+hash = "278d68247be9dfa03b30ce5b63e3c28290c0cec7d1c8502c19db07a46d84da724288d65276cf94e8d671e97c4179f5ed66f56e16fd45e0c7088a426a9b72d275"
+
+[update]
+[update.modrinth]
+mod-id = "aXf2OSFU"
+version = "gK1CDvlE"
