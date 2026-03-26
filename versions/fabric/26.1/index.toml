@@ -69,11 +69,6 @@ file = "config/modpack_defaults/options.txt"
 hash = "5f7a76da45c11e03698f375bd3612d57a729a09f604f21d8bc647d069eaf0c7f"
 
 [[files]]
-file = "mods/animatica.pw.toml"
-hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
-metafile = true
-
-[[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "539695e9725d5bff359c6c930d6e7b4173ced1c30e4ed6f7eedce28d992ea241"
 metafile = true
@@ -84,18 +79,8 @@ hash = "0745f035193b0b9e6f73dc04dbff625d3f10feca2ce24b9b242bc5fc5791868d"
 metafile = true
 
 [[files]]
-file = "mods/calcmod.pw.toml"
-hash = "262616993036070ec268b708a65f29420d54a8fb2fa55dffe6ebaa4169d84776"
-metafile = true
-
-[[files]]
 file = "mods/cape-provider.pw.toml"
 hash = "0676ba0d2bd3ae2136ee3a629b514d87e7641c63501079611472a759662bcc51"
-metafile = true
-
-[[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "a06ef129798265e0d7249426fb0ed5c506725b0460dc3dfdb975b8978480895e"
 metafile = true
 
 [[files]]
@@ -104,28 +89,8 @@ hash = "6868ff98071493d02294c37e7ed6b07830f52733a67aff3164c2f6f5217da73c"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "d53b229a5588d33a8dac8682cba4371b22b2cbe2541c7129506cfbd44daaf6f8"
-metafile = true
-
-[[files]]
-file = "mods/controlify.pw.toml"
-hash = "79641d52e42757542b18e8d7ceabfb8858c672166f5f8a9d3c72611f5e6fe360"
-metafile = true
-
-[[files]]
 file = "mods/crash-assistant.pw.toml"
 hash = "9696f86db9c7d90c0716b38c25f0b70d1c432d56cd444f061b652f18ea0bd86f"
-metafile = true
-
-[[files]]
-file = "mods/cubes-without-borders.pw.toml"
-hash = "982801b4473e11e6f8c5899f18a260515239dfce397c650c6920fc6ae03f6abb"
-metafile = true
-
-[[files]]
-file = "mods/cull-fewer-leaves.pw.toml"
-hash = "1c7a504f7239170935e223fa7bef0f9b4f8df068ccadb71d49a7897c334adb90"
 metafile = true
 
 [[files]]
@@ -136,11 +101,6 @@ metafile = true
 [[files]]
 file = "mods/e4mc.pw.toml"
 hash = "d892c95ecc83babe44ba5dbe7ded5cfc4242e06c3586717afef3c52c295c157b"
-metafile = true
-
-[[files]]
-file = "mods/ears.pw.toml"
-hash = "9b30e993f21da8f74807d67c218e0ac8e02cdeae368e7a743cbd5bfa625b0580"
 metafile = true
 
 [[files]]
@@ -159,11 +119,6 @@ hash = "442c0dd20ac6007c14242a0e6b3150158992b70009e3b1d96c97b8983030a6fc"
 metafile = true
 
 [[files]]
-file = "mods/esf.pw.toml"
-hash = "b5c07339bc334ddfe27120580cca09d71541a2f8230251a85284807ff0688a4c"
-metafile = true
-
-[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "270d646d083ecc615a15db213cd8844ebf25870b6014c9dbe8fee5be294edf40"
 metafile = true
@@ -174,33 +129,13 @@ hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
 metafile = true
 
 [[files]]
-file = "mods/fast-ip-ping.pw.toml"
-hash = "87dea750205910be6e5184ca4cdc3a3f2f439364435408b8e7a1036fdf3c28fc"
-metafile = true
-
-[[files]]
-file = "mods/fastquit.pw.toml"
-hash = "4657d883a293eff316a0a2a84da0d8b6f49ca1dee9611c86be513ae96ca33a89"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
-file = "mods/fix-keyboard-on-linux.pw.toml"
-hash = "9c58c6f6299c9ab982847248be076b6840df69ce6b647a2a18e81d9a1cbeaf19"
-metafile = true
-
-[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "de954e56216772900768426c541731ec91d0c7bd1c5037ad2f6cc5552f87c635"
-metafile = true
-
-[[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "9e7bacd24307639764f3b74ae35a562b6becf2701637b816de0eaae15ab714c0"
 metafile = true
 
 [[files]]
@@ -211,16 +146,6 @@ metafile = true
 [[files]]
 file = "mods/ixeris.pw.toml"
 hash = "75f91f7e5779ed7e7ddf295d63f301a0a87ffbc4757da81ef740d42fbfeaa8f9"
-metafile = true
-
-[[files]]
-file = "mods/krypton.pw.toml"
-hash = "2fb4ce2695c9f6da2087a5e350f2e85ea419de153e18bc20bf38f0b540c7caba"
-metafile = true
-
-[[files]]
-file = "mods/lambdabettergrass.pw.toml"
-hash = "0833776555b4b584bd9c3bfdef11e7cec165c7d902ef6c7cd7b2fbb06fa67144"
 metafile = true
 
 [[files]]
@@ -239,11 +164,6 @@ hash = "19fc9247d6714a1a81f4ec64d8f0aeda1f6d2b8ecbe51d6917d80947394750c9"
 metafile = true
 
 [[files]]
-file = "mods/macos-input-fixes.pw.toml"
-hash = "43b7544c0a49c9368caf33a1529a720c6fadb17f7d07db6a8e952b514b5a862c"
-metafile = true
-
-[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "cb9944ec0e1d2db8f0ac8d61f619e28357c6021c952b5e5cd0d23cbf123d66ad"
 metafile = true
@@ -259,21 +179,6 @@ hash = "a3b2043845ab8f258b02e6cefe35e20f836ccc1e30acd6758fc98a772be87828"
 metafile = true
 
 [[files]]
-file = "mods/optigui.pw.toml"
-hash = "08b89b53c392b5fa29198418df8598404d93c58eae40d432caed797c828adbd5"
-metafile = true
-
-[[files]]
-file = "mods/particle-core.pw.toml"
-hash = "51c5dc79381f5e788aa78211c82a8294ec8b1313a5f8cc584fba1e62664dea81"
-metafile = true
-
-[[files]]
-file = "mods/polytone.pw.toml"
-hash = "d3c816d9ea8953ce447e21b4e0e3c7c909be2bbb5d03c33e68f6f5efb24dc392"
-metafile = true
-
-[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "a73c17487f0b8a1f234b56f5cc61b28ce9413a9ce90859dd18ee2dbd03300a3a"
 metafile = true
@@ -284,28 +189,13 @@ hash = "4271ea5a3c18100f09b7adbc8aa62bad7c52ff029914f5945d0978c5f3c30540"
 metafile = true
 
 [[files]]
-file = "mods/renderscale.pw.toml"
-hash = "b4c4f1163795d12bb392a2645b886b6afc6e7b3e4d28af4968a6ca0c74fcb606"
-metafile = true
-
-[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "d147ee0fae53eb7ce034fe800d33d3dd15f1024eab3ca6d2b2ef9dbb86ec996c"
 metafile = true
 
 [[files]]
-file = "mods/servercore.pw.toml"
-hash = "c8797508817203139598e45c3249c08bef98d913082d3adb7ce07a6c55e8bdb5"
-metafile = true
-
-[[files]]
 file = "mods/skyboxify.pw.toml"
 hash = "40a3a75e3e538a6c5f27ad6088c6659fce7f6d66f9b75e100871ca2c220ec343"
-metafile = true
-
-[[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "986e43ff06d2a79effec6e219aca063d7b53a98096c5f63983f23cf54c11c7e5"
 metafile = true
 
 [[files]]
@@ -326,11 +216,6 @@ metafile = true
 [[files]]
 file = "mods/zfastnoise.pw.toml"
 hash = "b797732782cfd4dd7e4a5b22bff8fd3f1d7db930f7f361f85b13b7bf1528bffa"
-metafile = true
-
-[[files]]
-file = "mods/zoomify.pw.toml"
-hash = "3ff0c2f005f2523f157b776f0e870494a8e8ec0ff77cb7e965c88b4e2090efdb"
 metafile = true
 
 [[files]]
