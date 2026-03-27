@@ -251,7 +251,7 @@ enabled = true
 enabled = true
 #Delay in seconds for the OK button when piracy warning is shown.
 #Set to 0 or -1 to disable the delay.
-delay = 10
+delay = 0
 
 [greeting]
 #You don't need to touch this option.
