@@ -18,7 +18,7 @@ hash = "4ecbd7b9f073f3f8d66d530af6cf1a23555650c433beb3815a5d2fe9c55218fb"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
-hash = "5d38f19d70ae625afa8cf888ed5ab15050e9af64173b7f3cba87f9ffa12986d5"
+hash = "8176e59e9a04650de19a7232caa692ccb90a6276d91e63586c99171c2df993d1"
 
 [[files]]
 file = "config/modpack_defaults/config/cull-less-leaves.json"
