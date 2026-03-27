@@ -214,11 +214,6 @@ hash = "40a3a75e3e538a6c5f27ad6088c6659fce7f6d66f9b75e100871ca2c220ec343"
 metafile = true
 
 [[files]]
-file = "mods/sodium-extra.pw.toml"
-hash = "c0a27f6804fec3675717ed498b73b8bd715286bc00893b57ece6cf5d0dc0a2e8"
-metafile = true
-
-[[files]]
 file = "mods/sodium.pw.toml"
 hash = "2c95562ff7f5ab2ddda171c024c12d12dc36a9f86c92fe055a3497682e2760b4"
 metafile = true
