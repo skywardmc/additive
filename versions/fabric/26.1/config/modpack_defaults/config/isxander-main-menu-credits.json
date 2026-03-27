@@ -2,7 +2,8 @@
 	"main_menu": {
 		"bottom_left": [
 			{
-				"text": "Additive 26.1"
+				"text": "Additive 26.1.1 (Alpha)",
+				"color": "red"
 			}
 		]
 	}

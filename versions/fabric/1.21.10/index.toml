@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9d863aab5cc5d2a9f306176eb939ae53904b65d860097ed98cfe641b35a37c87"
+hash = "a3bd427c803e7d8d5e2d89c1de8bc2deae04eddcb8874a404a201d60447b7841"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -38,7 +38,7 @@ hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "9d863aab5cc5d2a9f306176eb939ae53904b65d860097ed98cfe641b35a37c87"
+hash = "a3bd427c803e7d8d5e2d89c1de8bc2deae04eddcb8874a404a201d60447b7841"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdabettergrass.toml"
@@ -235,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "43b7544c0a49c9368caf33a1529a720c6fadb17f7d07db6a8e952b514b5a862c"
+hash = "660261eedaaf2fe6a8b301ead93d1ea84cacc32236baa806f510c3998dd0bf86"
 metafile = true
 
 [[files]]
