@@ -1,0 +1,13 @@
+name = "Cull Fewer Leaves"
+filename = "cull-fewer-leaves-1.1.2+26.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/alhWWxax/versions/jIEsEM7M/cull-fewer-leaves-1.1.2%2B26.1-fabric.jar"
+hash-format = "sha512"
+hash = "80e1763a3e0f2746aaa27da4d20837f62f5bea22fff326a6b7cecff43923ba1de91c6c5d4d8e5125bc263f35464cc858b556aa8ce8f1118e612677341d96d5d2"
+
+[update]
+[update.modrinth]
+mod-id = "alhWWxax"
+version = "jIEsEM7M"
