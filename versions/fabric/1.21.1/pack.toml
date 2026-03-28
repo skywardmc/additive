@@ -1,6 +1,6 @@
 name = "Additive"
 author = "SkywardMC"
-version = "26.1.1+mc1.21.1.fabric"
+version = "26.1.2+mc1.21.1.fabric"
 pack-format = "packwiz:1.1.0"
 
 [index]
