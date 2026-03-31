@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1a96bef2494ee3d0201275e4a2ae4879e875cf7aba40a6672c5c428d8d0c6aed"
+hash = "2940d9b5dd217af205f4c65952f910eb5a7e3cd021e462811e7790a770426f85"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -38,7 +38,7 @@ hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "1a96bef2494ee3d0201275e4a2ae4879e875cf7aba40a6672c5c428d8d0c6aed"
+hash = "2940d9b5dd217af205f4c65952f910eb5a7e3cd021e462811e7790a770426f85"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdabettergrass.toml"
@@ -135,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "26fbb6ed4d33303b68af2d305318ad333efc0577d16401481fcc1f0b1b030d6e"
+hash = "b6be9ab228ce37dfd2f0f05364ca24ba143d86bac31e25b9f03ab7750f2fceb4"
 metafile = true
 
 [[files]]
@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "28aadc6cbcdcdc751fb0ff80ad7346e6a4c697f27af1e12d5cf013907c54dabe"
+hash = "e43fda06d2c7e68de6ddf4b1b9866ffa5574870a86752cb5e5b70bce6c9511ae"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "d3c816d9ea8953ce447e21b4e0e3c7c909be2bbb5d03c33e68f6f5efb24dc392"
+hash = "db0b7b129a78486051d401bbe4ad5a4015aa47a3829f5f5fe4484b21c970ee17"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "e5ec1b319368c97f4adeee0861ebb020e9837f64fa0c42969f823a250ab7e6c7"
+hash = "8b19a57a09bc3ad9a95f73e7c212e1f519029d152552f68c2b539e7098630756"
 metafile = true
 
 [[files]]
@@ -335,5 +335,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "c65b3ed06645aef4d666a56254fb233ded4f7abf1d7e26be98d68e0a436821cb"
+hash = "3a9b9eaa8e4b1f0a666252156206da920adc31f4ddeabf6dd4232fe383b5e455"
 metafile = true

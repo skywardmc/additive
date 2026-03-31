@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "00cf3bcd8af42913006f8150d97ded183489ddd050c5558abde1c7f6afd56b56"
+hash = "dbebd249f02cd379ef41ae8add31ac81dbd501c3611bbf2c466ac59762fec481"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -38,7 +38,7 @@ hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "00cf3bcd8af42913006f8150d97ded183489ddd050c5558abde1c7f6afd56b56"
+hash = "dbebd249f02cd379ef41ae8add31ac81dbd501c3611bbf2c466ac59762fec481"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdabettergrass.toml"
@@ -79,6 +79,11 @@ hash = "825652cca3d809cc99d157f723b23df62368e837059a098ca24f105205f4384a"
 metafile = true
 
 [[files]]
+file = "mods/calcmod.pw.toml"
+hash = "d9c6327d012eea113016270c89b54a70901f6df90925f207b5342bba68a882ef"
+metafile = true
+
+[[files]]
 file = "mods/cape-provider.pw.toml"
 hash = "0676ba0d2bd3ae2136ee3a629b514d87e7641c63501079611472a759662bcc51"
 metafile = true
@@ -91,6 +96,11 @@ metafile = true
 [[files]]
 file = "mods/configmanager.pw.toml"
 hash = "6868ff98071493d02294c37e7ed6b07830f52733a67aff3164c2f6f5217da73c"
+metafile = true
+
+[[files]]
+file = "mods/controlify.pw.toml"
+hash = "86be9305d2f8355d775b813fac4651c92570f11154d743b098c563725ad65070"
 metafile = true
 
 [[files]]
@@ -110,12 +120,17 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "d892c95ecc83babe44ba5dbe7ded5cfc4242e06c3586717afef3c52c295c157b"
+hash = "865ee3da70da1671c3797b1cc87cff689e1c01e74f8dbf0c646d63722209c5df"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "c55425a9266cca6c41ca8712cd056cee966c456db412fee9c6a12f90c2534cef"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "5e9b6ab3bf216c97f5b95d9c72d9bcbbb571e425c5762d036d8c3acf8b6d9376"
+hash = "4d2e45eddc1d31e5e1f0c7fc5a949a29b39e64d7a246e0d5a5e2736f5d517d1c"
 metafile = true
 
 [[files]]
@@ -130,12 +145,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "270d646d083ecc615a15db213cd8844ebf25870b6014c9dbe8fee5be294edf40"
+hash = "f6bd0652ece7ed22ec30f65fbec7b9efdcf3f2d54a9a58b25b4bc31ac9d0f6be"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "e49f549eecbe502a3da6d731d6e28783631b14b0bba7bba9780a1075e7926776"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+hash = "6229ae9932b3bc69118a20cf1bbaa2653f610e1d9b7d582bb6963dc46b63c725"
 metafile = true
 
 [[files]]
@@ -156,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/ixeris.pw.toml"
 hash = "75f91f7e5779ed7e7ddf295d63f301a0a87ffbc4757da81ef740d42fbfeaa8f9"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "345bce74b3d517f57120b01e7db36e5d4d0c809cba2c74cc847b6cbda22524c6"
 metafile = true
 
 [[files]]
@@ -214,6 +239,11 @@ hash = "d147ee0fae53eb7ce034fe800d33d3dd15f1024eab3ca6d2b2ef9dbb86ec996c"
 metafile = true
 
 [[files]]
+file = "mods/servercore.pw.toml"
+hash = "207595c62114a11bc98dcb67c9b029fe3053a8e367cee9aadde8ed4d01a9c830"
+metafile = true
+
+[[files]]
 file = "mods/skyboxify.pw.toml"
 hash = "40a3a75e3e538a6c5f27ad6088c6659fce7f6d66f9b75e100871ca2c220ec343"
 metafile = true
@@ -235,15 +265,15 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "99dd48f427f67c46808159194cf03f3e1ef1a88857b92bac7732353000f07652"
+hash = "c744ce00ef4340e8a318e9aac8b6c5e14ae4805215dbcce2c6e75207592c6209"
 metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "b797732782cfd4dd7e4a5b22bff8fd3f1d7db930f7f361f85b13b7bf1528bffa"
+hash = "b4b1c2a314a93c010b5eebbeff3705ad1ca8a8ab52d03ce598b5eaefb41bcb04"
 metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "c65b3ed06645aef4d666a56254fb233ded4f7abf1d7e26be98d68e0a436821cb"
+hash = "3a9b9eaa8e4b1f0a666252156206da920adc31f4ddeabf6dd4232fe383b5e455"
 metafile = true

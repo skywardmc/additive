@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1a96bef2494ee3d0201275e4a2ae4879e875cf7aba40a6672c5c428d8d0c6aed"
+hash = "2940d9b5dd217af205f4c65952f910eb5a7e3cd021e462811e7790a770426f85"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -42,7 +42,7 @@ hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "1a96bef2494ee3d0201275e4a2ae4879e875cf7aba40a6672c5c428d8d0c6aed"
+hash = "2940d9b5dd217af205f4c65952f910eb5a7e3cd021e462811e7790a770426f85"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdabettergrass.toml"
@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "63ee24b0fa8bfcf32d188ce2dc9d212ff9e8d609399eadc277ffc24f87b14935"
+hash = "cbd461bced027900f6e97d74f4032bcc4c8894710719ac2c75a7469c51529b4e"
 metafile = true
 
 [[files]]
@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "bb873ec788a9f7c85f49d7f24b54c03060728e3ad42ce83041aa827ca1e65d71"
+hash = "446414707233e16ccd3f3a6b3f9a099f53921fd3d16a56fd4af674da0ea49110"
 metafile = true
 
 [[files]]
@@ -358,5 +358,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "c65b3ed06645aef4d666a56254fb233ded4f7abf1d7e26be98d68e0a436821cb"
+hash = "3a9b9eaa8e4b1f0a666252156206da920adc31f4ddeabf6dd4232fe383b5e455"
 metafile = true
