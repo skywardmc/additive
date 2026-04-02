@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "f6bd0652ece7ed22ec30f65fbec7b9efdcf3f2d54a9a58b25b4bc31ac9d0f6be"
+hash = "9661d28e5c33a6873612be87fc3c865032b48b120daaa95d62dc371bae83edcc"
 metafile = true
 
 [[files]]
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "446f2b20f237704feaafa54233134803ce081ca51ca191b271700cba7b601437"
+hash = "055fdbf11f275477ac18fe88c53623fa2c104180808d10738a960ba4bf3bcffb"
 metafile = true
 
 [[files]]
@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
-hash = "345bce74b3d517f57120b01e7db36e5d4d0c809cba2c74cc847b6cbda22524c6"
+hash = "1c1af86dd25a0d24ce354a728b971c3d72371fe6374c772c411b4bebc0f78d72"
 metafile = true
 
 [[files]]
