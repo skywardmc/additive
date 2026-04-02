@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "825652cca3d809cc99d157f723b23df62368e837059a098ca24f105205f4384a"
+hash = "78a44781719a0f1f46f608c1192f06792d69436488cab52174f94ca888ea025f"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "3b7f33d3d619dd8de71f3cf76971f7217b182e9c36da3fc86248524af5aae563"
+hash = "30bf6855010558013f475625c377510383edef549aafaacacd6f99a418cfb5fd"
 metafile = true
 
 [[files]]
@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "7be9cb1e65ed54f493091890d82a6f33f534b07e10d5d9b5b9eb5c3c6e3a6ced"
+hash = "441aab1300606ada97cccc22587b0b64ac2cea4a4c2065687101636110176e4d"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "b4b1c2a314a93c010b5eebbeff3705ad1ca8a8ab52d03ce598b5eaefb41bcb04"
+hash = "04df9f2c8f086062eb4a39c8b11ca46e8b23b5d71651f16d4ed8aeb00145afef"
 metafile = true
 
 [[files]]
