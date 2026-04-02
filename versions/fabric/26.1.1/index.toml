@@ -219,8 +219,8 @@ hash = "a3b2043845ab8f258b02e6cefe35e20f836ccc1e30acd6758fc98a772be87828"
 metafile = true
 
 [[files]]
-file = "mods/ok-zoomer.pw.toml"
-hash = "f76762ac057c6c867b74a2232f51e64c0e045197fcf4b0d8b60e916abc33c593"
+file = "mods/optigui.pw.toml"
+hash = "460aa9c8aaed3845f1c4f31e997991bcc92fafe4d5c25f79255f1e0ddec82eac"
 metafile = true
 
 [[files]]
@@ -271,6 +271,11 @@ metafile = true
 [[files]]
 file = "mods/zfastnoise.pw.toml"
 hash = "04df9f2c8f086062eb4a39c8b11ca46e8b23b5d71651f16d4ed8aeb00145afef"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "055e6a5ca54023619cbc1d0c91d4a102d4eb37981940dc3f8de62e6a3ecb3e86"
 metafile = true
 
 [[files]]
