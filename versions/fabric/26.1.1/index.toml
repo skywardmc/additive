@@ -134,11 +134,6 @@ hash = "4d2e45eddc1d31e5e1f0c7fc5a949a29b39e64d7a246e0d5a5e2736f5d517d1c"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "420f0c5c892adf3dfb4ce155cbc77fcc9f472aaea2b79e6cab595cc486f5ff51"
-metafile = true
-
-[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "c7591ee366f9b0e5744de7e8c2ec53aeaf6e144fdded761279ad84abf8542285"
 metafile = true
@@ -241,11 +236,6 @@ metafile = true
 [[files]]
 file = "mods/servercore.pw.toml"
 hash = "207595c62114a11bc98dcb67c9b029fe3053a8e367cee9aadde8ed4d01a9c830"
-metafile = true
-
-[[files]]
-file = "mods/skyboxify.pw.toml"
-hash = "40a3a75e3e538a6c5f27ad6088c6659fce7f6d66f9b75e100871ca2c220ec343"
 metafile = true
 
 [[files]]
