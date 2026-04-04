@@ -170,12 +170,12 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "0955daf1b0dd2c5d6c5d7e54b339377695b02c4ec50d4bfad622a0472a305614"
+hash = "b464ea3e139f525d9886734da7a7830b2a7fb76ad9021883f0004c8ead799af4"
 metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
-hash = "1c1af86dd25a0d24ce354a728b971c3d72371fe6374c772c411b4bebc0f78d72"
+hash = "78d6b48a474a33a1a089b81ca847a5ee5ff98773e9ed434bad8f797e36eb59cc"
 metafile = true
 
 [[files]]
@@ -229,6 +229,11 @@ hash = "4271ea5a3c18100f09b7adbc8aa62bad7c52ff029914f5945d0978c5f3c30540"
 metafile = true
 
 [[files]]
+file = "mods/renderscale.pw.toml"
+hash = "1a6f4919590130cb8cd5cf1d225b164c5957124a5f29a294f2b0f1d8ea7f43a2"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "d147ee0fae53eb7ce034fe800d33d3dd15f1024eab3ca6d2b2ef9dbb86ec996c"
 metafile = true
@@ -240,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "b3abe623ed0aa17a0d52c40b975abf8078898355738317a851f96e712a61bcbb"
+hash = "fc571334ec55dd1b218bc62b43bcb4d5b281ed3194c09fcb43cbbd055c8e6bcc"
 metafile = true
 
 [[files]]
