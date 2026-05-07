@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "88564dd444864a32710007583bf715a361e94ca72c99517ff5b98ef24d4649b4"
+hash = "05608f9174ebde171474deee51bc28ccf0a29d7594a6c0bdc40f06d2c7e32b50"
 metafile = true
 
 [[files]]
@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/cape-provider.pw.toml"
-hash = "0676ba0d2bd3ae2136ee3a629b514d87e7641c63501079611472a759662bcc51"
+hash = "9a1cde499d2e02d8e2fefe3145284f6a66c23745845e5f33b8c3e5fbc6e0d711"
 metafile = true
 
 [[files]]
@@ -250,12 +250,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "722007a08065b27337e39edbbdb6a34067bbbe523f36a968d9861b9714144368"
+hash = "b3bf6eb1cf803d702af91d3ca5f39e7528e1d55afdae03833f6e31698803caa9"
 metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "441aab1300606ada97cccc22587b0b64ac2cea4a4c2065687101636110176e4d"
+hash = "c7a940cfd78cde72195a902acbe71745d3698e847575464f9e9fe39446ff8aa6"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "3f269160616998925df0144ad66c6e4579c1a78d749a9e3f54f01f14106f429e"
+hash = "6d06b6fd8b81a3996e012d95a59f5076eca0e9fbf59bbfe7914ba1860f951f57"
 metafile = true
 
 [[files]]
