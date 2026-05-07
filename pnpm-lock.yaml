@@ -1,0 +1,83 @@
+lockfileVersion: "9.0"
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+  .:
+    dependencies:
+      prettier:
+        specifier: ^3.8.3
+        version: 3.8.3
+      prettier-plugin-properties:
+        specifier: ^0.3.1
+        version: 0.3.1(prettier@3.8.3)
+      prettier-plugin-toml:
+        specifier: ^2.0.6
+        version: 2.0.6(prettier@3.8.3)
+
+packages:
+  "@taplo/core@0.2.0":
+    resolution:
+      {
+        integrity: sha512-r8bl54Zj1In3QLkiW/ex694bVzpPJ9EhwqT9xkcUVODnVUGirdB1JTsmiIv0o1uwqZiwhi8xNnTOQBRQCpizrQ==
+      }
+
+  "@taplo/lib@0.5.0":
+    resolution:
+      {
+        integrity: sha512-+xIqpQXJco3T+VGaTTwmhxLa51qpkQxCjRwezjFZgr+l21ExlywJFcDfTrNmL6lG6tqb0h8GyJKO3UPGPtSCWg==
+      }
+
+  dot-properties@1.1.1:
+    resolution:
+      {
+        integrity: sha512-2Pog+JtvYuFFmV9Dm1VA1yphW7DYyn41MHLhnzuviUlLFbRF2uxmh8sE+IbhcgogcUcmtmpzHzzebmeT7YEAXA==
+      }
+
+  prettier-plugin-properties@0.3.1:
+    resolution:
+      {
+        integrity: sha512-TE85dg+1ED7Dnz8lJqrlT9qXh7EKftrvmZgXwRC6jYT0/Ru2MlGkmvLDRUwoAGNaDCn8ijNjw0T33q6nVXgQ4Q==
+      }
+    peerDependencies:
+      prettier: ">= 2.3.0"
+
+  prettier-plugin-toml@2.0.6:
+    resolution:
+      {
+        integrity: sha512-12N/wBuHa9jd/KVy9pRP20NMKxQfQLMseQCt66lIbLaPLItvGUcSIryE1eZZMJ7loSws6Ig3M2Elc2EreNh76w==
+      }
+    engines: { node: ">=16.0.0" }
+    peerDependencies:
+      prettier: ^3.0.3
+
+  prettier@3.8.3:
+    resolution:
+      {
+        integrity: sha512-7igPTM53cGHMW8xWuVTydi2KO233VFiTNyF5hLJqpilHfmn8C8gPf+PS7dUT64YcXFbiMGZxS9pCSxL/Dxm/Jw==
+      }
+    engines: { node: ">=14" }
+    hasBin: true
+
+snapshots:
+  "@taplo/core@0.2.0": {}
+
+  "@taplo/lib@0.5.0":
+    dependencies:
+      "@taplo/core": 0.2.0
+
+  dot-properties@1.1.1: {}
+
+  prettier-plugin-properties@0.3.1(prettier@3.8.3):
+    dependencies:
+      dot-properties: 1.1.1
+      prettier: 3.8.3
+
+  prettier-plugin-toml@2.0.6(prettier@3.8.3):
+    dependencies:
+      "@taplo/lib": 0.5.0
+      prettier: 3.8.3
+
+  prettier@3.8.3: {}
