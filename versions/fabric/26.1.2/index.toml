@@ -114,6 +114,11 @@ hash = "b0ee602e15644fb8c5a3c49e3decbf5453c2e7ae9473f5b249f65cbcf9a1a944"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "c2f7894f6710a7d6f5579d4272324a7533f83c75c47a2117ac90a7b4b7bfbd19"
+metafile = true
+
+[[files]]
 file = "mods/cull-fewer-leaves.pw.toml"
 hash = "48b7006d6efb70e924d404d2c598b66f178ba04d04350172915bb7a41ecca9b1"
 metafile = true
@@ -146,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "93be568ffd5908e1991054d273d0d008204afe55a53714bff471719d32dcbb5d"
+metafile = true
+
+[[files]]
+file = "mods/esf.pw.toml"
+hash = "64910f41d4601943c46587c4f9d1c6a01653e7eaf0222d40ee22e8378157f4f3"
 metafile = true
 
 [[files]]
