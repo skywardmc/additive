@@ -85,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/cape-provider.pw.toml"
-hash = "9a1cde499d2e02d8e2fefe3145284f6a66c23745845e5f33b8c3e5fbc6e0d711"
+hash = "b4cfd65678e2d07489b41aefc2e126baad29deb4b7e093cbb2116b3c45caa60d"
 metafile = true
 
 [[files]]
