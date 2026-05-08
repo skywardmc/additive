@@ -139,6 +139,11 @@ hash = "22a4393b10d352d054bc13e1992d36c652f96d4e0dea28460b060afd0a372bd7"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "db13dae82b68302f3c545fa4893e21086e8809d4b01f3f1c7561309041101b4d"
+metafile = true
+
+[[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "93be568ffd5908e1991054d273d0d008204afe55a53714bff471719d32dcbb5d"
 metafile = true
