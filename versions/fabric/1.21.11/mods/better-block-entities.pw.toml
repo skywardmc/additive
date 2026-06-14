@@ -1,13 +1,13 @@
 name = "Better Block Entities"
-filename = "bbe-fabric-1.3.3+mc1.21.11.jar"
+filename = "bbe-fabric-1.3.4+mc1.21.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ONZm0H7Y/versions/b9BHiHB0/bbe-fabric-1.3.3%2Bmc1.21.11.jar"
+url = "https://cdn.modrinth.com/data/ONZm0H7Y/versions/VTUyYQyY/bbe-fabric-1.3.4%2Bmc1.21.11.jar"
 hash-format = "sha512"
-hash = "d9ff21d40478e04c28b296230a8c690b13155f60b5f66f158aa08fe3505891da5c82aae7449132171cc78a5b2ce9a9de382c77f129b3ecf101a96bd1d3f36951"
+hash = "1c8a513af8d9694cf9c41765cb8359aa3680ba9a1b8806d99c472ae325597db2c493a0389e602e3cf07b33c938b35012192504d5775c9cd3f308ab8c16376280"
 
 [update]
 [update.modrinth]
 mod-id = "ONZm0H7Y"
-version = "b9BHiHB0"
+version = "VTUyYQyY"
