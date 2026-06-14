@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "d147ee0fae53eb7ce034fe800d33d3dd15f1024eab3ca6d2b2ef9dbb86ec996c"
+hash = "645be5d20d755e83c986014b768abbf473d3bf31da5dcd197af63c8b200cc141"
 metafile = true
 
 [[files]]

@@ -1,6 +1,6 @@
 name = "ScalableLux"
 filename = "ScalableLux-0.1.6+fabric.c25518a-all.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Ps1zyz6x/versions/PV9KcrYQ/ScalableLux-0.1.6%2Bfabric.c25518a-all.jar"
