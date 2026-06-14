@@ -1,6 +1,6 @@
 name = "Starlight (Fabric)"
 filename = "starlight-1.1.2+fabric.dbc156f.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/H8CaAYZC/versions/XGIsoVGT/starlight-1.1.2%2Bfabric.dbc156f.jar"
