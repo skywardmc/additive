@@ -289,6 +289,11 @@ hash = "b4c4f1163795d12bb392a2645b886b6afc6e7b3e4d28af4968a6ca0c74fcb606"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "4931a48b30837607a36b0cc7a2d40b32c83a4f7f02bf8a16dbf553e8bba7e0ab"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
 metafile = true
@@ -311,6 +316,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "6747f2e71e6d9ae5b6c4aea899f6af5fbbb612aac8c9bbb45990463826af3398"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "8496ee9e0b2f4d50c9c9d757b8d3b6ba3889dbf42a6333bd2b3efa44a989c034"
 metafile = true
 
 [[files]]

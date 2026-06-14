@@ -317,6 +317,11 @@ hash = "0f9916dcded3aac68d56113e9617bbe3db5ec9036bd9bba784bc40a961b0c9f0"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "77a658a9d9cec5037136b95c42d1dff26dbf4010f17ecb2116bebf69178a03ba"
+metafile = true
+
+[[files]]
 file = "mods/servercore.pw.toml"
 hash = "0201eb8dce1b66107457141c16049d6ffaf952f506b4e37129a4b4a1b8e12b1c"
 metafile = true
@@ -334,6 +339,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "98553c2d49ef3a888954f24b7c49fe3442c01fd4fc1f1ed52c5898ed29d29d3b"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "7d9d9e111901be076bcf1e7eaaaf7b7b74a09a9fe573ffee423a57057b0b02af"
 metafile = true
 
 [[files]]
