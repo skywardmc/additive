@@ -204,6 +204,11 @@ hash = "9e7bacd24307639764f3b74ae35a562b6becf2701637b816de0eaae15ab714c0"
 metafile = true
 
 [[files]]
+file = "mods/immersive-optimization.pw.toml"
+hash = "29f8ec9100df1f57aed62201f7dfb37d0f7e614ec1446c831a7174e2ad66b4f1"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "5127c58dc92fe8860d29ad2d05e7c2ea7b973390f41aec73dd2017953f2d1a3e"
 metafile = true
