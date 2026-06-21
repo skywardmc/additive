@@ -147,11 +147,6 @@ hash = "71644e8041262193332f28d24b649c06c81074a983c6e3acd18b62a117b68b60"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
-metafile = true
-
-[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "65c4754081efdfa32071560e11c8016acdf712b6b82e4b263b3cf414477d0fdc"
 metafile = true
@@ -284,6 +279,11 @@ metafile = true
 [[files]]
 file = "mods/nuit.pw.toml"
 hash = "421b6b05164e623dc65e0e4133fc484fb3b87b26b040ad4b2ffb239491d8bb2d"
+metafile = true
+
+[[files]]
+file = "mods/obe.pw.toml"
+hash = "0704b8ac961026eca017486553b2f00acaf4fcc5efedb95137d8fa5d240f1382"
 metafile = true
 
 [[files]]
