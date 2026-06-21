@@ -1,13 +1,13 @@
 name = "e4mc"
-filename = "e4mc-fabric-6.1.2.jar"
+filename = "e4mc-fabric-6.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/W2zCn5TY/e4mc-fabric-6.1.2.jar"
+url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/pS69vPZg/e4mc-fabric-6.2.0.jar"
 hash-format = "sha512"
-hash = "9a66d427e6ee05c046da9b325298487e95ccbc1b4fa77d3645c463f79911edb239a0ae5d602f7055918e2ced1e166e4010d8c0c5a5601c018b9f478019032ba5"
+hash = "d1568fc9086706552edc5b292f776d6ec6267817c66027599d765fa34c84250f71765ff1a713c53c3a30ec40f3836ccf428e93319006798dadba455f39c881ed"
 
 [update]
 [update.modrinth]
 mod-id = "qANg5Jrr"
-version = "W2zCn5TY"
+version = "pS69vPZg"

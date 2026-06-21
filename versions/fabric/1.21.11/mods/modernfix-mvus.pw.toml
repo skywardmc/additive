@@ -1,13 +1,13 @@
 name = "ModernFix-mVUS"
-filename = "modernfix-5.26.2-build.1.jar"
+filename = "modernfix-5.26.3-build.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TjSm1wrD/versions/6q6pkhVP/modernfix-5.26.2-build.1.jar"
+url = "https://cdn.modrinth.com/data/TjSm1wrD/versions/yPCwXBn8/modernfix-5.26.3-build.1.jar"
 hash-format = "sha512"
-hash = "d57be559b6d2ee802df3617a7d44586f690db27998cfc04f195ec645a754a9be9fcd7e824313671711b0e318720f39f0e96db46727a21ff17b4fa3187fbdf399"
+hash = "d9e4b6dff0f9039651ae2b1e0d5a61e6ae37781416b6340844cd8e04da5f6469524e3feb9b3c9445fbd8ff4d9a1be939b4cacc07eef6152de87df39530f2f90d"
 
 [update]
 [update.modrinth]
 mod-id = "TjSm1wrD"
-version = "6q6pkhVP"
+version = "yPCwXBn8"
