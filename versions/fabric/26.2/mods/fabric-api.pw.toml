@@ -1,0 +1,13 @@
+name = "Fabric API"
+filename = "fabric-api-0.152.2+26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P7dR8mSH/versions/vodPC30d/fabric-api-0.152.2%2B26.2.jar"
+hash-format = "sha512"
+hash = "9a2619168ee55e5ba0473efcd9c765b668ffa0e3a0cd858e877fff42fe68f9644c9ec3222c73e5734c59fc2cbb0ea01f3ba976ca7a2f009872c9c0885da4a713"
+
+[update]
+[update.modrinth]
+mod-id = "P7dR8mSH"
+version = "vodPC30d"

@@ -1,0 +1,13 @@
+name = "Mod Menu"
+filename = "modmenu-20.0.0-beta.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/dTGuPZ91/modmenu-20.0.0-beta.3.jar"
+hash-format = "sha512"
+hash = "a40a9456133ec9bf78235629a05980b36206306d23b288730d9f5af7df64bfb4b117eac2549a6390fe2fb652a8704a98d98b084475d729e2b3195443fa44b52f"
+
+[update]
+[update.modrinth]
+mod-id = "mOgUt4GM"
+version = "dTGuPZ91"
