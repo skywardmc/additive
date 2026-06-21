@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/calcmod.pw.toml"
-hash = "3a7997105396e8e8b46c7bd8f4cf75f74dd199c170a46d54ad602c414a3f948f"
+hash = "84808257e0cb3880497c415ba1cbc80781dca9339fbab08235dd0bfef290278b"
 metafile = true
 
 [[files]]
@@ -310,7 +310,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "a699bfe2548067cd28d4a95d2c89a1d1ffa54fd5d90c19419f9037a8d6bf015a"
+hash = "e785257258e2811dc4488da78ae8311a249b22c3bdba92b4d6ce5d5ef48939b7"
 metafile = true
 
 [[files]]
