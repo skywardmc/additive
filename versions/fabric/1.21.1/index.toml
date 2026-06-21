@@ -25,6 +25,10 @@ file = "config/modpack_defaults/config/dynamic_fps.json"
 hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
 
 [[files]]
+file = "config/modpack_defaults/config/enhanced_bes.properties"
+hash = "ef55a85f0905e41d93de2b7e53266d393bf58f43917d9b15ea8f66b757a5996d"
+
+[[files]]
 file = "config/modpack_defaults/config/fastquit.toml"
 hash = "4c7872ece540160831d0c17e505336ffa2fba0748f3f32f137af1958272e200c"
 
@@ -135,6 +139,11 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "1de39da04f5e8ab4595f4c2cd36710bc29a661311c5616e6af6af270d2506aed"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
 metafile = true
 
 [[files]]
@@ -265,11 +274,6 @@ metafile = true
 [[files]]
 file = "mods/nuit.pw.toml"
 hash = "0846c709603ff778d27f6afe12caa9fedf0648b7d7182a969fd08fe6432b5cc9"
-metafile = true
-
-[[files]]
-file = "mods/obe.pw.toml"
-hash = "878ac462b87b2d1ce74b190571ae3c14e580a8bcc6085834613787d064aac3fd"
 metafile = true
 
 [[files]]
