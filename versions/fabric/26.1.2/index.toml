@@ -69,6 +69,11 @@ file = "config/modpack_defaults/options.txt"
 hash = "5f7a76da45c11e03698f375bd3612d57a729a09f604f21d8bc647d069eaf0c7f"
 
 [[files]]
+file = "mods/animaticarefabricated.pw.toml"
+hash = "f41ad1ae9062bffcc37a34c5f637c0bf6269c1cc92b3477fe05488fb80b5d2e4"
+metafile = true
+
+[[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "809cc13566b4d083a5c6242dafd94c14a65aecab3a8c28933bcbffef38bd9a79"
 metafile = true

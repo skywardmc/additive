@@ -69,8 +69,8 @@ file = "config/modpack_defaults/options.txt"
 hash = "5f7a76da45c11e03698f375bd3612d57a729a09f604f21d8bc647d069eaf0c7f"
 
 [[files]]
-file = "mods/animatica.pw.toml"
-hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
+file = "mods/animaticarefabricated.pw.toml"
+hash = "8e3a4e5d87dbfc3b08ba024d2297d4d745ab73c7d74684bc93cdc0ac55318868"
 metafile = true
 
 [[files]]
