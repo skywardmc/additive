@@ -1,13 +1,13 @@
 name = "RenderScale"
-filename = "renderscale-1.4.0-alpha.3-fabric+1.21.11.jar"
+filename = "renderscale-1.4.0-alpha.4-fabric+1.21.11.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Va8PJBFX/versions/jAG9jQmS/renderscale-1.4.0-alpha.3-fabric%2B1.21.11.jar"
+url = "https://cdn.modrinth.com/data/Va8PJBFX/versions/e5ZPKfY7/renderscale-1.4.0-alpha.4-fabric%2B1.21.11.jar"
 hash-format = "sha512"
-hash = "96fe035385650252401f6b98f380e868a185888a2a00c3962ef97cfd339f34f2b28ee12a1692d18bc1fc7d2d76439b0b1fbe4f7b39dd95c641d42d8d17a4cf61"
+hash = "e110d47315f1365faa1d796cff6de97b279c0b5edcfe8418cdae4dca107f990f6a3422c4a5181a428980293cea03b94cc1f516b118409d0b1f83e66e2011da8f"
 
 [update]
 [update.modrinth]
 mod-id = "Va8PJBFX"
-version = "jAG9jQmS"
+version = "e5ZPKfY7"

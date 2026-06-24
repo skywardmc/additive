@@ -1,0 +1,13 @@
+name = "Optimized Block Entities"
+filename = "obe+1.21.1-1.1.12.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AtOSAunf/versions/taxKexbG/obe%2B1.21.1-1.1.12.jar"
+hash-format = "sha512"
+hash = "01bdcc394acf97427b05bf80f9474849c2b6213091af38db386f2d0c7ad5d15167ff9c05b5c68f92d4d487cf60ca89c32a57a791d887c3d92ca1a9df816b4441"
+
+[update]
+[update.modrinth]
+mod-id = "AtOSAunf"
+version = "taxKexbG"

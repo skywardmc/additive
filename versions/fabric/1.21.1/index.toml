@@ -25,10 +25,6 @@ file = "config/modpack_defaults/config/dynamic_fps.json"
 hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
 
 [[files]]
-file = "config/modpack_defaults/config/enhanced_bes.properties"
-hash = "ef55a85f0905e41d93de2b7e53266d393bf58f43917d9b15ea8f66b757a5996d"
-
-[[files]]
 file = "config/modpack_defaults/config/fastquit.toml"
 hash = "4c7872ece540160831d0c17e505336ffa2fba0748f3f32f137af1958272e200c"
 
@@ -83,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "df4cedc4d44d7fe5b5fccdb38dfea506a0599700de1666f7936545cbaac4392e"
+hash = "3a52ad17be6e8227977836efeccedd724a21f65e8b82f1bcae56702ea06217b7"
 metafile = true
 
 [[files]]
@@ -139,11 +135,6 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "1de39da04f5e8ab4595f4c2cd36710bc29a661311c5616e6af6af270d2506aed"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "b1f89407254a20cde6c60994a6315bd841b7f562669a1d29b436ec97463ff2ae"
 metafile = true
 
 [[files]]
@@ -213,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "b638186285073f2daf8a133460fe9edeb576cb06f74e73f4fc2756607cf07110"
+hash = "364e3a776803353e433c6fc9b9f8961ce32225da9503261c29f4a3b51d4a8656"
 metafile = true
 
 [[files]]
@@ -243,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "660261eedaaf2fe6a8b301ead93d1ea84cacc32236baa806f510c3998dd0bf86"
+hash = "478081de97d4987a2aca06cf0c17880bf37faa71c3adf40ca698f83ce606ca97"
 metafile = true
 
 [[files]]
@@ -277,6 +268,11 @@ hash = "0846c709603ff778d27f6afe12caa9fedf0648b7d7182a969fd08fe6432b5cc9"
 metafile = true
 
 [[files]]
+file = "mods/obe.pw.toml"
+hash = "9e76252ac9e577f79598c7bc124b6f3f24cbc9ca6b86dd157d704731348ea133"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "6f45c3f2ec9005b18846088784d291f4dabcce7b569031fb44855845a33aa8f7"
 metafile = true
@@ -288,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "28b09e5e635458e321912698ae67b0f2ce06a87b0674edfdcebd95ea8b16dee8"
+hash = "f5b2f4c9383c477f9ff09b1b7fbb9d4644ba45af3f06adce348a35b69d80be6b"
 metafile = true
 
 [[files]]
@@ -368,5 +364,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "ad0a641c592db6d4092faf328048197b9affbfa359a0e0e6f253ba7926814da5"
+hash = "3a34b65d2856f4f75023f02b712583472b3c0e7444b71da3ace465ef389af7d2"
 metafile = true

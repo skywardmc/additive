@@ -214,7 +214,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "b9706c6ff4b39cadf6ee32900be7c21cd37518b6c76365987c3074539901d8ef"
+hash = "afd8124610f1a4a137064eaf4d9b4d1164912d53adfc22728f0d16b869f59b57"
 metafile = true
 
 [[files]]
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/macos-input-fixes.pw.toml"
-hash = "660261eedaaf2fe6a8b301ead93d1ea84cacc32236baa806f510c3998dd0bf86"
+hash = "478081de97d4987a2aca06cf0c17880bf37faa71c3adf40ca698f83ce606ca97"
 metafile = true
 
 [[files]]
@@ -279,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "67b6fdc33e6e3ae928b088e89a38ead2fb731e2e48e2090e6c4eb5f641d457d2"
+hash = "a4e4b1dbaa89ac2d21d6b21b5d0fb0970cfc0c08707aa9a74091bcfab385155d"
 metafile = true
 
 [[files]]
