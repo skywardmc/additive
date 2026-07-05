@@ -1,13 +1,13 @@
 name = "ScalableLux"
-filename = "ScalableLux-0.2.1+fabric.2b08348-all.jar"
+filename = "ScalableLux-fabric-0.3.0-alpha.0.2-all.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ps1zyz6x/versions/FuGn0NlI/ScalableLux-0.2.1%2Bfabric.2b08348-all.jar"
+url = "https://cdn.modrinth.com/data/Ps1zyz6x/versions/Od3oPrei/ScalableLux-fabric-0.3.0-alpha.0.2-all.jar"
 hash-format = "sha512"
-hash = "46cc3df58ad2723fb7f925da0e380e22481e15ceb0e61fbd7947f48d2902e7a67ae4d2d22df4faab4e3140ccf79aa9f59d91ec9959bd6e2afbf0fb90970a02fc"
+hash = "8a3fc97b9c5c263e2858f38d31dd510afc919bdf65b91169bd0d5a1664db982129a98f773a1273d0e4b0763ddc2e889d19fbdf4921b5dcc456c046c3f90615f6"
 
 [update]
 [update.modrinth]
 mod-id = "Ps1zyz6x"
-version = "FuGn0NlI"
+version = "Od3oPrei"

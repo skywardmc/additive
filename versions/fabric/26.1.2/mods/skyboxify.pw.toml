@@ -1,13 +1,13 @@
 name = "Skyboxify"
-filename = "skyboxify-3.0+26.1.2-fabric.jar"
+filename = "skyboxify-3.1+26.1.2-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/DWuwk8aA/versions/155aNHjT/skyboxify-3.0%2B26.1.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/DWuwk8aA/versions/D42TqRVw/skyboxify-3.1%2B26.1.2-fabric.jar"
 hash-format = "sha512"
-hash = "7a21a6af2244d65b322136ba27ff77a242297b179d7b92873173cc6d2394368d3fb2456160791630e5afbd8ecbc340cf5a995746407ec12fbd08104329e4b4a4"
+hash = "e3326d6f09a9ff8a682e39fb3b1198728c48f14de431d676606112fd642f50997231ab6301a3196a5531eeac80f201590eab00de07da4045d31c93d89d2d65b2"
 
 [update]
 [update.modrinth]
 mod-id = "DWuwk8aA"
-version = "155aNHjT"
+version = "D42TqRVw"

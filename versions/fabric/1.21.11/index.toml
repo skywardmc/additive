@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "de38678cac673678e29086b597329a5d80f5f99018d7f860ea8840df6a5b0a54"
+hash = "7f7a155dead8686793d0706d535f38f307a3554519fa7a720c2da2c95ca7adf6"
 metafile = true
 
 [[files]]
@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "9e7bacd24307639764f3b74ae35a562b6becf2701637b816de0eaae15ab714c0"
+hash = "9cb9fbb7431ed58a8bb7bf25d1b9fcc8706fc57400db7acffef06e25971552fa"
 metafile = true
 
 [[files]]
@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "e961f0b9a0ede7604e18be158928e7e784644416c4adb36fad79ef80e009a70b"
+hash = "8f6aa5b6696f0b540c53bb8ca209afb718336676ac84ab7c886220a310a3afbf"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "5d673e5a10f55cbdcb93fbd456dd27a6d2df3d8ba2f64f9d6751374826162f4c"
+hash = "e9eac6410eb4ec69120944ba168cc5725e698a5f48aa524740c505a8a5de5ed1"
 metafile = true
 
 [[files]]
@@ -305,17 +305,17 @@ metafile = true
 
 [[files]]
 file = "mods/skyboxify.pw.toml"
-hash = "60df30dbeb917412c435a6fba79e8d510e87b8c3e3bd0f57f22567bc202a539b"
+hash = "9a98d9f9465003b965a978e28b3ecd22bea878dab2d0649fa84f9a7bc77d189c"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "986e43ff06d2a79effec6e219aca063d7b53a98096c5f63983f23cf54c11c7e5"
+hash = "5008b709220bcfc7b41402bd7d8fe580edcc4168299f04746d2c596a809ec046"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "6fa3b94539d3b97477b160d3b552eae3945445cdc0dd243898d4316977e2ad43"
+hash = "b762f7010388dd7cb1f98ef316217952528a35fe818ff3a12be0975e3c9cf0e1"
 metafile = true
 
 [[files]]
