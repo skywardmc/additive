@@ -239,6 +239,16 @@ hash = "69bcefe6a20b41550fcdd8a3d881241006a784b1180cecd1dcfeb64999161da6"
 metafile = true
 
 [[files]]
+file = "mods/optigui.pw.toml"
+hash = "b962f94227f63b7330ec6de16b637aed463cbff0dd58c88dca5ba4180f6e71d1"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "160f083790c74c3feb6e6b42fe03ff9d85487ed533a76be907deeceaa56a6c3a"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "92b8b681374fa78077bbe9612ef5d44569f31985d78ebe8b664f6a985bf9cfee"
 metafile = true
