@@ -1,0 +1,13 @@
+name = "AsyncParticles"
+filename = "AsyncParticles-26.1.2.0-alpha.1+26.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/c3onkd5k/versions/p4BWcfrb/AsyncParticles-26.1.2.0-alpha.1%2B26.1.2.jar"
+hash-format = "sha512"
+hash = "3962608959badb902684254cc606ceba602594170e8d62fb3967e5f0a1c6207c08963e3e3a4ca49aec7b44e530f02c1105c163fe62631426d6a626f3970665a9"
+
+[update]
+[update.modrinth]
+mod-id = "c3onkd5k"
+version = "p4BWcfrb"
