@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "298bb7ba6652ce3664375e597c4a2e54510e840d22ac656fefc36096335c9202"
+hash = "032ed9d0cfe4b7b964a56d149a5d2487f6a77d5a5a2e47857bc25400a0619903"
 metafile = true
 
 [[files]]
@@ -105,12 +105,12 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "6aa10fc79473438fdb09361c93e4e6f13a9118ec571953950bb0c859e300b8ed"
+hash = "fea5aecbed30c502899eccfaba6c82e305da76e927cfd51412288895e3521037"
 metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "21e4dce3451c95fd24222d0563a8bf62ff621b82770a6aec07563dc462eb1303"
+hash = "351536a70297ee08b9e742eafe56f9c071b084623c87e671c6f6d3fad492a658"
 metafile = true
 
 [[files]]
@@ -160,12 +160,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3134dab02ee45b29c86d8ef5d7cd566088c570bc6901eec78a62b473319b9d07"
+hash = "fed9bdaac0173f3cab2692f538441afda1e2cd46c6f6363790b424c009e34e03"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
+hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
 metafile = true
 
 [[files]]
@@ -195,12 +195,12 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "51fa2c64e9cf2d5558a2f1e575960a0a9f9f27f73486d0d679c2bc695eb11026"
+hash = "41c95eea2813a8fe923ef8033f084cb264c610f549c97bb58db64734c9703c0c"
 metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "6a70c950e1f0952e6c7fabad2a7a146fa6d4a84892eae843ccb643b6701b15c8"
+hash = "f5bcb1eabd56bca59f89b7bee032562ba2d5da42f564a477cfebc48d85a9425b"
 metafile = true
 
 [[files]]
@@ -245,12 +245,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "42583eed7ccb599f10285e721c25bf3c8858ef7e0eb8e22aa8bf64a08d98a280"
+hash = "137f9f7268efee46f378498be772d7828ac77ba239294c7051a782c9f0ee56ae"
 metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "456ce305874b63a3673cc148a399318aec6797782b33c3dd180596c994dde145"
+hash = "5da6ddda05e8e874d2f1788f078a89566154537abaaa6c53a50d5fff2215f035"
 metafile = true
 
 [[files]]
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "98a2b93cdc60515ffefb50f5247ab9cfbacc06d3d8ca499326db5aa8007916b8"
+hash = "65276b34cd5a46fbc50f09764f465f98f141632c8da241da9963f56bcd0b3a10"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-pack.pw.toml"
-hash = "07adbf0de8f0e7d677b814ad8c770e5fd738719c15dd80f57bec4d6353d96709"
+hash = "20f4a864b16032908b4f9c47505a7422f01a5b969f200bf153cd06ff9b97ef34"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "ea57cf02ee51c57ed9c9b0fb42f12637d47e2e122eec8dbc34a8c4150bb4c952"
+hash = "80449d5aca8411de1cd373e9117fb4ff3962e902d023d651b134851883a05f6e"
 metafile = true
 
 [[files]]
@@ -300,17 +300,17 @@ metafile = true
 
 [[files]]
 file = "mods/skyboxify.pw.toml"
-hash = "94672357dcfd5ae3c8d2d1656b5338aa5dec644696db47ad09303f386e545087"
+hash = "952d75f26672b2429cf9ad7b6c19c048b88321d66730d4ba73fcd0fec2e392a9"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "546965f1ab52fc464c51e36c52305fef231837c22454d22447b8423e379502cd"
+hash = "76f0c3b0f97c781fab964ec383b5031d780814e63abe7c456354187deaafaae2"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e5278cc1dcda4fe789eaf05318fa5885f9f3412685f8ac231fe9a395409089e0"
+hash = "c75f5e9a285cf6195065ba85e73081990f990de6efc7e2262a6eafe12d3dc277"
 metafile = true
 
 [[files]]
@@ -325,12 +325,12 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "22487d2f86a7a14ca5b1a2c16eb25445578c68f4ec950d64ec2b67a7d1806255"
+hash = "3cc16353bd1e226ac3b4a93fc2beb6ccc3481613a924e222705ff6814cf74f57"
 metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "9a385daeacdfffd9d35d574346ca5df6bc5ecdafa3bb2f9d22c45cfbdd9d550a"
+hash = "44df674ce3ca4bf222f7449ccabe8743be337ed9fa715f4ae4d06e0652c8485c"
 metafile = true
 
 [[files]]

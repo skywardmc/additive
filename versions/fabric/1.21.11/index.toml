@@ -75,7 +75,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "7f7a155dead8686793d0706d535f38f307a3554519fa7a720c2da2c95ca7adf6"
+hash = "3d2fce19d393b65c5585bcb64952d2f07f9a2d63f8e34c79cf718affc452313e"
 metafile = true
 
 [[files]]
@@ -105,12 +105,12 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "7e29116fa3c6e6b95a2eb9beda81a3560cd0959a5c6e8dc2402332656699c147"
+hash = "d0bc64215faed22480ad95f1402d14256538a546f720e3899917cf0ce794bcc6"
 metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "61468c5fcf7a91563c5db1a6c100d885344d40156d0ef8f2851e01da57b68048"
+hash = "042f06ea0a472f05499196dc8447be528540e996b4dd1d8cefdb96ed85e4cdc0"
 metafile = true
 
 [[files]]
@@ -160,12 +160,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "2ccce9c28059ea90a5457771de06a69b0a2d1f06d48f8add48a38f1a2307da3c"
+hash = "2f5c506d2812eadb4cd6ce2286dc2aafe8a21046d2c1f584a75ca90ea5bd3eeb"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
+hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "48ad24e9cc714543b55180cba8945af9b3706217f4b39a113a92501739855db1"
+hash = "4f7bf268d190e2881fee00d933f716fa683768d912bbf44211c97f740444dbb0"
 metafile = true
 
 [[files]]
@@ -250,12 +250,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "c3069d6c3ef1d13c9ba064824777c4d74dd504cad358cb0b6f06f6266fc143c8"
+hash = "04161fe0dcb23469df8b66dba353592f0e5c4ea4f64b2f7a1636033ccdb9e351"
 metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "8f6aa5b6696f0b540c53bb8ca209afb718336676ac84ab7c886220a310a3afbf"
+hash = "fb36e2363676f06403773f5defb73e18c77b5735ae0e64dcf5a9f10fa6401836"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "e9eac6410eb4ec69120944ba168cc5725e698a5f48aa524740c505a8a5de5ed1"
+hash = "65b38a3366a25a8cd306a56bcbf0c2eb3798123babd8f066b968695c9d8a5ccb"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-pack.pw.toml"
-hash = "fc93ffab2817533b4bbbc8ac3e621097b7058f4a3dd72b7b3605034173fa04fd"
+hash = "e79f32edd2c6d376a2a6558403fe1ea588452b40f33874e9f7b9a27e2b62103d"
 metafile = true
 
 [[files]]
@@ -295,7 +295,7 @@ metafile = true
 
 [[files]]
 file = "mods/scalablelux.pw.toml"
-hash = "936e9028071f4e49ecd551aadab4c161f9a7143764b4cc89f8077296bd8645a6"
+hash = "720bb2b33170f46ae5cbde5ee0d00284c592eb1fdeb8ae2de19d02d26f5f03a6"
 metafile = true
 
 [[files]]
@@ -310,12 +310,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "5008b709220bcfc7b41402bd7d8fe580edcc4168299f04746d2c596a809ec046"
+hash = "3c5cbbf4755a6a7c0f4f61a243dc6198674f9e2e72faf7d30cc45a3bca3f28a8"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "6747f2e71e6d9ae5b6c4aea899f6af5fbbb612aac8c9bbb45990463826af3398"
+hash = "723a13737a51aa682f385ede7e4bfa925b1dfb435436ab2f69dc25c4be1b2c04"
 metafile = true
 
 [[files]]
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "4a3ec78067094f39fc81a3673d75ee40191dfd961f6ff960f6b967c6fd712d1b"
+hash = "056e352eaa8e2c3069997c0367772535f4f86a1da62d168803c1bc166edbef67"
 metafile = true
 
 [[files]]
