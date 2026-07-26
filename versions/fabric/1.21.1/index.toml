@@ -209,6 +209,16 @@ hash = "4f455a65a5328ca3ac068bd09d4d9f66b38f2f33aef9a084b7e7915df79d32b7"
 metafile = true
 
 [[files]]
+file = "mods/jasione.pw.toml"
+hash = "fe93a832e0d7f151815ddc0a53e2277f51143dcea45a29e0a8d2dc2604437789"
+metafile = true
+
+[[files]]
+file = "mods/kerria-opt.pw.toml"
+hash = "101d29680a0fbb8f56497372ffd06fe85491d14d8371ff5a2c876175dab70b59"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "2b699ec9fd674b493af0e52bc3ecbbdb3dc890a6d70f132dc146d5331c0d5b28"
 metafile = true

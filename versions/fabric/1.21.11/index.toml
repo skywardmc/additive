@@ -214,6 +214,11 @@ hash = "4f7bf268d190e2881fee00d933f716fa683768d912bbf44211c97f740444dbb0"
 metafile = true
 
 [[files]]
+file = "mods/jasione.pw.toml"
+hash = "fe93a832e0d7f151815ddc0a53e2277f51143dcea45a29e0a8d2dc2604437789"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "2fb4ce2695c9f6da2087a5e350f2e85ea419de153e18bc20bf38f0b540c7caba"
 metafile = true

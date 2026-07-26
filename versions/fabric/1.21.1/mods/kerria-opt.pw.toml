@@ -1,0 +1,13 @@
+name = "Kerria"
+filename = "Kerria-1.3.2+1.21.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/f0ruQTF7/versions/JGDoVXCY/Kerria-1.3.2%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "8ca1a4fa11b6a658c454dea1e8a7a3a8784e2b8b357f9a87e3c922bbe923fa897c1f9f126aae4ac4d7e369e7ff6741ba53687e67a800a6c03e597c566ae64700"
+
+[update]
+[update.modrinth]
+mod-id = "f0ruQTF7"
+version = "JGDoVXCY"
