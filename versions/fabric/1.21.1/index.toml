@@ -21,10 +21,6 @@ file = "config/modpack_defaults/config/crash_assistant/config.toml"
 hash = "8f422c3e4c8b45e7a5de9895043b30d61ecac117991c8f521fcf7d6d8062a5d0"
 
 [[files]]
-file = "config/modpack_defaults/config/cull-less-leaves.json"
-hash = "ec31fff3a58d804f6c89857469888ac02df536e5e78bd35f5c97c0651b8b66ad"
-
-[[files]]
 file = "config/modpack_defaults/config/dynamic_fps.json"
 hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
 
@@ -130,11 +126,6 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "7797b4dcd9c68b4555caf2629b0bff76f234ae04e8b42956e95ce2c65807049e"
-metafile = true
-
-[[files]]
-file = "mods/cull-less-leaves.pw.toml"
-hash = "e4a437ed5c3f631fd4787e6ad4d61295654aba9d07528a5b692b8e917221ea0d"
 metafile = true
 
 [[files]]
