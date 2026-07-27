@@ -223,11 +223,6 @@ hash = "f79e3bcc454b880352499fa676ac641fff89aef7b6b1a91593e3cb23c1bae62a"
 metafile = true
 
 [[files]]
-file = "mods/jasione.pw.toml"
-hash = "6a7cd16ef43441ebd614c3b5db2fb00658cdae108effa34cde7cba83043feaa0"
-metafile = true
-
-[[files]]
 file = "mods/kerria-opt.pw.toml"
 hash = "0aae6815cb51e2300c13fc1d0d39b31f0cb8027d49c5d5504d2cfeedf65c2ffb"
 metafile = true
