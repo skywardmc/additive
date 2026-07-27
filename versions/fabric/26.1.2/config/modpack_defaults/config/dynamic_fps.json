@@ -4,7 +4,7 @@
 			"volume_multipliers": {
 				"master": 1.0
 			},
-			"frame_rate_target": 2
+			"frame_rate_target": 10
 		},
 		"invisible": {
 			"volume_multipliers": {

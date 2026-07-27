@@ -22,7 +22,7 @@ hash = "8f422c3e4c8b45e7a5de9895043b30d61ecac117991c8f521fcf7d6d8062a5d0"
 
 [[files]]
 file = "config/modpack_defaults/config/dynamic_fps.json"
-hash = "4aab6ffc7d48092933083ce1a883ec72827dd6da1ccaae6852154b3e4eaead5d"
+hash = "fca3b803240f9a7057fd8f46f1884e70e81a56c363b1bb787cf12d140c3fed90"
 
 [[files]]
 file = "config/modpack_defaults/config/fastquit.toml"
