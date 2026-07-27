@@ -80,7 +80,7 @@ metafile = true
 
 [[files]]
 file = "mods/asyncparticles.pw.toml"
-hash = "965c90ac4b9fdd682ff017e6d193194236992cc30408e27d82a504bd4a1503b3"
+hash = "eada3c3ef251f12c127e9948a62a279f5d62be6ed8996a8c74ec19a7d8a71b4a"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "afad4286ad32eaeea9b86685d267c1d63da000404f8aff16f1c589ca5ce8a75a"
+hash = "926f9622ae1d4c67cf7abc14934541fcd02028f90f44ba778490ffb246debbaa"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "81ed65fc9bad0d8a01599f976e30606edbb5200f863d1bd55b96128c6f036cde"
+hash = "e8f3ab9ca9b83d6d8417bd6ba95908aada01d25f909286712bfec071f600681a"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "ce401883b05c014d67fa3040187fcb1e0f0accd50bfe48fe53b59aa304748bdc"
+hash = "4ba8d9034987370f6a68c3434a19f3828a21d6000e883fd1b986f888721d000e"
 metafile = true
 
 [[files]]

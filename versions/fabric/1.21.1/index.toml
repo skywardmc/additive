@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "4f455a65a5328ca3ac068bd09d4d9f66b38f2f33aef9a084b7e7915df79d32b7"
+hash = "8fb5eec45923b027e8adea1a4a71ea70ba527105a9fa0f69655c0fd85c0d658a"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "3cff2b45c3640be4e647849133dfa867798db181c99c2fe8750fee57831c4de3"
+hash = "0ad9c34e9a6831a3a5c8401d9b48204b79037f57f6418bde2063c90afdc02e87"
 metafile = true
 
 [[files]]

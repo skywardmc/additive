@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "fea5aecbed30c502899eccfaba6c82e305da76e927cfd51412288895e3521037"
+hash = "eac1a1d12e41c0af949e794133c5d12811acd4924263ce98e3444b437e249dc1"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "f5bcb1eabd56bca59f89b7bee032562ba2d5da42f564a477cfebc48d85a9425b"
+hash = "e52e00c36bf402ba49b18347028c06a8c74cedf56ef6dc1502a06975e3abcda1"
 metafile = true
 
 [[files]]
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "44df674ce3ca4bf222f7449ccabe8743be337ed9fa715f4ae4d06e0652c8485c"
+hash = "4ee577cb1754177f06bde2bdfe99cb6320251d2b9f87400dbb586e87286c8ba3"
 metafile = true
 
 [[files]]

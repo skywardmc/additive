@@ -1,13 +1,13 @@
 name = "Controlify (Controller support)"
-filename = "controlify-3.1.1+mc26.2-universal.jar"
+filename = "controlify-3.1.2+mc26.2-universal.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/3Z0RNraJ/controlify-3.1.1%2Bmc26.2-universal.jar"
+url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/ww7bBOmX/controlify-3.1.2%2Bmc26.2-universal.jar"
 hash-format = "sha512"
-hash = "6d857dfec6f3caabdce73d57d83a325cd4e793f58da961e4391d114efaa3609502d355aae2b41414f2436d1a62465328b57c27f6f25572324b1a55e7476b44a7"
+hash = "4135af772e9d89f2f126f2a86e38307b5793ecce6a6fbd1aa35b1a5ac8b77e732741c88d31aadd823086901202e522987c76091169026090f226ac8eb7b1a93f"
 
 [update]
 [update.modrinth]
 mod-id = "DOUdJVEm"
-version = "3Z0RNraJ"
+version = "ww7bBOmX"
