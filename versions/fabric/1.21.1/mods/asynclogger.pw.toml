@@ -1,0 +1,13 @@
+name = "Async Logger"
+filename = "asynclogger-2.2.1+1.20.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zvNzKfGF/versions/2HCbK9wC/asynclogger-2.2.1%2B1.20.1-fabric.jar"
+hash-format = "sha512"
+hash = "21642975e9442f54d69f0d1ded978c65387979ae6a8e49d6e72964dd6e95c7a52ed6072d31758381a2ba0c4a134d7f5c7188c6e0d9ed0d6c8d688753bc61f35e"
+
+[update]
+[update.modrinth]
+mod-id = "zvNzKfGF"
+version = "2HCbK9wC"
