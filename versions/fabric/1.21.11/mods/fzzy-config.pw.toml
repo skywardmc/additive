@@ -1,0 +1,13 @@
+name = "Fzzy Config"
+filename = "fzzy_config-0.7.6+1.21.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hYykXjDp/versions/nSB6xGOS/fzzy_config-0.7.6%2B1.21.11.jar"
+hash-format = "sha512"
+hash = "cdd43ee1ae99838b05b87d186ee8c3c051fda1388456d5ca88bb03e8e445722421cb6b8f9c9a6c4bd0f111ddccf526a8373d7c3cab5edd0f5da1190a787bdf88"
+
+[update]
+[update.modrinth]
+mod-id = "hYykXjDp"
+version = "nSB6xGOS"

@@ -79,11 +79,6 @@ hash = "d2efdd2dd469e56d9437082a52d6d8d9f9c4b055ad3b728dded4c49d4ba5267a"
 metafile = true
 
 [[files]]
-file = "mods/asyncparticles.pw.toml"
-hash = "e68a8f42735f487cfe40419b719b3fd59e1698661949a76bbcbfb53c42295908"
-metafile = true
-
-[[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "6d0e4579750e9cbae8489a3a3256187c698a140496d29fa849d2aaa4ffa53cf4"
 metafile = true
@@ -199,6 +194,11 @@ hash = "9c58c6f6299c9ab982847248be076b6840df69ce6b647a2a18e81d9a1cbeaf19"
 metafile = true
 
 [[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "dce0df1d0cb1a7f05811ba502f3a3de0458e0c5154f1b72ae493a339f3866083"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "a3a9ecc2b89b53f90ed6c2101e24baa9343827134e8f0468826d2e028976e01c"
 metafile = true
@@ -281,6 +281,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "6f45c3f2ec9005b18846088784d291f4dabcce7b569031fb44855845a33aa8f7"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "97156c7cbfd94c3f457f5ef89ab65f1b963b1559f98fd3923ab40cf8cc21a905"
 metafile = true
 
 [[files]]
