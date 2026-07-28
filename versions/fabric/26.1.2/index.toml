@@ -115,7 +115,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "eac1a1d12e41c0af949e794133c5d12811acd4924263ce98e3444b437e249dc1"
+hash = "49088af35eeece13e24e4ce43d68258376d974044d3903f35ea2b794846aa824"
 metafile = true
 
 [[files]]
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "8c6dd9c87e48d3faad808d0dfdf7c7104bca4e174d2c5453b16fd74d327757fb"
+hash = "89e01e31bfb003be8675d0682011cb1735d20325e7974e98e35950336f5036f2"
 metafile = true
 
 [[files]]
