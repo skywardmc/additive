@@ -51,4 +51,9 @@ jobs:
             git commit -m 'ci: packwiz refresh --build'
           fi
 
-          git push origin dist
+          if [ "$GITHUB_REF_TYPE" = tag ]; then
+            git tag "dist/$GITHUB_REF_NAME"
+            git push origin dist "dist/$GITHUB_REF_NAME"
+          else
+            git push origin dist
+          fi
