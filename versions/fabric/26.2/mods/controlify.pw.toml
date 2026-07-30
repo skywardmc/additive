@@ -1,0 +1,13 @@
+name = "Controlify (Controller support)"
+filename = "controlify-3.2.0+mc26.2-universal.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/OF7sqGiR/controlify-3.2.0%2Bmc26.2-universal.jar"
+hash-format = "sha512"
+hash = "368d4646b4fe204e9016640e14fa44887698a605f9a986ba174da0f8faccbca92d572f765f400eae6e2595625a95fa91aa901ee18c16b136824f5a47e5da04ed"
+
+[update]
+[update.modrinth]
+mod-id = "DOUdJVEm"
+version = "OF7sqGiR"

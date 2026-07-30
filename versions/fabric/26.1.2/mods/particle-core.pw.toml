@@ -1,0 +1,13 @@
+name = "Particle Core"
+filename = "particle_core-0.3.2+26.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RSeLon5O/versions/EkGqhJyz/particle_core-0.3.2%2B26.1.jar"
+hash-format = "sha512"
+hash = "871a6f289d3b599f973ba121306d51811dbeb1a42bb800d4cd3cb00c8d41bd7f47d0694eb5ea8f67b82e466d74dcb0901482b08cabafacdb814e97294c0e746c"
+
+[update]
+[update.modrinth]
+mod-id = "RSeLon5O"
+version = "EkGqhJyz"

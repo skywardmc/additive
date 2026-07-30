@@ -1,0 +1,2 @@
+simulationDistance:8
+resourcePacks:["vanilla","fabric","file/Chat Reporting Helper.zip"]

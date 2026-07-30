@@ -1,0 +1,13 @@
+name = "Language Reload"
+filename = "language-reload-1.7.5+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/UmzbPud1/language-reload-1.7.5%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "ae9a1340b125b50008217e0a8a1a8131a5e0432ecbf33629eea51482737ba17b4e710329dfa3aab70caa034ea7d97a4ee231e1fd6cf252a721fdbc7b4a149cb7"
+
+[update]
+[update.modrinth]
+mod-id = "uLbm7CG6"
+version = "UmzbPud1"

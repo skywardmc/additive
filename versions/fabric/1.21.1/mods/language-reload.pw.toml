@@ -1,0 +1,13 @@
+name = "Language Reload"
+filename = "language-reload-1.7.6+1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uLbm7CG6/versions/lLMGPiZe/language-reload-1.7.6%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "39dfb0490a26baea1f79e0e86116f89ff85213df1e528c2727ea84c64f6e6b889817089d5faa4b15a4648393787ec5305b96eed29ce506d9129aa4b7a50b66b1"
+
+[update]
+[update.modrinth]
+mod-id = "uLbm7CG6"
+version = "lLMGPiZe"

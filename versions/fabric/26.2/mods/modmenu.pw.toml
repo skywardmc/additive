@@ -1,0 +1,13 @@
+name = "Mod Menu"
+filename = "modmenu-20.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/njXb639R/modmenu-20.0.1.jar"
+hash-format = "sha512"
+hash = "1aa297ab5e6fac71ad6af750fe6f8cd25281bd00c0340e5fe1c1e9d153d1198df03be1df55727a4a2116db97dcaad541d41754f3fc0063abfe4345b60f193fb4"
+
+[update]
+[update.modrinth]
+mod-id = "mOgUt4GM"
+version = "njXb639R"

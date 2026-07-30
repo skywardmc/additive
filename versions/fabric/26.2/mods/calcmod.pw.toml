@@ -1,0 +1,13 @@
+name = "CalcMod"
+filename = "calcmod-1.5.2+fabric.26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XoHTb2Ap/versions/qyk9ZGgC/calcmod-1.5.2%2Bfabric.26.2.jar"
+hash-format = "sha512"
+hash = "8137ee28d55e456555dfbae0b33d6ee8227365b8cb7e1fe893dee5a5198f1aadd53dec5ba242440d7bee7d6d502591e9cd6ce54446061a34d9bdd43ba50eccd6"
+
+[update]
+[update.modrinth]
+mod-id = "XoHTb2Ap"
+version = "qyk9ZGgC"

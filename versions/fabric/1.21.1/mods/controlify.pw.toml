@@ -1,0 +1,13 @@
+name = "Controlify"
+filename = "controlify-3.0.1+lts+1.21.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/y9bu5RxH/controlify-3.0.1%2Blts%2B1.21.1-fabric.jar"
+hash-format = "sha512"
+hash = "55fa83d2a332bd8d26624a95043bb38a28028154982ee4a7d7560df380582a68985c13c6c73e55f1047010d7be2c6bb38f1bb67fe5f4eddb2b6c99f04caf25c0"
+
+[update]
+[update.modrinth]
+mod-id = "DOUdJVEm"
+version = "y9bu5RxH"

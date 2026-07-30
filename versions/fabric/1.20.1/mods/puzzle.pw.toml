@@ -1,0 +1,13 @@
+name = "Puzzle"
+filename = "puzzle-fabric-2.3.0+1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3IuO68q1/versions/iDnrnpRl/puzzle-fabric-2.3.0%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "cb46e6a985206c9f5fb5a0fbd4044642390bb8ab8765790cb23a0ef71252cc529ed911c48ed72c74ed88408c2dc9922e1a92436032d0cea1ad6b9a593d7885f0"
+
+[update]
+[update.modrinth]
+mod-id = "3IuO68q1"
+version = "iDnrnpRl"

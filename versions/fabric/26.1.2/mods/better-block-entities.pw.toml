@@ -1,0 +1,13 @@
+name = "Better Block Entities"
+filename = "bbe-fabric-1.3.7-beta.1+mc26.1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ONZm0H7Y/versions/Kd9uKKlh/bbe-fabric-1.3.7-beta.1%2Bmc26.1.2.jar"
+hash-format = "sha512"
+hash = "8c7ac258a75a331557bce67cfabed3d0bef369696855397d30bf79719bfc13e7e9edc56278b6f57e3faedd2351158e3c18a1a5993a5e8a3508ed3462530b653f"
+
+[update]
+[update.modrinth]
+mod-id = "ONZm0H7Y"
+version = "Kd9uKKlh"

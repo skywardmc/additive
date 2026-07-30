@@ -1,0 +1,13 @@
+name = "YetAnotherConfigLib"
+filename = "yet_another_config_lib_v3-3.9.6+26.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/svTkvBec/yet_another_config_lib_v3-3.9.6%2B26.1-fabric.jar"
+hash-format = "sha512"
+hash = "d1efe6c248d89477d707749d9e8eb4c555e892ad23cb3ac0ba45bbe59d5c166b8dde554e7de5d1cf95c185d749e58537b376a8128cfdc4deea60266418d5b122"
+
+[update]
+[update.modrinth]
+mod-id = "1eAoo2KR"
+version = "svTkvBec"
