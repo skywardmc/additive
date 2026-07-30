@@ -43,10 +43,17 @@ jobs:
           fi
 
           git rm -r --ignore-unmatch .
-          git checkout "$GITHUB_SHA" -- versions
-          find versions -type f -name pack.toml -execdir packwiz refresh --build \;
+          git ls-tree -r --name-only "$GITHUB_SHA" |
+            while IFS= read -r file; do
+              case "$file" in
+                pack.toml|*/pack.toml)
+                  git checkout "$GITHUB_SHA" -- "$(dirname "$file")"
+                  ;;
+              esac
+            done
+          find . -type f -name pack.toml -execdir packwiz refresh --build \;
 
-          git add versions
+          git add .
           if ! git diff --cached --quiet; then
             git commit -m 'ci: packwiz refresh --build'
           fi
