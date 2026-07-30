@@ -1,0 +1,59 @@
+name: Build dist
+
+on:
+  push:
+    branches: [main]
+    tags: ["**"]
+    paths:
+      - .github/workflows/build-dist.yml
+  workflow_dispatch:
+
+concurrency: build-dist
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-go@v7
+        with:
+          go-version: "stable"
+
+      - name: Install packwiz
+        run: |
+          go install github.com/packwiz/packwiz@latest
+          echo "$(go env GOPATH)/bin" >> "$GITHUB_PATH"
+
+      - name: Build dist
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          if git show-ref --quiet refs/remotes/origin/dist; then
+            git switch --create dist --track origin/dist
+          else
+            git switch --orphan dist
+          fi
+
+          git rm -r --ignore-unmatch .
+          git checkout "$GITHUB_SHA" -- versions
+          find versions -type f -name pack.toml -execdir packwiz refresh --build \;
+
+          git add versions
+          if ! git diff --cached --quiet; then
+            git commit -m 'ci: packwiz refresh --build'
+          fi
+
+          if [ "$GITHUB_REF_TYPE" = tag ]; then
+            git tag "dist/$GITHUB_REF_NAME"
+            git push origin dist "dist/$GITHUB_REF_NAME"
+          else
+            git push origin dist
+          fi
