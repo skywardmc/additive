@@ -1,0 +1,13 @@
+name = "Material Rule Compiler"
+filename = "zmatcomp-1.0.0-beta.7+26.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vnpqfrJN/versions/gPxVRSp3/zmatcomp-1.0.0-beta.7%2B26.2.jar"
+hash-format = "sha512"
+hash = "240932426210bcb4e303e03adef3e1c83c107e29cc6e0caffa195e93c15219d834f36d8c4fc9ae74457a246c368f14dd99d801521d907df20197c111e2e4d221"
+
+[update]
+[update.modrinth]
+mod-id = "vnpqfrJN"
+version = "gPxVRSp3"
