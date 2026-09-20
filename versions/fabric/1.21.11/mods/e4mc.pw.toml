@@ -1,6 +1,6 @@
 name = "e4mc"
 filename = "e4mc-fabric-6.2.1.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/qANg5Jrr/versions/k8wW4lF5/e4mc-fabric-6.2.1.jar"
