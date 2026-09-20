@@ -139,11 +139,11 @@ file = "mods/fabric-language-kotlin.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fast-ip-ping.pw.toml"
+file = "mods/fastquit.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/fastquit.pw.toml"
+file = "mods/fastserverpings.pw.toml"
 metafile = true
 
 [[files]]
