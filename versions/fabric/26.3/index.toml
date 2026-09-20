@@ -1,0 +1,252 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/isxander-main-menu-credits.json"
+
+[[files]]
+file = "config/modpack_defaults/config/cape-provider/config.json"
+
+[[files]]
+file = "config/modpack_defaults/config/citresewn.json"
+
+[[files]]
+file = "config/modpack_defaults/config/controlify.json"
+
+[[files]]
+file = "config/modpack_defaults/config/crash_assistant/config.toml"
+
+[[files]]
+file = "config/modpack_defaults/config/dynamic_fps.json"
+
+[[files]]
+file = "config/modpack_defaults/config/fastquit.toml"
+
+[[files]]
+file = "config/modpack_defaults/config/ferritecore.mixin.properties"
+
+[[files]]
+file = "config/modpack_defaults/config/iris.properties"
+
+[[files]]
+file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
+
+[[files]]
+file = "config/modpack_defaults/config/lambdabettergrass.toml"
+
+[[files]]
+file = "config/modpack_defaults/config/modernfix-mixins.properties"
+
+[[files]]
+file = "config/modpack_defaults/config/modmenu.json"
+
+[[files]]
+file = "config/modpack_defaults/config/puzzle.json"
+
+[[files]]
+file = "config/modpack_defaults/config/vmp.properties"
+
+[[files]]
+file = "config/modpack_defaults/config/world-host.json5"
+
+[[files]]
+file = "config/modpack_defaults/options.txt"
+
+[[files]]
+file = "mods/animaticarefabricated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/asynclogger.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-block-entities.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/calcmod.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cape-provider.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/configmanager.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/crash-assistant.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cull-fewer-leaves.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/e4mc.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/esf.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fastserverpings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ixeris.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-mvus.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/quick-pack.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/renderscale.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scalablelux.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/skyboxify.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zconfig.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zmaterial-rule-compiler.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/chat-reporting-helper.pw.toml"
+metafile = true

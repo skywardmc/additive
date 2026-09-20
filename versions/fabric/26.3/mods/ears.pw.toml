@@ -1,0 +1,13 @@
+name = "Ears (+ Snouts/Muzzles, Tails, Horns, Wings, and More)"
+filename = "ears-thermite-2.2.1-d.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mfzaZK3Z/versions/Tdfeeflh/ears-thermite-2.2.1-d.jar"
+hash-format = "sha512"
+hash = "d7bba35f8f4930c17315a5b4a59a91c6c8037738dda88652882ad821be88f119ba17908661cd48c6f547af352197713e2ff228dd09203905c2c0c3764ea1d31e"
+
+[update]
+[update.modrinth]
+mod-id = "mfzaZK3Z"
+version = "Tdfeeflh"
