@@ -1,13 +1,13 @@
 name = "Crash Assistant"
-filename = "CrashAssistant-fabric-1.20.2-1.21.4-1.11.11.jar"
+filename = "CrashAssistant-fabric-1.20.2-1.21.4-1.11.12.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ix1qq8Ux/versions/HCqgSLVv/CrashAssistant-fabric-1.20.2-1.21.4-1.11.11.jar"
+url = "https://cdn.modrinth.com/data/ix1qq8Ux/versions/AYajytbk/CrashAssistant-fabric-1.20.2-1.21.4-1.11.12.jar"
 hash-format = "sha512"
-hash = "75466a5e53b2e9a8bb93bb4b582b2b4148bb98ae9c876d53c13a0a246a0da47ad694c00160bd6d3e093e8665db19a467f81e39fb769f6f0023c56f026faca038"
+hash = "8e3e4594486b25921e9f6b4bc21a982b437a1a674a1277a68ead1272256fef7c045298010ecf3f8d7f4188f65fff40a4de0296091e6a1ee96bd603bca59f2101"
 
 [update]
 [update.modrinth]
 mod-id = "ix1qq8Ux"
-version = "HCqgSLVv"
+version = "AYajytbk"

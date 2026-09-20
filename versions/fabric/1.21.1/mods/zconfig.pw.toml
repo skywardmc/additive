@@ -1,0 +1,13 @@
+name = "ZConfig"
+filename = "zconfig-1.0.0+1.21.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4qmvXRB9/versions/yD19P1nG/zconfig-1.0.0%2B1.21.x.jar"
+hash-format = "sha512"
+hash = "706819e56672a79a814a6b04a96cf5be585679c093a3027f5a2652ca60678c9bd24d5596fa7e373447e582a1360ab4c8540b023ca744ebabca1be426166d0b84"
+
+[update]
+[update.modrinth]
+mod-id = "4qmvXRB9"
+version = "yD19P1nG"
