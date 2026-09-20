@@ -52,6 +52,10 @@ file = "config/modpack_defaults/config/world-host.json5"
 file = "config/modpack_defaults/options.txt"
 
 [[files]]
+file = "mods/adaptive-tooltips.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/animaticarefabricated.pw.toml"
 metafile = true
 

@@ -264,6 +264,10 @@ file = "mods/structure-layout-optimizer.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/tooltipfix.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 metafile = true
 

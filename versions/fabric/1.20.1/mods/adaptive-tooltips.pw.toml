@@ -1,0 +1,13 @@
+name = "Adaptive Tooltips"
+filename = "AdaptiveTooltips-1.3.0-fabric-1.20.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wFv8yCxM/versions/MgbaLEPy/AdaptiveTooltips-1.3.0-fabric-1.20.2.jar"
+hash-format = "sha512"
+hash = "4e7e930360a122eef64874a88f3410e5b050559782a8270a37e80803753af2ad1be6d9c6bd68f09ddb88e327428ff37f7e0230991fdecdd10a32b078934c7206"
+
+[update]
+[update.modrinth]
+mod-id = "wFv8yCxM"
+version = "MgbaLEPy"

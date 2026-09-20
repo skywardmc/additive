@@ -1,0 +1,13 @@
+name = "ToolTipFix"
+filename = "tooltipfix-1.1.1-1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2RKFTmiB/versions/B2L4LeMV/tooltipfix-1.1.1-1.20.jar"
+hash-format = "sha512"
+hash = "75d85a093487ddd8c405cf7f8ce83cb3418ff7c2d3e6bf5aa38554d8bcf0ea45c87c88f3463a924e9cc8b5931d8b64f7be173efbd48ea7a0c150db95e1408f51"
+
+[update]
+[update.modrinth]
+mod-id = "2RKFTmiB"
+version = "B2L4LeMV"
