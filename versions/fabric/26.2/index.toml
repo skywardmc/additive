@@ -268,10 +268,6 @@ file = "mods/zfastnoise.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/zfastsurface.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/zmaterial-rule-compiler.pw.toml"
 metafile = true
 
