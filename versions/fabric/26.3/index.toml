@@ -88,6 +88,10 @@ file = "mods/continuity.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/controlify.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/crash-assistant.pw.toml"
 metafile = true
 
