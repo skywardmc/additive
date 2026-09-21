@@ -1,13 +1,13 @@
 name = "Sodium"
-filename = "sodium-fabric-0.8.12+mc1.21.1.jar"
+filename = "sodium-fabric-0.8.13+mc1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/AANobbMI/versions/KIRFiWG4/sodium-fabric-0.8.12%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/AANobbMI/versions/SMxNOGZ6/sodium-fabric-0.8.13%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "8afe411eec65a9f677611ed6390ce656e5a3572f9be473e5dca51ae882a9426a547cd2e8c793278577bb14c17e48158030b11753108926ef33698614bd94ed7f"
+hash = "8614a374593698069a80ac74de8cd9c28f3928d16819a0e0d6320b538e823f7e54e8be06d5ea5a9c268beb0e02073209d1f831a02dede851588b972367680853"
 
 [update]
 [update.modrinth]
 mod-id = "AANobbMI"
-version = "KIRFiWG4"
+version = "SMxNOGZ6"

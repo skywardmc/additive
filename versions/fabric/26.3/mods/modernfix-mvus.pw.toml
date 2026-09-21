@@ -1,0 +1,13 @@
+name = "ModernFix-mVUS"
+filename = "modernfix-5.27.20-build.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TjSm1wrD/versions/iKbywnU7/modernfix-5.27.20-build.1.jar"
+hash-format = "sha512"
+hash = "ae9392aa6ffcbf25609b8c16d4b31e54bc39066965f20148200b72e0f21d6f0cf4fcd9c36012800664fc046a0672b7dbf598c7ea44dbcc188ac2f412b2ee98dd"
+
+[update]
+[update.modrinth]
+mod-id = "TjSm1wrD"
+version = "iKbywnU7"

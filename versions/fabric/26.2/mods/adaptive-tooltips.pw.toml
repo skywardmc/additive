@@ -1,0 +1,13 @@
+name = "Adaptive Tooltips"
+filename = "AdaptiveTooltips-1.4.1+26.2-universal.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/wFv8yCxM/versions/RHdxeFtz/AdaptiveTooltips-1.4.1%2B26.2-universal.jar"
+hash-format = "sha512"
+hash = "a86479cf10591e2aa9a760b6c8da52a978173415f07cd0d5903fe3486d93abcb4aed1040826fcb0675cacefd0ed2719e1ae7e0bd58b95b9b07637f4518529799"
+
+[update]
+[update.modrinth]
+mod-id = "wFv8yCxM"
+version = "RHdxeFtz"

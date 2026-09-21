@@ -1,0 +1,13 @@
+name = "ZConfig"
+filename = "zconfig-1.0.0+26.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4qmvXRB9/versions/tsgt79sG/zconfig-1.0.0%2B26.x.jar"
+hash-format = "sha512"
+hash = "baf87ac023fd0297f531897f0dcdcac3b0b35960683090adb3350a2281a211c5134a5373730a10628300caf5711b912705f16b33a1d1a73a3a86f346bcd7c6f5"
+
+[update]
+[update.modrinth]
+mod-id = "4qmvXRB9"
+version = "tsgt79sG"

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "931c61e9cc25dc1c7c6c7581a2850df3c03dbec90e7787a458bc72f7c89e1eea"
+hash = "22ea8907c4632379cf89791d6084a86f893c8ba8094cd22da8f080523de5ab9b"
 
 [[files]]
 file = "config/modpack_defaults/config/capes.json5"
@@ -42,7 +42,7 @@ hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "931c61e9cc25dc1c7c6c7581a2850df3c03dbec90e7787a458bc72f7c89e1eea"
+hash = "22ea8907c4632379cf89791d6084a86f893c8ba8094cd22da8f080523de5ab9b"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdabettergrass.toml"
@@ -73,13 +73,18 @@ file = "config/modpack_defaults/options.txt"
 hash = "5f7a76da45c11e03698f375bd3612d57a729a09f604f21d8bc647d069eaf0c7f"
 
 [[files]]
+file = "mods/adaptive-tooltips.pw.toml"
+hash = "9e56c813c3000384bbb06f72500ea95b4407cd710143840a4a41440dbf1d8a1c"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "e94fd2f80b6029f19fb0c68d5bbf443a21645af0d668c5a544e3b3f23508fb61"
 metafile = true
 
 [[files]]
 file = "mods/asynclogger.pw.toml"
-hash = "d2efdd2dd469e56d9437082a52d6d8d9f9c4b055ad3b728dded4c49d4ba5267a"
+hash = "0f3729599d048f0d93627ba1c1a3ed4b96df2cbc895a826e6739bec0702beec2"
 metafile = true
 
 [[files]]
@@ -124,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "a3a87e30e93688966faaed3a8f38d34296b1b08b2ed9470f6180d83fc39230f5"
+hash = "5c5108caf113d3e776b9cd9dc3f3300fb51316c8892e52e6e32258e72afb2200"
 metafile = true
 
 [[files]]
@@ -144,47 +149,47 @@ metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "71644e8041262193332f28d24b649c06c81074a983c6e3acd18b62a117b68b60"
+hash = "4602c5958f397286ea0e385d3e0ff06a21f2899cacf1c1dd12a673b43e434752"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "65c4754081efdfa32071560e11c8016acdf712b6b82e4b263b3cf414477d0fdc"
+hash = "d220d4c98ac525102f5a5985e43dc1005455eaef7150e961693f344b7180a87f"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "c03af903bde894a53ed6384ded823cadc41f6d0f8b8fe29b682d97dceb0e9ba6"
+hash = "1c9570ea64d0787d67b143a3988d809241feae20b42fee1a3690c5cbbc6d4680"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "eaaad20ae01c067df4c0d97d944bdb9b22b33fbe339709f284d60ab91a43d622"
+hash = "35b07e0107908c09934f935a887181de60bd3265cacd7ef05a68a6e06ce1a9c3"
 metafile = true
 
 [[files]]
 file = "mods/esf.pw.toml"
-hash = "aacc81b85736a8f9ae11c0cc428a782f08a35cd79b127bc6613fda1f70f7324a"
+hash = "ee1a5b3404e3fe01aacab61db9f5deec35abb9d77590318312a6a3faba7b26b7"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "5cbcd9395c1788ed7a1356e392a4483a30d903312faffd9795c6dee9afba3fac"
+hash = "f42dcc815231697e3d5038e7e34e2ef6637a7bf3e2fe077e4eafb0488f871b9a"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "2a760e528bf27c3eb4ae7c06200d91ee9c2849295addaa2add05495c7dee9528"
-metafile = true
-
-[[files]]
-file = "mods/fast-ip-ping.pw.toml"
-hash = "4d1964bc6102d600b87450947d8969ad36515267c52fc75833fbfd44391c3502"
+hash = "7a7f5673b6e33eebaed00c0c453fc41d11c7474eb320c3ce8736d415fcfe2682"
 metafile = true
 
 [[files]]
 file = "mods/fastquit.pw.toml"
 hash = "26b473edf76a38c7f6f883381b6a42a33eea992501f26c46bae8b6149c86e234"
+metafile = true
+
+[[files]]
+file = "mods/fastserverpings.pw.toml"
+hash = "0b06e6f889a131a46a5c2e04523a9869e3ab6b108c2474e4db0975c91a583f6e"
 metafile = true
 
 [[files]]
@@ -199,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "960362b1fe6da267bff3411e3d53ca7a597429d49e7bc9d7a13331bb19595e4a"
+hash = "a2aea7797aef7ccd124a6674f2e755dd1fa63fe33717813c3bd1ba4d1e2dbb34"
 metafile = true
 
 [[files]]
@@ -219,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/ixeris.pw.toml"
-hash = "72d0ac89f34cf67add6b6b2d6fa07b5254ddad8410455fb35592ed04625e64bf"
+hash = "313e815b70a8429ca22d3e87699b93d39f86cab357aebce27a3f8d43241fb6bf"
 metafile = true
 
 [[files]]
@@ -289,7 +294,7 @@ metafile = true
 
 [[files]]
 file = "mods/obe.pw.toml"
-hash = "5fcf19600b5caea3fa7e1d45cd6cfb4454f568183465f57319f69b4522072929"
+hash = "e0f51c4b465a5efaddc88a3ce937ae242c44964b87eb4633cc4f49767f9c1689"
 metafile = true
 
 [[files]]
@@ -314,7 +319,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-pack.pw.toml"
-hash = "61b29c4ee80ea426f0b3c9ac87b1b4e3e729e9129e69406067e9cfb8719429ac"
+hash = "69a80ceff0bd222ccf03db25defdae4c9318b68019a2181b44bf3bf3f49f1a1b"
 metafile = true
 
 [[files]]
