@@ -52,6 +52,10 @@ file = "config/modpack_defaults/config/world-host.json5"
 file = "config/modpack_defaults/options.txt"
 
 [[files]]
+file = "mods/adaptive-tooltips.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/animaticarefabricated.pw.toml"
 metafile = true
 
@@ -200,6 +204,10 @@ file = "mods/particle-core.pw.toml"
 metafile = true
 
 [[files]]
+file = "mods/puzzle.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/quick-pack.pw.toml"
 metafile = true
 
@@ -257,6 +265,10 @@ metafile = true
 
 [[files]]
 file = "mods/zmaterial-rule-compiler.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
 metafile = true
 
 [[files]]
