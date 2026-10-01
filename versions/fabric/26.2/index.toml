@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "22ea8907c4632379cf89791d6084a86f893c8ba8094cd22da8f080523de5ab9b"
+hash = "686ad9e687142a11f428dbafe61e1e661fae65d6123f2a22b6519f400405dbab"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -38,7 +38,7 @@ hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "22ea8907c4632379cf89791d6084a86f893c8ba8094cd22da8f080523de5ab9b"
+hash = "686ad9e687142a11f428dbafe61e1e661fae65d6123f2a22b6519f400405dbab"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdabettergrass.toml"
@@ -46,7 +46,7 @@ hash = "cbda9db36a2ecc4de61d8efa9701cc59aded9b8d910d50391f7cffe4f628addb"
 
 [[files]]
 file = "config/modpack_defaults/config/modernfix-mixins.properties"
-hash = "c668b4ad565c58243a1e0eb71884b17c77ab2242d983075f12dc2666060709ba"
+hash = "315f6bbb6ae9caa6f4e8e14de2099596a855779840bef0ea17595217e0bd317b"
 
 [[files]]
 file = "config/modpack_defaults/config/modmenu.json"
@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "9a79a3cace0eb7f75a158582e805fa8d44409441dee9e6bcc83085d378ae30d4"
+hash = "1aa222690c08ced58320e7266cbf42383d95e86f0fad567c264bf83ef79a7824"
 metafile = true
 
 [[files]]
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "6ab7873400f1751edc61cb66d91afbc8b14f9f041565474b9a0e21b9507d5207"
+hash = "cf5654bcdeb5f7e36e37e417fb8f6974e2cb8afa52a542d90e2a92e9663ff178"
 metafile = true
 
 [[files]]
@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "9ed315168b1fcbc0bb68b8dbb18d3d03a2a6a8020df3b875edaa5681b76cf667"
+hash = "e2c435e1f40d3b0a5999d78f6e0359d185c601bfa0ef414550c80d47a1096f8a"
 metafile = true
 
 [[files]]
@@ -219,6 +219,11 @@ hash = "562410f9f73d0608eee4815965f2a82fb5ec1ab117dc927ac9bf52550c739ee2"
 metafile = true
 
 [[files]]
+file = "mods/krypton.pw.toml"
+hash = "b985dc3befdc7c02ff4340e9f904865e528f4c705b4f72c84767f061bc7253c7"
+metafile = true
+
+[[files]]
 file = "mods/lambdabettergrass.pw.toml"
 hash = "b50253fe8f4084dce9a1ef6865e9bc78d7801b1ee02e78571f7d1f0096748640"
 metafile = true
@@ -250,12 +255,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "ba528e27fc27b75a1997936bba35cf7d14c4d4d203aab5c067d5ec3ffcd0cfb6"
+hash = "0ea4ca54ca588caf91a5223b5056e12359a532ec27fd4a22f4962e7d1ee6ce21"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "fa00f7dbf48bbcf6940248d3fd3629f43656c54006cc63d5560f9ca77ccd97a9"
+hash = "dc9906e45919f5b3a31e3d5582cd97bdd7534f56c2a5e730b9de41875a97e1eb"
 metafile = true
 
 [[files]]
@@ -270,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "65252457a0c1adcfdaaecaa473d71890bd8e6496400a8f292566fcfd81e68633"
+hash = "bf5c513f47c6da29683b15e233291d6381286fb9638debe4eb79ca8ec619c251"
 metafile = true
 
 [[files]]
@@ -280,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-pack.pw.toml"
-hash = "28f6aa7c1b393003fb37401b1227b267b122d5b8f84925de696f872b09d52c97"
+hash = "40081595534fa0e2e2c86e39472120bc8855bb1c3925be108840f0bf4a0360a7"
 metafile = true
 
 [[files]]
@@ -344,16 +349,21 @@ hash = "0a0636ace08da4d39a638a3fde48b1c3b62fca5207c680000f3431d6bd509b24"
 metafile = true
 
 [[files]]
+file = "mods/zfastsurface.pw.toml"
+hash = "eefb86aa25654279290fed21b70d802dbe8c30ca98784bde8f202a175c86ff84"
+metafile = true
+
+[[files]]
 file = "mods/zmaterial-rule-compiler.pw.toml"
 hash = "7409535fa5538276e9fcada48043252c283bf1525d772cea54b9dd906c4ac67f"
 metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "af6d841b3b627c1f53fb09c97f2b4d35c9056d94ab0fc05a274cf8086527e473"
+hash = "e3ce368bc8f56cbeb8f1449c9d6bbf56dbc5d27c2db2f102256d0626e64d95f9"
 metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "0a89e1a7050c8cabaa97d3a784dd9ba9e8874edfa4fa8a6aba1cb88486f9726e"
+hash = "ac584cf51fde6553df96f977450bf6dddf5495cb788f65f8594f6b3b00d7071f"
 metafile = true

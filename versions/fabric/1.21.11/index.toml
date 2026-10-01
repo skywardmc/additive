@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "22ea8907c4632379cf89791d6084a86f893c8ba8094cd22da8f080523de5ab9b"
+hash = "686ad9e687142a11f428dbafe61e1e661fae65d6123f2a22b6519f400405dbab"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -38,7 +38,7 @@ hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "22ea8907c4632379cf89791d6084a86f893c8ba8094cd22da8f080523de5ab9b"
+hash = "686ad9e687142a11f428dbafe61e1e661fae65d6123f2a22b6519f400405dbab"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdabettergrass.toml"
@@ -140,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "b211441566c3b4b88bb0e7857d9bab67503cbc9dca89d7c2703ad21df2d7976d"
+hash = "54eca5f682f0775b69ecdca202913b59cc8547cfbac933c7c2bacb8cd7b5fbc2"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "5127c58dc92fe8860d29ad2d05e7c2ea7b973390f41aec73dd2017953f2d1a3e"
+hash = "7da45ae93b814e4979c6baf99268c1648429ab159a93e08c3c2d003ed69269f4"
 metafile = true
 
 [[files]]
@@ -255,12 +255,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix-mvus.pw.toml"
-hash = "496f7d1bad22abbde478ccf9fde458732afbc93ab9e5765d85f2501e23ce8db5"
+hash = "db026db2e6fb5b7f395646f39ccd40ed9b2937bf43e531335e103fcdae3b896c"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "04161fe0dcb23469df8b66dba353592f0e5c4ea4f64b2f7a1636033ccdb9e351"
+hash = "85b7612aaf49e6c2eac33697e6d909f2e94adadc50d0bc706d9a552a0ac95d51"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-pack.pw.toml"
-hash = "f7af71c14199e42b0b703621b04eceddcd78674312097c8ddfa8e1cc078b6bad"
+hash = "a54409558cad8119ad765c4285639f5ae14651f95d545a0de392a14d32f25b57"
 metafile = true
 
 [[files]]
@@ -355,5 +355,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "0a89e1a7050c8cabaa97d3a784dd9ba9e8874edfa4fa8a6aba1cb88486f9726e"
+hash = "ac584cf51fde6553df96f977450bf6dddf5495cb788f65f8594f6b3b00d7071f"
 metafile = true

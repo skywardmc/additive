@@ -1,0 +1,13 @@
+name = "Fast Surface"
+filename = "zfastsurface-1.0.0+26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FRSaEVFk/versions/yOBmJfgG/zfastsurface-1.0.0%2B26.3.jar"
+hash-format = "sha512"
+hash = "7a8f2b72bcb903625bb521d6f99186741e7fc2e63bac574714e3f5fa4c606fea9249104f4756e7384b907245de74564c1c53397dfe951cb292d84cb0fc9747e4"
+
+[update]
+[update.modrinth]
+mod-id = "FRSaEVFk"
+version = "yOBmJfgG"

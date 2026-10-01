@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "22ea8907c4632379cf89791d6084a86f893c8ba8094cd22da8f080523de5ab9b"
+hash = "686ad9e687142a11f428dbafe61e1e661fae65d6123f2a22b6519f400405dbab"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -38,7 +38,7 @@ hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "22ea8907c4632379cf89791d6084a86f893c8ba8094cd22da8f080523de5ab9b"
+hash = "686ad9e687142a11f428dbafe61e1e661fae65d6123f2a22b6519f400405dbab"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdabettergrass.toml"
@@ -46,7 +46,7 @@ hash = "cbda9db36a2ecc4de61d8efa9701cc59aded9b8d910d50391f7cffe4f628addb"
 
 [[files]]
 file = "config/modpack_defaults/config/modernfix-mixins.properties"
-hash = "c668b4ad565c58243a1e0eb71884b17c77ab2242d983075f12dc2666060709ba"
+hash = "315f6bbb6ae9caa6f4e8e14de2099596a855779840bef0ea17595217e0bd317b"
 
 [[files]]
 file = "config/modpack_defaults/config/modmenu.json"
@@ -120,7 +120,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "0f01e7816a83e9f657c128584e7f03df7811e0ec84e7d3ac748eed164283b8ff"
+hash = "a185f38f942f151497cffe91d0bdcfcec309ec5e4e301ed0f92e356cb24546da"
 metafile = true
 
 [[files]]
@@ -145,7 +145,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "9ed315168b1fcbc0bb68b8dbb18d3d03a2a6a8020df3b875edaa5681b76cf667"
+hash = "e2c435e1f40d3b0a5999d78f6e0359d185c601bfa0ef414550c80d47a1096f8a"
 metafile = true
 
 [[files]]
@@ -260,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "9d031aefb9acf62b4c7c6b6f53d4427db1996de071895c06d921c2977c7d7e48"
+hash = "5589b35ab770daa5deb3d5ee1b1279c2eafe2334ad17e140b51e68f121123047"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "5c1ce39ad8b7dd59d56afafbe00fd852393a88a3e07c4eb47d0270d0cd67a0c4"
+hash = "a26106c146ad6232cc7bfcb7646af79e67ad3e12e02ad808bb49c32a857b49cf"
 metafile = true
 
 [[files]]
@@ -285,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-pack.pw.toml"
-hash = "2bdb56e488e0e075e80aa031f3ba8a74527207b5ca1781a09ca1732f597a0db6"
+hash = "84d0ed7dc29a4796478452396519d3c38b30bb216f725f2b9d1f3ca708e40d69"
 metafile = true
 
 [[files]]
@@ -350,10 +350,10 @@ metafile = true
 
 [[files]]
 file = "mods/zoomify.pw.toml"
-hash = "db52e50c6846f0850e9a58ed9709310b87efa4f924caa013b8a49ab96f86f714"
+hash = "0951dccbae6fe19849006c10fa3c6d7e20bbb78a3e75be5fb2b15006fd0a675e"
 metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "0a89e1a7050c8cabaa97d3a784dd9ba9e8874edfa4fa8a6aba1cb88486f9726e"
+hash = "ac584cf51fde6553df96f977450bf6dddf5495cb788f65f8594f6b3b00d7071f"
 metafile = true

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "22ea8907c4632379cf89791d6084a86f893c8ba8094cd22da8f080523de5ab9b"
+hash = "686ad9e687142a11f428dbafe61e1e661fae65d6123f2a22b6519f400405dbab"
 
 [[files]]
 file = "config/modpack_defaults/config/cape-provider/config.json"
@@ -38,7 +38,7 @@ hash = "c951505f545e9d7f57ba66201609eac1792469e22fa13efcade818fc8b61cbe2"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "22ea8907c4632379cf89791d6084a86f893c8ba8094cd22da8f080523de5ab9b"
+hash = "686ad9e687142a11f428dbafe61e1e661fae65d6123f2a22b6519f400405dbab"
 
 [[files]]
 file = "config/modpack_defaults/config/lambdabettergrass.toml"
@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
+hash = "62f164a7b7c8731436389dc1855862d1eb1fa73fd76407b0fb8d129b7b6f00a9"
 metafile = true
 
 [[files]]
@@ -275,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/nuit.pw.toml"
-hash = "228feb4977ea5f88b8d508187a7bd3755568e941d584a3c660be2db441cb8d1e"
+hash = "e477fc288664509b7bd9236e02f1d4fc48f64f4d7d8bb383155b420baccaebd5"
 metafile = true
 
 [[files]]
@@ -290,7 +290,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "c5b6c3578ee78e2c198de93e1b21713e1a2d0db88619b32c688ea5ccb6345044"
+hash = "e25dc44106a0af2adc0df1cd0b48760da2f0ff2851fdbe47605d1284d71e1f61"
 metafile = true
 
 [[files]]
@@ -300,7 +300,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick-pack.pw.toml"
-hash = "439ed8175c6a9cc67172a76b18b4191205c3ce48d71c4aad845c8fb83e5dc697"
+hash = "ea32dfe440e9e4e15618b2320ae2f4bfbf5dc73e69818fc9f89849ccc3ccf25e"
 metafile = true
 
 [[files]]
@@ -370,5 +370,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "0a89e1a7050c8cabaa97d3a784dd9ba9e8874edfa4fa8a6aba1cb88486f9726e"
+hash = "ac584cf51fde6553df96f977450bf6dddf5495cb788f65f8594f6b3b00d7071f"
 metafile = true
