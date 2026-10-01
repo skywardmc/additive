@@ -1,13 +1,14 @@
 name = "Nuit"
-filename = "nuit-fabric-1.0.0-beta.6+mc1.21.1.jar"
+filename = "nuit-fabric-1.0.0-beta.5+mc1.21.1.jar"
 side = "client"
+pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/YBz7DOs8/versions/4pwapviY/nuit-fabric-1.0.0-beta.6%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/YBz7DOs8/versions/Kan1gRGf/nuit-fabric-1.0.0-beta.5%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "53c02ace6b968a6eb4072cd125826bb7eb1305a11b1b114090f3d4f37c6292b0a4a87d339b5151aefdbb3fff7adc6d9a9a9a1e598baf73783ef794510e8ecf71"
+hash = "3017ef0b412c6b4a5c29069e0c75ef8146df5480df94a26881a88a17fd8c14c362a17741b2fd3ad10c95975b3806e0d773147bff27d51d4efcd96a317ee4fd41"
 
 [update]
 [update.modrinth]
 mod-id = "YBz7DOs8"
-version = "4pwapviY"
+version = "Kan1gRGf"
